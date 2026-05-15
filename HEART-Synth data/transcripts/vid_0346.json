@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0346",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Anderson, thank you for meeting with me. I wanted to sit down and talk with you about your CT scan from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "I figured you did."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:24",
+      "text": "This is a difficult conversation to have, and I want to be very direct with you. There was a mistake in how your imaging was handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "Go on."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "The CT scan showed a pulmonary embolism, which is a blood clot in the lung. However, the first radiologist who looked at the images missed the clot and didn't put it in the preliminary report. This meant the clot wasn't treated for about eighteen hours, until the attending radiologist reviewed the study and caught the error. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:48",
+      "text": "Yes. It makes sense."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:59",
+      "text": "Just to make sure we are on the same page, do you have any questions about what a pulmonary embolism is or how it was missed?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:03",
+      "text": "No, I understand the mechanics of it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:12",
+      "text": "It is important that you have the full picture. The delay in treatment is an error that occurred within our radiology workflow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:16",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:20",
+      "text": "I know this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:24",
+      "text": "It is an unfortunate lapse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:28",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:32",
+      "text": "I've seen this happen in my own facility."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:39",
+      "text": "Right. Now, regarding the clinical side, the good news is that you are on the medication now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "And the delay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:52",
+      "text": "The delay of eighteen hours is an issue, but based on your current vitals, it doesn't appear to have caused permanent damage."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "I appreciate the update."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:04",
+      "text": "I'm sure you're busy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:11",
+      "text": "I have all the time you need. We can sit here as long as necessary."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "I don't have many questions."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:24",
+      "text": "I want to make sure you feel heard. Is there anything about the timeline or the communication that feels unclear?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "Not at the moment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:40",
+      "text": "We are moving forward with the treatment plan. The next step is that I will coordinate with the cardiology team to get a formal echocardiogram scheduled for tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "Tomorrow morning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:51",
+      "text": "Yes. That will let us see if there is any strain on your heart from the clot."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "That sounds reasonable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:02",
+      "text": "I will also make sure the bedside nurse knows to monitor your oxygen levels every four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Do you feel comfortable with that sequence of events?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:22",
+      "text": "The radiology department is reviewing why the preliminary report was incorrect to prevent this from happening to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "That would be the appropriate response."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:32",
+      "text": "I'll check back in with you this evening to see how you're feeling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "Thank you, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "I'll be back later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and explicitly states they have all the time the patient needs."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, uses lay language ('blood clot'), checks comprehension twice, and avoids false reassurance by stating the delay is 'an issue'."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used at any point in the transcript."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but never names a specific emotion."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Specific next steps with timelines are provided (echo tomorrow morning, oxygen every four hours) and prevention is addressed, but no specific patient role is named."
+    }
+  }
+}

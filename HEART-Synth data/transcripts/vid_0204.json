@@ -1,0 +1,273 @@
+{
+  "video_id": "vid_0204",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Good morning, Ms. Nakamura. It is good to see you back in the clinic for this follow-up. How have you been feeling since you were discharged?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:23",
+      "text": "I feel okay, I guess. A little tired. I spent the last three days reading about my kidney markers on my phone. Why was my creatinine so high during the stay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:24",
+      "end_time": "00:00:37",
+      "text": "I can see you've been doing a lot of reading. It sounds like you're feeling really anxious about how your kidneys are doing, especially since this was your first time in the hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:49",
+      "text": "I am anxious. I'm a grad student, I know how to look up data. The numbers looked bad on the portal. I just want to know why it happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:01:00",
+      "text": "I want to talk to you about that. There was some confusion during your imaging procedure and things didn't go quite right with the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:05",
+      "text": "What does that mean? Confusion? Did someone give me the wrong dose?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:17",
+      "text": "It was more of a systemic issue with how the contrast was handled. There were some things that should have been checked more carefully before the dye was given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:32",
+      "text": "Wait, are you saying I got contrast dye when my creatinine was too high? I'm reading right now that contrast can cause acute kidney injury if you have low clearance. Did that happen to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:46",
+      "text": "I can tell you're really worried about the risk of injury. It's completely understandable to feel scared when you're seeing those clinical terms on your screen and not knowing if they apply to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:57",
+      "text": "I don't want to feel \"understood,\" I want to know if a mistake was made. Did you give me the dye knowing my levels were high?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:06",
+      "text": "The team had a lot going on that day and the communication between the lab and the radiology suite wasn't seamless."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:11",
+      "text": "But that's not an answer. Did you make a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:22",
+      "text": "I can see how frustrating it is to feel like you aren't getting a straight answer. You're trying to piece together what happened to your own body."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:33",
+      "text": "Exactly. I'm looking at the \"contrast induced nephropathy\" page. Was I supposed to have a pre-treatment protocol? Like IV fluids? I don't remember any extra fluids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:43",
+      "text": "I have to get us moving toward the solution here, so let's just focus on where we are now. Your levels are stabilizing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:48",
+      "text": "You just interrupted me. I'm asking if the protocol was missed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:57",
+      "text": "Like I said, there were issues with the process. But the important thing is that we are monitoring you now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:02",
+      "text": "You still haven't said it. Did you fail to follow the protocol?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:07",
+      "text": "There were gaps in the system that allowed this to happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:17",
+      "text": "I can't believe this. I'm sitting here and you're talking about \"systems\" and \"gaps\" while my kidney function is at risk. This is terrifying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:32",
+      "text": "It is terrifying. To feel like you were a passenger in your own care and that things were missed is a heavy thing to carry. I can hear how much this is weighing on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "Then why aren't you telling me what actually happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "The process didn't go as intended."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:48",
+      "text": "You are dodging the question. I am literally holding the medical definition of the error in my hand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:56",
+      "text": "I really want to make sure you feel supported. I can tell you're feeling betrayed by the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:05",
+      "text": "I'm not \"feeling\" anything, I'm asking for a fact. Was the contrast given despite the creatinine level? Yes or no?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:10",
+      "text": "We had some issues with the timing of the lab review."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:11",
+      "end_time": "00:04:15",
+      "text": "This is impossible. I can't even get a yes or no."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:16",
+      "end_time": "00:04:22",
+      "text": "Let's wrap this up by looking at the plan, because that's where we can actually make progress."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:27",
+      "text": "I don't want a plan until I know why this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:37",
+      "text": "I hear that you're still searching for that specific answer. But the most helpful thing we can do right now is manage your recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "So you're just not going to say it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "I'm telling you that it didn't go as planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:49",
+      "text": "That means nothing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:05:03",
+      "text": "Okay, so here is what we are going to do next. I want you to come back in exactly one week for another blood draw. You'll need to fast for eight hours before that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:04",
+      "end_time": "00:05:07",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:08",
+      "end_time": "00:05:17",
+      "text": "Then I will review those labs and we will meet again the following Tuesday to see if your levels have returned to your baseline."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:18",
+      "end_time": "00:05:21",
+      "text": "What if they haven't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:22",
+      "end_time": "00:05:33",
+      "text": "If they haven't, we will consult with the nephrologist. But for now, your role is just to stay hydrated and come in for that lab work next week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:34",
+      "end_time": "00:05:40",
+      "text": "I'm still going to look this up. I'm going to find out exactly what the \"issue\" was."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:41",
+      "end_time": "00:05:45",
+      "text": "I understand. I'll see you in seven days for that test."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident interrupts the patient at 02:34 ('I have to get us moving toward the solution here') and uses rushing language to move toward the plan."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident never explicitly names the error, instead using platitudes like 'things didn't go quite right' and 'issues with the process' despite direct questioning."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was consistently deflected to 'systemic issues' and 'gaps in the system'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions multiple times ('anxious', 'scared', 'frustrating', 'betrayed', 'terrifying') and references the patient's specific experience as a grad student/passenger."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides a specific next step (blood draw) with a timeline (one week) and a named patient role (fasting and staying hydrated)."
+    }
+  }
+}

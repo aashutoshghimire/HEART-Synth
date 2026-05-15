@@ -1,0 +1,297 @@
+{
+  "video_id": "vid_0056",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Good morning, Mrs. Hernandez. Hello, Sofia. It is good to see you both again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "Buenos d\u00edas, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:24",
+      "text": "I know it has been a difficult few days since we last spoke. I can see that you are looking quite anxious today. I want to make sure we have plenty of time to go through everything."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "Mi hija dice que el doctor tiene respuestas."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:33",
+      "text": "Sofia, can you tell me what your mother is asking?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:39",
+      "text": "She is asking if you have the answers we talked about last time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:55",
+      "text": "I do have more information. First, I want to be very clear about what happened. As we discussed, there was a mistake with the calendar. Your immunotherapy was given on the wrong day of your cycle. This means the timing of the medicine was not exactly when it should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:00:59",
+      "text": "\u00bfQu\u00e9 significa eso para mi c\u00e1ncer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:03",
+      "text": "Sofia, could you translate for me?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:08",
+      "text": "She wants to know what this means for her cancer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:24",
+      "text": "Because the dose was given on the wrong day, there is a possibility that the treatment won't be as effective as it would have been if it were on the correct day. It is essentially a timing error in the cycle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:28",
+      "text": "Pero usted dijo que era importante el d\u00eda."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:44",
+      "text": "I know, Mrs. Hernandez. It is very frustrating and scary when you are counting on these treatments to work and then you find out a mistake was made. I can tell that this is making you feel very uncertain about your progress."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "Me siento muy asustada, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:58",
+      "text": "I can hear that fear in your voice. It is completely understandable to feel scared when the plan you trusted was not followed correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "Who did this? Was it the nurse?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:16",
+      "text": "No, it was not the nurse. This was my responsibility. I made the error when I entered the dates into the calendar. I am very sorry. I take full responsibility for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "Why did you do that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:32",
+      "text": "I simply entered the date incorrectly. There is no excuse for it. I apologize to both of you for the stress and the worry this has caused your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:37",
+      "text": "Do we need to change the medicine now? Or do more?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:50",
+      "text": "I have spent some time reviewing the pharmacology of this specific drug. The immunotherapy works by priming the immune system. Because the window was shifted, we are monitoring how your body responds."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "So you don't know if it worked?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "We cannot know for certain until the next scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "This is not a good answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:18",
+      "text": "You are right. It is a very unsettling answer. It is difficult to be in a position where we have to wait and see after a mistake has happened. I wish I could give you a definitive yes or no right now, but I cannot."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "We will continue with the rest of the cycle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:31",
+      "text": "When is the next dose? How do we fix the calendar?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "We will keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:40",
+      "text": "That is not a date. When is the next one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:45",
+      "text": "I will check the chart and let you know soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:46",
+      "end_time": "00:03:50",
+      "text": "We need to know today. We have to plan the transport."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:56",
+      "text": "I understand. We will just move forward with the current schedule for now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "But will you make the mistake again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:06",
+      "text": "I will be much more careful. I'll make sure the dates are right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "How? Do you have a new system?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:14",
+      "text": "I'll just double check it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:15",
+      "end_time": "00:04:22",
+      "text": "We need a plan, doctor. My mother cannot keep coming here and wondering if the date is wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:23",
+      "end_time": "00:04:27",
+      "text": "I hear how important that certainty is for you and your mother."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:28",
+      "end_time": "00:04:31",
+      "text": "Then tell us exactly what happens next."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:32",
+      "end_time": "00:04:35",
+      "text": "We will just continue the treatment as planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:36",
+      "end_time": "00:04:39",
+      "text": "Which day? Next Tuesday? Wednesday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:40",
+      "end_time": "00:04:43",
+      "text": "I'll send a note to the clinic staff."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:44",
+      "end_time": "00:04:47",
+      "text": "You are not telling us the date."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:48",
+      "end_time": "00:04:55",
+      "text": "I don't have the exact calendar in front of me this second, but we will keep moving forward."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient and daughter to speak fully, never interrupts, and remains regulated despite repeated pushback regarding the schedule."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly and lay language is used, but there are no comprehension checks (e.g., 'Does that make sense?') throughout the transcript."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am very sorry', 'I apologize'), takes full personal responsibility, and maintains this accountability under questioning."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('anxious', 'frustrating and scary', 'uncertain', 'fear') and engages directly with the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides no specific dates or timelines despite multiple requests and offers only placeholders like 'we will keep an eye on things' and 'I'll send a note'."
+    }
+  }
+}

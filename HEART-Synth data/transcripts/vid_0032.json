@@ -1,0 +1,315 @@
+{
+  "video_id": "vid_0032",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mr. Chen. I wanted to come back and talk to you for a moment before we get started."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "Hello doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:26",
+      "text": "We have a problem. I marked the wrong side of your body for the surgery. I put the mark on your left arm, but the bump we are removing is actually on your right arm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:30",
+      "text": "What?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:40",
+      "text": "Yes, it was a mistake. I marked the left arm by accident instead of the right one. Do you understand what I mean?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:44",
+      "text": "I... I see the mark here. On the left."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:00:54",
+      "text": "That is correct. The mark is on the left. But the spot we need to fix is on the right. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:00:58",
+      "text": "Oh. I thought maybe I was wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:06",
+      "text": "You were not wrong. You were right to tell the nurse. It was an error in the marking process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:12",
+      "text": "I was worried. I thought maybe you changed your mind about which one."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:21",
+      "text": "I can see that you feel confused. It is very unsettling to be told one thing and then see something different."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:25",
+      "text": "I just want it gone."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:37",
+      "text": "I know you do. The good news is that because you noticed it in the holding area, we caught it before any anesthesia was given. No one was hurt."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:41",
+      "text": "But why did it happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:51",
+      "text": "It happened because the site was not verified correctly during the marking phase. The markers were placed on the wrong side of the body."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:55",
+      "text": "I don't know. I just feel... a bit shaky."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:02",
+      "text": "I understand. Let me just\u2014sorry, I have to keep us moving because the operating room is waiting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "I am just... I don't understand how."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:13",
+      "text": "It was just a mistake in the setup. It happens sometimes when the clinic is moving fast."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "Are you sure it is the right side now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:21",
+      "text": "Yes, the right side."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "Is it safe?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "It is safe. We are going to fix it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:33",
+      "text": "I feel a little bit scared now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:40",
+      "text": "You are feeling nervous. That is a normal reaction. But we have the right spot now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "Maybe we should stop?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:50",
+      "text": "No, we don't need to stop. We just need to move the mark."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "Is it a big mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:03",
+      "text": "It was a marking error. It is a common type of mix-up in the system, but it was caught in time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "We will go ahead and do the procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "When do we start?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "Will the other doctor know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "The team knows. We will proceed as planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "Who is doing it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "I will be doing the excision."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "Will it take a long time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:40",
+      "text": "It should be the same amount of time we talked about."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "Do I need to sign something else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "No, you are all set."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "I still feel a bit... I don't know."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:59",
+      "text": "I know. But we have to get you in there now or we will lose our slot."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "Just follow the nurse back in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:11",
+      "text": "Will you be there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:12",
+      "end_time": "00:04:15",
+      "text": "I'll be right there."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:16",
+      "end_time": "00:04:19",
+      "text": "I hope it goes okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:20",
+      "end_time": "00:04:23",
+      "text": "It will. We'll see you in a second."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to keep us moving', 'we will lose our slot')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, lay language used, comprehension checked twice ('Do you understand what I mean?', 'Does that make sense?'), and no false reassurance regarding the error itself."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to the 'marking process' and 'the system'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions twice ('confused', 'nervous') and engages the patient's emotional bids."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Resident provides a vague next step ('do the procedure') without a specific timeline or a named patient role."
+    }
+  }
+}

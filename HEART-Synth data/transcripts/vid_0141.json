@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0141",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Hello Ms. Patel, thank you for coming back to see me. I wanted to sit down and talk about why you had to return to the emergency department last night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:22",
+      "text": "I\u2019m more concerned about why I\u2019m back here at all. The incision is red and it's leaking. I followed the discharge papers exactly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:34",
+      "text": "I understand you're frustrated. Looking at your chart, there was a mistake in the timing of your discharge. You were sent home six hours before the post-operative protocol required."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:43",
+      "text": "Six hours? I remember the nurse saying it was time to go, so I went. Why does six hours matter?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:44",
+      "end_time": "00:00:57",
+      "text": "It means you weren't monitored for the full window we use to catch early wound complications. Because of that, the drainage we're seeing now wasn't caught while you were still in the hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:02",
+      "text": "So you just let me walk out the door too early?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:12",
+      "text": "I'm sorry for any confusion with the timing. We were really busy on the ward yesterday and the discharge order was processed prematurely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:25",
+      "text": "I don't care how busy you were. I sign these forms because I'm told they are the rules. Now I'm back in a hospital gown because your \"busy\" schedule caused a complication."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:41",
+      "text": "You \"understand\"? I've dealt with this before. I've seen how \"understand\" usually means you're just waiting for me to stop talking so you can move to the next room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:48",
+      "text": "Right. Anyway, the main thing now is the wound. We need to get this cleaned up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:02:00",
+      "text": "Are you going to tell me what the actual plan is to fix this, or are we just going to keep talking about how the hospital is too busy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:12",
+      "text": "We are going to start you on a course of oral antibiotics to handle the infection. I need you to take one tablet twice a day for seven days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:24",
+      "text": "I will check your wound personally tomorrow morning at 9:00 AM to see if the redness has gone down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "And if it hasn't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:35",
+      "text": "Then we will discuss further treatment options. But for now, the antibiotics are the priority."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:44",
+      "text": "I want this documented. I want a note in my file that I was discharged early against your own protocol."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:50",
+      "text": "I can certainly make sure the event is noted in the clinical record."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "I've heard that before. I'll be checking for it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:00",
+      "text": "That's fair. I'll go get the pharmacy to send those meds up now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('Anyway, the main thing now is the wound') to pivot away from the patient's emotional distress."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly and in lay language, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology ('I'm sorry for any confusion') is diluted by an immediate excuse regarding how busy the ward was."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses only generic validation ('I understand') and fails to name specific emotions or engage with the patient's emotional bids."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides a specific next step (antibiotics), a timeline (twice a day for seven days), and a follow-up time (tomorrow at 9:00 AM), but does not address prevention."
+    }
+  }
+}

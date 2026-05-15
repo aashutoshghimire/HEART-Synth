@@ -1,0 +1,195 @@
+{
+  "video_id": "vid_0048",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello, Mrs. Hernandez. I am Dr. Miller, one of the residents on the surgical team. It is nice to meet you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Hola. Mucho gusto."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "I have your daughter here to help us translate, so we can make sure everything is clear. I asked to speak with you because I need to tell you about a mistake that was made with your blood transfusion before your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "\u00bfQu\u00e9 pas\u00f3? What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "I am very sorry, but we failed to double-check your blood type before the transfusion. Because of this error, you received a type of blood that was compatible, meaning it is safe, but it was not the ideal match for your specific blood type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "A mistake? Why?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:08",
+      "text": "It was a failure in our safety process. We skipped a verification step that we are required to do every single time. I apologize for this mistake, and as the doctor on the team, I take full responsibility for this happening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:12",
+      "text": "Am I okay? Is it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:28",
+      "text": "I want to be very clear about the facts. Because the blood was compatible, you are not in immediate danger, and your body is not rejecting it. However, it is not the kind of blood we would have chosen if we had followed the correct steps. To make sure I am explaining this clearly, can you tell me in your own words what you understand so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:34",
+      "text": "My daughter is telling me... it was the wrong blood, but it is okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:41",
+      "text": "Yes, that is correct. It was not the ideal match, but it is safe for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:45",
+      "text": "I feel... very nervous. I don't like this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:56",
+      "text": "I can see that you are feeling anxious, and it is completely understandable to feel that way when you hear a mistake happened during your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:01",
+      "text": "I just wanted the surgery to be over. Now I worry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:10",
+      "text": "It is scary to feel like things aren't being done right. I am sorry that we have caused you this stress."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "Will this change my recovery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:30",
+      "text": "That is a very important question. Right now, we are monitoring you closely. Here is exactly what our plan is moving forward. First, we are ordering a set of blood tests every six hours for the next two days to monitor your hemoglobin and check for any delayed reactions."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "Every six hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:50",
+      "text": "Yes, every six hours. Second, I have already notified the Chief of Surgery and our Patient Safety Officer. We are conducting a formal review of the pre-operative checklist today to find out exactly why that step was skipped so we can prevent this from ever happening to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "Who will check the blood next time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:10",
+      "text": "Moving forward, we are implementing a \"hard stop\" on your chart. This means the system will physically block any further transfusions unless two separate nurses and one doctor sign off on the blood type verification together. This is a new layer of safety specifically for your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:23",
+      "text": "Does that plan sound clear to you, or is there any part of those steps you want me to explain again?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:28",
+      "text": "I think I understand. My daughter will help me remember the tests."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:44",
+      "text": "That would be very helpful. Your role right now is just to tell us immediately if you feel any new chills, itching, or shortness of breath. If you feel anything unusual, even if it seems small, please press your call button right away."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "I will."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:04:04",
+      "text": "I know we are strangers and it is difficult to trust me after this, but I am committed to making sure the rest of your stay is safe. I will come back at 6 PM to give you an update on those first blood tests. Do you have any other questions for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:05",
+      "end_time": "00:04:08",
+      "text": "No. Thank you, Doctor."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, avoids interruptions, and maintains a steady, non-rushing pace throughout the interaction."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the first turn, lay language used throughout, comprehension checked twice (teach-back and plan confirmation), and no false reassurance given."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I am very sorry', 'I apologize') and the resident explicitly takes full responsibility as the doctor on the team."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions are named back ('anxious', 'scary') and the resident engages directly with the patient's expressed worry."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps with timelines (tests every 6 hours for 2 days), a named patient role (reporting chills/itching), and a prevention strategy (hard stop on chart)."
+    }
+  }
+}

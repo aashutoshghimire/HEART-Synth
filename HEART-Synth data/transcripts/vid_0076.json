@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0076",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello, Mrs. Al-Rashid. I wanted to come by and talk with you about what happened in the holding area before your procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Hello, Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:17",
+      "text": "I know it was a very stressful start to your morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:18",
+      "end_time": "00:00:21",
+      "text": "I was... I was very surprised."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:32",
+      "text": "It is completely understandable that you felt shocked. I can only imagine how unsettling it was to see the mark on the wrong side of your body."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:38",
+      "text": "I just thought... I thought perhaps I had misunderstood where the lesion was."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:50",
+      "text": "No, you were absolutely correct. The wrong site was marked for the excision. We marked your left arm when the procedure was supposed to be on your right arm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:00:54",
+      "text": "I have never seen this happen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:01",
+      "text": "Does that explanation make sense to you, or can I clarify anything about how the marking happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:06",
+      "text": "No, I understand. But how could this happen in a hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:17",
+      "text": "It was a failure in our process. The marking was done incorrectly during the pre-operative check, and we didn't catch it until you spoke up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:24",
+      "text": "I felt very bad pointing it out to the nurse. I did not want to be rude."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:33",
+      "text": "You were not being rude at all. In fact, your alertness is what ensured the procedure happened on the correct side."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:37",
+      "text": "But I thought the doctors always knew."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:43",
+      "text": "It is a very frightening feeling when the person you trust makes a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:48",
+      "text": "I am just glad you found it before the surgery started."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:53",
+      "text": "Yes, it is fortunate that it was caught in time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:01:57",
+      "text": "Is this something that happens often here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:02",
+      "text": "It is rare, but it is something we take very seriously."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:14",
+      "text": "I want to make sure you feel okay about moving forward with the recovery of the actual site."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:19",
+      "text": "I am fine, thank you. I just feel a bit shaken."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:24",
+      "text": "That is a very normal reaction to this kind of situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "Will there be a report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "There will be an internal review of the event."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "I hope it helps other people."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "It will."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "We will continue to monitor your incision today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "And then?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:01",
+      "text": "I'll check in on you again tomorrow morning before I leave for the day to see how the healing is progressing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "Thank you, Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "You're welcome."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:14",
+      "text": "Should I tell my daughter about this when she visits?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:24",
+      "text": "That is entirely up to you, but we are happy to discuss it with her if you would like us to be there."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "Maybe later."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "Of course. I'll let you get some rest now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:41",
+      "text": "I'll be back in a few hours to check your dressing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "Yes, alright."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:49",
+      "text": "Rest well."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "Goodbye."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "Goodbye."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and uses no rushing language throughout the interaction."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn, lay language used, and comprehension checked twice ('Does that explanation make sense', 'can I clarify')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language such as 'I'm sorry' or 'I apologize' is used in the transcript."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions are named back ('shocked', 'frightening feeling', 'normal reaction') and the resident engages the patient's emotional bids regarding her alertness and fear."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Specific next steps and timelines are provided (monitoring today, check tomorrow), but there is no named patient role or discussion of prevention."
+    }
+  }
+}

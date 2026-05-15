@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0035",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Hassan, thank you for coming in to see me. I have some difficult news to share regarding your immunotherapy dose yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "I can tell by your face. What now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:27",
+      "text": "There was a mistake. We gave you your dose on the wrong day of your cycle because of an error in our calendar entry. I am very sorry. I take full responsibility for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "You're joking. Again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:35",
+      "text": "I know this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:48",
+      "text": "No, I mean, again. Every time I come here, something \"unfortunate\" happens. First it was the pharmacy, then the nurse, now the calendar. Is this just how this clinic runs?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:55",
+      "text": "I can see how frustrating this is. This is a failure on our part, and I apologize."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:09",
+      "text": "Frustrating isn't the word. I'm tired. I'm just exhausted with the incompetence. Does this mean the drug didn't work? Does it mean my cancer is growing while you guys are playing with calendars?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:25",
+      "text": "I hear you. It's an incredibly heavy burden to keep dealing with these errors when you're already fighting this illness. Regarding the effectiveness, because the dose was administered too early in the cycle, there is a possibility that the treatment will be less effective for this specific round."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "A possibility. So you don't actually know."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:42",
+      "text": "That's correct. We can't know for sure until we see the next set of scans, but the timing is critical for the drug to work the way it's supposed to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:51",
+      "text": "Great. Just great. I'm sitting here in chronic pain, barely sleeping, and I've got a doctor who can't read a calendar."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:01:55",
+      "text": "I realize how unfair this feels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:02",
+      "text": "I don't want your \"realizations.\" I want to know why this happened. Who actually messed up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:08",
+      "text": "It was my error in the scheduling system. I entered the date incorrectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:12",
+      "text": "And nobody checked it? Not one person?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:18",
+      "text": "No, and that is a failure of our process. I am truly sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:28",
+      "text": "I've heard \"sorry\" from this building about six times this year. It doesn't actually change the fact that my treatment is potentially compromised."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:35",
+      "text": "It doesn't. I know an apology doesn't fix the dose or the stress this puts on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:41",
+      "text": "So what happens now? Do I just wait and hope for the best?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "We will have to monitor things closely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:55",
+      "text": "That's not a plan. That's a suggestion. Do I need another dose? Do I skip the next one? What is the actual move here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:01",
+      "text": "We'll likely just continue as planned, but I need to check with the attending."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:08",
+      "text": "Check with who? You're the one talking to me. Give me a date. Give me a step."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "I'll send an email to the specialist."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "An email. Wonderful. And when do I hear back? Next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:22",
+      "text": "I'm not entirely sure on the turnaround time for the response."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:33",
+      "text": "This is exactly what I'm talking about. You're sorry, you're \"holding space\" for my anger, but you have no clue how to fix the mess you made."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "I understand why you're cynical about this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:44",
+      "text": "I'm not cynical, I'm observant. What is the actual, concrete plan for my next dose?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "I'll look into it and we will see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "See what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "Just see what the options are."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:05",
+      "text": "I can't believe this. I am literally gambling with my life and you're telling me to \"see what the options are.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "I know this is an incredibly stressful situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:16",
+      "text": "Stop saying that. Just tell me when you will call me with a real answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:17",
+      "end_time": "00:04:20",
+      "text": "I'll try to get back to you soon."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly in the first turn, but there were no comprehension checks performed throughout the encounter."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language, took full personal responsibility for the calendar error, and maintained accountability despite the patient's anger."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions ('frustrating', 'heavy burden', 'unfair', 'cynical') and referenced the patient's specific struggle with illness and chronic pain."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders ('we'll see', 'look into it') and failed to provide a concrete timeline or specific next steps."
+    }
+  }
+}

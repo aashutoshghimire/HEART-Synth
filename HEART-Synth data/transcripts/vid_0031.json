@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0031",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Nakamura, thank you for seeing me. I wanted to talk to you about the blood transfusion you received during your surgery yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:17",
+      "text": "Is something wrong? I felt a bit weird waking up, but I thought that was just the anesthesia."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "There was a mistake in the process. Before the surgery, we are supposed to double-verify your blood type. That step was skipped. Because of that, you were given blood that was compatible, meaning it didn't cause an immediate rejection, but it wasn't the ideal match for your specific type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:47",
+      "text": "Wait, what does ideal match even mean? I'm looking at this site right now and it says if the blood isn't an exact match, it could cause a reaction. Was that what happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:03",
+      "text": "Yes, basically. Since it wasn't a perfect match, your body is reacting to the foreign proteins. This can lead to long-term issues with how your kidneys function and potentially affect future transfusions. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:19",
+      "text": "No, it doesn't make sense. Why would you skip a step? This is the first time I've ever been in a hospital and I'm just... I can't believe this is happening. I'm terrified. What does this actually do to my future?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:29",
+      "text": "I'm sorry for any confusion this has caused, but we were really busy in the surgical wing yesterday and the checklist was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:39",
+      "text": "Confused? I'm not confused, I'm scared! I'm twenty-three. Are you telling me my kidneys might fail? Am I going to be on dialysis?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:47",
+      "text": "It's not a certainty, but there is a risk of lasting damage. We need to monitor your creatinine levels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:02:02",
+      "text": "I can't even breathe right now. I just wanted to get this surgery over with and go back to my degree. Now I have to wonder if I'm chronically ill because someone forgot a piece of paper?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:11",
+      "text": "I understand that's stressful. But look, we can't change the transfusion now. We just have to move forward with the monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:20",
+      "text": "I don't think you get it. I'm looking at the prognostic implications for mismatched transfusions on this forum and it says\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:29",
+      "text": "Let me stop you there. The internet can be misleading. The fact is, we have a plan to manage this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:35",
+      "text": "You just interrupted me. I'm trying to understand if my life is permanently changed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:45",
+      "text": "Again, it's a possibility, but not a guarantee. I really have to go in a few minutes because I have a clinic to start."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "You're leaving? Now? I have a dozen more questions."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "I can answer a few more quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:03:05",
+      "text": "I feel like you're just trying to brush this off. You said you're sorry for the confusion, but you didn't actually say you're sorry that this happened to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:10",
+      "text": "I am sorry that this is the situation we are in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:15",
+      "text": "That's not the same thing. Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:21",
+      "text": "The surgical team handles the verification. It was a failure in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "So nobody is actually admitting they messed up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:41",
+      "text": "I've explained that the verification was skipped. Now, as for the plan, I'm going to order a blood chemistry panel for you tomorrow morning at 6:00 AM. Your role is to make sure you stay fasted starting at midnight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:56",
+      "text": "Once the results come in tomorrow afternoon, I'll come back and tell you if the kidney markers are elevated. If they are, we will consult Nephrology."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "What if they are elevated?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:08",
+      "text": "Then we start the specialty consults. But for now, the most important thing is that blood test tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:13",
+      "text": "I can't even imagine how I'm supposed to sleep tonight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:23",
+      "text": "It's a lot to take in, I know. But we have the monitoring scheduled. I'll see you tomorrow after the results are in."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident interrupts the patient ('Let me stop you there') and uses rushing language repeatedly ('I really have to go in a few minutes', 'answer a few more quickly')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn, lay language was used, and a comprehension check was performed ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident deflects responsibility to 'the surgical team' and 'a failure in the system' rather than taking personal or team accountability."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident uses generic validation ('I understand that's stressful', 'It's a lot to take in') without naming specific emotions or engaging emotional bids."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides a specific next step (blood chemistry panel), a timeline (tomorrow morning at 6:00 AM), and a patient role (stay fasted starting at midnight)."
+    }
+  }
+}

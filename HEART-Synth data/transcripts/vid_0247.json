@@ -1,0 +1,405 @@
+{
+  "video_id": "vid_0247",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Williams, thank you for coming back to the room. I wanted to talk with you about your scans from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "Is it bad? My kids, they are with my sister, I need to go back to them."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:28",
+      "text": "I know this is a very hard moment to have to talk about this. I want to be very honest with you. We made a mistake in how your tests were read."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "A mistake? What mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:43",
+      "text": "I am so sorry. I am the doctor in charge of your care and I take full responsibility for this. We missed something on your scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:47",
+      "text": "You missed something? Like what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:00",
+      "text": "There was a blood clot in your lung. The first report did not say it was there. It took eighteen hours before the second doctor saw it and told us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:07",
+      "text": "A blood clot? In my lung? Why did it take so long? I was laying here!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:17",
+      "text": "You are right. It should have been found much faster. It is my fault that it wasn't. I apologize deeply for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:29",
+      "text": "I feel like I can't breathe well. Is that why? Am I going to die? My babies, who will take care of them if I don't go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:33",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:44",
+      "text": "You don't understand! I have two jobs. I have no one else. If I am sick because you missed this, what happens to my children?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:49",
+      "text": "I understand. Now, we have started the medicine to fix the clot."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:56",
+      "text": "Why did it take eighteen hours? Eighteen hours is a long time when you are scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:01",
+      "text": "I am truly sorry for that delay. It is unacceptable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:08",
+      "text": "Was it because I don't speak the language well? Did you not listen to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:18",
+      "text": "No, that is not why. It was a failure in our process. I am the one responsible for making sure the reports were correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:24",
+      "text": "I am so scared. I just want to go home to my kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:34",
+      "text": "I don't think you know how it is to have children waiting for you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:39",
+      "text": "I understand. We need to focus on the medicine now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "What medicine? What is happening now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:49",
+      "text": "We are giving you a drug to stop the clot from getting bigger."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "Will I be okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "We are monitoring you closely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "How long do I have to stay here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "I am not sure yet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:12",
+      "text": "I need to know. I have to tell my sister if I can come home tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:19",
+      "text": "I can't give you a date right now, but I will check with the team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:24",
+      "text": "You keep saying sorry, but sorry doesn't help my kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:30",
+      "text": "I know. I am deeply sorry. I take full responsibility for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:36",
+      "text": "Does this happen a lot? Do you miss things for other people too?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:43",
+      "text": "I cannot speak for others, but for you, this was a failure on my part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "I just feel so heavy. I can't think."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:51",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:56",
+      "text": "Why did the first doctor miss it? Was he tired?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "There was a problem with the preliminary report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:05",
+      "text": "That is not an answer. Did he just not look?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:10",
+      "text": "I am sorry. It was a mistake in the report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:11",
+      "end_time": "00:04:14",
+      "text": "I feel like I can't trust you now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:19",
+      "text": "I know. I am very sorry that we let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:20",
+      "end_time": "00:04:24",
+      "text": "What is the plan? Please, just tell me what happens next."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:25",
+      "end_time": "00:04:28",
+      "text": "I will check your blood levels every morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "And then what? When do I go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:33",
+      "end_time": "00:04:37",
+      "text": "We will see how you respond to the medicine first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "That is not a time. Tomorrow? Wednesday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "I don't have a specific day yet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:49",
+      "text": "This is a nightmare."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:53",
+      "text": "I know it is a very difficult time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:54",
+      "end_time": "00:04:57",
+      "text": "I just want my children."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:58",
+      "end_time": "00:05:01",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:02",
+      "end_time": "00:05:08",
+      "text": "Is there anyone else I can talk to? Someone who isn't the one who made the mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:09",
+      "end_time": "00:05:13",
+      "text": "I can ask the chief doctor to come speak with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:14",
+      "end_time": "00:05:17",
+      "text": "Yes. Please. Do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:18",
+      "end_time": "00:05:21",
+      "text": "I will do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:22",
+      "end_time": "00:05:25",
+      "text": "Will they tell me the truth?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:26",
+      "end_time": "00:05:30",
+      "text": "Yes. I have told you the truth, and they will too."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:31",
+      "end_time": "00:05:34",
+      "text": "I am so tired of being scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:35",
+      "end_time": "00:05:38",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:39",
+      "end_time": "00:05:42",
+      "text": "I need to call my sister."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:43",
+      "end_time": "00:05:46",
+      "text": "You can do that now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:47",
+      "end_time": "00:05:53",
+      "text": "I hope my children don't have to grow up without me because of a report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:54",
+      "end_time": "00:05:57",
+      "text": "I am so sorry. I take full responsibility."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to express distress and frustration without interrupting or using rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but there were no comprehension checks performed."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language and repeatedly took full personal responsibility without deflection, even under pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident relied exclusively on generic validation ('I understand', 'I know it is a very difficult time') without naming specific emotions."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Resident provided one specific step (checking blood levels) but provided no timeline, no patient role, and no prevention strategy."
+    }
+  }
+}

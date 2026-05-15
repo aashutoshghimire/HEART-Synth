@@ -1,0 +1,273 @@
+{
+  "video_id": "vid_0060",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Anderson, thank you for taking a few minutes to speak with me. I want to discuss something that happened during your procedure yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:16",
+      "text": "I hope this is about my discharge timing. I have a lot to get back to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "I actually need to share some information regarding the blood transfusion you received. To put it simply, the step where we verify your blood type before the transfusion was skipped. As a result, you were given a blood type that is compatible, but it wasn't the ideal match for your specific type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "I'm sorry, what? You skipped a verification step?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "Yes, that is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:45",
+      "text": "Are you telling me you just gave me the wrong blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:59",
+      "text": "It was a compatible type, meaning it won't cause a rejection reaction, but it wasn't the exact match we should have used. Does that make sense so far, or can I clarify that further?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:15",
+      "text": "It makes sense that you were negligent. I work in hospital administration, so I know exactly what the protocol is for blood type verification. This isn't a minor glitch. This is a failure of a critical safety check."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:27",
+      "text": "I can see how incredibly frustrating and alarming this is. To have your trust broken in a setting where you're supposed to be safe is a terrible feeling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:36",
+      "text": "Frustrating? I am beyond frustrated. This is a systemic failure. Who is responsible for this? Who signed off on the transfusion?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:40",
+      "text": "The verification process failed on our end."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:49",
+      "text": "That is a non-answer. I asked who is responsible. Did you do it? Did a nurse do it? Give me a name."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:53",
+      "text": "The team's process broke down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:01",
+      "text": "You are avoiding the question. This is a classic avoidance tactic. Just say it. Was it your fault?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:06",
+      "text": "It was a breakdown in the protocol that the team follows."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:14",
+      "text": "I don't want to hear about protocols. I want an apology and a name. This is basic accountability."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:27",
+      "text": "I can hear how much this is upsetting you and how important it is to you that we are honest about the failure. You have every right to be angry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:42",
+      "text": "Stop trying to manage my emotions and answer the question. This is a sentinel event. I know the reporting requirements. I want to know exactly why the blood bank released a non-ideal unit without the proper verification."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:53",
+      "text": "I hear your concern about the blood bank's role. The error happened because the pre-operative check was missed, which meant the request sent over wasn't fully verified."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "So you're blaming the system now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:02",
+      "text": "I am trying to be clear about the sequence of events."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:09",
+      "text": "You aren't being clear. You're being evasive. I feel like I'm talking to a wall."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:20",
+      "text": "It sounds like you feel completely dismissed right now, and that you're worried that the lack of a direct answer means we're trying to hide something."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:27",
+      "text": "Because you are! You haven't said you're sorry once. You've just been reciting a script."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:39",
+      "text": "I can see that my way of explaining this is making you feel like I'm hiding behind a script. I truly want you to feel heard in this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:46",
+      "text": "Then stop talking about the team and tell me what happens now. Am I in danger?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:04:02",
+      "text": "That is the most important question. Because the blood was compatible, you are not in any immediate danger. However, to be absolutely sure, I have already scheduled a follow-up blood panel for tomorrow morning at 8:00 AM to monitor your hematology markers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "And who is doing that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:07",
+      "end_time": "00:04:19",
+      "text": "I will be the one personally checking those results as soon as they come in. I will come to your room by 10:00 AM tomorrow to review them with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:20",
+      "end_time": "00:04:23",
+      "text": "I want a copy of the incident report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:24",
+      "end_time": "00:04:39",
+      "text": "I will ensure that happens. I'm going to file the formal report in our system today. I will provide you with the reference number by the end of the day, and I'll coordinate with the risk management office to get you the full documentation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:40",
+      "end_time": "00:04:43",
+      "text": "I'll be contacting my own legal counsel."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:44",
+      "end_time": "00:04:56",
+      "text": "That is certainly your right. I will provide you with the direct contact information for our patient liaison and the chief of surgery so you have everything you need for your records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:57",
+      "end_time": "00:05:01",
+      "text": "Why should I trust you to actually do any of that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:02",
+      "end_time": "00:05:17",
+      "text": "I know that trust is very hard to rebuild right now. My goal is to be completely transparent from this point forward. Beyond the labs tomorrow and the report today, I am also meeting with the surgical nursing lead this afternoon to rewrite the verification checklist for this unit so this cannot happen to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:18",
+      "end_time": "00:05:23",
+      "text": "One checklist change doesn't fix the fact that you were careless with my life."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:24",
+      "end_time": "00:05:30",
+      "text": "You're right. No amount of paperwork changes the fact that we failed you in that moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:31",
+      "end_time": "00:05:34",
+      "text": "I'm still not happy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:35",
+      "end_time": "00:05:46",
+      "text": "I completely understand. I'll be back this afternoon with that report number. Is there anything else, right now, that I can do to help you feel more secure?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:47",
+      "end_time": "00:05:50",
+      "text": "Just get the labs done tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:51",
+      "end_time": "00:05:57",
+      "text": "I will. 8:00 AM for the draw, and I'll be back at 10:00 AM with the results."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated despite aggressive pushback, and allows the patient to express anger without rushing."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (skipped verification step) is named in the second turn, lay language is used, and comprehension is checked twice ('Does that make sense so far', 'I can see that my way of explaining this...')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language ('I'm sorry' or 'I apologize') and repeatedly deflects responsibility to 'the team's process' and 'the protocol'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions multiple times ('frustrating and alarming', 'upsetting', 'feel completely dismissed') and references the patient's specific concerns about trust and safety."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific next steps with timelines (8:00 AM labs, 10:00 AM review, report by end of day) and addresses prevention (rewriting the verification checklist)."
+    }
+  }
+}

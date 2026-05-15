@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0014",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello, Mrs. Fitzgerald. I wanted to come and talk with you about what happened during your delivery and how your baby is doing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:20",
+      "text": "Oh, I just want to hold him. He looks so small. My Arthur always said they come out tiny, but I can't stop crying. I just can't."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "It is a lot to take in. Before we get you settled, I need to be honest with you about a mistake we made. Your prenatal records showed you were positive for Group B streptococcus, which is a common bacteria. Because of that, we should have given you antibiotics during labor to protect the baby. We didn't do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "What? I don't understand. Why didn't you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:52",
+      "text": "The information was in your chart, but it wasn't passed along to the team delivering the baby. So, the medicine wasn't given. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:00:59",
+      "text": "I... I don't know. Was it my fault? I told the nurse I felt something was off."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:06",
+      "text": "No, this was not your fault at all. This was our failure to communicate the information correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:19",
+      "text": "My Arthur... he would have known what to do. He was always the one who kept track of the paperwork. I feel so alone in this. I can't believe you just forgot."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:26",
+      "text": "I can see how overwhelming and lonely this feels, especially without your husband here to lean on."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:35",
+      "text": "He would be so angry. He'd be shouting at all of you. I can't even think straight. Is the baby okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:51",
+      "text": "The baby has an infection because of this, which is why he is in the neonatal unit right now. He is receiving the antibiotics he needs. Just to make sure I've explained this clearly, do you understand why the baby is in the unit?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:56",
+      "text": "Because you didn't give me the medicine. Because you missed it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:05",
+      "text": "I am sorry for any confusion this caused. We were just so busy that day and the handover didn't happen properly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "Busy? My baby is in a plastic box because you were busy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:15",
+      "text": "I know that doesn't make it any better. I am sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:23",
+      "text": "I just want him. I can't be the only person he has. I can't do this by myself."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:29",
+      "text": "It sounds like you're feeling really scared about managing this on your own."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:35",
+      "text": "I am. I am terrified. What happens now? Does he just stay there forever?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:41",
+      "text": "No, he won't stay there forever. We are treating the infection with IV antibiotics."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "For how long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:52",
+      "text": "I'll check the current lab results and let you know the exact timeline by this evening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "That's not a real answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:04",
+      "text": "I will give you a specific update on his progress and the discharge plan by 6:00 PM today."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, remains regulated during pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, uses lay language, checks comprehension twice, and avoids false reassurance."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apologies are used, but the resident dilutes accountability by citing that they were 'so busy that day' as a reason for the failure."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('overwhelming', 'lonely', 'scared') and references the patient's loss of her husband."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Resident provides a specific timeline for an update, but does not address the patient's role or how the error will be prevented."
+    }
+  }
+}

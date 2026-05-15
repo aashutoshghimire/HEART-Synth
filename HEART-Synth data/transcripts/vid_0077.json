@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0077",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Mr. Mbeki, thank you for coming back in to see me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:15",
+      "text": "Not a problem. I just need to get back to the shop soon. My foreman is covering for me, but I can't be away for too long."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "I understand the pressure you're under with the business. I asked you to come in because I need to discuss what happened during your procedure yesterday. I made a mistake. I didn't provide enough anaesthetic infiltration, which meant you didn't have enough numbing agent in the skin while I was suturing the laceration."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:37",
+      "text": "I mean, it hurt. I thought maybe that was just part of the process."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:48",
+      "text": "It shouldn't have been that painful. I am very sorry. I failed to check your pain levels while I was working, and that is entirely my fault."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:01:00",
+      "text": "I didn't say anything because I wanted to get out of here. I just figured I had to tough it out. But it was... it was a lot."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:05",
+      "text": "This is a difficult conversation to have, and I appreciate you listening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:13",
+      "text": "It's fine. I'm just wondering if it affects how it heals. Does the pain mean there's more damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:29",
+      "text": "No, the actual repair of the skin is solid. The issue was only with the pain management during the process. In clinical terms, we call it local anaesthesia, which is the fluid we use to block the nerves temporarily. I didn't use enough of it, and I didn't stop to ask if you were feeling the needle or the stitches."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:39",
+      "text": "Right. Well, as long as it's not going to take longer to heal. Every day I'm not at the shop is money I'm losing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "That sounds like a lot of stress on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:49",
+      "text": "It is. It's a small business. If I'm not there, things don't happen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:54",
+      "text": "I can see why you're so concerned about the timeline."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:01:59",
+      "text": "So, what now? Does this change anything about the follow-up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:15",
+      "text": "The plan for the wound remains the same. You'll keep the dressing dry and come back in ten days to have the sutures removed. I will personally handle that appointment to make sure the removal is completely painless."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:19",
+      "text": "Ten days. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:32",
+      "text": "I'm also going to file an internal incident report today. That's the formal way we document errors so the department can review how to prevent this from happening to other patients."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:42",
+      "text": "I don't really care about a report. I just don't want to have to come back for extra appointments because something went wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:56",
+      "text": "I completely understand. You've already given enough of your time. To make sure we're on the same page, can you tell me what your understanding is of why the procedure was painful yesterday?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:03",
+      "text": "You didn't give me enough of the numbing stuff and you didn't check if I was okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "And I just come back in ten days?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:19",
+      "text": "Yes, ten days from yesterday. I'll have my nurse call you tomorrow morning to confirm the exact time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "Alright. I have to go now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:32",
+      "text": "I'll let you get back to your shop. Thank you for your time and for being so patient with me."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns without interruption and maintains a regulated pace throughout the encounter."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once at the end."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language ('I am very sorry') and took full personal responsibility ('entirely my fault') without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named specific emotions ('pressure', 'stress', 'concerned') and referenced the patient's specific situation regarding his small business."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided a specific timeline (ten days), the patient's role (keep dressing dry), and addressed prevention (internal incident report)."
+    }
+  }
+}

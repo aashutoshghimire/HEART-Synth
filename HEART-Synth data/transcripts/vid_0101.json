@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0101",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Mr. Lindqvist, thank you for meeting with me. I wanted to sit down and talk to you about your CT scan and your care over the last day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:16",
+      "text": "I've been waiting. I know the results came back yesterday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:25",
+      "text": "Right. So, there was some of a situation with how the imaging was handled. There was some confusion with the report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:32",
+      "text": "Confusion? I'm a former paramedic. Don't give me the runaround. Was there a PE on the scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:44",
+      "text": "Well, it turns out that there was an issue. The preliminary report didn't mention the pulmonary embolism, and the results weren't read by the attending radiologist until later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:51",
+      "text": "So you had a clot in my lung and you just left it there for eighteen hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:00:59",
+      "text": "I am sorry for any confusion this caused, but we were really busy in the radiology department yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:06",
+      "text": "Busy is not a reason to miss a PE on a CT. That is a critical failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:10",
+      "text": "I understand. I know this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:16",
+      "text": "Frustrating is an understatement. I was lying here while a clot was potentially moving."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:25",
+      "text": "Look, I have to get back to the floor soon, but I want to make sure we fix this now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "You're rushing me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:34",
+      "text": "I'm just saying we need to move forward with the treatment plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "I want to know exactly why it wasn't seen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:45",
+      "text": "Like I said, there were some things that didn't go quite right with the reporting sequence."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:54",
+      "text": "You still haven't told me if the error was the radiologist or if the Resident on call ignored the image."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "It was just a breakdown in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "Whatever. Just tell me what happens now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:17",
+      "text": "Okay, so here is the exact plan. First, we have already started you on a Heparin drip. I have the nurse coming in within the next ten minutes to calibrate the pump and check your baseline PTT."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:21",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:37",
+      "text": "Once the PTT is stable, which should be in about four hours, we will transition you to a subcutaneous Enoxaparin injection twice daily. You will be the one to alert the nurse if you feel any sudden shortness of breath or chest pain during the transition."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "I know how the protocol works."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:57",
+      "text": "I'll also be ordering a follow-up chest CT in seventy-two hours to ensure the clot is resolving. I will personally review that report as soon as it hits the system and I'll come back to this room to discuss it with you by 10:00 AM that day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "And the error?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:17",
+      "text": "I have already filed a formal incident report through the hospital's safety system. The department head for radiology is reviewing the timestamp of the scan versus the report to implement a new double-check system for all emergency CTs so this doesn't happen to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "It doesn't change the eighteen hours I lost."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "I know. But we have the medication running now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "I guess."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:40",
+      "text": "I'll be back in an hour to check your vitals. If you have any questions before then, use the call button and ask for me specifically."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('I have to get back to the floor soon', 'we need to move forward') which the patient explicitly calls out."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named (missed PE), but there are no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology is offered, but it is immediately diluted by an excuse ('but we were really busy in the radiology department')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand', 'I know this is frustrating') without naming specific emotions or engaging deeply with the patient's distress."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps (Heparin, Enoxaparin, follow-up CT) with timelines, defines the patient's role in monitoring symptoms, and addresses systemic prevention via the incident report."
+    }
+  }
+}

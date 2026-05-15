@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0284",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hello Mr. Okonkwo. I wanted to come in and speak with you personally about how the surgery went and a specific error that occurred during the procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:18",
+      "text": "I appreciate you coming. I am just glad to be awake. Everything seemed fine when I woke up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:34",
+      "text": "I need to be clear about what happened. During the laparoscopic part of the operation, a small metal clip was placed on the wrong structure. Instead of the target vessel, it was placed on a nearby piece of tissue. This was a mistake on our part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:41",
+      "text": "A mistake? You are telling me you put a piece of metal in the wrong place?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:57",
+      "text": "That is correct. We identified the error while we were still in the operating room. Because we caught it immediately, we were able to go back in and remove the clip and ensure the correct structure was secured. It did require an additional step in the procedure, which is why you were under anesthesia slightly longer than we planned. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:13",
+      "text": "It makes sense. But it is unsettling. I am a man of standing in my community, doctor. I have people looking to me for leadership. If word gets out that there were complications or that I was handled carelessly, it affects how people see me. My family... they worry about everything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:17",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:28",
+      "text": "It is not just about the clip. It is the idea that something went wrong when I trusted you. I feel a certain weight of this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:38",
+      "text": "I am sorry for any confusion this has caused. We were very busy in the theatre today and things move quickly during these cases."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:44",
+      "text": "Being busy is not a reason to make a mistake with a human being."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:51",
+      "text": "I hear you. But as I said, the error was corrected before you left the table."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:56",
+      "text": "And the clip? Is it gone? Is there any lasting damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:11",
+      "text": "Yes, the clip is gone. There is no lasting harm to your organs or your long-term health. The corrective step we took ensured that the surgery was completed successfully despite the error. Does that answer your question?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:24",
+      "text": "It does. But I still feel a deep distress. I cannot be the one who goes back home and says the doctors messed up. I don't know how to tell my wife."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:37",
+      "text": "Do you understand how it feels to have your dignity tied to your health? To be the pillar for everyone else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "It is common to feel that way after surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:46",
+      "text": "It is not just about the surgery. It is about the trust."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:53",
+      "text": "Right. Now, as for what happens next, we will just keep an eye on your recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:03:01",
+      "text": "What exactly does that mean? When do I go home? Do I need more tests because of this clip?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:11",
+      "text": "We'll just see how the incisions look tomorrow. You can probably stay tuned for an email from the ward clerk about your discharge papers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:19",
+      "text": "An email? I want to know if I need a follow-up scan to make sure nothing else was missed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:24",
+      "text": "We'll likely just see you at the standard post-op appointment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "Which is when?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:34",
+      "text": "I'm not entirely sure of the date right now. We will let you know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:46",
+      "text": "This is very vague. I need a clear plan so I can tell my family that everything is under control. I cannot go home with \"maybe\" and \"we'll see.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:51",
+      "text": "I think you'll be fine. We'll just monitor you as usual."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language and dismissive phrasing ('Right. Now, as for what happens next') to pivot away from the patient's emotional distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was explicitly named in the second turn using lay language, and comprehension was checked twice ('Does that make sense so far?' and 'Does that answer your question?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The resident offers an apology ('I am sorry for any confusion'), but immediately dilutes it with an excuse about being busy in the theatre."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident uses generic validation ('I understand') but fails to name specific emotions or engage with the patient's concerns about dignity and trust."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague responses ('stay tuned for an email', 'we'll just see', 'not entirely sure of the date')."
+    }
+  }
+}

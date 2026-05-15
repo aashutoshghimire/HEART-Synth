@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0106",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello, Mr. Chen. I wanted to come in and talk to you about your scan results from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "Hello doctor. Nurse tell me... the tumor is smaller."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "I need to correct that right away. There was a mistake in how the information was given to you. We told you the tumor shrank, but that was incorrect. The final report from the radiologist shows the tumor is stable, which means it is the same size as before."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "Same size? But nurse say... she say good news."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:47",
+      "text": "I know you were told that, and I am very sorry. Our team gave you information before the specialist had finished signing the official report. We were wrong to tell you it had shrunk. Does that make sense? Do you understand that the size has not actually changed?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:53",
+      "text": "I... I am confused. I thought... I told my son it was getting better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:01:00",
+      "text": "I can see you are confused, and I imagine it is frustrating to hear two different things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:05",
+      "text": "I feel... I feel like a fool. I told my family..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:09",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:13",
+      "text": "My son, he is very worried and I\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:24",
+      "text": "If we look at the actual images, the size is stable. This means the current treatment is keeping it from growing, even if it isn't shrinking."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:28",
+      "text": "But why did she say it was smaller?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:39",
+      "text": "It was a mistake by the medical team. We shared a preliminary result instead of waiting for the final one. I apologize for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "I just... I don't know what to believe now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "It is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:51",
+      "text": "I feel like maybe the doctors don't know\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:01:59",
+      "text": "Let me stop you there. The final report is the accurate one. The radiologist has double-checked the images."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "I just need a moment to..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:11",
+      "text": "I actually have to go check on another patient in a few minutes, so let's wrap this up quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "You are leaving?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:31",
+      "text": "I just want to make sure we have a plan. Since the tumor is stable, we are going to keep you on the same dose of medication for another four weeks. Then, we will do another scan. I want you to keep a log of any new pain you feel in your chest. Does that sound okay?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "I am still... I don't feel good about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "I know this is disappointing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "I told my son... he will be so sad."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:54",
+      "text": "We will focus on the fact that it is not growing. I will be the one to review your next scan personally before we speak."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "You will check it yourself?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:06",
+      "text": "Yes, I will. I will see you in the clinic in four weeks. I have to head out now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident interrupts the patient during an emotional bid ('Let me stop you there') and uses rushing language ('wrap this up quickly', 'I have to head out now')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the first turn, used lay language, and checked comprehension twice ('Does that make sense?', 'Do you understand...?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I am very sorry', 'I apologize') and the resident explicitly took responsibility for the team's error without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident named specific emotions ('confused', 'frustrating', 'disappointing') and engaged with the patient's distress."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific next steps (same dose), timeline (four weeks), patient role (keep a log of pain), and prevention (resident will personally review next scan)."
+    }
+  }
+}

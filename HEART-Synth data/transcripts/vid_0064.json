@@ -1,0 +1,219 @@
+{
+  "video_id": "vid_0064",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mrs. Al-Rashid, thank you for agreeing to speak with me and my supervisor. I have some very important and difficult news to share with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:15",
+      "text": "Is everything alright? I felt the pain in my stomach getting worse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:28",
+      "text": "I am afraid it is not alright. I made a serious mistake with your medication. I ordered ten times the amount of blood thinner that you were supposed to receive."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "What?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:44",
+      "text": "This meant you received far too much medicine, which caused you to bleed internally. That is why we had to take you for the emergency procedure this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:49",
+      "text": "I do not understand. You are the doctor. Why would this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:01:05",
+      "text": "I know this is shocking to hear. I want to be very clear: this was my error. I take full responsibility for this mistake, and I am deeply sorry for the harm and the fear this has caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:10",
+      "text": "I trusted you. I thought... I thought I was in safe hands."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:21",
+      "text": "I realize how frightening and betraying this must feel. It is incredibly difficult to be in this position, and I am truly sorry that I failed you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:25",
+      "text": "So I almost died because of a number?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:41",
+      "text": "In a way, yes. The dose was far too high. When I say blood thinner, it means the medicine that stops clots, but too much of it stops your blood from clotting where it is needed, which led to the bleeding. Does that make sense, or can I explain that part differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:46",
+      "text": "I think I understand. But how can this be allowed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:57",
+      "text": "It shouldn't be. It was a failure in how I entered the order. Please, take your time. I know this is a lot to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:07",
+      "text": "I cannot believe this. My family is going to be so upset. I feel so small in this hospital and now this happens."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:17",
+      "text": "It sounds like you feel overwhelmed and perhaps a bit powerless in all of this. It is completely understandable that you feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:22",
+      "text": "Yes. I just wanted to get well and go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:35",
+      "text": "I hear you. Your only focus should be getting better, not worrying about mistakes made by the staff. I am staying here with you for as long as you need today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "What happens now? Am I still in danger?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:55",
+      "text": "We have stopped the medication and the emergency procedure has stopped the bleeding. Right now, we are monitoring your blood levels every four hours to make sure they return to normal. I will be checking those results personally and will update you after every single blood draw."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:03:00",
+      "text": "And the medicine? Will you give me more of it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:16",
+      "text": "We have reviewed your chart with the rest of the team. We will restart a much lower, correct dose tomorrow morning, but only after the specialist confirms your levels are safe. I will come into your room at 8:00 AM tomorrow to explain the exact dose before it is given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:21",
+      "text": "I do not know if I can trust the medicine now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:37",
+      "text": "That is a very honest and fair reaction. To make sure this never happens again, I have already filed a formal incident report. The hospital is changing the way these specific medications are double-checked so that a second doctor must sign off on the dose before it ever reaches the patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "A second doctor? Why wasn't there one before?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:55",
+      "text": "That is exactly why we are changing the system. My mistake showed that our current check was not enough. I am committed to making sure no other patient goes through what you just experienced."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "I feel very dizzy just talking about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:09",
+      "text": "Let's just sit in silence for a moment. There is no rush. We can just be here until you feel a bit more steady."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:28",
+      "text": "I am the one who owes you thanks for your patience. Just so I am sure I haven't missed anything, do you have any questions about why the bleeding happened or what we are doing today?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:29",
+      "end_time": "00:04:33",
+      "text": "No. I think you told me. It was too much medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:34",
+      "end_time": "00:04:49",
+      "text": "That is correct. I will be back in two hours to give you another update on your blood tests. In the meantime, I will be at the nurse's station. If you feel any new pain or if you just want to talk more, please press your call button and I will come immediately. Does that sound okay to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:50",
+      "end_time": "00:04:53",
+      "text": "Yes. That is okay."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and explicitly offers to sit in silence when the patient feels dizzy."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, uses lay language, and checks comprehension twice ('Does that make sense', 'do you have any questions')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Directly states 'I am deeply sorry', takes full responsibility ('this was my error'), and maintains accountability throughout."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Names specific emotions ('frightening and betraying', 'overwhelmed and perhaps a bit powerless') and engages emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provides specific steps with timelines (blood levels every 4 hours, 8:00 AM visit), names patient role (call button), and addresses prevention (double-check system)."
+    }
+  }
+}

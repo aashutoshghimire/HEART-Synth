@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0219",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello, Ms. Patel. Thank you for meeting with me again. I have the answers to the questions you asked during our last visit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:15",
+      "text": "I hope you actually have them. I've been thinking about this all week."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "I do. To be completely clear about what happened, we gave you a contrast dye for your imaging when your creatinine levels\u2014which is the marker we use to see how your kidneys are filtering\u2014were too high. Because that level was elevated, the dye put your kidneys at risk for something called contrast nephropathy, which basically means the dye can cause sudden kidney inflammation or failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:36",
+      "text": "And you're telling me this now, in the second conversation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "Yes. The protocol should have been to either delay the scan or start you on intravenous fluids to protect the kidneys before the dye was given. That protocol was not followed. Does that explanation make sense, or can I clarify any of those terms for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:00",
+      "text": "It makes sense. It makes perfect sense that you ignored the blood work that was already in my chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:06",
+      "text": "I can see that you're feeling very skeptical about how we're handling this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:18",
+      "text": "Skeptical? I'm furious. I read every single consent form I sign. I trust my own research more than I trust this building. Who actually did this? Was it you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:28",
+      "text": "The medication was administered by the nursing staff after the order was placed. It was a failure in the system's checks and balances."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:35",
+      "text": "That's a very convenient answer. \"The system.\" I want to know who is responsible for the mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:41",
+      "text": "The clinical team oversaw the process. It was a breakdown in the workflow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:47",
+      "text": "So nobody is actually saying they messed up. Just that the \"workflow\" broke."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:52",
+      "text": "We are focusing on making sure the medical outcome is managed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "That is a redirection. I asked who is responsible."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "I understand this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:14",
+      "text": "No, you don't. You're explaining the chemistry of my kidneys and avoiding the fact that someone was negligent. Why should I trust that the \"plan\" to fix this isn't also just a \"system breakdown\"?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:30",
+      "text": "Because we are now monitoring your kidney function with a specific schedule. To make sure we're on the same page, do you have any other questions about the actual error itself, or how the dye affects your kidneys?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:35",
+      "text": "No, the facts are clear. The accountability is what's missing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:40",
+      "text": "I hear you. Right now, the most important thing is your health."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:47",
+      "text": "My health is exactly why I'm asking for an apology and an admission of fault."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "The situation was handled incorrectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "That is passive voice. You're talking like a textbook."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:00",
+      "text": "I am trying to give you the accurate medical picture."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:16",
+      "text": "I have the picture. I'm a software engineer. I deal with bugs and system failures every day. When a bug happens in my code, I don't blame the \"workflow,\" I find the person who wrote the line and we fix it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:21",
+      "text": "I realize you feel that the way I'm addressing this is insufficient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "It is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:41",
+      "text": "Let's talk about the next steps for your care. We have already started the hydration therapy. I need you to track your fluid intake and output on this log sheet today. I will be back at 4:00 PM to check your urine output and we will run another creatinine blood test tomorrow morning at 8:00 AM to see if the levels are trending down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "And if they aren't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:04:01",
+      "text": "Then we will consult the nephrology specialist, who is already aware of your case. You'll be the one to tell me if you notice any decrease in urination or new swelling in your ankles; that's a key sign we need to watch for."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:09",
+      "text": "I'll track the numbers. But I'm not signing any more consent forms without a witness I bring in myself."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "That is completely within your rights."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "I'm glad we agree on something."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:22",
+      "text": "I will see you at 4:00 PM for the check."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite the patient's repeated expressions of fury and skepticism."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (contrast dye given with high creatinine) is named in the first turn, lay language is used, and comprehension is checked twice (00:00:53 and 00:02:15)."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is consistently deflected to 'the system' and 'the workflow'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "While the resident names 'skeptical' and 'frustrating', they consistently meet the patient's emotional bids for accountability with factual redirection to the medical plan."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The plan includes specific steps (hydration, blood test), timelines (4:00 PM, 8:00 AM), a named patient role (tracking intake/output and monitoring swelling), and a prevention/escalation step (nephrology consult)."
+    }
+  }
+}

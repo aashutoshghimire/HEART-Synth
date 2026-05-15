@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0012",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello, Mrs. Al-Rashid. Thank you for agreeing to speak with me again today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "Hello, Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:20",
+      "text": "I know our last conversation left you with several questions, and I have spent the last two days getting the specific answers you asked for."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:21",
+      "end_time": "00:00:27",
+      "text": "I appreciate that you came back. I have been thinking about it since we last spoke."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:28",
+      "end_time": "00:00:36",
+      "text": "I can only imagine how heavy this has been on your mind. It is a very difficult situation to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:43",
+      "text": "I just do not understand. You are the doctors. I trusted you to watch me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:44",
+      "end_time": "00:00:59",
+      "text": "You did trust us, and we failed that trust. To be very clear about what happened, the order was for your blood pressure to be checked every fifteen minutes after the procedure because of the risks involved. However, those checks did not happen. Your blood pressure dropped, and because the monitoring wasn't done, we didn't realize it for two hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:05",
+      "text": "Two hours. I felt so dizzy. I thought it was just the medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:16",
+      "text": "That dizziness was because your blood pressure was too low, and we didn't catch it in time. Does that explanation make sense to you so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:21",
+      "text": "Yes. It makes sense. But why? Does this happen often here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:35",
+      "text": "It should not happen. I am sorry for any confusion the initial explanation caused, but the reality is that we were very busy on the ward that afternoon and the schedule was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:44",
+      "text": "I don't want to know if you were busy. I just want to know why I was left like that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:53",
+      "text": "I understand. I am sorry that we missed those checks. It was our responsibility to monitor you and we didn't do it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:02",
+      "text": "I have never had this happen. In my home, if a doctor makes a mistake, they do not usually tell the patient."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:09",
+      "text": "It can feel very unsettling when the person in charge tells you things went wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:15",
+      "text": "It is shocking. I feel... I feel like I cannot trust the monitors now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:19",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:23",
+      "text": "I keep wondering if something else was missed too."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:39",
+      "text": "That is a valid concern. Let me tell you exactly what we are doing to make sure this is corrected. First, I have personally updated your chart so that your current monitoring is flagged as high priority. Second, the nursing lead has implemented a new double-check system starting this morning where two nurses must sign off on the vitals every hour for the rest of your stay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "And who will check this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:59",
+      "text": "The head nurse, Sister Sarah, will be auditing the logs every eight hours. I will also be reviewing those logs myself during every single one of my rounds. Regarding your recovery, I have scheduled a follow-up with the cardiologist for tomorrow at 10:00 AM to ensure there are no long-term effects from that drop in pressure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "Tomorrow at ten. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:12",
+      "text": "Is there any part of that plan that you feel is missing or that you would like me to change?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "No. It sounds... very thorough."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:32",
+      "text": "I want to make sure you feel safe here. Do you feel that the explanation of the missing blood pressure checks is clear, or is there any part of the clinical side you want me to explain further?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:37",
+      "text": "No, I think I understand. You forgot to check the machine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:43",
+      "text": "Yes, that is correct. We missed the checks we were supposed to perform."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:48",
+      "text": "I still feel very strange about this. I do not like it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:56",
+      "text": "I hear you. This is a distressing experience and it is not how your care should have gone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:16",
+      "text": "Now, we focus on your recovery. I will come back in three hours to check your vitals with you personally, and we will look at the logs together so you can see that the checks are happening. Then, we will wait for the cardiologist tomorrow. Does that sound like a good way to proceed?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:17",
+      "end_time": "00:04:20",
+      "text": "Yes, Doctor. I would like to see the logs."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:25",
+      "text": "We will do exactly that. I will be back at 4:00 PM."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a steady pace during distress, and remains regulated under pushback."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error (missed BP checks) is named in the second turn, lay language is used, and comprehension is checked twice ('Does that explanation make sense...?' and 'Do you feel that the explanation... is clear?')."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Direct apologies are used ('I am sorry'), responsibility is explicitly taken ('we failed that trust', 'our responsibility'), and accountability is maintained when the patient expresses anger."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('heavy on your mind', 'unsettling', 'distressing experience') and engages with the patient's specific concerns about trust."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (double-check system, cardiologist follow-up), timelines (tomorrow at 10:00 AM, 4:00 PM), prevention (auditing logs), and a named patient role (reviewing logs together)."
+    }
+  }
+}

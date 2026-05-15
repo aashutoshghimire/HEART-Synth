@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0009",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Mrs. Al-Rashid, thank you for coming back to see me. Please, take a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:10",
+      "text": "Thank you, doctor. Is everything alright with the surgery planning?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:26",
+      "text": "I have some news to share with you, and I know this is difficult to hear. There was a mistake made with your imaging. Specifically, your MRI scan was stored under the same identification number as another patient's scan. Because of this, our surgical team reviewed the wrong images when deciding how to proceed with your operation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:30",
+      "text": "What? I do not understand. Another person's pictures?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:44",
+      "text": "Yes. The system put two different patients' images in the same digital folder. When the doctors looked at the screen, they saw someone else's MRI, not yours. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:51",
+      "text": "I... I cannot believe this. Was I given the wrong medicine? Was the surgery already done?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:07",
+      "text": "No, nothing has happened to your physical health. The surgery has not taken place yet. We caught the error during a final check today. To be clear, you have not been harmed, but the planning was based on the wrong data. Do you follow what I mean?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:17",
+      "text": "I just... I trust you. I come here because you are the expert. I did not think this could happen in a hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:22",
+      "text": "I know. This is a very heavy thing to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:31",
+      "text": "It is very frightening. What if the other doctor saw my pictures and did the wrong thing to that other person?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:42",
+      "text": "I understand. I'm sorry for any confusion this caused, but it was a very busy morning and these things sometimes happen when the system is overloaded."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:49",
+      "text": "I am not asking about the system, doctor. I am asking if I am safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:05",
+      "text": "You are safe. I want to walk you through exactly how we are fixing this. First, I have personally verified your correct images, and I have locked them in a new, unique file that cannot be mixed up. I have already notified the lead surgeon, Dr. Miller."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "Will the surgery be different now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:25",
+      "text": "It might be. Dr. Miller is reviewing your actual scans right now. We will meet again tomorrow at ten in the morning to give you the updated surgical plan. I will be here in the room with her."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:30",
+      "text": "I feel very uneasy. I do not know who to trust now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:40",
+      "text": "You are just saying that. My whole faith in this process is gone."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:56",
+      "text": "We have a very strict set of steps to make sure this never happens again. I have already filed a formal incident report to trigger a review of how the radiology department labels their files. We are implementing a double-check system where two different nurses must verify the accession number against your wristband before any image is opened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "And the other patient?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:07",
+      "text": "I cannot give you their details, but we are following the same disclosure process with them."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:12",
+      "text": "I just want to go home. I cannot think about this today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:28",
+      "text": "That is completely fine. We can stop here. I will call you at four o'clock this afternoon just to see if you have thought of any more questions. Then, I will see you tomorrow at ten for the final plan. Does that sound okay?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "Yes. Tomorrow at ten."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I will see you then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and adjusts pacing to distress, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the first turn using lay language, with comprehension checks ('Does that make sense so far?', 'Do you follow what I mean?'), and no false reassurance."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology is offered, but it is immediately diluted by an excuse regarding a 'busy morning' and 'overloaded' system."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand', 'This is a very heavy thing to process') without naming specific emotions back to the patient."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Specific next steps are provided with timelines (tomorrow at 10am, call at 4pm), the patient's role in the meeting is established, and prevention (incident report/double-check system) is addressed."
+    }
+  }
+}

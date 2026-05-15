@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0211",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello Mrs. Hernandez, and hello to your daughter. Thank you both for meeting with me. Dr. Miller is here with us as well."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:16",
+      "text": "Hola. Yes. What is happening? My mother is still feeling the pain in her chest."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "I want to talk to you about your care over the last few hours. Specifically, about your heart test, the ECG. The machine flagged an abnormal result early on, but I did not review that result for four hours. This meant the diagnosis of your cardiac event was delayed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "\u00bfQu\u00e9 dijo?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:44",
+      "text": "She is saying that the heart test showed a problem, but the doctor didn't see it for four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:49",
+      "text": "Four hours? Why? I was telling you I felt bad."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:00:58",
+      "text": "I am sorry for the confusion this caused. We were really busy on the floor today and the alert was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:05",
+      "text": "I felt so scared. I thought you were ignoring me. I kept calling the nurse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:09",
+      "text": "I can see that you are feeling frustrated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:18",
+      "text": "Frustrated is not the word. I am terrified. My heart is sick and the doctor did not look at the paper."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:24",
+      "text": "It is a very stressful situation to be in. I do understand that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:31",
+      "text": "Does this mean the delay made her sicker? Is she going to be okay now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:40",
+      "text": "Just to make sure I explained it clearly, do you understand why there was a delay in starting the treatment?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:46",
+      "text": "Yes, because the doctor did not check the machine. But is she okay now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:51",
+      "text": "We have started the correct medications now and we are monitoring her."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:57",
+      "text": "What happens now? What is the plan for the rest of the day?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:02",
+      "text": "We are just going to keep an eye on her."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:08",
+      "text": "For how long? Do we wait for another test? When does the specialist come?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:14",
+      "text": "We will see how she feels. We'll likely do more tests later on."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:21",
+      "text": "That is not a plan. I need to know if she is staying here or going home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:26",
+      "text": "We'll just stay tuned for the results from the labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:37",
+      "text": "I don't understand why you are being so vague. My mother is 67 years old. I need to know exactly what is being done today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:42",
+      "text": "I'm sorry, but we just have to wait and see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:48",
+      "text": "This is not acceptable. We need a doctor who tells us the steps."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:54",
+      "text": "We will just monitor the heart rate and let you know if anything changes."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to speak fully without interruption and remains regulated despite the patient's increasing frustration."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and a comprehension check was performed once."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology was offered, but it was immediately diluted by an excuse regarding being 'really busy on the floor today'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named specific emotions ('frustrated', 'stressful situation') and engaged with the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders such as 'keep an eye on her', 'stay tuned', and 'wait and see' without timelines or specific steps."
+    }
+  }
+}

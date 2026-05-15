@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0334",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hello, Ms. Nakamura. Thank you for meeting with me again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:11",
+      "text": "Hi. I've been reading about ABO incompatibility and transfusion reactions on my phone since we last spoke."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "I understand you have a lot of questions. Before we dive into those, I want to start by saying again how sorry I am. It was my responsibility to ensure your blood type was verified before the transfusion, and I failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:36",
+      "text": "You said it was compatible, but not ideal. What does that actually mean? Like, why does it matter if it works?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "That is a fair question. Essentially, there are different types of blood, and while we gave you blood that wouldn't cause a dangerous, immediate reaction, it wasn't your exact match. It\u2019s like using a part for a car that fits and works, but isn't the specific brand recommended for your exact model."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:03",
+      "text": "But if it's not the exact match, isn't there a risk that my body will attack it now? I'm reading here that antibodies can cause hemolysis."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:19",
+      "text": "It is completely understandable that you feel scared seeing terms like that online. When you're in a hospital for the first time and you see words like hemolysis, it feels like something is going wrong inside you right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:26",
+      "text": "It does. I just feel like I can't trust the process if something this basic was skipped."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:39",
+      "text": "I realize that the trust is broken. I took a shortcut in the verification process, and that is inexcusable. I am deeply sorry for the anxiety this is causing you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:45",
+      "text": "So, what happens now? Do I have to have another transfusion to fix this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:02:01",
+      "text": "No, you don't need another transfusion. The blood we gave you is already being processed by your body. Because it was compatible, we don't expect any long-term complications, but we are going to monitor you closely to be sure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "Monitor how?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:18",
+      "text": "We are going to draw your blood every twelve hours for the next two days to check your hemoglobin levels and look for any signs of those antibodies you mentioned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "And who is doing that? Are you doing it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:36",
+      "text": "I will be overseeing the labs, but I have also briefed the attending physician and the head nurse. They are both aware of the error and are double-checking every single order for your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:41",
+      "text": "Is this how it usually happens? That people just skip the check?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:57",
+      "text": "It shouldn't. It is a strict protocol for a reason. To make sure this doesn't happen to anyone else, I've already filed an incident report, and our department is holding a mandatory review meeting tomorrow to change how the checklist is signed off."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:08",
+      "text": "I just don't know if I can stop thinking about it. Every time I feel a chill or a headache, I'm wondering if it's the blood."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:21",
+      "text": "I can see how exhausting it is to be on high alert like that. It's a lot of pressure to put on yourself when you're already trying to recover from surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:31",
+      "text": "Exactly. I'm a grad student. I'm used to being the one with the answers, not the one wondering if the doctor forgot a step."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:39",
+      "text": "It's a very jarring shift to feel like you have to be the one auditing your own care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:44",
+      "text": "So the blood tests. When will I get those results?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:54",
+      "text": "I will come back to your room personally at 6:00 PM tonight to give you the results of the first set of labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:55",
+      "end_time": "00:03:58",
+      "text": "Every twelve hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:59",
+      "end_time": "00:04:03",
+      "text": "Yes. Tonight at six, and then tomorrow morning at six."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:08",
+      "text": "Okay. I'll keep my list of questions on my phone."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:16",
+      "text": "Please do. I want to make sure every concern you have is addressed. I'll see you at six."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts, allows the patient to express frustration and fear, and maintains a regulated pace throughout the encounter."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (failure to verify blood type) is named explicitly and lay language is used, but there are no explicit checks for patient comprehension (e.g., 'Does that make sense?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language, takes personal responsibility ('I failed to do that', 'I took a shortcut'), and maintains accountability under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('scared', 'anxiety', 'exhausting') and validates the patient's specific experience as a grad student."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific next steps (blood draws), clear timelines (6:00 PM tonight/tomorrow), a patient role (keeping the list of questions), and addresses prevention (incident report/review meeting)."
+    }
+  }
+}

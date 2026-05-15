@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0050",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mrs. Hernandez, thank you for coming in today. I wanted to sit down with you and your daughter to talk about your biopsy results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "\u00bfQu\u00e9 pas\u00f3? What is it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:24",
+      "text": "I have some very important news. I am so deeply sorry to have to tell you this, but we made a serious mistake with your biopsy sample."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "\u00bfUn error? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:36",
+      "text": "I am taking full responsibility for this. We gave you a diagnosis of cancer that was not yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:42",
+      "text": "I don't understand. You told me I had cancer. Now you say I don't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:57",
+      "text": "Exactly. The result you were given belonged to another patient. I am truly sorry for the fear and the pain this has caused you and your family. I feel terrible that we put you through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:02",
+      "text": "I have been crying for three days. I thought I was dying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:15",
+      "text": "I can only imagine how terrifying those last few days have been for you. To believe your life is changing in that way is an absolute nightmare. I am so sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:21",
+      "text": "I couldn't even eat. My daughter had to keep telling me to eat."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:34",
+      "text": "It makes complete sense that you couldn't eat. When you are facing that kind of news, everything else just stops. I am so glad your daughter was there to support you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "How did this happen? Who did it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:48",
+      "text": "There was some confusion in the lab and things didn't go quite right with the labels. It was a failure in our process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "So it was the lab? Not you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:01",
+      "text": "It doesn't matter where it happened. I am your doctor and this happened under my care. I apologize. I failed you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:06",
+      "text": "But is the cancer gone? Or did you just lose the paper?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:12",
+      "text": "There was an issue with the samples and the information got mixed up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:17",
+      "text": "I still don't understand. Do I have the cancer or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:22",
+      "text": "It was just a mix-up. The report you saw was not yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:27",
+      "text": "But what about my biopsy? What did it actually say?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "We are working on getting that sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "I want to know now. Am I sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:44",
+      "text": "We had some trouble with the specimen and there was a problem with how things were handled in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:51",
+      "text": "You are not telling me if I am sick. Why are you not telling me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:03",
+      "text": "I understand that you are anxious to know the truth right now. It is frustrating and scary to be in this limbo after already being told the worst."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I just want the truth."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:15",
+      "text": "I am committed to getting you the right answer. We are doing everything we can to fix the situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "When will I know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "We will see about the timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:28",
+      "text": "That is not an answer. Do I come back tomorrow? Next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:34",
+      "text": "Just stay tuned for an email or a call. We will let you know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:41",
+      "text": "I cannot just wait for an email. I need to know if I need treatment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:49",
+      "text": "I know this is incredibly stressful. Please know that I am personally overseeing this to make sure it's corrected."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:54",
+      "text": "My daughter told me we should ask for the manager."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:55",
+      "end_time": "00:04:05",
+      "text": "You have every right to do that. I will be honest with you, I am devastated that this happened. I want to make this right for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:11",
+      "text": "I don't care if you are sad. I want to know about my body."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:12",
+      "end_time": "00:04:22",
+      "text": "I hear you. I know the focus needs to be on your health, not my feelings. I am so sorry for the distress this has caused."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:26",
+      "text": "So what happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:27",
+      "end_time": "00:04:30",
+      "text": "We are looking into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:31",
+      "end_time": "00:04:34",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:35",
+      "end_time": "00:04:38",
+      "text": "As soon as possible."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:39",
+      "end_time": "00:04:42",
+      "text": "Who is doing the test again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:43",
+      "end_time": "00:04:46",
+      "text": "The team is handling it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:47",
+      "end_time": "00:04:51",
+      "text": "I feel like I can't trust anyone in this building."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:52",
+      "end_time": "00:05:05",
+      "text": "That is a completely valid feeling. We broke your trust today, and I know that a simple apology doesn't fix that. I am going to do everything in my power to earn it back."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:06",
+      "end_time": "00:05:09",
+      "text": "How?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:10",
+      "end_time": "00:05:14",
+      "text": "By being honest and by making sure we find your real result."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:15",
+      "end_time": "00:05:18",
+      "text": "When will the call come?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:19",
+      "end_time": "00:05:22",
+      "text": "We'll be in touch."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident never interrupts the patient, remains regulated under significant pushback, and allows the patient to express distress without rushing."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly in the second turn, but the resident failed to perform any comprehension checks throughout the encounter."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language, takes full personal responsibility ('I failed you'), and maintains this accountability despite the patient's anger."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('terrifying', 'nightmare', 'frustrating', 'scary') and references the patient's specific experience with her daughter and inability to eat."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague responses ('we'll see about the timing', 'stay tuned', 'we'll be in touch') with no specific timeline or prevention plan."
+    }
+  }
+}

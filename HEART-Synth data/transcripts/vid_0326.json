@@ -1,0 +1,261 @@
+{
+  "video_id": "vid_0326",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Rivera, thank you for coming back in to see me today. I know it has been a stressful few days since we last spoke."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:15",
+      "text": "It has. I just want to know if I am okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:26",
+      "text": "I can imagine how unsettling this is for you. I can see you are feeling cautious about everything right now, and that makes total sense."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:38",
+      "text": "I just don't want any more mistakes. I don't know if I am even supposed to be here, with my status and all. I don't want to cause problems."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:53",
+      "text": "Please know that your status has absolutely no bearing on your right to safe, high-quality care here. You aren't causing any problems by asking these questions. In fact, it is your right to have the answers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:00",
+      "text": "Okay. So, you said you were going to find out what actually happened with the medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:11",
+      "text": "I did. I spent some time yesterday reviewing the charts and talking with the pharmacy team. There was an issue with how the dose was calculated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:15",
+      "text": "What does that mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:25",
+      "text": "Well, we had some confusion regarding the numbers used for the chemotherapy. Things didn't quite go right with the weight entry in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:32",
+      "text": "I don't understand. The weight is just a number. How did that change the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:41",
+      "text": "It was just an issue with the data. The dose ended up being higher than what we wanted for your current state."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:46",
+      "text": "Higher? How much higher? Did I get too much poison?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:59",
+      "text": "I am sorry for any confusion this has caused you. We were just really busy in the clinic that day, and the system didn't alert us to the change in your weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:06",
+      "text": "So you're saying the system failed. But I feel sick. Is that because of the extra dose?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:17",
+      "text": "I can tell you're worried about why you're feeling this way, and it's completely understandable to be scared when you aren't getting a clear answer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:25",
+      "text": "I just want to know exactly what happened. Was it my fault? Did I tell you the wrong weight?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:32",
+      "text": "No, you didn't do anything wrong. There was just a discrepancy in the records we were using."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:38",
+      "text": "But you still haven't told me what happened. Did I get the wrong amount?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:45",
+      "text": "Like I mentioned, there was a problem with the calculation. We didn't use the most recent weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:53",
+      "text": "I still don't understand. I feel like you're talking around it. Did you give me too much chemotherapy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:59",
+      "text": "It was a situation where the dosage wasn't aligned with your current weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:04",
+      "text": "That is not a yes or no. Did I get too much?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:12",
+      "text": "I can see that this is very frustrating. I want to make sure we move forward correctly from here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:26",
+      "text": "I just want the truth. I can't afford to have something happen to me here. If I get sicker, I don't have anyone to help me because I can't tell people where I am."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:42",
+      "text": "I hear how isolated that makes you feel, and I want you to know I am here with you now. Let's talk about exactly how we are going to handle this moving forward so you can feel safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "I don't know if I feel safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:04:02",
+      "text": "I understand. Here is the concrete plan. First, I have already scheduled a blood draw for you tomorrow morning at 8:00 AM. We are going to check your kidney and liver function to ensure the extra dose didn't cause any internal stress."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:07",
+      "end_time": "00:04:22",
+      "text": "Then, I will meet with you personally tomorrow at 11:00 AM to go over those results. If the labs are normal, we will proceed with the next cycle. If they are elevated, we will delay the next dose by one week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:28",
+      "text": "What about the next time? How do I know this won't happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:44",
+      "text": "We have implemented a new double-check system. From now on, the nurse and I will both manually verify your weight on the scale immediately before the pharmacy prepares the bag. I will personally sign off on the weight used for every single dose you receive."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "So you'll check it yourselves? Not just the computer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:05:02",
+      "text": "Yes, we will be using the physical scale in the room and comparing it to the order together. You can even look at the scale with us to make sure the number is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:03",
+      "end_time": "00:05:08",
+      "text": "I guess that helps. I just... I don't want to be a burden."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:09",
+      "end_time": "00:05:21",
+      "text": "You are a patient in my care, Mr. Rivera. Ensuring your safety is my job, not a burden. I will be the one overseeing your dosing for the rest of this treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:22",
+      "end_time": "00:05:25",
+      "text": "Okay. Tomorrow at eight then."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:26",
+      "end_time": "00:05:34",
+      "text": "That's right. I will be the one to check you in. Do you have any other questions for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:35",
+      "end_time": "00:05:39",
+      "text": "Not right now. I just need to go home and rest."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:40",
+      "end_time": "00:05:46",
+      "text": "I completely understand. Please go and get some rest. I will see you tomorrow morning."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated despite repeated pushback regarding the error, and allows the patient to express their distress fully."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes and hedging ('things didn't quite go right', 'situation where the dosage wasn't aligned') and refuses to explicitly confirm the patient's direct question about receiving too much chemotherapy."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident's only apology is for 'confusion' rather than the error, and responsibility is deflected to the system ('the system didn't alert us') and the records ('discrepancy in the records')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('unsettling', 'scared', 'frustrating', 'isolated') and references the patient's specific concerns regarding their status and isolation."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific next steps with timelines (8 AM blood draw, 11 AM meeting), a named patient role (looking at the scale), and a concrete prevention plan (double-check system)."
+    }
+  }
+}

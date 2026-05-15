@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0040",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Thanks for coming back in, Mr. Lindqvist. I wanted to follow up on those questions you had after our last talk."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:17",
+      "text": "Right. Because the last talk left me with a lot of questions, to be honest. I've been thinking about it all week."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:21",
+      "text": "I know this has been a stressful situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:36",
+      "text": "Stressful isn't the word. I'm a former paramedic. I know how a referral chain works. You don't just mark a developmental screening as completed because a parent missed one appointment. That's not how the SOP works."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:49",
+      "text": "So, looking into the chart, the referral was entered, but after that first appointment was declined, the status was changed to completed in the EHR without any further follow-up attempts being logged."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:56",
+      "text": "Exactly. It was falsified. In any other context, we'd call that a falsified record. Who did it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:04",
+      "text": "It was just a failure in the administrative process, the system essentially allowed the task to be closed out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:16",
+      "text": "Stop blaming the software. A human being clicked the button. A human being decided that a child's developmental screen was finished when it never happened. Do you get that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:22",
+      "text": "I can see that you're feeling very angry about how this was handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:34",
+      "text": "I'm beyond angry. I'm disgusted. My kid missed a critical window for screening because someone wanted to clear their task list. Was this a systemic failure or just laziness?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:42",
+      "text": "It's just that we've been incredibly short-staffed lately and things can get overlooked when the volume is this high."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:58",
+      "text": "I don't care if you're running a war zone. You don't fake a completed screening. I want a written apology and I want to know exactly what is being done to make sure this doesn't happen to someone else."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:08",
+      "text": "I have to move through a few more things on the clinical side today, but we can look at the next steps now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:14",
+      "text": "I don't give a damn about your schedule. I'm talking about my son's healthcare."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:21",
+      "text": "I realize this is frustrating, but let's just focus on the plan to get him seen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:26",
+      "text": "You're dodging the accountability. Did you apologize for the error?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "I'm sorry for any confusion the scheduling process caused."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:38",
+      "text": "Confusion? This wasn't a misunderstanding of a date. This was a failure of care. You're speaking in circles."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:44",
+      "text": "Look, the fact is the screening didn't happen. But we can fix it now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "Fine. How?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:00",
+      "text": "I have already contacted the developmental pediatrician's office. I've requested an expedited slot. I'll call you by tomorrow at 4 PM to give you the exact date and time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "And what do I do in the meantime?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:15",
+      "text": "Just keep a log of any specific behaviors you've noticed at home so you can hand it to the specialist. That'll help the assessment move faster."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:22",
+      "text": "I've already got a log. I'm a clinician, remember? I've been tracking this for months."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "Right, well, that will be useful."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:36",
+      "text": "This doesn't change the fact that the record was wrong. Are you going to correct the chart or just leave the lie there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:42",
+      "text": "I'll make sure a note is added to the file explaining the delay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:50",
+      "text": "A note. Great. So the history will just say it was delayed, not that it was prematurely closed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:55",
+      "text": "I think that's the best way to handle it for now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "It's not. It's a cover-up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:04",
+      "text": "I really do understand that this is upsetting for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:05",
+      "end_time": "00:04:10",
+      "text": "You don't understand. You're just trying to get me out of the office."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:17",
+      "text": "I just want to make sure we have a clear path forward for your son."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:18",
+      "end_time": "00:04:25",
+      "text": "The path forward is for someone to actually take responsibility. Not the system. Not the staffing. A person."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:26",
+      "end_time": "00:04:30",
+      "text": "As I said, it was a failure in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:31",
+      "end_time": "00:04:35",
+      "text": "You're still doing it. You're still using the passive voice."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:36",
+      "end_time": "00:04:39",
+      "text": "I'm trying to explain the facts as they are."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:40",
+      "end_time": "00:04:46",
+      "text": "The fact is you're not apologizing for the mistake, you're apologizing for my reaction to it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:47",
+      "end_time": "00:04:50",
+      "text": "I've told you we're getting him in quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:51",
+      "end_time": "00:04:54",
+      "text": "Which you should have done months ago."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:55",
+      "end_time": "00:04:58",
+      "text": "I'll call you tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:59",
+      "end_time": "00:05:07",
+      "text": "I'll be waiting for that call. And if I don't hear from you by four, I'm calling the Patient Advocate's office."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:08",
+      "end_time": "00:05:11",
+      "text": "That's fine. I'll have the appointment time for you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language ('I have to move through a few more things', 'let's just focus on the plan') and shows defensive escalation under pushback."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named (referral status changed to completed without follow-up), but there are no comprehension checks throughout the interaction."
+    },
+    "A": {
+      "score": 0,
+      "justification": "Responsibility is consistently deflected to 'the administrative process', 'the system', and 'short-staffed' conditions."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('angry', 'upsetting') and acknowledges the patient's frustration."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides a specific next step (expedited slot), a clear timeline (call by tomorrow at 4 PM), a patient role (keep a log of behaviors), and addresses prevention (adding a note to the file)."
+    }
+  }
+}

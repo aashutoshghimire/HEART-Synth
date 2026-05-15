@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0121",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hi Mr. Rivera, I wanted to come back in and talk with you now that you're feeling a bit more settled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:25",
+      "text": "I want to apologize for what happened during your infusion today. It was our mistake, and the team and I are very sorry that you had to go through that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:34",
+      "text": "It was very bad. I thought... the other doctor told me I wouldn't feel sick. He said the medicine stops the vomiting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:45",
+      "text": "I know it was a really difficult experience. The thing is, there was some confusion with the orders. Things didn't go quite right with the pre-medication setup."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:52",
+      "text": "I don't understand. If the doctor said it was there, why did I get sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:02",
+      "text": "We had a bit of an issue with how the list was processed for today. It just didn't happen the way it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:09",
+      "text": "I was scared. I thought maybe... because of my papers... maybe I wasn't getting the same care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:20",
+      "text": "I have to go in a few minutes to see another patient, but I want to make sure we handle this. I understand that's worrying."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:24",
+      "text": "Does it change things? For next time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:29",
+      "text": "No, it doesn't change your care. I'm sorry you felt that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:37",
+      "text": "I just... I didn't want to say anything while it was happening. I didn't want to cause trouble."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:42",
+      "text": "But it was very intense, and we see that now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:46",
+      "text": "Will it happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:58",
+      "text": "I'm going to personally double-check the chart for your next appointment on Tuesday. I will verify the anti-nausea meds are active in the system twenty-four hours before you arrive."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "Tuesday. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:16",
+      "text": "Right. So, for your part, when you check in at the front desk on Tuesday, I want you to tell the nurse immediately that we need to verify the pre-meds before the infusion starts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:27",
+      "text": "Great. If you feel any nausea starting before the infusion, just tell the nurse right away."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "Is there anything else you're worried about right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:40",
+      "text": "I just wonder why the first doctor said one thing and then..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:46",
+      "text": "Like I said, there was some confusion with the system. It happens sometimes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:59",
+      "text": "Since I have to wrap this up and get to my next room, does that plan for Tuesday sound okay to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "Alright. I'll see you then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language multiple times ('I have to go in a few minutes', 'Since I have to wrap this up and get to my next room')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident never explicitly names the error (missing pre-medication), instead using platitudes like 'confusion with the orders' and 'didn't happen the way it should have'."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Resident uses direct apology language ('I want to apologize', 'I'm sorry') and explicitly takes responsibility ('It was our mistake')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand that's worrying', 'I'm sorry you felt that way') without naming specific emotions or engaging deeply with the patient's fear regarding their papers."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific next steps (double-check chart), a timeline (Tuesday/24 hours before), a named patient role (tell the nurse immediately), and addresses prevention."
+    }
+  }
+}

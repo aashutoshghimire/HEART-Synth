@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0024",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:13",
+      "text": "Hello Mrs. Kowalski, I am Dr. Miller. I am one of the residents here. I wanted to come in and talk to you about the monitoring of your grandchild's heart rate during the labor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:14",
+      "end_time": "00:00:28",
+      "text": "Oh, thank you doctor. It has been such a spiritual journey, this birth. We have been praying so hard for a healthy baby, and I just feel so blessed to be here with my daughter."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "I see. Well, looking at the records, the fetal heart rate tracing showed some decelerations. This means the baby's heart rate was dropping. The first clinician who saw it categorized it incorrectly. It was labeled as low risk when it was actually high risk."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:56",
+      "text": "I felt something in my soul that things weren't right. I kept asking the nurses if the baby was alright because I felt a heaviness in the room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:05",
+      "text": "It was identified two hours later by a second doctor who saw the severity. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:18",
+      "text": "I suppose it does. But why did it take two hours? I was praying for the baby and I felt like the baby was struggling. Were they not listening to the baby?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:25",
+      "text": "These things happen in a busy unit. The system for reviewing the tracings can be complex."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:39",
+      "text": "I just can't believe it. My heart is breaking thinking that the little one was suffering while we were just sitting there. I feel like we were abandoned by the care we expected."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:44",
+      "text": "Well, the important thing is that the second clinician corrected the category."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:55",
+      "text": "I feel so lost. I just want to know if my grandchild is going to be okay. I feel like I'm talking to a wall right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:00",
+      "text": "I understand. But as I said, the record was updated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:11",
+      "text": "I don't think you understand. This is a miracle we waited for. To think that a mistake was made with a soul so small... it's just devastating."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:16",
+      "text": "Let's focus on the current status. The baby is stable now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:23",
+      "text": "But who is responsible? Who looked at that screen and decided it was fine when it wasn't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:31",
+      "text": "The tracing was miscategorized. It's a known risk when multiple people are reviewing the same data over a shift."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:39",
+      "text": "I just want an apology. I want to know that someone cares that this happened to our family."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:45",
+      "text": "We are following the protocols now to make sure everything is monitored closely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:51",
+      "text": "You aren't even listening to me. I am telling you my heart is hurting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:58",
+      "text": "Look, I have to go check on another patient in a moment, so let's wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:06",
+      "text": "You're leaving? Now? I have so many questions. I feel like you're just reading a report to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:15",
+      "text": "I've explained what happened with the heart rate tracing. Is there anything else specifically about the clinical facts you need?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:26",
+      "text": "I need to know if this will affect the baby's brain. I need to know why the Lord allowed this negligence to happen in a hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:32",
+      "text": "There is no current evidence of permanent damage, but we will keep monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:37",
+      "text": "What happens next? How do we know this won't happen again tonight?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "We'll see how the next few hours go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:47",
+      "text": "That isn't an answer. Will there be a meeting? Will a supervisor call me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:53",
+      "text": "Just stay tuned for an email from the administration. They handle the formal reviews."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:04:00",
+      "text": "An email? I am sitting here in tears and you're telling me to check my email?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:06",
+      "text": "That is how the process works. I really have to get going now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('let's wrap this up', 'I really have to get going now') and shows defensive escalation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (miscategorization of heart rate tracing) was named explicitly in the second turn, lay language was used, and comprehension was checked once."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to the 'busy unit' and 'the system'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids regarding her 'breaking heart' and 'soul' were consistently met with factual redirection or generic phrases."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders such as 'we'll see how the next few hours go' and 'stay tuned for an email'."
+    }
+  }
+}

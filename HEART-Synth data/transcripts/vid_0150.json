@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0150",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Ms. Nakamura, I have your final results from the CT scan we did yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:17",
+      "text": "Oh, okay. I was reading on a forum that a CT angiogram can sometimes miss smaller clots, but the sensitivity is usually pretty high. Did it show the embolism?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:24",
+      "text": "It did. The scan showed a pulmonary embolism, which is a blood clot in your lung."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:33",
+      "text": "I knew it. I felt it in my chest. Why didn't you tell me yesterday? I was waiting for hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:49",
+      "text": "I want to be honest about what happened. There was a mistake. The clot was visible on the images, but the radiologist who did the preliminary read didn't include it in the report. Because of that, we didn't start your treatment for eighteen hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:56",
+      "text": "Eighteen hours? Wait, so the image was there, but the person reading it just... missed it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:00",
+      "text": "Yes, that is exactly what happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:11",
+      "text": "My god. I was lying there thinking I was just anxious. Was I in danger? While I was just sitting there waiting for you to come back?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:25",
+      "text": "I'm sorry for the confusion and the delay. We were incredibly busy yesterday with several admissions, and the report didn't get flagged for a second look until the attending radiologist reviewed it this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:35",
+      "text": "You're sorry for the confusion? This isn't confusion, this is a missed diagnosis. I could have had another clot. I could have died."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:39",
+      "text": "I can see that you're really scared right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:48",
+      "text": "Of course I'm scared! I'm twenty-three and I'm in a hospital bed because someone forgot to write something down in a report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:55",
+      "text": "I understand. Does that make sense so far, or can I clarify how the reporting process works?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:09",
+      "text": "I understand the process. You're saying the doctor looked at the picture, didn't see the clot, wrote the report, and then eighteen hours later another doctor looked at the same picture and saw it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:13",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:24",
+      "text": "How do I know the treatment you're giving me now is actually right? If you can miss a whole clot, what else did you miss?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:40",
+      "text": "I hear you. You've lost trust in us because of this delay. To make sure we are on the right track, I've already had the attending radiologist and the chief of pulmonary medicine double-check every single slice of your scan to confirm there are no other clots. They've both signed off on the current findings."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:48",
+      "text": "And now what? Do I just stay here and hope no one else forgets to read a chart?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:04",
+      "text": "Here is exactly what we are doing now. First, you are already on the Heparin drip, which prevents new clots from forming. We will keep you on that for the next five days. Second, I am scheduling a follow-up ultrasound for your legs tomorrow morning at 8:00 AM to see if there's a source clot there. Third, I've entered a hard-stop alert in your electronic chart that requires a manual sign-off from the attending physician every twelve hours regarding your coagulation levels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "What do I need to do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:24",
+      "text": "Your role is to monitor for any sudden increase in shortness of breath or chest pain. If you feel that, press the call button immediately. If you don't feel a change, you just need to stay in bed for the next twenty-four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "Is this going to happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:44",
+      "text": "We are filing a formal incident report today. This means the radiology department has to conduct a root-cause analysis to figure out why the preliminary read missed this and change their workflow so it doesn't happen to anyone else. I will bring you a copy of the report number so you can track the investigation if you want."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:51",
+      "text": "I just... I can't believe I spent all night waiting for a report that was already finished."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:04:07",
+      "text": "I know it's incredibly frustrating. I really need to step out to check on another patient who is crashing, but I'll be back in twenty minutes to check your vitals. Do you have any other questions before I go?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:11",
+      "text": "No. I just need to look at this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:12",
+      "end_time": "00:04:15",
+      "text": "I'll be back soon."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('I really need to step out to check on another patient who is crashing')."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error is explicitly named in the second turn, lay language is used throughout, and comprehension is checked twice ('Does that make sense so far' and 'Do you have any other questions')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While a direct apology is used, it is diluted by an excuse regarding being 'incredibly busy yesterday with several admissions.'"
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions twice ('scared', 'frustrating') and references the patient's loss of trust."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific steps with timelines (Heparin for 5 days, ultrasound tomorrow at 8 AM), defines the patient's role (monitor for shortness of breath), and addresses prevention (incident report/root-cause analysis)."
+    }
+  }
+}

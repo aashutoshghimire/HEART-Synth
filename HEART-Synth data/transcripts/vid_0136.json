@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0136",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Thompson, thank you for sitting down with me. I need to talk to you about something that happened during the monitoring of your granddaughter's baby."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "What is it? Is the baby alright?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:28",
+      "text": "The baby is doing well now, but I made a mistake. I reviewed the heart rate tracing earlier and I categorised it incorrectly. That means I missed some signs that the baby was struggling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "What do you mean? You missed something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "Yes. There were drops in the heart rate called decelerations. I told the team they were normal, but they weren't. A second doctor looked at it two hours later and saw that the baby was actually in distress. I am very sorry. This was my error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:57",
+      "text": "Two hours? You left a baby in danger for two hours because you didn't know how to read a chart?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:04",
+      "text": "I did. I was responsible for that review and I got it wrong. I apologize for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:12",
+      "text": "This is outrageous! Who is running this place? You're a doctor, aren't you? You're supposed to be the expert!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:16",
+      "text": "I understand you're angry, Mr. Thompson."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:26",
+      "text": "Angry? I'm bloody furious! My great-grandchild could have been killed because you were careless! How can you just sit there and say you're sorry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:31",
+      "text": "It is an unacceptable mistake. I take full responsibility for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:41",
+      "text": "I can't believe this. I trusted you people. Now tell me, why did it take another doctor to find it? Were you just guessing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:56",
+      "text": "No, I was reviewing the data, but I misinterpreted the patterns in the heart rate. I missed the severity of the drops. Does that make sense so far, or can I explain that part differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:03",
+      "text": "It makes sense that you failed. It doesn't make sense why you were allowed to do it!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:07",
+      "text": "I can see how frightening this is for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:14",
+      "text": "Frightening? It's a miracle the baby is okay! You're just giving me these fancy words."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:25",
+      "text": "I know. I'm sorry. Look, I have to check on a few other things quickly, but I want to make sure we get your questions answered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:32",
+      "text": "You have to go? You're leaving now? After telling me you messed up my family's baby?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:39",
+      "text": "I just need a moment to coordinate with the senior consultant, but I will be right back."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:50",
+      "text": "No! You stay right here! I want to know exactly what happens now. What are you doing to make sure this doesn't happen to someone else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:03",
+      "text": "I'm going to file a formal incident report today. We will also have a peer review of my charting for the last month to see where the gap in my training is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:10",
+      "text": "What about the baby? Is the baby actually fine or are you just saying that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:26",
+      "text": "The baby is stable now. The plan is for the neonatal team to do a full physical assessment every four hours for the next twenty-four hours. You can ask to see the nurse's checklist at each turn to verify the checks were done."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:32",
+      "text": "I don't know about any checklists. I just want to know why this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:39",
+      "text": "It happened because I misread the tracing. I'm sorry I let you and your family down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:46",
+      "text": "You've really let us down. I don't even know if I can trust anything you say now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:58",
+      "text": "I realize that trust is broken. I will be here for the next hour. Would you like me to bring the department head in here to talk with you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:04",
+      "text": "Yes. I want the boss. I want someone who knows what they're doing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:11",
+      "text": "I'll arrange that right now. I'll be back in ten minutes with the head of the department."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language ('check on a few other things quickly', 'I just need a moment') and attempts to leave the room while the patient is still distressed."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the second turn, lay language is used throughout, and comprehension is checked twice ('Does that make sense so far', 'can I explain that part differently')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language multiple times and takes full personal responsibility without deflection, even under intense pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('angry', 'frightening') and engages with the patient's distress, though some responses are met with a request for more than generic validation."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific next steps with timelines (assessments every 4 hours for 24 hours, back in 10 minutes), a patient role (verify checks via nurse's checklist), and addresses prevention (incident report and peer review)."
+    }
+  }
+}

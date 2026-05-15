@@ -1,0 +1,309 @@
+{
+  "video_id": "vid_0355",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Williams, thank you for waiting. I want to sit down with you for a moment. This is a difficult conversation to have, and I recognize that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:20",
+      "text": "I'm just... I'm really shaking. I can't believe I'm the one who had to tell the nurse the mark was on the wrong leg."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:25",
+      "text": "It is a very heavy realization to have right before a surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:41",
+      "text": "I just keep thinking, if I hadn't looked down, you would have just cut into the wrong side. I have two little kids at home. I can't be out of commission because of a mistake like this. Who is even supposed to watch them if something goes wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:01:01",
+      "text": "Do you? Because I'm working two jobs, and I barely have time to sleep as it is. I was told by the other doctor last week that this was a simple five-minute thing and I'd be fine. Now I'm sitting here terrified."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:08",
+      "text": "There was a mistake in the surgical site marking. The wrong leg was marked for the excision."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:12",
+      "text": "Why did that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:23",
+      "text": "We were really busy in the clinic this morning, and there was some confusion during the pre-operative marking process. I am sorry for any confusion this caused."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:29",
+      "text": "Confusion? You almost operated on the wrong leg. That's not confusion, that's a disaster."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:33",
+      "text": "I know this is upsetting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:49",
+      "text": "I'm not just upset, I'm scared. I can't afford for this to go wrong. My daughter is only three. If I'm incapacitated, I don't have a backup plan. Does this mean the other doctor was wrong about how simple this is?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:58",
+      "text": "The clinical side of the procedure is still the same, but the marking was incorrect. It's just a minor excision."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:10",
+      "text": "But you're contradicting what he said. He said it was a breeze. Now you're telling me there are \"marking processes\" and \"confusion.\" I don't know who to believe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "The procedure itself is a routine excision."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:22",
+      "text": "I just feel like I can't trust anyone here. I'm literally the only person who noticed the error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "I can see why you feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "What happens now? Am I still doing this today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "We will look into how to move forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:45",
+      "text": "That's it? You're \"looking into it\"? I need to know if I can go home and tell my kids I'm coming back, or if I'm staying here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:50",
+      "text": "We'll see what the attending says. Stay tuned for an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:57",
+      "text": "This is unbelievable. I'm sitting here panicked about my children and you're giving me \"stay tuned.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "I hear you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:06",
+      "text": "I want a real answer. Why was the wrong leg marked?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:14",
+      "text": "As I mentioned, the clinic was very rushed this morning and the system for marking wasn't followed correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:18",
+      "text": "So it's the system's fault? Not yours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "It was a breakdown in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:37",
+      "text": "I don't care about the process. I care about my leg. Do I even need this procedure right now? The other doctor said it was urgent, but now I'm wondering if everything he said was a lie."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "It is still a necessary procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:49",
+      "text": "I can't do this. I can't just go back in there and trust you people to cut me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:04:00",
+      "text": "I need to know exactly what is going to happen in the next ten minutes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:05",
+      "text": "Someone will come by eventually to let you know the plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "Eventually?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "Yes, once we've coordinated with the surgical team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:20",
+      "text": "I can't believe this. I am literally the only reason you didn't make a permanent mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "I know it is a very stressful situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:28",
+      "text": "Stressful doesn't even cover it. I'm terrified."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "I realize this is a lot to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:42",
+      "text": "What if it happens again? What if you mark the right leg now, but then forget which one is which in the room?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:43",
+      "end_time": "00:04:46",
+      "text": "We will be careful."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:47",
+      "end_time": "00:04:50",
+      "text": "Careful isn't a plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:51",
+      "end_time": "00:04:54",
+      "text": "We'll make sure it's right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:55",
+      "end_time": "00:05:00",
+      "text": "I don't know if I can do this today. I might just leave."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:01",
+      "end_time": "00:05:04",
+      "text": "That is your choice to make."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:05",
+      "end_time": "00:05:08",
+      "text": "Great. Thanks for the help."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:09",
+      "end_time": "00:05:12",
+      "text": "I'm sorry for the confusion."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly, but there were no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident deflects responsibility to the clinic being 'rushed' and describes the error as a 'breakdown in the process' and 'the system for marking wasn't followed.'"
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident relies on generic validation such as 'I understand,' 'I hear you,' and 'I know this is upsetting' without naming specific emotions or engaging with the patient's shared content about her children."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders such as 'we will look into how to move forward,' 'stay tuned,' and 'someone will come by eventually.'"
+    }
+  }
+}

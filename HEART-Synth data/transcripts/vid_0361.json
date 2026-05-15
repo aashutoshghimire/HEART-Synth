@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0361",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:03",
+      "text": "Hello, Ms. Tremblay. Please, come in. Have a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:04",
+      "end_time": "00:00:07",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:08",
+      "end_time": "00:00:16",
+      "text": "I want to talk to you about your X-ray from yesterday. This is a difficult conversation to have, but it is important."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:17",
+      "end_time": "00:00:20",
+      "text": "Is something wrong with my lung?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "No, that is not the problem. The problem is that we made a mistake with the X-ray. We put your body in the wrong position for the picture. Because of that, the image was not clear enough for us to use."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "But the doctor told me it was normal."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:54",
+      "text": "That is the second part of the mistake. The doctor looked at that blurry picture and said it looked normal, instead of telling us the picture was bad and needed to be done again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:00",
+      "text": "I do not understand. If it is blurry, how can it be normal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:13",
+      "text": "You are right. It cannot be. A blurry picture is not a good test. We gave you a result based on a bad image. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:18",
+      "text": "Yes. So you do not know if I am okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:22",
+      "text": "Exactly. We do not have a clear answer yet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:29",
+      "text": "This is a waste of my time. I have to return to my unit soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:33",
+      "text": "I understand this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:37",
+      "text": "I do not like not knowing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:44",
+      "text": "I hear you. It is stressful to be in limbo when you have a schedule to keep."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "I just want the truth. Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:02:00",
+      "text": "We were not careful enough with how we positioned you, and the doctor did not double-check the quality of the image. I am sorry for any confusion this caused."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:05",
+      "text": "You are sorry for the confusion? I am sorry for the mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:11",
+      "text": "We were very busy on the floor yesterday, and we rushed the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "That is not my problem."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:23",
+      "text": "You are right. It is not your problem. It is our responsibility to do it right the first time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "So what now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:42",
+      "text": "We need to take a new X-ray. I want to do that right now. I will personally make sure the technician positions you correctly and I will check the image myself before you leave the room."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "How long will that take?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:58",
+      "text": "The X-ray takes five minutes. The reading will take another thirty minutes. I will come back to your room and tell you the result personally by 2:00 PM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "And then I can go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:11",
+      "text": "If the X-ray is clear and your vitals are good, yes. I will give you the discharge papers at 2:00 PM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "Will this happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:31",
+      "text": "I am going to write a report about this error today. I will share it with the imaging team so we can change how we mark the positioning on the request forms. We want to make sure this doesn't happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "Fine. Let's just do it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:40",
+      "text": "I appreciate your patience. Let's go to the imaging suite now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish all turns and remains regulated under pushback, with no rushing language used."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, lay language used throughout, and comprehension checked twice ('Does that make sense so far?' and 'Exactly')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While a direct apology is used, it is diluted by an excuse regarding being 'very busy on the floor' and 'rushed the process'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrating', 'stressful') and references the patient's specific content regarding their schedule."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (new X-ray), clear timelines (2:00 PM), patient role (going to imaging suite), and a prevention strategy (report/form changes)."
+    }
+  }
+}

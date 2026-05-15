@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0157",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Williams, thank you for agreeing to sit down with me. I know it's been an incredibly long twenty-four hours for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "I'm just... I can't believe I'm back here. I was finally going home to my kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:27",
+      "text": "I can see how exhausted you are. This is a really difficult conversation to have, and I want to make sure we take all the time you need."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:38",
+      "text": "I just feel like my body is failing. I knew the surgery was a big deal. Maybe I just didn't heal right. It happens, right?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:54",
+      "text": "It is very common to feel like your body is the problem when something goes wrong. But I need to be honest about what happened. You were discharged six hours before the post-operative protocol required. That protocol is there to ensure the wound is stable before you leave."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:03",
+      "text": "What does that mean? I just thought I was recovering slowly. Like, the pain was there, and then the bleeding started."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:17",
+      "text": "It means you were sent home too early. In medical terms, we call it a protocol deviation. Essentially, we didn't wait for the required observation window to close before clearing you to leave."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:26",
+      "text": "But the nurse said I was good to go. I just thought... maybe my condition is just worse than you thought."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:35",
+      "text": "I know it feels that way, but this wasn't a result of your illness progressing. It was a mistake in our timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:46",
+      "text": "So it was just a mistake? I spent the whole night terrified that my kids were going to see me like this because I'm not getting better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:02:01",
+      "text": "Hearing that you were terrified and worrying about your children while you were suffering is heartbreaking. I can only imagine how overwhelming it is to manage two jobs and two little ones while dealing with this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:11",
+      "text": "It is overwhelming. I don't have anyone to even watch them while I'm back in this bed. I can't be away from them."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:19",
+      "text": "I hear how much pressure you're under. It is completely unfair that you're back here now because of this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:24",
+      "text": "So why did it happen? Was the hospital too busy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "The timing was handled incorrectly by the team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:39",
+      "text": "I just... if I'd known I wasn't supposed to leave, I would have stayed. I wouldn't have had to come back through the emergency room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:45",
+      "text": "That is true. You should have been kept here until it was safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:53",
+      "text": "Do you think this is going to make my recovery take longer? I can't afford to miss more work."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:03",
+      "text": "It's possible it will add a few days to your stay, but we are going to do everything we can to get you stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:08",
+      "text": "I just don't understand how a clock can cause this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:15",
+      "text": "It's a failure in our process. We didn't follow the set timeframe for your specific surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "I guess it doesn't matter why. I'm just here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:35",
+      "text": "I know this is frustrating. Let's talk about exactly what happens next so you know what to expect. First, I have already coordinated with the surgical team to have your wound re-evaluated and dressed within the next hour."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:52",
+      "text": "After that, you'll stay in a monitored bed for the next forty-eight hours. I will personally check your vitals and the wound every four hours to ensure there's no further bleeding."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "Will I be able to go home this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:05",
+      "text": "Yes, provided the wound remains stable. I'll give you a definitive update on your discharge date tomorrow morning by 10:00 AM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "I need to call my babysitter."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:10",
+      "end_time": "00:04:18",
+      "text": "Please do. Take as much time as you need on the phone. I'll be right outside the door if you need me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:19",
+      "end_time": "00:04:22",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:23",
+      "end_time": "00:04:26",
+      "text": "I'll be here."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows patient to finish all turns, uses no rushing language, and maintains a regulated pace throughout the distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but there were no comprehension checks (e.g., 'Does that make sense?') performed."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language such as 'I'm sorry' or 'I apologize' was used throughout the entire transcript."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident specifically names emotions ('terrified', 'overwhelming', 'frustrating') and references the patient's specific life context regarding her children and jobs."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Specific next steps and timelines were provided, but there was no named role for the patient in the plan and no mention of how to prevent the error in the future."
+    }
+  }
+}

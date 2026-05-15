@@ -1,0 +1,297 @@
+{
+  "video_id": "vid_0290",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mrs. Al-Rashid, thank you for coming in today. I have some information to share with you regarding your previous imaging scans, and it is something that is difficult to talk about."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "Is everything alright, Doctor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "Not exactly. When we reviewed your records, we found a mistake. There was a small finding on your scan from last year that needed a follow-up appointment in three months. This note was placed in a part of the report that the primary team didn't see, so that follow-up was never scheduled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "I don't understand. A mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "I know this is a lot to process. To put it simply, the radiologist saw something that needed a second look, but because of how the report was written, that message didn't get to the people who schedule the appointments. It was missed. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:00:57",
+      "text": "You are the doctor. I trusted that everything was being handled."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:06",
+      "text": "It is completely reasonable to trust your medical team. Does it feel a bit overwhelming to hear that something was missed?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:11",
+      "text": "I am just... I feel very confused. I thought I was healthy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:22",
+      "text": "It is a very unsettling feeling to realize the plan wasn't followed. I want to sit with you in this for a moment. There is no rush."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:26",
+      "text": "Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:42",
+      "text": "The information was documented in a sub-section of the report. It wasn't in the main summary, so the primary team didn't see it. It was a failure in how the information was passed along. To make sure I am being clear, do you understand why the appointment didn't happen?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:49",
+      "text": "Yes. The paper was not read correctly. But what does this mean for me now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:59",
+      "text": "That is the most important question. We need to address that finding now to see if it has changed or if it requires treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:04",
+      "text": "I can't believe this. I have been waiting for a year."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:14",
+      "text": "I can hear how distressing this is for you, especially since you've been trusting us for a whole year without knowing this was pending."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "Is it my fault for not asking more?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:28",
+      "text": "Not at all. You did everything you were supposed to do. You came to your appointments and followed the directions you were given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "If this was a mistake, who is responsible?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:42",
+      "text": "The system for forwarding reports failed in this instance. The notes were placed in a section that wasn't flagged for the clinical team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:47",
+      "text": "I just feel very shaken. I didn't expect this today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:57",
+      "text": "I know. This is a heavy thing to find out unexpectedly. We can just take a few minutes of silence if you need it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:02",
+      "text": "No, I want to know what happens next. I am worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:08",
+      "text": "That worry is completely valid. We are going to get this sorted out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "Will you fix it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "We will make sure the next steps are taken."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:21",
+      "text": "What are those steps? Do I need a new scan tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:26",
+      "text": "We will look into getting a new imaging study ordered soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:30",
+      "text": "When exactly? Monday? Tuesday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:36",
+      "text": "We will see what the schedule looks like and we'll get back to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:41",
+      "text": "I don't want to wait again. I need a date."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:50",
+      "text": "I understand the urgency. We will keep an eye on the system and someone will likely send an email or a letter."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:54",
+      "text": "A letter? I want to know for sure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:55",
+      "end_time": "00:03:58",
+      "text": "Just stay tuned for a notification from the office."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:05",
+      "text": "And the doctor who missed it? Will they be the one doing the new scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:13",
+      "text": "It was a documentation error in the report. We'll just make sure the current team handles the next scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "I feel like I cannot trust the papers anymore."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:26",
+      "text": "I can see why you'd feel that way. When the record doesn't match the care you received, it breaks that trust."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:27",
+      "end_time": "00:04:30",
+      "text": "What do I do now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:31",
+      "end_time": "00:04:36",
+      "text": "For now, you just need to wait for us to coordinate the new appointment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:37",
+      "end_time": "00:04:40",
+      "text": "How do I know it won't be missed again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:41",
+      "end_time": "00:04:44",
+      "text": "We are aware of the issue now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:49",
+      "text": "But how? Give me a reason to believe it won't happen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:54",
+      "text": "We'll just be more careful with the reports moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:55",
+      "end_time": "00:04:59",
+      "text": "I will go home and think about this. I feel very uneasy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:00",
+      "end_time": "00:05:07",
+      "text": "I know this isn't the news you expected, and it's okay to feel uneasy. We'll be in touch."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows for silence, never interrupts, and remains regulated even when the patient expresses distrust and urgency."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, used lay language, checked comprehension twice ('Does that make sense so far?', 'do you understand why...'), and avoided false reassurance."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') was used, and responsibility was deflected to 'the system' and 'documentation error'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident specifically named emotions ('overwhelming', 'unsettling', 'distressing', 'shaken', 'uneasy') and engaged with the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The plan consists entirely of placeholders ('we'll see what the schedule looks like', 'stay tuned', 'someone will likely send an email') with no specific timeline or patient role."
+    }
+  }
+}

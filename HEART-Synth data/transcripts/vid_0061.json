@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0061",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hello Mr. Thompson. I would like to sit down and talk with you about how things have been going since your surgery. Is that alright?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:15",
+      "text": "Oh, hello doctor. Yes, please. I'm just a bit tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:27",
+      "text": "I understand. I need to tell you that something went wrong with your care after the operation. We didn't check your blood pressure as often as we should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "What happened? Did the surgery fail?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:47",
+      "text": "The surgery itself went well. But afterwards, we are supposed to check your vitals, like your blood pressure, every hour. For two hours, those checks didn't happen. During that time, your blood pressure dropped quite low, and we didn't catch it right away."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:52",
+      "text": "I don't... I don't understand. You mean you forgot me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:08",
+      "text": "It was a failure in our monitoring process. Because we missed those checks, your blood pressure stayed low for longer than it should have. Just to make sure I'm being clear, can you tell me what you understood from what I just said?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:15",
+      "text": "You missed... you missed the checks. My pressure went down. Does that mean I'm going to die?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:22",
+      "text": "I can see that this is very frightening to hear. It is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:30",
+      "text": "I just want to go home. I can't... I can't be in here if you're forgetting me. I'm scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:35",
+      "text": "This is a very difficult and heavy moment. Please take your time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:39",
+      "text": "Is it my heart? Is my heart failing now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:49",
+      "text": "No, your heart is still strong. The low blood pressure is a complication from the missed monitoring, not a failure of your heart."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:54",
+      "text": "Why did it happen? You're all supposed to be doctors."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:07",
+      "text": "I am sorry. I apologize. We were really busy on the ward, but that is no excuse for missing these checks. We failed to follow the safety protocol for your recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:14",
+      "text": "I feel like I'm just a number here. I'm eighty-one years old, I can't handle more problems."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:23",
+      "text": "It sounds like you feel overlooked and unprotected, and that is a terrible way to feel when you are in a hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "Yes. Exactly. It's just... it's too much."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:35",
+      "text": "I know it is. I am going to stay right here with you for as long as you need."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "What happens now? Am I okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:55",
+      "text": "Right now, your blood pressure is back to a safe level. To make sure you stay stable, I have a specific plan. First, I have ordered a continuous blood pressure monitor for your arm. This means a machine will alert us every single minute if your pressure drops, so we don't have to rely on a manual check."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "Every minute?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:15",
+      "text": "Yes, every minute. I will personally check your chart every two hours for the rest of the day to verify the readings myself. If you feel dizzy or if your chest feels tight, I want you to press this red call button immediately. That is your role\u2014tell us the second you feel different."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "I can do that. I can press the button."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:28",
+      "text": "I'm glad. To make sure we're on the same page, what is the plan for the rest of the day?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:38",
+      "text": "You'll check me every two hours. And I have a machine on my arm. And I press the button if I feel dizzy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "That is exactly right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "Will this happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:04:01",
+      "text": "I cannot change the past, but I am working with the head nurse to change how we log these checks so no one is missed again. We are reviewing the schedule for the whole ward this afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "I just... I'm still a bit shaky."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:16",
+      "text": "I understand. It's okay to feel shaky. We will take this one hour at a time. I'll stay here with you for a few more minutes."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and uses calming language throughout the patient's distress."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, lay language used throughout, and comprehension checked twice (at 01:09 and 03:20)."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Direct apology used ('I am sorry. I apologize'), responsibility is explicitly taken by the team, and no deflection occurs despite the patient's pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions are named back ('frightening', 'overlooked and unprotected') and the resident engages with the patient's emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (continuous monitor, 2-hour chart checks), timelines, a named patient role (pressing the red button), and a prevention strategy (reviewing ward schedules)."
+    }
+  }
+}

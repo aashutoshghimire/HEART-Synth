@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0068",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hi Mr. Park, thanks for coming back in to see me. I wanted to touch base about your discharge papers from Tuesday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:17",
+      "text": "Oh, okay. Is everything alright? I tried to call that clinic you wrote down and they told me they couldn't take me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:28",
+      "text": "I am so sorry. This is entirely my fault. I gave you the wrong referral information and I feel terrible for the stress this caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:40",
+      "text": "It was just kind of confusing. I didn't know if I was doing something wrong with my insurance card or if I should have just paid out of pocket."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:49",
+      "text": "It is my mistake, not yours. I take full responsibility for this. I really apologize for putting you in that position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:01:05",
+      "text": "I guess I just don't really know how this works. My parents usually handle the doctor stuff and I didn't want to bother them since I'm in school now. I felt kind of awkward on the phone when they told me no."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:15",
+      "text": "I can tell you're feeling a bit overwhelmed by the whole process. It's a lot to manage on your own for the first time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:26",
+      "text": "Yeah, it is. I just wanted to make sure I was following the rules. I didn't want to get in trouble with the insurance company or something."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:36",
+      "text": "There's been a bit of a mix-up with the clinic list. Things didn't exactly go the way they should have with your paperwork."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:43",
+      "text": "But why did they say they couldn't see me? Was it because of my plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:52",
+      "text": "We had some issues with the coordination of the clinic list. It's just a systemic glitch in how we plot the referrals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "So I can't go there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:08",
+      "text": "Right. We just need to shift gears. Look, I have to go see another patient in a few minutes, so let's wrap this up quickly and get you sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:16",
+      "text": "Oh, okay. I just... I was worried that if I didn't get the check-up, the infection might come back."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:32",
+      "text": "Now, listen, we are going to fix this right now. First, I have already called Dr. Aris at the Westside Clinic. They accept your specific insurance and they have an opening for you this Friday at 10:00 AM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "Friday? That works. I have a gap between classes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:52",
+      "text": "Great. I've already sent your medical records over to them via secure fax so you don't have to carry a folder of papers. All you need to do is show up with your ID and your insurance card."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "Do I need to call them to confirm?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:09",
+      "text": "I've already handled the confirmation, but I want you to call them tomorrow morning at 9:00 AM just to double-check the parking instructions so you aren't stressed. That'll be your only job."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:13",
+      "text": "Okay, I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:29",
+      "text": "And to make sure this doesn't happen again, I'm updating our internal discharge template for this specific insurance group. I'm also adding a mandatory double-check step where a nurse verifies the insurance against the clinic's provider list before the paper ever hits the patient's hand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "I appreciate that. I was just really nervous I'd messed something up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:40",
+      "text": "You didn't do anything wrong. Again, I am deeply sorry I let this happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "It's okay. I just..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:51",
+      "text": "I really have to run to that other room, but you're all set for Friday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:56",
+      "text": "Wait, do I need a new printout of the address?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:06",
+      "text": "I'm handing you a new slip right now with the Westside address and the phone number. We're good here. See you later, Mr. Park."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language multiple times, specifically stating 'let's wrap this up quickly' and 'I really have to run to that other room'."
+    },
+    "E": {
+      "score": 0,
+      "justification": "While the resident admits fault, they use platitudes and vague hedging to explain the cause, such as 'a bit of a mix-up with the clinic list' and 'a systemic glitch'."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am so sorry', 'I apologize') and takes full personal responsibility without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('feeling a bit overwhelmed', 'nervous') and references the patient's specific situation regarding managing things on their own."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides a specific next step with a timeline (Friday at 10:00 AM), a named patient role (call tomorrow at 9:00 AM), and a prevention plan (updating templates and adding a nurse double-check)."
+    }
+  }
+}

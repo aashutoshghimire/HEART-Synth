@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0335",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Williams, I wanted to come back in and talk to you about how the procedure went and a mistake that was made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:18",
+      "text": "Oh, thank you. The other doctor told me that the numbing worked perfectly and that I shouldn't have felt much of anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:34",
+      "text": "That's actually why I'm here. To be clear, the numbing was not adequate. I did not check your pain levels while I was stitching the laceration, and as a result, you experienced pain that you should not have felt. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:43",
+      "text": "I mean, it hurt. It hurt a lot. I thought maybe I was just sensitive or something because the other doctor said\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:44",
+      "end_time": "00:00:59",
+      "text": "No, it wasn't your sensitivity. I failed to ensure you were properly anesthetized. I'm sorry for any confusion this caused and I'm sorry that you went through that. We were incredibly busy in the ER today and it just happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:15",
+      "text": "It just felt like I was screaming and no one was listening. I just keep thinking about my kids. If I can't get back to work because I'm stressed or if this doesn't heal right, I don't know what I'm going to do. I have two jobs, I can't afford to\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:20",
+      "text": "I can see that you're feeling completely overwhelmed right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:31",
+      "text": "I am. I'm terrified. I can't even think straight. I just need to know if this means the wound is worse or if I'm going to have\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:40",
+      "text": "Let's wrap up the medical part quickly so we can move forward. The wound itself is closed and the stitching is secure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:53",
+      "text": "But you said you didn't check the pain. Does that mean you rushed the stitches? Is it going to open up? I can't be coming back here every week, my kids are\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:02:09",
+      "text": "I didn't rush the actual sewing of the skin, just the check for pain. To make sure we're on the same page, do you understand that the error was only with the numbing and not with the actual repair of the cut?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:17",
+      "text": "I guess. It just feels like a lot. I'm just so scared about my recovery. I can't be incapacitated."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:33",
+      "text": "I understand. Now, here is the plan for your care. First, you need to keep the area dry for forty-eight hours. I've written the specific cleaning instructions on this paper. Second, you will come back this Friday at 10:00 AM for a suture check. Third, I am filing a formal incident report today to ensure our team implements a mandatory pain-check protocol for all lacerations so this doesn't happen to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:44",
+      "text": "Will it be the same doctor? Because I don't think I want to see the person who told me it was fine when it wasn't."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:52",
+      "text": "You can choose. I can schedule you with my attending physician or a different resident. Which would you prefer?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:03:01",
+      "text": "The attending, please. I just want someone who is going to be honest with me. I can't deal with any more guessing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:17",
+      "text": "I will put that request in the chart right now. So, just to recap: keep it dry for two days, come back Friday at ten, and you'll be seeing the attending. Do you have any other questions about the healing process?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:25",
+      "text": "What if it starts hurting again tonight? I don't know if I can just sit and wait until Friday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:38",
+      "text": "You can call the triage line at this number if you notice increased swelling or redness. But as for the pain, it should be minimal now that the procedure is over."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:50",
+      "text": "I just keep thinking about how I felt on that table. It was so scary. I felt like I was fighting for my life and you were just\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:59",
+      "text": "I have to go actually, I've got another patient in Room 4. But we've got the plan set. Friday at ten."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('Let's wrap up the medical part quickly') and cuts the conversation short to see another patient."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in first turn, lay language used, comprehension checked twice ('Does that make sense so far?' and 'do you understand...'), and no false reassurance given."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apology is used, but it is diluted by an excuse regarding being 'incredibly busy in the ER today'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names a specific emotion ('completely overwhelmed') and engages the patient's distress, though later redirects a final emotional bid."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (dry for 48 hours, Friday at 10 AM), patient role (cleaning/attending), and prevention (incident report/protocol)."
+    }
+  }
+}

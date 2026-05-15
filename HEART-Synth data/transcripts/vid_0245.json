@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0245",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hi Ms. Tremblay, thanks for coming back in to see me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:10",
+      "text": "I don't really have much time. I have to get back to base."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:19",
+      "text": "I understand. I wanted to talk to you about the follow-up instructions we gave you when you were discharged yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:20",
+      "end_time": "00:00:24",
+      "text": "Right. The clinic appointment. There is a problem with it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:31",
+      "text": "Yeah, it looks like there was some confusion with the paperwork regarding where you were sent."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:39",
+      "text": "I tried to call them this morning. They told me they don't take my insurance. Tricare isn't accepted there."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:52",
+      "text": "I am sorry. My team and I made a mistake in how we coordinated your care. We should have verified the provider's network before putting it in your discharge papers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:04",
+      "text": "I don't care whose fault it is. I just don't have an appointment and I need to get this cleared up so I can get back to work."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:14",
+      "text": "I can see that this is frustrating. You're just trying to get back to your duties and now you have to deal with this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:18",
+      "text": "Exactly. So what happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:24",
+      "text": "We are looking into it. We just need to find another spot that works."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:29",
+      "text": "When will I know? I can't just stay in limbo."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:35",
+      "text": "I'm not sure yet, but we'll probably get an email out to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:39",
+      "text": "An email? When? Today? Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:45",
+      "text": "I'll have to check with the coordinator. Just stay tuned for an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:50",
+      "text": "That isn't a plan. I need a date and a time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:02:00",
+      "text": "I know, and I'm sorry for the mix-up. It was our error. But the system for scheduling is a bit slow on Tuesdays."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:07",
+      "text": "I don't need to know about the system. I need to know who is treating me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:12",
+      "text": "Well, we'll see what we can do. I just need to\u2014"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:20",
+      "text": "I'm sorry, you're interrupting me. I'm telling you that my commanding officer needs my medical clearance by Friday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:30",
+      "text": "I have to go in a couple of minutes for rounds, so let's wrap this up. I'll definitely look into a new clinic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "You're leaving? Now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:41",
+      "text": "Yes, but I've heard your concern. We'll figure out a way to get you seen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:52",
+      "text": "This is unacceptable. You're telling me you messed up my referral and now you're telling me to wait for an email that might not come until tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:02:58",
+      "text": "I realize this is an inconvenience. I'll do my best to get it sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:03",
+      "text": "It's not an inconvenience, it's a failure in the process."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I agree, we dropped the ball here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "So what is the actual next step?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:17",
+      "text": "Like I said, I'll check with the staff. We'll get back to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:23",
+      "text": "That's not a specific step. Do I call someone? Do I go somewhere?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "Just wait for the update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "This is a waste of my time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "I apologize again for the mistake. I really do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "Your apology doesn't get me a doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "I understand. I'll try to make it happen quickly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language ('let's wrap this up') and interrupts the patient's explanation of their deadline."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly, but there are no comprehension checks performed throughout the interaction."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Resident uses direct apology language, takes responsibility for the team, and maintains accountability despite patient pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names a specific emotion ('frustrating') and references the patient's desire to return to their duties."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders ('stay tuned', 'we'll figure out a way') without specific steps, timelines, or patient roles."
+    }
+  }
+}

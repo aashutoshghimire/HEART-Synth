@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0301",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Mr. Lindqvist, thank you for coming in. I asked your daughter to join us as well. I have some difficult news to share regarding your imaging from four months ago. There was a mistake in how your results were communicated, and as a result, a necessary follow-up was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:24",
+      "text": "A mistake? What do you mean by a mistake? I saw the report on the portal, it said everything was fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:40",
+      "text": "I am deeply sorry. I want to be clear: we failed you. An incidental finding was noted in a sub-section of the radiology report. Because of the way the report was structured, that specific finding wasn't forwarded to the primary clinical team, and I didn't catch it. It was my responsibility to ensure every part of that report was reviewed, and I missed it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:56",
+      "text": "An incidental finding? You're talking about the pulmonary nodule. I saw the mention of a three-month follow-up in the footnotes. I assumed the doctor saw it and decided it wasn't urgent. Now you're telling me you just forgot to look at the bottom of the page?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:08",
+      "text": "You are absolutely right to be angry. I completely missed that recommendation for a repeat scan. There is no excuse for that. I take full responsibility for this oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:24",
+      "text": "This is unbelievable. I spent fifteen years as a paramedic. I know exactly how a missed follow-up on a nodule can change a prognosis. You're talking about a window of time that we just lost. My daughter has been telling me for weeks that we should have called to double-check."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:40",
+      "text": "It is devastating to hear that you feel you had to monitor your own care because we weren't doing our jobs. It makes complete sense that you feel betrayed by the system right now, especially given your professional background. You trusted us with your health, and I let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:54",
+      "text": "I don't want your empathy right now. I want to know why the system allows a \"sub-section\" to be hidden from the primary team. Is this a software glitch or just pure incompetence?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:05",
+      "text": "It is a combination of how the reporting software categorizes secondary findings and my own failure to scroll through the entire document. I failed to be thorough."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "So what happens now? Do I just wait another three months?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:26",
+      "text": "No, we need to act immediately. I have already coordinated with radiology. We have a slot for a repeat CT scan tomorrow morning at 8:00 AM. I will be the one personally calling the radiologist the moment that scan is completed to get the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:33",
+      "text": "Tomorrow morning. Fine. And then what? I'm not just taking your word that you'll remember this time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:49",
+      "text": "I understand that trust is broken. To make sure this is tracked, I am entering a formal \"critical flag\" in your electronic chart today. This means any clinician who opens your file will see a prominent alert regarding this follow-up. I will also email you and your daughter the appointment confirmation and a direct line to my personal pager."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:56",
+      "text": "I still can't get over the fact that this was just a clerical error. A footnote."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:07",
+      "text": "I know it feels absurd and infuriating that something so small caused this. I can't change that it happened, but I am committed to fixing it now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:17",
+      "text": "We're going to need a full copy of the audit trail for these reports. I want to see who saw what and when."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:27",
+      "text": "I will arrange for a full copy of the imaging communication logs to be printed for you by the end of the day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "This is just\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:42",
+      "text": "Look, I have to go check on a patient in the ICU, so let's wrap this up. We have the scan for tomorrow at 8:00."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:49",
+      "text": "You have to go? We are talking about my lungs and you're rushing out the door?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:50",
+      "end_time": "00:03:58",
+      "text": "I apologize, I just need to be quick. I've set up the scan and the flags. I'll call you tomorrow afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:07",
+      "text": "This is exactly the kind of attitude that leads to these errors. You're treating this like a checklist instead of my life."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:23",
+      "text": "I am truly sorry for how I'm handling this moment. I do care deeply about this, and I am personally devastated that I made this error. I want to make sure we get the scan done first thing tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "I'm still not satisfied."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:43",
+      "text": "I understand. Once we have the results tomorrow, we will sit down again, and I will bring the department head into the conversation to discuss how we are changing the reporting process so this doesn't happen to anyone else."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language ('let's wrap this up', 'I just need to be quick') when attempting to leave for the ICU."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly in the first turn, but there were no comprehension checks performed throughout the transcript."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language and took full personal responsibility ('I missed it', 'I let you down') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('angry', 'betrayed', 'infuriating') and referenced the patient's professional background as a paramedic."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provided specific next steps with timelines (CT scan tomorrow at 8:00 AM) and prevention (critical flag), but did not define a specific role for the patient in the plan."
+    }
+  }
+}

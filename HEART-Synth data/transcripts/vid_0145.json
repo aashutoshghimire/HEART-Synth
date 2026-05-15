@@ -1,0 +1,357 @@
+{
+  "video_id": "vid_0145",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Hello Mr. Chen. Good to see you back in the clinic. How are you feeling today?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:10",
+      "text": "I feel okay. A little tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:26",
+      "text": "I understand. Now, before we go over your labs, there is something I need to tell you about your hospital stay. I am so sorry. I made a mistake during your surgery preparation. I personally failed to verify your blood type correctly before the transfusion. This is my fault and I take full responsibility for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:30",
+      "text": "Mistake? What mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:37",
+      "text": "There was an issue with the blood you received. Things didn't go quite right with the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:41",
+      "text": "I don't... what happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:48",
+      "text": "It just wasn't the ideal situation. But I am truly sorry. I apologize deeply for my error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "But I feel okay. Is it bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:00:58",
+      "text": "I understand you feel okay. Let me just explain that we are monitoring you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:02",
+      "text": "Why you sorry? What did you do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:15",
+      "text": "Like I said, there was some confusion with the blood verification. It was my responsibility to check it and I didn't do it the right way. I am very sorry for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "I don't understand. What blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:27",
+      "text": "It's just a technicality with the blood type. Anyway, we need to look at your current blood pressure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:31",
+      "text": "I am confused. Did I get wrong blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:39",
+      "text": "We had a bit of a mix-up with the protocol. Again, I am sorry. I failed you there."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "Is it dangerous? Am I sick now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:49",
+      "text": "I understand. But look, the important thing is that you are here now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:53",
+      "text": "But you said mistake. Big mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:02:04",
+      "text": "It was an error on my part. I apologize. Now, I have to get through these other charts, so let's look at your leg incision."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:08",
+      "text": "Wait. My blood. Is it okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:12",
+      "text": "It's fine. Everything is fine now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "Why you tell me if it is fine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:22",
+      "text": "Because it's important to be honest that I made a mistake. I'm sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "I don't... I don't know what you mean."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "It's just that the verification step was skipped."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "Verification? What is that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:39",
+      "text": "It just means we didn't double check the blood type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "So you give me wrong blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "There was some confusion in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "I am scared. Is my heart okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:56",
+      "text": "I understand. Now, let's move on to the physical exam."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "No, please. Tell me more."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:06",
+      "text": "We'll just keep an eye on things. We will see how it goes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "When? How?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:15",
+      "text": "We'll just stay tuned for the next set of labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "What do I do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "Just come back when the appointment says."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "I don't understand why this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:32",
+      "text": "I already apologized. I take full responsibility for the mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "But what was the mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:42",
+      "text": "It's just that things didn't go quite right with the blood type check."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "Did I get the wrong blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "There was an issue."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:54",
+      "text": "I am very confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:55",
+      "end_time": "00:04:03",
+      "text": "I know you are. Let's wrap this up so I can get the nurse in here to wrap your bandage."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "But my blood..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:14",
+      "text": "It's okay. We'll see. Just wait for an email from the office about your next visit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:15",
+      "end_time": "00:04:18",
+      "text": "Email? I don't have email."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:22",
+      "text": "Oh. Well, we'll just let you know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:26",
+      "text": "I still don't know what happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:27",
+      "end_time": "00:04:32",
+      "text": "I've told you, I made a mistake with the blood verification. I am sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:36",
+      "text": "I don't know what that word means."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:37",
+      "end_time": "00:04:43",
+      "text": "It means it wasn't done right. Now, I really have to go check on another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:44",
+      "end_time": "00:04:47",
+      "text": "Wait. Am I safe?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:48",
+      "end_time": "00:04:51",
+      "text": "Yes, you're fine. See you next time."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('let's move on', 'wrap this up', 'really have to go') and interrupts the patient's concerns to redirect to the exam."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident relies on platitudes ('things didn't go quite right', 'some confusion') and fails to explicitly name the error (wrong blood transfusion) despite the patient asking multiple times."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am so sorry', 'I apologize') and takes full personal responsibility without deflection."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses only generic validation ('I understand') and consistently meets the patient's emotional bids with factual redirection or dismissals."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders ('we'll see', 'stay tuned') and fails to provide a concrete plan, timeline, or prevention strategy."
+    }
+  }
+}

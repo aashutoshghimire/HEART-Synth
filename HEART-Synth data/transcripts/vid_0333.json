@@ -1,0 +1,381 @@
+{
+  "video_id": "vid_0333",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:14",
+      "text": "Mrs. Hernandez, thank you for meeting with me. I have your daughter here to help us communicate. I need to talk with you about something that happened with the monitoring of your grandchild's heart rate earlier today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:15",
+      "end_time": "00:00:18",
+      "text": "\u00bfQu\u00e9 pas\u00f3? What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:34",
+      "text": "During the monitoring, the machine showed some dips in the baby's heart rate. I reviewed that tracing, and I categorized it as normal when it actually showed a pattern that required more attention. I made a mistake in how I read the monitor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:38",
+      "text": "Is the baby okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:53",
+      "text": "The baby is doing well right now. But I want to be very clear: I made an error in the assessment. I am very sorry. This was my mistake, and I take full responsibility for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:00:57",
+      "text": "Why did you make a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:12",
+      "text": "I misread the specific pattern of the decelerations. It was my responsibility to catch that, and I didn't. I apologize deeply for this. Does that make sense so far, or can I explain it differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:16",
+      "text": "I don't know. My daughter, tell him."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:25",
+      "text": "I understand you're looking to your daughter. Does the explanation of the misread monitor make sense to both of you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:33",
+      "text": "We are just worried. I was so scared when the other doctor came in and said something was different."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:37",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:44",
+      "text": "I thought everything was fine. Now I am thinking, what else did you miss? I cannot sleep."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:55",
+      "text": "I can see why you'd feel that way. But looking at the facts, the second doctor caught it two hours later and the baby is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "Two hours is a long time for a baby."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "It is. I am sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:10",
+      "text": "Who else is going to look at the baby? I don't want only one person doing this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "We will keep monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "How? What is the plan now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "We'll just keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:29",
+      "text": "That is not a plan. Do we move the baby? Do we change the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:36",
+      "text": "The current monitoring is sufficient for now. We'll see how the next few hours go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:41",
+      "text": "And if it happens again? What if you miss it again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "I will be more careful."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:52",
+      "text": "You say sorry, but I need to know the baby is safe. Is there a special test?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:02:58",
+      "text": "No special test is needed right now. We will just continue as we are."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:03",
+      "text": "I don't like this. I want to talk to the head doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I can probably arrange that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "When? Now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:17",
+      "text": "I'm not sure of their schedule. I'll check when I have a moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:24",
+      "text": "My daughter says we should ask about the report. Will this be in the papers?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "It will be in the medical record."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "Will the other doctors know you did this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "Yes, it's been documented."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "I am just shaking. I can't believe this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "I feel like I can't trust the monitors now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:53",
+      "text": "The monitors are working; it was the interpretation that was wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "So what happens tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "We'll just check the baby again in the morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "Who will check? You?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "Whoever is on the shift."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:14",
+      "text": "I want to know exactly who is looking at those lines."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:18",
+      "text": "I'll make a note of your concern."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:19",
+      "end_time": "00:04:23",
+      "text": "I need a list of what you are doing differently now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "I'll see what I can do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:28",
+      "end_time": "00:04:32",
+      "text": "Please, I just want to know the baby is okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:33",
+      "end_time": "00:04:36",
+      "text": "The baby is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:37",
+      "end_time": "00:04:41",
+      "text": "But you missed it. You missed it for two hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "I did. And I am truly sorry for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:49",
+      "text": "I don't know if sorry is enough."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:53",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:54",
+      "end_time": "00:04:58",
+      "text": "My daughter is writing things down. We want a meeting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:59",
+      "end_time": "00:05:02",
+      "text": "We can try to schedule something."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:03",
+      "end_time": "00:05:06",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:07",
+      "end_time": "00:05:10",
+      "text": "I'll have to check the calendar."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:11",
+      "end_time": "00:05:14",
+      "text": "Now. Please tell us now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:15",
+      "end_time": "00:05:18",
+      "text": "I can't give you a time right this second."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:19",
+      "end_time": "00:05:22",
+      "text": "This is very frustrating."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:23",
+      "end_time": "00:05:26",
+      "text": "I know."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite repeated pushback and frustration."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was explicitly named in the second turn, lay language was used, comprehension was checked twice, and no false reassurance was given."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, took full personal responsibility, and maintained that accountability throughout the conversation."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident relied on generic validation ('I understand', 'I know') without naming specific emotions or deeply engaging with emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague responses ('keep an eye on things', 'see how the next few hours go') with no specific timelines or patient role."
+    }
+  }
+}

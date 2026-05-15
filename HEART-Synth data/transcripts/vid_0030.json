@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0030",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Mr. Dubois, thank you for seeing me. I need to discuss your imaging results from a few months ago."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:13",
+      "text": "I thought those were all clear. That is why I haven't heard anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "That is actually why I am here. I made a mistake in reviewing your reports. There was an incidental finding\u2014a small spot on your lung\u2014that was noted in a sub-section of the radiology report. I missed it, and it wasn't forwarded to the main team, so we didn't schedule the three-month follow-up that was required."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "A spot? You are telling me now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:41",
+      "text": "Yes. I am very sorry. This was my error, and I take full responsibility for missing that detail."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:55",
+      "text": "I have been waiting. I trusted that if there was something, you would call. I feel... c'est inadmissible. It is a matter of dignity to be told the truth in a timely manner."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:02",
+      "text": "I understand. Does that explanation make sense, or should I clarify how the report was structured?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:07",
+      "text": "It makes sense. It makes sense that you were careless."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:14",
+      "text": "I am deeply sorry for that failure. I am the one responsible for the oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:23",
+      "text": "And now? What happens to this spot? Is it a cancer? I cannot believe I am sitting here learning this by accident."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:33",
+      "text": "I understand you are upset. Right now, we need to get a new scan immediately to see if there has been any change."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:49",
+      "text": "I feel like a number to you. Just a chart that you forgot to read. I have always been a man who takes care of his affairs, and I expected the same from my doctors. I am... je suis tr\u00e8s d\u00e9\u00e7u."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:55",
+      "text": "I know you're disappointed. I want to make sure we fix this now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:00",
+      "text": "Is it too late? Because of your mistake, has the window closed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:10",
+      "text": "I have to go check on a patient in the ICU in a few minutes, but let's look at the next steps quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:20",
+      "text": "You have to go? I am telling you my life may have changed because you missed a page, and you have to go?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:26",
+      "text": "I just want to ensure we get the plan settled before I step out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "This is unbelievable. The lack of respect is staggering."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "Again, I apologize. My mistake is the only reason we are in this position. To make sure we get this right, here is exactly what is going to happen. First, I have already contacted the radiology department; they have cleared a slot for you tomorrow at 9:00 AM for a high-resolution CT scan. I have already put the order in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "Tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:06",
+      "text": "Yes, tomorrow morning. Second, I will be the one to personally review that scan the moment it is uploaded. I will call you by 4:00 PM tomorrow afternoon with the results, regardless of whether they are ready or not, just to give you an update. Third, I am scheduling a follow-up appointment with the pulmonologist for Friday at 10:00 AM, just in case we need a specialist's eyes immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:13",
+      "text": "And how do I know this won't happen again? How do I trust any paper you read?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:29",
+      "text": "That is a fair question. To prevent this from happening to you or anyone else, I am meeting with my department head this evening to implement a new double-check system for incidental findings. We will now require a second signature on the sub-section of radiology reports to ensure nothing is missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "You speak of systems. I am speaking of my health."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:49",
+      "text": "I hear you. I am sorry. I have the appointment for the scan set for 9:00 AM tomorrow. Do you have a ride to the hospital, or do we need to arrange transport for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "I can drive myself. I am capable of driving."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:04:08",
+      "text": "Perfect. You'll check in at the main radiology desk. Your role is simply to arrive at 9:00. I will do the rest. Do you have any questions about the timing or the steps we've discussed?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:15",
+      "text": "None. I just wish I didn't have to spend the night wondering what you missed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:16",
+      "end_time": "00:04:22",
+      "text": "I understand. I'll call you tomorrow at 4:00. I really have to get to the ICU now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language multiple times, specifically mentioning the need to go to the ICU while the patient is expressing distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the second turn, lay language used, and comprehension checked twice ('Does that explanation make sense' and 'Do you have any questions')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used and full responsibility taken ('This was my error', 'I am the one responsible') without deflection under pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('upset', 'disappointed') and engages with the patient's feelings, though some responses are brief."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps with timelines (CT tomorrow 9am, call by 4pm, pulmonologist Friday 10am), the patient's role (arrive at 9am), and a prevention strategy (double-check system)."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0254",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Mrs. Kowalski, I need to talk with you about a mistake we made with your imaging."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:13",
+      "text": "A mistake? Oh dear, I was just praying that everything was clear for the surgery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "I am very sorry. There was a clerical error where two different patients' MRI scans were saved under the same identification number. Because of this, my team and I reviewed the wrong scan before we decided on the approach for your surgery. I take full responsibility for not double-checking the images against your charts more carefully."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:41",
+      "text": "My heart is just sinking. I\u2019ve been trusting in the Lord and in all of you, and now I feel like I'm just a number in a machine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:46",
+      "text": "I can tell this feels like a real betrayal of that trust."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:01:02",
+      "text": "It is more than that. I feel so small. I just wanted to be seen, you know? To be cared for as a person, not just a scan. I keep thinking about why this was allowed to happen if we are in God's hands\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:17",
+      "text": "I have to stop you there for a second, I just want to make sure you understand the technical side. Essentially, we looked at someone else's pictures and thought they were yours. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:24",
+      "text": "I suppose it does, but my soul is just shaken. I don't know how to process this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:35",
+      "text": "I understand it's a lot to take in. Just to be sure we are on the same page, do you feel clear on how the mix-up happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:47",
+      "text": "Yes, you looked at the wrong person. But how could you be so careless with my life? I am a mother, a grandmother, I am not just a file."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:02:03",
+      "text": "You are absolutely right to be angry. There is no excuse for this mistake. I apologize deeply for the error and for the distress this is causing you. I am the one responsible for the oversight in the review process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:15",
+      "text": "I just feel so alone in this room right now. It's all so clinical. I just need a moment to breathe and maybe pray for a way forward."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "I hear that you're feeling isolated and overwhelmed right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:30",
+      "text": "I just wonder if the surgery is even safe now. If you can't even tell who is who, how can I trust the knife?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:41",
+      "text": "I am sorry again. We are committed to making this right. I want to be honest and tell you that we are fixing the record now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "And then what? What happens to me tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:54",
+      "text": "I actually have to go check on another patient who is crashing right now, so we'll have to wrap this up quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:03:00",
+      "text": "You're leaving? Just like that? I haven't even finished telling you how I feel."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:11",
+      "text": "I really do have to, but as for the plan, we'll eventually get the right scans sorted and then we will see where we go from there."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:19",
+      "text": "That isn't a plan. When will I know if my surgery is cancelled? Who is going to tell me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:26",
+      "text": "Just stay tuned. We will probably send an update or maybe someone will stop by later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:33",
+      "text": "I feel like I'm drifting. I just wanted a hand to hold and a clear answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:38",
+      "text": "I'm sorry, but I really must go. We'll be in touch."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident interrupts the patient during an emotional bid ('I have to stop you there') and uses rushing language repeatedly at the end ('wrap this up quickly', 'really must go')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, used lay language ('wrong scan', 'someone else's pictures'), and checked comprehension twice ('Does that make sense?', 'do you feel clear...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used multiple times, resident explicitly took full responsibility ('I take full responsibility', 'I am the one responsible'), and maintained this under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Named specific emotions ('betrayal of trust', 'isolated and overwhelmed') and referenced the patient's shared content regarding trust and feeling small."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague statements ('eventually get the right scans sorted', 'stay tuned', 'maybe someone will stop by')."
+    }
+  }
+}

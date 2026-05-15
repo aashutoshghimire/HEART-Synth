@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0082",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Okafor, thank you for meeting with me. I need to discuss a medical error that occurred with your medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:16",
+      "text": "I was wondering when you'd come by. I've noticed some bruising and the nurses seem concerned. What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:29",
+      "text": "You were prescribed an anticoagulant to prevent clots, but the dose ordered was ten times the amount you were supposed to receive. Instead of five milligrams, you were given fifty."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:36",
+      "text": "Ten times? That is a massive discrepancy. How does that even happen in a digital system?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:51",
+      "text": "It was a manual entry error during the ordering process. Because of that high dose, your blood became too thin, which caused the internal bleeding we are treating now. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:58",
+      "text": "It makes sense, though it's alarming. I'm feeling a bit shaken. I trusted the protocol."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:07",
+      "text": "I'm sorry for any confusion this has caused. We were really busy on the ward yesterday, but it shouldn't have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:15",
+      "text": "I'm not talking about confusion, doctor. I'm talking about a ten-fold overdose. I feel quite vulnerable right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:31",
+      "text": "Right. So, to explain the clinical side, we have administered a reversing agent to neutralize the anticoagulant. We are also monitoring your hemoglobin levels every six hours. Do you understand why we are doing the blood draws so frequently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:43",
+      "text": "Yes, you're checking if the internal bleeding is continuing or if the levels are stabilizing. But I'm still struggling with the fact that this was a preventable mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:59",
+      "text": "I understand. Now, looking forward, we have a three-part plan. First, we are keeping you on a continuous cardiac monitor for the next twelve hours. Second, I have personally updated your chart with a \"high-alert\" flag to prevent any further dosing errors. Third, you should report any new dizziness or dark stools to the nurse immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:04",
+      "text": "And who is reviewing this? I assume there's an incident report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:17",
+      "text": "Yes, an incident report has been filed with the risk management team. They will conduct a root cause analysis by Friday to see how the software failed to flag the dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:25",
+      "text": "I appreciate the plan. I just can't stop thinking about how close this could have been to something permanent."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:35",
+      "text": "I have to get to rounds in a moment, so let's focus on the recovery. As I said, the reversing agent is working."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:42",
+      "text": "You're rushing me. I'm trying to process a serious error and you're looking at your watch."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:58",
+      "text": "I just want to make sure we're clear on the next steps. We will check your labs again at 2:00 PM, and I will come back at 4:00 PM to give you the final results from the hematology team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:05",
+      "text": "I have a question about the reversing agent. Is it a one-time dose or a series?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "It was a one-time infusion. We've already completed it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:14",
+      "text": "Was there any permanent damage to my organs from the bleeding?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:21",
+      "text": "The imaging shows the bleed was superficial and has stopped. There is no evidence of organ failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:33",
+      "text": "I see. I just feel like the apology was a bit brief. It feels like you're treating this as a technical glitch rather than a failure of care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:41",
+      "text": "I understand. Like I said, the ward was very hectic. I'll check in with you again this afternoon."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('I have to get to rounds in a moment') and the patient explicitly notes they are being rushed."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in turn 2, lay language used, comprehension checked twice ('Does that make sense so far?', 'Do you understand why...'), and no false reassurance given."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Apology is offered but immediately diluted by an excuse ('We were really busy on the ward yesterday')."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but does not name specific emotions or engage with the patient's emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (cardiac monitor, high-alert flag), timelines (12 hours, 2:00 PM, 4:00 PM), patient role (report dizziness/stools), and prevention (chart flag/root cause analysis)."
+    }
+  }
+}

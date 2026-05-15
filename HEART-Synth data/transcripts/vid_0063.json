@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0063",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:03",
+      "text": "Hello Mrs. Fitzgerald. Thank you for meeting with me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:04",
+      "end_time": "00:00:08",
+      "text": "Hello doctor. I am still... I feel very sick today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:21",
+      "text": "I know. I wanted to talk to you about why you felt so sick during your treatment yesterday. There was a mistake. We forgot to give you the medicine that stops nausea."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:25",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:41",
+      "text": "Before the chemo, we usually give a medicine to stop you from vomiting. That medicine was not in the order. It was not given to you. That is why you were so sick. Does that make sense to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "I do not understand. Why?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:55",
+      "text": "The medicine that stops the sick feeling was missing. No medicine for the stomach. So you felt very bad. Do you understand now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:01",
+      "text": "Oh. I thought... I thought it was just the chemo. It was so scary."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:07",
+      "text": "It was a mistake in the paperwork. We did not check the list correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:17",
+      "text": "My husband... he used to hold my hand when I was sick. Now I am alone and I feel this. It is too much."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:26",
+      "text": "It sounds like you are feeling very lonely right now, especially remembering how your husband supported you through the hard times."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:35",
+      "text": "He was my everything. I cannot do this without him. And then the hospital makes a mistake. I feel so small."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:43",
+      "text": "I can see how frightening and overwhelming this is for you, especially when you are missing him so much."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "Who did this? Why did this happen to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:55",
+      "text": "The system failed to flag the missing medication and the team did not catch it before the infusion started."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "Are you sorry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:04",
+      "text": "I am concerned that you had such a difficult experience yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:17",
+      "text": "I asked the nurse if I should have the stomach medicine. She said yes, but then nothing happened. I waited and waited. And then I was sick everywhere. It was a nightmare."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:23",
+      "text": "I hear that you felt ignored and then you suffered through that nightmare."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "I am just so tired. My heart is tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:32",
+      "text": "It is very hard to deal with all of this at once."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "Will this happen again? I cannot do that again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:41",
+      "text": "We are looking into how to fix the list for next time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "When is next time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "I will check the schedule and tell you soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "I want to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:08",
+      "text": "I understand. Let me tell you what we will do now. I will write a new note for the nurses to make sure the nausea medicine is there for every single visit from now on."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "How do I know it is there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:23",
+      "text": "Next time, you can ask the nurse to show you the medicine bag before it starts. You can ask them, is the nausea medicine here?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "I do not want to be a bother."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:36",
+      "text": "You are not a bother. It is your health. I will make sure the nursing lead knows to double check."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "I just want to feel okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:45",
+      "text": "I know. I will go and speak with the nursing team now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:46",
+      "end_time": "00:03:49",
+      "text": "You are leaving?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:50",
+      "end_time": "00:04:00",
+      "text": "I have to go check the chart, but I will be back in a few minutes to see if you are ready to go home."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish all turns, maintains a regulated pace during emotional distress, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error (missing nausea medicine) is named in the first turn, lay language is used, and comprehension is checked twice ('Does that make sense to you?' and 'Do you understand now?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to 'the paperwork' and 'the system'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('lonely', 'frightening', 'overwhelming', 'ignored') and references the patient's specific content regarding her husband."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides a specific next step (new note for nurses), a timeline (next visit), a named patient role (asking to see the bag), and addresses prevention."
+    }
+  }
+}

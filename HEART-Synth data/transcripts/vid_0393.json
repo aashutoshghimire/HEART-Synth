@@ -1,0 +1,297 @@
+{
+  "video_id": "vid_0393",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello Ms. Tremblay. I wanted to talk to you about your treatment schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "Okay. Is there a problem with the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:14",
+      "text": "Well, there was some confusion with the calendar for your immunotherapy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:15",
+      "end_time": "00:00:19",
+      "text": "Confusion? I came in when you told me to come in."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:30",
+      "text": "Yes, but things didn't go quite right with the timing of the dose. It was given on a different day than it should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "Why? Does that change the result?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:41",
+      "text": "It might. It could potentially mean the treatment is not as strong as it needs to be."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:47",
+      "text": "Wait. You are saying you gave it to me on the wrong day?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:00:57",
+      "text": "The system had a scheduling issue. I have to go check on another patient in a few minutes, so I want to be quick."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:03",
+      "text": "I don't care about other patients right now. Did this mistake hurt my progress?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:08",
+      "text": "I understand. But we just need to look at the numbers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:15",
+      "text": "I am not talking about numbers. I am asking if the medicine failed because of the date."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "Like I said, it's possible it's less effective."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:25",
+      "text": "This is not acceptable. I have a deployment date. I need this to work."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "I understand. Now, regarding the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:34",
+      "text": "You haven't told me why this happened. Who did this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:41",
+      "text": "The calendar entry was just off. Let's wrap up the history and move to the plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:46",
+      "text": "I am very angry. This is a failure of coordination."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:57",
+      "text": "I understand. Now, for the plan, I am going to call the attending physician today. I will have a revised schedule for you by tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "And what do I do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:12",
+      "text": "You just need to wait for my call tomorrow. Once I talk to the doctor, I'll tell you the new date for your next dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "Is the next dose going to be different?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "We will decide that tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:27",
+      "text": "So for now, I just go home and hope the mistake didn't ruin the cycle?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "Exactly. Just wait for my call tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "This feels very unprofessional."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:40",
+      "text": "I understand. I really have to get to my next room."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "You didn't even say if this happens often."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "It's just a scheduling issue. I'll call you tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:53",
+      "text": "I want to speak to the head of the clinic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:59",
+      "text": "That can be arranged later. The plan for now is the phone call tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "I don't think I understand why this is okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "It's not ideal, but we have a plan now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:12",
+      "text": "You are not answering my question. Did the medicine work or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "We won't know for sure until the next scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "Why wasn't this caught sooner?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "The system just had an error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:29",
+      "text": "I am military. We don't have \"errors\" with timing. We have protocols."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "I don't think you actually understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:42",
+      "text": "As I said, I'll call you tomorrow morning with the new dates."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "What if the doctor says the dose was wasted?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:51",
+      "text": "We will cross that bridge when I speak with them."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:55",
+      "text": "This is a waste of my time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "I understand. Goodbye for now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I want to be quick', 'Let's wrap up', 'I really have to get to my next room')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses platitudes and hedging ('some confusion', 'things didn't go quite right') and never explicitly names the error as a medication timing mistake until the patient prompts it."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is deflected to 'the system' and 'the calendar entry'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident relies exclusively on generic validation ('I understand') without naming specific emotions or engaging with the patient's distress."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides a specific next step (call the attending) with a timeline (by tomorrow morning) and a patient role (wait for the call)."
+    }
+  }
+}

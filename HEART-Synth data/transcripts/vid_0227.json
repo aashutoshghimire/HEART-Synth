@@ -1,0 +1,159 @@
+{
+  "video_id": "vid_0227",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Good afternoon, Mr. Hassan. Thank you for coming back in to see us today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:10",
+      "text": "I'm here. Not that I expected much from this visit."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:19",
+      "text": "I want to start by talking about what happened during your admission last week. I've reviewed your charts and the triage notes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:20",
+      "end_time": "00:00:28",
+      "text": "I'm sure you have. Is this the part where you tell me everything was actually fine and I just imagine things?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "No, it wasn't fine. There was a mistake in how your case was handled when you first arrived. You were triaged as low-acuity, which means the staff didn't mark your symptoms as urgent. Because of that, the imaging was delayed. By the time we got the scans, the window to give you the clot-busting medication, the thrombolysis, had already closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:48",
+      "text": "So you're saying you just... missed the window?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:01:03",
+      "text": "Yes, that's exactly what happened. We didn't get you into the scanner fast enough because the priority level was set wrong at the start. Does that make sense, or can I clarify any of that?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:13",
+      "text": "It makes perfect sense. It's the same thing every time I even step foot in this building. Just another mistake on the list."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:22",
+      "text": "I am sorry for this. It was our responsibility to get your triage right and we failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:34",
+      "text": "Sorry. Right. I've heard sorry from three different departments in two years. It doesn't actually change the fact that my left side doesn't work the way it used to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:41",
+      "text": "I know that an apology doesn't fix the physical impact this has had on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:51",
+      "text": "No, it doesn't. It really doesn't. I'm just tired of being the one who has to keep track of your errors for you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:01:58",
+      "text": "It sounds like you're feeling exhausted and just completely fed up with the way you've been treated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:04",
+      "text": "Exhausted doesn't even cover it. I feel like a glitch in your system."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:13",
+      "text": "I hear you. I can't undo the delay, but I want to make sure we are moving forward correctly now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "If you can."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:33",
+      "text": "Here is the plan for the next two weeks. First, I'm referring you to the neuro-rehabilitation team. I'm putting that request in right now, and you should receive a phone call from them by Thursday to schedule your first assessment. Your role is to keep a log of any new weakness you feel in your arm so you can show the therapist. Then, I want to see you back here in exactly fourteen days to review those results. Does that timeline work for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:40",
+      "text": "I guess. As long as I don't have to spend six hours in the waiting room again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:47",
+      "text": "I'll make a note on your file to ensure we prioritize your check-in for this follow-up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "We'll see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:02",
+      "text": "I understand if you're skeptical. I'm going to provide you with a written summary of what we've discussed today and the contact details for the rehab coordinator."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Fine. Just give me the paper."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident never interrupts, remains regulated despite patient's skepticism, and allows the patient to express frustration without rushing."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the second turn, uses lay language ('clot-busting medication'), checks comprehension ('Does that make sense?'), and avoids false reassurance."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am sorry'), explicitly takes responsibility ('we failed to do that'), and maintains accountability despite patient pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names a specific emotion ('exhausted and just completely fed up') and engages the patient's emotional bids, but only does so once."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Provides specific next steps (neuro-rehab) with a timeline (by Thursday/14 days) and a patient role (keep a log), but does not address systemic prevention of the error."
+    }
+  }
+}

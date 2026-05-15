@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0184",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Mr. Chen, hello. And hello to your son. Thank you for meeting with me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "Hello."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:17",
+      "text": "I wanted to come in and talk to you because something didn't go quite right during your transfusion yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:18",
+      "end_time": "00:00:21",
+      "text": "What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:28",
+      "text": "There was an issue with the blood type verification process before the blood was given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "I do not understand. Is it bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:41",
+      "text": "I am very sorry. The medical team made a mistake and did not follow the full check on your blood type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "Why? My blood is special."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:52",
+      "text": "We had some confusion with the paperwork. I apologize for this error. It should not have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:00:56",
+      "text": "Is he sick now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:05",
+      "text": "You received a type of blood that is compatible, so it is safe, but it wasn't the ideal match for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:09",
+      "text": "Ideal? I don't know that word."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:13",
+      "text": "It means it wasn't the perfect match."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:18",
+      "text": "I feel... I don't know. I feel strange. Is that the blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:22",
+      "text": "It is likely just the recovery from the surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:26",
+      "text": "I am scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:30",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:35",
+      "text": "Why did this happen? You are the doctor. You check."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:40",
+      "text": "It was a failure in our system's checklist. I am sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:44",
+      "text": "My father is old. He cannot fight this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "It is fine. The blood is compatible."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:53",
+      "text": "You just say sorry. But he is shaking. Look at him."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:01:57",
+      "text": "Let's focus on what we are doing now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "Why did you not check?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "There was a mix-up with the verification."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "Now what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:25",
+      "text": "I have a very clear plan to make sure you are safe. First, I have already ordered a new set of blood tests for this afternoon. We will check your hemoglobin and your reaction levels at 2 PM today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "Every day?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:39",
+      "text": "Just today. Then, tomorrow morning at 8 AM, the hematologist, who is the blood specialist, will visit you personally to review your labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "What do I do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:59",
+      "text": "I want you to tell me or your son immediately if you feel any new itching, shortness of breath, or if you feel a chill. That is your job. If you feel that, press this call button right here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "I will tell."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:19",
+      "text": "I have also filed a formal incident report. The head of the department is reviewing our pre-op checklist this week to add a second physical signature requirement. This means two people must sign off on the blood type at the bedside, not just one. This will stop this from happening to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "You will fix it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:32",
+      "text": "Yes. The new signature rule starts tomorrow. I will be the one checking your charts every four hours until the specialist arrives."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I am still worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "Will he be okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "I am confident in the monitoring plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "I don't like this mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "I agree. It was wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "Can I call the other doctor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:06",
+      "text": "You can. But as I said, the specialist is coming at 8 AM tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "Tomorrow is a long time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:17",
+      "text": "I will be here. If you feel anything, you press the button. I will come in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:18",
+      "end_time": "00:04:21",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:22",
+      "end_time": "00:04:26",
+      "text": "Do you have any other questions about the tests at 2 PM?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:27",
+      "end_time": "00:04:30",
+      "text": "No."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:31",
+      "end_time": "00:04:35",
+      "text": "Okay. I will leave you both now. I'll see you shortly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and maintains a steady pace, with only a minor lapse in rushing to redirect the conversation at 01:54."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named (blood type verification failure), but there are no comprehension checks performed to ensure the patient understands the explanation."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am very sorry', 'I apologize'), takes responsibility for the team, and maintains this under pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but never names specific emotions back to the patient."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps with timelines (2 PM today, 8 AM tomorrow), defines the patient's role (reporting symptoms/pressing button), and addresses prevention (second signature requirement)."
+    }
+  }
+}

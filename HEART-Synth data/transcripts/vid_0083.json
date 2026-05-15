@@ -1,0 +1,267 @@
+{
+  "video_id": "vid_0083",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello, Mrs. Al-Rashid. I wanted to come by and speak with you about the blood transfusion you received during your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:13",
+      "text": "Oh, hello Doctor. Is everything alright? The surgery went well, I hope?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:28",
+      "text": "The surgery itself was successful, but there was an issue with the pre-operative blood type verification. Essentially, the protocol to double-check your specific blood type was skipped, and you received a compatible but not ideal blood type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "I do not understand. Was it the wrong blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "It was compatible, meaning it is safe and will not cause a reaction, but it wasn't the exact match we prefer for our patients. I'm sorry for any confusion this causes. We were really busy in the surgical wing yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:59",
+      "text": "I... I felt a bit strange after I woke up. I thought perhaps it was just the anesthesia. Are you saying a mistake was made?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:08",
+      "text": "Yes, the verification step was missed. But like I said, the blood was compatible, so you are not in any danger."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:18",
+      "text": "I have always trusted the doctors to handle these things. I cannot imagine why this would happen in a hospital. I feel very unsettled."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:26",
+      "text": "I understand. But the main thing is that your vitals are stable and the transfusion did its job."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:40",
+      "text": "It is just... it is very distressing to hear. I do not know what to ask. I feel as though I should have been more careful, or perhaps I told you the wrong type?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:53",
+      "text": "No, that was not your fault at all. It was an internal process error. We are currently looking into exactly how the skip happened because the full investigation is still ongoing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:02",
+      "text": "If you do not know how it happened, how can you be sure I am safe? This is very worrying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:12",
+      "text": "It is a standard compatible type. I really have to get to the ward rounds now, but I wanted to tell you this personally."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:22",
+      "text": "You are leaving? But I feel quite shaken. I don't understand why this isn't a bigger problem if it was the wrong type."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:32",
+      "text": "It's just not the optimal match, Mrs. Al-Rashid. It's a technical detail. I\u2019m sure you\u2019ll feel better once you've had some more rest."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:41",
+      "text": "I do not think rest will fix the feeling that something went wrong. Is there someone else I should speak to?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:48",
+      "text": "I am the resident on the case. I can tell you that we are monitoring you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:56",
+      "text": "I feel very small in this situation. I just want to know that this will not happen again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "I understand. We are reviewing the charts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "Will you tell me when the investigation is finished?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:11",
+      "text": "We will likely have some updates in the coming days. I'll make sure someone lets you know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "Some days? Which days?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:21",
+      "text": "I'm not entirely sure of the timeline yet, but we'll be in touch."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:32",
+      "text": "I feel as though I am being told this very quickly. I am still trying to process that a mistake was made with my blood."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "Again, it was compatible. Everything is fine now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:45",
+      "text": "You say everything is fine, but you also say a mistake was made. These two things do not fit together for me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:51",
+      "text": "In medical terms, compatible means it works, even if it isn't a perfect match."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:59",
+      "text": "I am not a doctor. I only know that I was given something that was not meant for me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:04",
+      "text": "That is true, the verification was missed. But the outcome is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:05",
+      "end_time": "00:04:10",
+      "text": "I think I need to speak with my daughter. I cannot think clearly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:15",
+      "text": "Of course. I'll leave you to it. I'll check back in later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:16",
+      "end_time": "00:04:19",
+      "text": "Wait, did you say you are sorry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:20",
+      "end_time": "00:04:23",
+      "text": "I said I was sorry for the confusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "Not the confusion. The mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:34",
+      "text": "As I mentioned, the team was under a lot of pressure yesterday, and the step was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:35",
+      "end_time": "00:04:41",
+      "text": "I do not think the pressure of the hospital justifies a mistake with my blood."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "I understand it's upsetting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:49",
+      "text": "I am more than upset. I am frightened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:56",
+      "text": "I really do have to go now, but please just remember that you are clinically stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "Yes, Doctor. Thank you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I really have to get to the ward rounds now', 'I really do have to go now') and dismisses the patient's distress to leave."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly, but the resident provides no comprehension checks and uses false reassurance ('everything is fine now')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The resident offers an apology but dilutes it by making excuses about the team being 'really busy' and 'under a lot of pressure'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident uses generic validation ('I understand') but consistently meets the patient's emotional bids with factual redirection regarding clinical stability."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident mentions a vague next step (investigation updates) but provides no specific timeline ('not entirely sure') and no patient role."
+    }
+  }
+}

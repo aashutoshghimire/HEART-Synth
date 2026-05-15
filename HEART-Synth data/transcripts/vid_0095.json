@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0095",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello Mr. Chen. Hello Sarah. Thank you for coming in to talk with me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "Is he okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:16",
+      "text": "I want to be honest with you both about a mistake we made with your X-ray yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:17",
+      "end_time": "00:00:20",
+      "text": "Mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "Yes. When we took the picture of your chest, the machine was not positioned correctly. Because of that, the image was blurry and not clear enough for us to see everything. Even though the report said it was normal, it was actually an incorrect result because the picture was poor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "But you said it was fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:55",
+      "text": "I did, and that was wrong. We failed to notice the quality of the image before we gave you the result. I am very sorry for this error. It is our responsibility that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:00",
+      "text": "Why? I was lying there. I did what you said."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:14",
+      "text": "You did everything right, Mr. Chen. The mistake was entirely on our end. To make sure I explained that clearly, could you tell me in your own words what happened with the X-ray?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:19",
+      "text": "The picture... it was bad. You said okay, but it was not."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:26",
+      "text": "That is correct. It was not a good picture, so we couldn't actually see your lungs clearly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:30",
+      "text": "I don't understand. Is something wrong now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:42",
+      "text": "I can see that this is confusing and probably a bit scary to hear. It's unsettling when you're told one thing and then told it was a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:46",
+      "text": "I just want to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:55",
+      "text": "I understand. We want to get you home safely, but we need to make sure we have the right information first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "So what now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:12",
+      "text": "Here is exactly what we are going to do. First, I am ordering a new X-ray right now. The technician will come to your room within the next thirty minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "Another one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:32",
+      "text": "Yes, just one more. This time, I will personally go into the room to make sure the machine is in the exact right spot before the picture is taken. Once that is done, I will have the radiologist look at it immediately. I will come back to see you by 4:00 PM today to tell you the final results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "And the other one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:43",
+      "text": "The first one is useless. We are ignoring it. We will only use the new one."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:03:03",
+      "text": "We didn't follow our check-list for positioning the equipment. To make sure this doesn't happen to you or anyone else, I am filing a formal safety report today. This triggers a review of how we use the portable machines so we can prevent this mistake in the future."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I am tired of lying in this bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:13",
+      "text": "It is exhausting being in the hospital, especially when things get delayed like this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "I just want to know if I am sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:29",
+      "text": "I know the waiting is the hardest part. Since the new X-ray is happening in thirty minutes and I'll be back at 4:00, does that timeline work for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "Yes. 4:00."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:40",
+      "text": "Okay. I will be back at 4:00. Sarah, do you have any questions about the plan?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:45",
+      "text": "Will he have to stay another night because of this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:04:01",
+      "text": "That depends on the new image. If the new X-ray is clear and shows everything is okay, we can move forward with the discharge plan. If it shows something we need to treat, we will discuss that together. I will give you the full answer at 4:00."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "I'll go get that X-ray started now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns, remains regulated under pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the first turn, lay language is used throughout, no false reassurance is given, and comprehension is checked via the 'own words' request and the timeline confirmation."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am very sorry'), explicitly takes responsibility ('It is our responsibility'), and maintains this under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions twice ('confusing', 'scary', 'unsettling', 'exhausting') and engages with the patient's emotional bids regarding the hospital stay."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific next steps with timelines (30 minutes, 4:00 PM), defines the patient's role (confirming the timeline), and addresses prevention (filing a safety report/reviewing portable machines)."
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0020",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Good afternoon, Mr. Okonkwo. Thank you for coming back in to see us today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:12",
+      "text": "Thank you for seeing me. I have been thinking about this a lot since I went home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:27",
+      "text": "I understand. I wanted to use this time to talk about what happened during your admission. After reviewing the charts, it's clear that we made a mistake in how you were triaged when you arrived."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:36",
+      "text": "A mistake. I felt something was wrong the moment I walked in. I told the nurse my arm was heavy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "You did. You presented with stroke symptoms, but you were categorized as low-acuity. This means you weren't seen as an emergency, and that caused a significant delay in getting you to the imaging department for a scan. Because of that delay, the window of time where we can give thrombolysis\u2014the clot-busting medication\u2014closed before we could treat you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:02",
+      "text": "So you are saying that if you had just looked at me sooner, I might not be struggling to speak like this now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:14",
+      "text": "Yes, that is correct. The delay meant we missed the opportunity to give that medicine. I am very sorry, and our team takes full responsibility for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:30",
+      "text": "This is... it is very difficult to hear. I am a leader in my community. People look to me for strength. Now, when I go to the council meetings, they see me stumble over my words. They ask what happened. My children, they look at me with such pity. I cannot be the man they need if I am\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:43",
+      "text": "I know it's frustrating, but we really need to make sure you understand the medical side of the error. Does that make sense? Do you follow why the timing was the issue?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:57",
+      "text": "I follow the science. I do not follow how I am supposed to live with the result of your carelessness. My reputation is built on my presence, and now my presence is diminished."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:02",
+      "text": "It sounds like you are feeling a bit overwhelmed by the situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:11",
+      "text": "A bit? My life has shifted. I feel a shame I cannot describe. I worry my family will see me as broken."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:16",
+      "text": "Right. Now, looking forward, I think we should focus on the rehabilitation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "What does that actually entail? Who is coordinating this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:29",
+      "text": "We will get you started with physical therapy. I'll put in a request for some specialists to look at your case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:40",
+      "text": "When will I hear from them? I need a date. I cannot just wait for the phone to ring while I sit in my house."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:47",
+      "text": "We'll see what the schedule looks like. Just stay tuned for an email from the office."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:03:00",
+      "text": "An email? I need a plan. I need to know how I am going to get my speech back. I need to know who is accountable for my recovery now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:09",
+      "text": "I have to go to another appointment in a few minutes, so let's wrap up here. We'll get the paperwork started."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:20",
+      "text": "You are rushing me. You tell me you made a mistake that changed my life and now you are rushing me out of the room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:25",
+      "text": "I'm just saying we'll get the process moving. We'll be in touch."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('let's wrap up here', 'I have to go') and interrupts the patient's emotional expression to redirect to medical facts."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and a comprehension check was performed ('Does that make sense?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language ('I am very sorry'), explicitly took full responsibility, and did not deflect when the patient pushed back."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident used generic validation ('I know it's frustrating', 'feeling a bit overwhelmed') but largely met the patient's deep emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague steps ('We'll see what the schedule looks like', 'stay tuned for an email') with no timelines or patient role."
+    }
+  }
+}

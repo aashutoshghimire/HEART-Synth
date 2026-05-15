@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0171",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Okonkwo, thank you for coming back in to see me today. I have some important information regarding your lab results from last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "I am here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "I need to tell you that a mistake was made. We mixed up your files with another patient who has a very similar name. Because of this, I gave you the wrong results, and I told you that you had a chronic kidney condition that you do not actually have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:45",
+      "text": "I am deeply sorry for this error. This was our mistake, and I take full responsibility for not verifying the patient identifiers more carefully before I spoke with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:49",
+      "text": "I understood the news. It was very worrying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:00:59",
+      "text": "I can only imagine how distressing it was to hear that diagnosis. I am truly sorry that we caused you that anxiety and uncertainty."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:03",
+      "text": "It is a lot to think about."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:12",
+      "text": "It is. I want to make sure I have explained this clearly. Do you understand why you were given the wrong information?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:16",
+      "text": "Yes. Someone else's papers were read to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:32",
+      "text": "That is correct. To be absolutely clear, the condition I described to you last week\u2014the kidney disease\u2014you do not have it. Your actual results are normal. Does that make sense, or is there any part of that you would like me to repeat?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:36",
+      "text": "No, it is clear."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:50",
+      "text": "I can see you are being very composed, but I want to acknowledge that this is a lot to process. I imagine this may have caused some significant stress for you and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:02:01",
+      "text": "In my community, a man is judged by his health and his strength. I was thinking about how this would look to my children. To my people."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:14",
+      "text": "It sounds like your reputation and the way your family perceives your strength are very important to you, and the idea of this diagnosis felt like a threat to that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "Yes. That is correct."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:29",
+      "text": "I am truly sorry that our error put you in a position where you had to worry about your standing and your family's peace of mind."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:33",
+      "text": "I appreciate that you are telling me now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:42",
+      "text": "I do. I want to make sure we fix this completely. I have a plan for how we move forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "What is the plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:55",
+      "text": "First, I am going to personally print your correct labs and give them to you today so you have a physical record."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "Alright."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:08",
+      "text": "I will also put a note in your permanent electronic file today explicitly stating that the previous diagnosis was an error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "Will the other doctors see that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "Yes, they will. I'll make sure it's prominent."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:35",
+      "text": "Beyond that, I am meeting with my department head tomorrow to report exactly how this mix-up happened. We are going to change how we label the scheduling folders to make sure this doesn't happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "That is good."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:49",
+      "text": "I will send you a brief letter by the end of the week confirming all of this in writing for your own records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "I suppose that is all."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:04:08",
+      "text": "I want to pause here. I know I have given you a lot of information and a plan, but is there anything else on your mind? Anything you are worried about that we haven't touched on?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:13",
+      "text": "I just want to go home and tell my wife."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:21",
+      "text": "Of course. I will get those correct papers for you right now so you can take them with you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and uses a measured pace throughout the interaction."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, lay language used, and comprehension checked twice ('Do you understand why...' and 'Does that make sense...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used multiple times and resident explicitly takes full responsibility without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('distressing', 'anxiety', 'uncertainty') and references the patient's specific concerns regarding reputation and family strength."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Specific next steps and timelines are provided (printing labs today, letter by end of week, meeting tomorrow), and prevention is addressed, but the patient's active role in the plan is not named."
+    }
+  }
+}

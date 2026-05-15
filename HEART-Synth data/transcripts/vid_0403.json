@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0403",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mrs. Kowalski, I wanted to come in and talk with you and your daughter about what happened over the last twenty-four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:17",
+      "text": "Oh, thank goodness you're here. We've just been praying that this bleeding would stop. I feel like my spirit is just exhausted."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "I can see how draining this has been for you. To be direct, a serious mistake was made with your medication. The dose of the blood thinner you were given was ten times the amount you were supposed to receive."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:37",
+      "text": "Ten times? How is that possible?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:52",
+      "text": "It was a dosing error during the order process. Because the dose was so high, it caused the internal bleeding that led to the emergency procedure yesterday. Does that make sense, or can I explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:01",
+      "text": "I just... I don't understand why. I trusted you all. I keep asking the Lord why this happened to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:05",
+      "text": "I know this feels overwhelming and frightening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:15",
+      "text": "Frightening? I almost died! My daughter had to hold my hand while I went into that surgery. I feel like I've been cast aside."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "It is a terrifying experience to go through."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:25",
+      "text": "Who did this? Was it the nurse? Or the person who wrote the paper?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:34",
+      "text": "I am sorry for any confusion this caused, but the unit was extremely busy that morning and the order was processed incorrectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:40",
+      "text": "You're sorry for the confusion? My insides were bleeding because of a mistake!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:44",
+      "text": "I understand that you're angry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:55",
+      "text": "I'm not just angry. I'm shaken. I feel like there's no one here who actually sees me, just a chart number that got a wrong dose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:00",
+      "text": "I can see that you feel unseen and unimportant in this process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:10",
+      "text": "Yes. Exactly. My faith tells me everything happens for a reason, but I can't find the reason for a ten-fold dose of medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:24",
+      "text": "Just to make sure we're on the same page about the medical side, do you have any questions about how the blood thinner worked or why the surgery was needed to stop the bleeding?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:36",
+      "text": "No, I get the medical part. I just want to know how you're going to fix it. What happens now? I can't just stay in this bed forever."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:41",
+      "text": "Well, we're just going to keep monitoring your blood levels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "Monitoring? For how long? When can I go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:50",
+      "text": "We'll see how the labs look over the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:03:00",
+      "text": "That's not a plan. My daughter needs to know if she has to take more time off work. When is the actual date?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:06",
+      "text": "I don't have a specific date yet. We'll just stay tuned to the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:11",
+      "text": "This is what I mean. It's like I'm talking to a wall."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "We'll keep a close eye on things."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows patient to finish all turns, does not interrupt, and remains regulated despite patient's anger and pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn ('ten times the amount'), used lay language, and checked comprehension twice ('Does that make sense', 'do you have any questions')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology is diluted by an excuse ('I am sorry for any confusion... but the unit was extremely busy') and uses passive framing ('the order was processed incorrectly')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('overwhelming and frightening', 'angry', 'unseen and unimportant') and references the patient's specific experience."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders ('we'll see how the labs look', 'stay tuned') with no specific timelines, patient role, or prevention plan."
+    }
+  }
+}

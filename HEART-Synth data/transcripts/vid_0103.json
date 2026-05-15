@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0103",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Mr. Lindqvist, thank you for coming in to see me today. I have some information regarding your imaging from last year that I need to discuss with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:20",
+      "text": "I hope this is about that follow-up scan. I've been waiting for someone to tell me when that was happening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "Actually, that is exactly why we are here. I have to tell you that a mistake was made. There was an incidental finding on your initial scan\u2014a small nodule\u2014that required a follow-up in three months. That finding was documented in a sub-section of the radiology report, but it was not forwarded to the primary care team, and as a result, no follow-up was arranged."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:41",
+      "text": "What? You're telling me this now? That was months ago."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "I know this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:01:01",
+      "text": "A lot to take in? I was a paramedic for fifteen years. I know exactly how a radiology report is structured. If it was in the report, it was there. Why is it that the people paid to read the report didn't actually read it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:07",
+      "text": "You are right to be angry. This was a failure in our communication process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:18",
+      "text": "This isn't a communication process, it's negligence. You had the data and you just ignored it. Do I have cancer? Is that why you're stalling?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:34",
+      "text": "I can tell you that the finding was described as incidental and low-risk, which is why the recommendation was for a three-month check rather than immediate intervention. But I want to make sure I've explained the sequence of events clearly. Does the part about the report sub-section make sense to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:50",
+      "text": "It makes perfect sense. It means the resident or the attending skimmed the main findings and missed the secondary section. It's basic. But that doesn't fix the fact that I've spent months thinking I was clear when I wasn't."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:01:55",
+      "text": "This is a very frustrating and unsettling position to be in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:03",
+      "text": "Unsettling? I'm livid. Who specifically missed this? Was it you? Was it the radiologist? I want a name."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:14",
+      "text": "It was a failure of the system we use to flag findings. The report was signed off, but the alert didn't trigger for the primary team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:22",
+      "text": "Stop talking about the system. The system doesn't sign reports, doctors do. I want an apology. A real one."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "It is a failure of our process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:35",
+      "text": "I didn't ask for a process analysis. I asked for an apology. Do you even realize how precarious this is?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:41",
+      "text": "I can see that you feel let down by the care you received here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:48",
+      "text": "I don't \"feel\" let down, I am let down. This is a clinical error. Say the words."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "I understand that this is incredibly stressful."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "You're dodging. Why are you dodging?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:03",
+      "text": "I am listening to you, Mr. Lindqvist. I know this feels like a breach of trust."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:10",
+      "text": "It is a breach of trust. Now, what are we doing about it? What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "We need to get you back into imaging."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:18",
+      "text": "When? Tomorrow? Next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "We will get it scheduled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "That's not a date. I want a date."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:35",
+      "text": "I will put in the request for the scan and we will see when the radiology department has an opening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:41",
+      "text": "And then what? Do I just wait for another report that nobody reads?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "We'll keep an eye on the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:46",
+      "end_time": "00:03:56",
+      "text": "That is completely unacceptable. I want a written plan. I want to know who is overseeing the result and how I know the result has been seen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "I will check the portal for the appointment time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:05",
+      "text": "You're not answering me. Who is responsible for the follow-up this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "I'll be the one coordinating the scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:17",
+      "text": "And the timeline? I want a specific day by which I will have a result in my hand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:24",
+      "text": "It's hard to give a specific date because of the imaging backlog, but we'll get it done."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:37",
+      "text": "This is pathetic. You've admitted the error, but you're acting like the solution is a suggestion. I want a guaranteed date for the scan and a guaranteed date for the review."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "I'll send a message to the imaging coordinator."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "When will I hear from you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:46",
+      "end_time": "00:04:49",
+      "text": "As soon as I hear back from them."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:50",
+      "end_time": "00:04:58",
+      "text": "I'm not leaving here with \"as soon as.\" I want a phone call by tomorrow afternoon. Can you commit to that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:59",
+      "end_time": "00:05:02",
+      "text": "I'll try to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:03",
+      "end_time": "00:05:12",
+      "text": "\"Try\" is not a medical plan. This is exactly how the first error happened. \"Trying\" to move a report. I want a commitment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:13",
+      "end_time": "00:05:16",
+      "text": "I will look into it."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite the patient's escalating anger and demands."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn, lay language was used, and a comprehension check was performed once regarding the report sub-section."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language ('I'm sorry' or 'I apologize') and repeatedly deflects responsibility to 'the system' and 'the process'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('angry', 'frustrating', 'unsettling') and engages with the patient's emotional bids, though some responses become repetitive."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides a vague step (scheduling a scan) but fails to provide a timeline, a patient role, or a prevention plan despite multiple requests."
+    }
+  }
+}

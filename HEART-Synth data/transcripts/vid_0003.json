@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0003",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Chen, thank you for waiting for me. I want to talk to you about what happened during your chemotherapy today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "I feel... very tired. Everything is spinning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:19",
+      "text": "I know. You went through a very difficult experience today. It is a lot to handle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:20",
+      "end_time": "00:00:26",
+      "text": "The other doctor said I would not feel sick. He said the medicine stops it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:42",
+      "text": "I know he told you that, and that is why this is so frustrating. I have to be honest with you. We made a mistake. I did not add the anti-nausea medicine to your orders before we started the infusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:46",
+      "text": "What?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:00:58",
+      "text": "I missed a step in the paperwork. Because that medicine was not given, you had the severe vomiting. That was my fault. I am very sorry, Mr. Chen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:03",
+      "text": "I thought... I thought it was the chemo. The other doctor said..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:18",
+      "text": "He was right about how it should work. The medicine exists to stop the sickness, but I didn't order it. I am the one responsible for that. I apologize for the distress this caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:23",
+      "text": "I felt like I was dying. My chest... it hurt."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:32",
+      "text": "It sounds like it was terrifying. To feel like you are losing control of your body like that is scary."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:37",
+      "text": "Yes. Very scary. I do not want to come back."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:45",
+      "text": "I can see why you feel that way. It is hard to trust us right now after this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:49",
+      "text": "Why did you forget?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:56",
+      "text": "There is no excuse. I should have double-checked the list. I failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "Will it happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:16",
+      "text": "I am going to make sure it does not. I have a plan to fix this. First, I have already updated your chart with a permanent alert. It is a big red flag that says nausea medicine must be given every single time you come in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "A red flag?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:28",
+      "text": "Yes, like a warning sign. Any nurse or doctor who looks at your file will see it immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:45",
+      "text": "Second, for your next visit, I will personally check the orders with the head nurse two hours before you arrive. I will sign a paper confirming the medicine is ready."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "When is next time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:03:05",
+      "text": "In two weeks. On that day, I want you to do something too. When the nurse comes to start the IV, I want you to ask them, \"Do I have my nausea medicine?\" If they say no, I want you to tell them to stop and call me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "I don't speak... I don't know the words."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:21",
+      "text": "I will give you a card. It will have a picture of a pill and the words in your language. You can just show the card to the nurse."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "A card. I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:33",
+      "text": "I want to make sure I explained this clearly. Can you tell me what happened today with the medicine?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:38",
+      "text": "You forgot the... the stop-sick medicine. It was your fault."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "That is correct. I missed it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "And next time I show the card."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:52",
+      "text": "Exactly. And I will check it twice before you even walk through the door."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "I am still... I am still very shaken."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:05",
+      "text": "I understand. This is a very heavy moment. We can just sit here for a bit. There is no rush to leave."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:10",
+      "end_time": "00:04:20",
+      "text": "I am truly sorry, Mr. Chen. I will do everything I can to make sure your next visit is the way it should have been today."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, uses no rushing language, and offers to sit in silence at the end."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the 3rd turn, lay language used throughout, and comprehension checked twice (asking the patient to explain what happened and confirming the card use)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I am very sorry', 'I apologize'), takes full personal responsibility ('That was my fault'), and maintains it under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions named back ('frustrating', 'terrifying', 'scary') and engages emotional bids regarding the patient's fear and loss of trust."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Includes specific steps (red flag, double-check), a timeline (two weeks), a named patient role (using the card), and prevention (permanent alert)."
+    }
+  }
+}

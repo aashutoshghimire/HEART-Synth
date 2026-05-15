@@ -1,0 +1,339 @@
+{
+  "video_id": "vid_0186",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Hello Mr. Park. I wanted to come by and talk to you about your scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:10",
+      "text": "Hello doctor. Is everything okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:16",
+      "text": "Well, there was some of an issue with how we did the test."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:17",
+      "end_time": "00:00:20",
+      "text": "An issue? What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:31",
+      "text": "We used a special dye for the images, but we should have checked your blood levels more carefully first. There was some confusion with the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:35",
+      "text": "I do not understand. What is the dye?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:44",
+      "text": "It is the contrast agent. It helps us see the organs. But for some people, it can be hard on the kidneys."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:48",
+      "text": "My kidneys? Are they sick now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:57",
+      "text": "It is possible. Your blood test showed your kidneys were already a bit weak, and the dye might make that worse."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:04",
+      "text": "Oh. I feel... I am very worried. I am alone here and I do not know\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:14",
+      "text": "I am sorry for any confusion about the process, but we were really busy in the radiology department today and the check was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:19",
+      "text": "But why did you do it if it is dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:24",
+      "text": "It was just a mistake in the flow of the department."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:29",
+      "text": "I think I am scared. I do not know what to do."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:35",
+      "text": "I understand. But the main thing is that we are watching you now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:40",
+      "text": "Will I be okay? I need to go back to school soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:44",
+      "text": "We will see how the numbers look."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "Do I need more medicine? Or a different doctor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:53",
+      "text": "We are just going to keep an eye on your urine output."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:01:57",
+      "text": "I don't know what that means. Urine output?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "How much you pee."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "Oh. Is that... is that a problem?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "We just need to make sure your kidneys are still working."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:15",
+      "text": "I feel very strange. I think I want to call my father."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:22",
+      "text": "That is fine, but I really have to go check on another patient right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:29",
+      "text": "Wait, can you tell me if this is my fault? Did I tell you wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:37",
+      "text": "No, it wasn't your fault. Things just didn't go quite right with the timing of the blood work review."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:42",
+      "text": "So what happens now? When do I know if I am sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "We'll probably do another blood test tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "Tomorrow? And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "Then we'll see where we are."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:03:01",
+      "text": "I am very confused. I don't understand why this happened if it was in my chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "Like I said, there was some confusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:10",
+      "text": "Will the hospital help me if I get more sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "We are taking care of you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:19",
+      "text": "But I don't know my rights here. I am just a student."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:24",
+      "text": "You don't need to worry about that. We are just monitoring you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:29",
+      "text": "I feel like I am shaking. I am very nervous."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "I understand. Let's just focus on the fluids for now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "Am I in danger?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:43",
+      "text": "I don't think so, but we have to wait for the tests."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:48",
+      "text": "Why did the other nurse say you would be here longer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "I'm not sure. Let's wrap this up for now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:53",
+      "end_time": "00:03:57",
+      "text": "Please, I just want to know if my kidney is broken."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:02",
+      "text": "It's not broken, it's just stressed. We will check it again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "We'll stay tuned for the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:11",
+      "end_time": "00:04:14",
+      "text": "When will you come back?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:18",
+      "text": "Sometime tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:19",
+      "end_time": "00:04:22",
+      "text": "Will you tell me exactly what the number is?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:23",
+      "end_time": "00:04:27",
+      "text": "We'll see how it goes. I have to go now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:28",
+      "end_time": "00:04:31",
+      "text": "Thank you doctor."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I really have to go', 'Let's wrap this up for now', 'I have to go now')."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named, but there are no comprehension checks and the resident uses medical jargon ('contrast agent') without checking if the patient understands."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The resident says 'I am sorry', but immediately dilutes it with an excuse about the department being 'really busy'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident uses generic validation ('I understand') but does not name specific emotions or engage with the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague steps ('we'll see where we are', 'stay tuned') with no patient role or prevention plan."
+    }
+  }
+}

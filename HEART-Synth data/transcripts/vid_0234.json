@@ -1,0 +1,183 @@
+{
+  "video_id": "vid_0234",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Tremblay, thank you for coming back in. I have some information about your daughter's medication that we need to discuss."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "I have ten minutes before I need to be back at the base. What's going on?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:25",
+      "text": "I'm sorry, but there was a medication error. Your daughter received double the intended dose of her antibiotic for the last three days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:29",
+      "text": "Double? How is that possible?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:45",
+      "text": "The liquid medication itself was the correct strength, but the dosing syringe provided to you was calibrated for a different concentration. Because the markings on the syringe didn't match the medicine, the volume you were drawing up resulted in twice the amount of the drug."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:49",
+      "text": "I followed the marks on the syringe exactly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:01:00",
+      "text": "I know you did. This is our mistake. I apologize for this error and for the fact that your daughter received more medication than she should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:04",
+      "text": "Is she going to be okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:12",
+      "text": "She is currently stable, and we are monitoring her. I understand this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:18",
+      "text": "I don't need a moment. I need to know if this is toxic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:31",
+      "text": "I understand you want a direct answer. At this specific dose, we don't expect long-term organ damage, but it increases the risk of side effects like severe diarrhea or a rash."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:38",
+      "text": "You said you're still monitoring her. Why? If it's not toxic, why are we here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:52",
+      "text": "We are performing a full clinical review because we don't have the final investigation report yet. We know the syringe was wrong, but we are still confirming exactly how that happened in the pharmacy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "So you don't even know how your system failed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:10",
+      "text": "No, we don't have the full answer on the process failure yet. I can tell you the result was the wrong syringe, but the internal review into why that happened is still ongoing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "This is unacceptable. I trust the instructions I'm given."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:25",
+      "text": "Do you actually know what the \"safe\" window for this drug is, or are you guessing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:34",
+      "text": "I\u2019m basing this on the pharmacological guidelines for this antibiotic. I\u2019m sorry that our error has put you in this position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "Just give me the plan. What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:54",
+      "text": "First, we have switched her to a new, verified syringe and the correct dose starting immediately. I will personally double-check the next three doses with the nurse while you are here. Second, we are ordering a blood test for her kidney function this afternoon, and I will call you with those results by 6 PM today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:59",
+      "text": "And the pharmacy? How do I know the next one isn't wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:14",
+      "text": "That is the third part of the plan. I have flagged your account so that every prescription for your daughter must be double-signed by the pharmacist and the supervising physician before it leaves the building."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:18",
+      "text": "I'll be expecting that call at 6:00."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "I will make sure that happens."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "Fine. Let's go check those doses."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident never interrupts and remains regulated and calm despite the patient's repeated pushback and frustration."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly and lay language was used, but there were no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language, explicitly stated 'This is our mistake,' and maintained accountability throughout the interaction."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident relied on generic validation ('I understand') without naming specific emotions or engaging deeply with emotional bids."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provided specific next steps with timelines (blood test results by 6 PM) and a patient role (checking doses together), but did not define a specific role for the patient in the long-term prevention plan."
+    }
+  }
+}

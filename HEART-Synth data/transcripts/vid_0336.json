@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0336",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Thanks for coming in today, Ms. Tremblay. I wanted to talk about the imaging from your last visit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "I assumed this was just a routine check-in."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:24",
+      "text": "Not exactly. We were reviewing the radiology reports and there was a finding on the scan, something in a sub-section of the report, that didn't get forwarded to your primary team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "What does that mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:43",
+      "text": "It means the radiologist noted a small incidental finding that required a follow-up scan in three months, but because of how the report was structured, that specific note wasn't flagged for the doctors managing your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:47",
+      "text": "So you missed it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:00:54",
+      "text": "The communication process between the imaging department and the clinical team didn't happen as it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:00:59",
+      "text": "I'm not interested in the process. Did you miss a diagnosis?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:15",
+      "text": "There was a need for a follow-up, and that didn't happen. It\u2019s frustrating and I can tell you're focused on the bottom line here. You're used to things being done right the first time, especially with your training."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:22",
+      "text": "I don't like being the one who discovers a failure in the system after the fact."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:23",
+      "end_time": "00:01:38",
+      "text": "I completely get that. In your line of work, a missed detail in a report can be a critical failure. It\u2019s an unsettling feeling to realize the people you trust for your health aren't as precise as you are in your own duties."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:43",
+      "text": "It is unsettling. How long has this been sitting there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:54",
+      "text": "It's been about four months. Now, I really need to get through the next steps because I have to go to a consult in ten minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:02:01",
+      "text": "Wait, four months? So we are a month late on a follow-up that was already delayed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:16",
+      "text": "We just need to move forward. I can see you're feeling an edge of anger about this, and honestly, you have every right to be. It's a breach of the standard of care you expected from us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:29",
+      "text": "There was a breakdown in the notification chain. The report was filed, but the alerting system didn't trigger for the primary team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:34",
+      "text": "That's a systemic excuse. Who actually failed to read the report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:41",
+      "text": "I understand that doesn't give you a name. It's a failure of the clinic's coordination."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:47",
+      "text": "I'm not asking for a name, I'm asking why the check and balance failed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:52",
+      "text": "Like I said, the sub-section of the report wasn't forwarded."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "I just want to know if I'm sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:09",
+      "text": "I can tell you're trying to maintain your composure here while feeling a lot of uncertainty. That's a heavy load to carry, especially when you're trying to keep things mission-focused."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:16",
+      "text": "I don't need you to tell me how I feel. I need to know the plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:29",
+      "text": "Right, let's wrap this up quickly. I've already put in the order for the repeat imaging. You'll get a call from the radiology department within twenty-four hours to schedule it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:43",
+      "text": "Once the scan is done, I will personally review the results within two business days and call you directly on your cell phone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "What happens if this is actually something serious?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:56",
+      "text": "We'll address that based on the new images. But as for the plan, you just need to wait for that call tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:01",
+      "text": "This is a very sloppy way to handle a patient's health."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:06",
+      "text": "I hear you. The way this was handled wasn't up to standard."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "Will this actually be tracked now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:20",
+      "text": "Yes. I've flagged your chart for a manual review every thirty days for the next six months to ensure nothing else is missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:25",
+      "end_time": "00:04:30",
+      "text": "I have to run to that consult now. We'll get those scans done."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to go to a consult in ten minutes', 'let's wrap this up quickly', 'I have to run to that consult now')."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly, but there are no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is consistently deflected to the 'communication process' and 'notification chain'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('focused on the bottom line', 'unsettling feeling', 'edge of anger', 'uncertainty') and references the patient's professional background."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps (repeat imaging, personal review), clear timelines (24 hours, 2 business days), patient role (wait for call), and a prevention plan (manual review every 30 days)."
+    }
+  }
+}

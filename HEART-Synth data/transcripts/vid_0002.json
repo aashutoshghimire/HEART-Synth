@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0002",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hello Ms. Williams, thank you for coming in to see me today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:20",
+      "text": "I'm just glad I could make it work with the kids. I've been thinking about what you told me last week and I've been so relieved. I actually started looking at new childcare options because I thought I'd be getting better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:30",
+      "text": "I need to talk to you about the imaging results from last week. There was a mistake in how those were communicated to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:35",
+      "text": "A mistake? What do you mean? You said the tumour was smaller."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:49",
+      "text": "When I spoke to you previously, the radiology report hadn't been officially signed off by the consultant. The preliminary data suggested a reduction, but the final verified report shows the disease is actually stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:53",
+      "text": "Stable? You mean it didn't shrink?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:00:58",
+      "text": "That's correct. The size is essentially the same as the previous scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:11",
+      "text": "I don't understand. You were so sure. I told my mom. I told my kids' teacher that I was doing better. Why would you tell me that if you weren't sure?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:22",
+      "text": "The information was based on the initial read, but the final analysis is what we have to go by. It's a discrepancy in the reporting process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:38",
+      "text": "I feel like I've been lied to. I spent the whole weekend feeling like I could breathe again, and now you're telling me it's just... it's the same? What does that even mean for my kids? Am I just staying where I am?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:45",
+      "text": "I understand. But we need to focus on the clinical reality of the stable disease."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:02:01",
+      "text": "I'm terrified. I can't keep doing this rollercoaster. I'm working two jobs and I just needed this one thing to be moving in the right direction. Do you have any idea how it feels to have that hope taken away in five minutes?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "The important thing is that the disease hasn't progressed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:17",
+      "text": "That's not the point! You told me I was getting better! Was that just a guess? Was I just a number on a chart that you didn't even check?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:25",
+      "text": "The system for reviewing the images has a specific workflow, and the final sign-off happened after our call."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:38",
+      "text": "I don't care about a workflow. I care about my life. I feel like I can't trust anything you say now. How do I know the next report is even real?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:43",
+      "text": "The final report is the gold standard of the imaging."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:54",
+      "text": "I just... I don't know what to do. I have to go home and tell my family that I was wrong. That I'm not actually improving."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:02:59",
+      "text": "We should talk about the next steps for your treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:06",
+      "text": "You're not even sorry. You're just moving on to the next part of the appointment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:15",
+      "text": "We are currently reviewing whether a change in medication is necessary given that the tumour hasn't shrunk as we hoped."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "Is it going to happen? Is the medication changing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:26",
+      "text": "I can't say for certain today. I have to consult with the attending physician first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:30",
+      "text": "So I'm just waiting again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:40",
+      "text": "Yes. I will call you by Thursday afternoon to let you know if we are switching the dosage or keeping it the same."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "And who is checking this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:57",
+      "text": "The attending will review the final report and my notes. Your role right now is just to keep monitoring your symptoms and let us know if anything changes before Thursday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "Thursday. Right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:06",
+      "text": "I'll make sure that call happens by 4:00 PM on Thursday."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language to pivot away from the patient's distress, such as 'But we need to focus on the clinical reality' and 'The important thing is...'"
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly, but there are no comprehension checks performed throughout the interaction."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and the resident deflects responsibility to the 'reporting process' and 'workflow'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "The resident provides one generic validation ('I understand') and otherwise consistently meets the patient's emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides a specific next step (call by 4:00 PM Thursday), a named patient role (monitoring symptoms), and addresses prevention (attending review)."
+    }
+  }
+}

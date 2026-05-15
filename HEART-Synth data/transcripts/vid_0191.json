@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0191",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Ms. Osei, thank you for coming back in to speak with me. I have some information regarding the medication your daughter received this morning that I need to discuss with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:20",
+      "text": "I am here. I assumed the dosage issues were sorted out after I spoke with the attending physician earlier."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "I know you were told things were within a standard range, but that was incorrect. I am so sorry. There was a serious error in how we calculated the dose. We used an estimate of your daughter's weight instead of actually weighing her on the scale, and as a result, she received a dose that was significantly above the safe threshold for a child her size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "I'm sorry, you're telling me you guessed her weight?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:55",
+      "text": "Yes, that is exactly what happened. It is an unacceptable failure in our process. I am the one responsible for ensuring that dose was verified, and I failed to do that. I am deeply sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:11",
+      "text": "I work in healthcare, so I know exactly how a medication loop is supposed to function. A weight-based pediatric dose is the most basic safety check there is. To hear that it was bypassed for an estimate is frankly shocking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:27",
+      "text": "You are absolutely right to be shocked. It is a breach of the professional standards we are supposed to uphold, and as a nurse practitioner, I know you recognize how critical that safety step is. I can see how distressing and frustrating this is for you, especially when you were previously given the wrong information about it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:35",
+      "text": "It is more than frustrating. It is a matter of clinical negligence. What has this actually done to her?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:51",
+      "text": "I want to be very clear about the risk. Because the dose was so high, there is a risk of respiratory depression and toxicity. We are monitoring her oxygen saturation and heart rate every fifteen minutes. Right now, her vitals are stable, but we cannot take any chances."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:55",
+      "text": "Why wasn't this caught by the pharmacy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:08",
+      "text": "In this specific instance, the order was pushed through based on the estimated weight I provided in the chart. It shouldn't have happened, and there is no excuse for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:23",
+      "text": "I feel like I can't trust the information I'm getting from this team. First I'm told everything is fine, and now I'm told my child has been overdosed because someone didn't want to use a scale."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:39",
+      "text": "I understand why your trust is broken right now. It is completely reasonable to feel that way when the information you've received has been contradictory and the error itself is so preventable. I am devastated that this happened under my watch."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "So what happens now? Does she need an antidote?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:59",
+      "text": "No antidote is indicated for this specific medication, but we have a three-part plan. First, she will remain on continuous cardiac monitoring for the next twelve hours. Second, I have called the pediatric toxicologist, and they will be here to evaluate her in person within the hour. Third, I want you to be part of the monitoring; if you notice any change in her breathing or alertness, please alert us immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:05",
+      "text": "And what is being done so this doesn't happen to the next child?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:21",
+      "text": "I am filing a formal incident report today. Beyond that, I am meeting with my attending and the department head this evening to implement a hard stop in our electronic ordering system that requires a verified weight from the scale before a pediatric dose can be signed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "That should have been in place years ago."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:40",
+      "text": "I agree. It is a failure of the system and a failure of my own practice. I will keep you updated every hour on her status, even if there is no change, so you aren't left wondering."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "I'll be watching her very closely."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:04:00",
+      "text": "I expect you to. And I will be right here. I'll go bring the toxicologist in as soon as they arrive. Since we have a lot to cover, I'm going to head out and check her vitals one more time quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "Wait, you're leaving now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:12",
+      "text": "I just need to verify her current heart rate before the specialist arrives. I'll be back in two minutes."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('I'm going to head out... quickly', 'I'll be back in two minutes') which causes the patient to question the departure."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but the resident never performed a comprehension check to ensure the patient understood the explanation."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language multiple times and took full personal responsibility ('I am the one responsible', 'I failed to do that') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('distressing and frustrating', 'trust is broken') and referenced the patient's specific professional background and feelings."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided a three-part plan with timelines (12 hours, within the hour), defined the patient's role in monitoring, and addressed systemic prevention via a hard stop in the electronic system."
+    }
+  }
+}

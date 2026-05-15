@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0080",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Tremblay, thank you for meeting with me. I need to discuss a medical error that occurred during your delivery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "An error? What are you talking about?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "During your prenatal visits, your records showed you were positive for Group B strep. This is a common bacterium, but it requires the mother to receive antibiotics during labor to prevent it from passing to the baby. That information was documented, but it wasn't communicated to the delivery team, so you didn't receive those antibiotics. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:34",
+      "text": "Wait. So you knew I had it, but you didn't give me the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:43",
+      "text": "That is correct. The information was in the chart, but the team on the floor wasn't notified, and the medication was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:47",
+      "text": "My daughter is in the NICU. Is this why?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:03",
+      "text": "It is a significant contributing factor. Because the antibiotics weren't given, she was exposed to the bacteria, which has led to her current infection. To make sure I'm being clear, do you have any questions about how this happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:12",
+      "text": "No. I don't have questions. I have a daughter who is sick because someone didn't read a piece of paper."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:16",
+      "text": "This is a very heavy thing to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:24",
+      "text": "I did everything right. I followed every appointment. I stayed on top of every test. I did my job."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:32",
+      "text": "I can see how frustrating and unfair that feels, especially when you were so diligent with your own care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:40",
+      "text": "I can't even look at her right now without thinking that I failed her. I'm supposed to protect her."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:45",
+      "text": "It is incredibly painful to feel like that protection was compromised."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:52",
+      "text": "Who messed up? Was it the nurse? Was it the doctor on call? Give me a name."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:01:59",
+      "text": "The failure happened within the communication process of our team. The system failed to alert the providers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:05",
+      "text": "I don't care about the system. I want to know who forgot the medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "The team as a whole missed the trigger in the chart."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:15",
+      "text": "That is a coward's answer. Just tell me who is responsible."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:19",
+      "text": "The responsibility lies with the hospital staff on duty."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:25",
+      "text": "My baby is fighting for her life and you're talking about \"communication processes.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:31",
+      "text": "I recognize that these explanations don't change the reality of your daughter's condition."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:37",
+      "text": "I'm terrified. What if she doesn't get better? What if there's permanent damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:43",
+      "text": "That fear is completely valid. Right now, we are focusing everything on her recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:50",
+      "text": "I don't want to hear that we're focusing. I want to know what happens now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:06",
+      "text": "We have a specific plan to manage this. First, your daughter is currently on a broad-spectrum antibiotic course that we will maintain for the next five days to clear the infection. Second, we are performing a blood culture every twelve hours to monitor her levels. Third, the neonatology lead, Dr. Sarah Chen, will visit you at 0900 tomorrow to give you a detailed update on her inflammatory markers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "And what do I do? Just sit here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:26",
+      "text": "Your role is critical. We need you to be the primary observer of her breathing patterns between our checks. I'll give you a specific checklist today of what to watch for and who to page immediately if you see a change."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:34",
+      "text": "How do I know this won't happen again? How do I know you're actually tracking her meds now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:50",
+      "text": "That is a fair question. We have implemented a hard-stop check on her current chart. Every single medication dose now requires a dual-signature verification by two different nurses before it is administered. We are also conducting a formal root-cause analysis of your prenatal record to find exactly where the notification broke down so we can change the software alert for all future patients."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:55",
+      "text": "I don't care about other patients. I care about mine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:04:02",
+      "text": "I understand. Our priority is her recovery and ensuring her care is flawless from this moment forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:07",
+      "text": "I can't stop thinking about the fact that this was preventable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:11",
+      "text": "I know. It is a devastating realization."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:12",
+      "end_time": "00:04:15",
+      "text": "When can I actually hold her?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:16",
+      "end_time": "00:04:30",
+      "text": "Once her respiratory stability meets the target we've set, which we expect to happen within the next forty-eight hours. I will check her vitals every four hours and update you personally at the end of each shift."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:31",
+      "end_time": "00:04:34",
+      "text": "Fine. Just... get it right this time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:35",
+      "end_time": "00:04:40",
+      "text": "We will. I will see you again in four hours with the latest labs."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated despite aggressive pushback, and allows the patient to express anger and fear without rushing."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error (missed GBS antibiotics) is named in the first turn, lay language is used, and comprehension is checked twice ('Does that make sense so far?' and 'do you have any questions about how this happened?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language ('I'm sorry' or 'I apologize') and deflects responsibility to 'the communication process', 'the system', and 'the team as a whole'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frustrating and unfair', 'painful', 'devastating') and references the patient's specific diligence and fear."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific steps with timelines (5-day course, 12-hour cultures, 0900 visit), a named patient role (primary observer of breathing), and a prevention strategy (dual-signature verification)."
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0275",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hello Mr. Thompson, it is good to see you again today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:09",
+      "text": "Hello doctor. It is a bit chilly in here, isn't it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:20",
+      "text": "It can be. I wanted to sit down with you for a few minutes to talk about your recent chemotherapy cycle and some results we've seen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:21",
+      "end_time": "00:00:29",
+      "text": "Oh, the medicine. I've been feeling quite poorly lately. Very tired. I suppose that's just what happens at my age."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:40",
+      "text": "I understand you've been feeling very worn out. However, I need to tell you that something went wrong with the dosing of your medication last time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:44",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:01:00",
+      "text": "We used your weight from several months ago to calculate the dose, instead of using your current weight. Because you have lost a lot of weight recently, you received a higher dose of chemotherapy than you should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:08",
+      "text": "Well, I have lost weight. The cancer does that. I'm sure I'm just feeling the effects of the illness."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:20",
+      "text": "I know it's common to lose weight with your condition, but this specific fatigue is because of a dosing error. I am sorry for any confusion this has caused."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:25",
+      "text": "I don't follow. Are you saying the medicine is too strong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:39",
+      "text": "Yes. The dose was too high because the calculation was based on an old weight. We were very busy in the clinic that day and the current weight wasn't updated in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:48",
+      "text": "It's all very confusing. I just thought I was getting older. It's a natural thing, isn't it? To feel weak?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:57",
+      "text": "It is natural to feel some fatigue, but this was an extra burden on your body that shouldn't have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "So you made a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "Yes, the team made an error in the calculation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:12",
+      "text": "I don't know. It seems more likely that the cancer is just progressing. That's why I'm tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:27",
+      "text": "I can see why it feels that way, and it's frustrating when you're trying to make sense of why you feel so bad. But the blood tests show that the dose was indeed too high."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:32",
+      "text": "My hearing aid is acting up. Could you say that again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:41",
+      "text": "I said the blood tests show that the dose of medicine was too high because we used the wrong weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:46",
+      "text": "I see. But surely a little bit more medicine doesn't do much?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:52",
+      "text": "It can cause more toxicity, which is why you are feeling so exhausted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:03:00",
+      "text": "I suppose. I just feel like you're worrying over nothing. I've had a lot of these treatments now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:07",
+      "text": "It is certainly worrying to feel this way, but we need to be honest about what happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "So what now? Do I just keep taking it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:22",
+      "text": "No, we are going to adjust your dose immediately. We will use your exact weight from this morning to make sure the next one is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "When does that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:33",
+      "text": "The next infusion is scheduled for Tuesday. We will have the new dose ready by then."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:38",
+      "text": "Tuesday. I'll have to tell my daughter to drive me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:50",
+      "text": "That sounds like a good plan. I will also have the nurse check your blood counts on Monday just to be sure you've recovered from the last dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:54",
+      "text": "Monday and Tuesday. I can remember that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:55",
+      "end_time": "00:04:02",
+      "text": "I'll make sure the nurse writes that down for you on a slip of paper before you leave."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:08",
+      "text": "Thank you, doctor. I still think I'm just old, but I'll trust you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:14",
+      "text": "I appreciate that, Mr. Thompson. We will keep a very close eye on you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns, remains patient despite the patient's repeated denial of the error, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, but there were no explicit checks for patient comprehension (e.g., 'Does that make sense?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While a direct apology was used, it was diluted by an excuse regarding being 'very busy in the clinic that day'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named a specific emotion ('frustrating') and engaged with the patient's content regarding his fatigue and age."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provided specific next steps with timelines (Monday blood counts, Tuesday infusion) and a patient role (daughter driving), but did not address how to prevent the error in the future."
+    }
+  }
+}

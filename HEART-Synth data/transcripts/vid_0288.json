@@ -1,0 +1,261 @@
+{
+  "video_id": "vid_0288",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello Mr. Chen, it is good to see you. I wanted to talk to you about your follow-up care after you left the hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "I go to clinic. But they say no."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:28",
+      "text": "I have some important news about that. There was a mistake in your discharge papers. We gave you an appointment at a clinic that does not take your insurance. That was a medical error on our part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "I do not understand. Insurance is okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:41",
+      "text": "No, the clinic we picked does not work with your insurance company. That means they cannot see you. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:47",
+      "text": "Ah. No. I go there. They say go away. I was... very worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:00",
+      "text": "I can see it in your face that this was incredibly stressful for you. To drive all that way and be turned away must have felt very frustrating and confusing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:05",
+      "text": "I think I did something wrong. Maybe my papers are bad."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:15",
+      "text": "You did everything exactly right, Mr. Chen. You followed the instructions perfectly. It is very upsetting that we put you in this position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "Why this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:30",
+      "text": "The system had a list of clinics, and the one we chose was not updated to show they stopped taking your insurance. The paperwork was just wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:34",
+      "text": "I have no doctor now. My leg still hurts."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:45",
+      "text": "It sounds like you feel stranded right now, especially since you are still dealing with that pain in your leg. I hear how worrying that is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:49",
+      "text": "Yes. I need help."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:57",
+      "text": "I want to make sure I explained this clearly. Can you tell me what happened with the clinic?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:02",
+      "text": "You give me wrong place. My insurance no work there."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:08",
+      "text": "That is exactly right. I am glad we are on the same page."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:12",
+      "text": "You are the doctor. You fix it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:25",
+      "text": "I am working on it. I have to go check on a patient in room four right now, so let me just quickly tell you how we will handle this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "But my leg..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:36",
+      "text": "I know it hurts, and we will get it sorted. I will look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:45",
+      "text": "I'll try to find something. We will see what we can do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "You call me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:58",
+      "text": "We will keep an eye on it. You should probably just stay tuned for an email or a call from the office."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "I do not check email. My son does."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Right, well, we will send something out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Is this my fault?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:18",
+      "text": "No, it was just a mix-up with the clinic list. It happens sometimes when the system isn't updated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:25",
+      "text": "I feel very small at that clinic. They talk fast. I just want my medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:36",
+      "text": "It is so hard when people talk fast and you feel like you aren't being heard. I can tell you felt very overwhelmed in that lobby."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "Yes. Very overwhelmed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:50",
+      "text": "I really appreciate you telling me that. Now, I really do have to wrap this up because I have a full ward today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:54",
+      "text": "So I go home? No doctor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:55",
+      "end_time": "00:03:58",
+      "text": "For now, yes. Just wait to hear from us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:02",
+      "text": "When will you call?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "Soon. We will see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "But the pain..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:17",
+      "text": "I understand. Just try to take it easy until the email comes. I have to go now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('quickly tell you', 'wrap this up', 'I have to go now') and interrupts the patient's concern about leg pain."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, and comprehension was checked once ('Can you tell me what happened with the clinic?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to 'the system' and 'the paperwork'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrating and confusing', 'stranded', 'overwhelmed') and references the patient's specific experience in the lobby."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague promises ('I'll try to find something', 'stay tuned', 'we will see') with no specific timeline or prevention plan."
+    }
+  }
+}

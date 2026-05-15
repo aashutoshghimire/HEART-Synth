@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0298",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello Mr. Rivera. Thank you for meeting with me. I have some important things to tell you about your treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Hello doctor. Is everything okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:21",
+      "text": "No, it is not. I am very sorry to tell you that we made a mistake with your chemotherapy dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:25",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:41",
+      "text": "When we give the medicine, we calculate the amount based on your weight. We used your weight from a few months ago. But you have lost a lot of weight since then. Because of that, you received more medicine than you should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "Oh. I feel very sick today. Is that why?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:01:01",
+      "text": "Yes, it is likely because of the extra medicine. I want to be very clear: this was my fault. I did not check your current weight before the dose was given. I am deeply sorry for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:13",
+      "text": "I don't... I don't know. Will this make me more sick? I cannot go to the police or... I don't have papers. Will this change how you treat me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:21",
+      "text": "Please know that your status does not change your right to safe care. We are here to help you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:30",
+      "text": "I am just worried that if there is a problem, maybe I should not be here. I don't want to cause trouble."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:38",
+      "text": "You are not causing trouble. I am the one who made the mistake. I take full responsibility for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:43",
+      "text": "I feel very scared. I don't like the way my stomach feels."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "I can see you are feeling anxious."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:51",
+      "text": "Yes, and I think maybe\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:00",
+      "text": "Right, so we need to look at the blood tests. We have to make sure your white blood cells are okay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:06",
+      "text": "I just wanted to say that I was thinking about my kids and\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:22",
+      "text": "I have to go over the plan quickly because I have other patients to see. We are going to do a blood draw every morning for the next three days. That is your part, you just need to come to the lab at eight o'clock."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "Eight o'clock. Okay. But what about the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:42",
+      "text": "We have stopped the current cycle. We will wait five days before we start again, and I will personally weigh you right before the next dose to make sure the number is correct. Does that make sense to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "Yes. I think so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:53",
+      "text": "Just to be sure I explained it well, can you tell me what happened with the dose?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "You used the old weight. Too much medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "Will I be okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:16",
+      "text": "We are monitoring you closely. We will check your labs tomorrow morning, and I will come back to see you at ten to tell you the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "I am still very worried about my status."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:28",
+      "text": "We are focused on your health right now. Let's wrap this up so the nurse can check your vitals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I will see you tomorrow at ten."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident interrupts the patient multiple times during emotional bids (regarding kids and status) and uses rushing language ('go over the plan quickly', 'wrap this up')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once via teach-back."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language ('I am very sorry', 'deeply sorry') and took full personal responsibility without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident named one emotion ('anxious') but otherwise met emotional bids regarding the patient's children and legal status with factual redirection."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provided specific steps (blood draws, 5-day wait), timelines (8am, tomorrow at 10), the patient's role (come to the lab), and a prevention strategy (personally weighing the patient)."
+    }
+  }
+}

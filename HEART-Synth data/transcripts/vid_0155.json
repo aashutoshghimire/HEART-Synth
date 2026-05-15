@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0155",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello Ms. Anderson. I wanted to come by and talk to you about how things have gone since you arrived."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:17",
+      "text": "I appreciate you coming in. Although, the nurse already gave me the gist of the situation while you were away."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:28",
+      "text": "Right, yeah. Well, I'm sorry for any confusion regarding the timing of your arrival and the triage process. We were really busy in the emergency department today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:41",
+      "text": "I'm less concerned about how busy you were and more concerned about why I was sitting in the waiting room for three hours when I had clear focal neurological deficits."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:51",
+      "text": "It's just that the system can be quite overwhelming during peak hours. There were a few issues with how the initial assessment was recorded."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:56",
+      "text": "Let's be precise. Were you categorized as low-acuity despite your symptoms?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:03",
+      "text": "There was some a bit of a disconnect in the communication flow during the intake process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:14",
+      "text": "That is a very polished way of saying the triage was wrong. Because of that delay, I missed the window for the clot-busting medication, didn't I?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:24",
+      "text": "I understand this is frustrating. We are focusing now on the next steps for your recovery and making sure we monitor your stability."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:39",
+      "text": "It isn't frustrating, Doctor. It is a clinical failure. I spend my days managing hospital administration; I know exactly what a thrombolysis window is and I know that once it closes, the damage is permanent."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:48",
+      "text": "I can see you're upset, and I get that. But looking at the current imaging, we are doing everything we can now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:59",
+      "text": "I am not upset. I am asking for a factual account of why the protocol failed. Who made the decision to keep me in the waiting room?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "Look, the way the triage flow works is\u2014"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:10",
+      "text": "I'm not finished. I want to know if this is being logged as a sentinel event."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:23",
+      "text": "I have to go check on another patient in a moment, so I want to make sure we get through this quickly. The point is that we are moving forward now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:34",
+      "text": "You're rushing me. I am the patient in this scenario. I want a clear explanation of the error and a copy of the triage notes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:41",
+      "text": "I'm sure we can get those sorted. I'll see what I can do about the paperwork."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:49",
+      "text": "When exactly will I see those notes? And who is the attending physician overseeing the review of this delay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:57",
+      "text": "We'll see how the morning progresses. Just stay tuned for an update or maybe an email from the department."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:03",
+      "text": "That is not a timeline. I want a meeting with the Chief of Medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:09",
+      "text": "I understand. But as I said, we're just trying to keep things moving."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:22",
+      "text": "You have yet to actually tell me what happened. You've used words like \"disconnect\" and \"issues.\" Did the triage nurse miss the stroke screen or did the screen not trigger?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:29",
+      "text": "There were just some things that didn't go quite right with the initial processing of your charts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "This is completely unacceptable. You are avoiding the facts of the case."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "I'm sorry you feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:44",
+      "text": "I don't feel a certain way. I am observing a failure in transparency."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "We're doing our best here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:56",
+      "text": "Your best resulted in a permanent deficit. I expect a written summary of the triage failure by tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:01",
+      "text": "I'll look into it. I really have to get going now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "We are not done here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "I'll stop by later. We'll figure something out."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('get through this quickly', 'have to get going now') and interrupts the patient."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident never explicitly names the error, relying entirely on platitudes like 'disconnect in the communication flow' and 'things that didn't go quite right'."
+    },
+    "A": {
+      "score": 0,
+      "justification": "Responsibility is consistently deflected to 'the system', 'the triage flow', and 'the intake process'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand this is frustrating', 'I can see you're upset') without specific engagement or naming emotions back."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders and vague responses ('we'll see how the morning progresses', 'we'll figure something out') without timelines or concrete steps."
+    }
+  }
+}

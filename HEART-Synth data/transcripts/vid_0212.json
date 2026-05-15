@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0212",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mr. Thompson. It is good to see you back, though I wish it were under better circumstances."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:13",
+      "text": "Hello doctor. I just... I think my stitch popped. It started leaking last night."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:28",
+      "text": "I can see that. I have looked at the wound and it is a bit irritated, but we can fix it right now. Before we do that, I want to talk to you about why this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:33",
+      "text": "Was it something I did? I tried to be careful."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:49",
+      "text": "No, you did everything right. This happened because of a mistake we made. You were sent home six hours too early. According to our rules, you needed to stay longer to make sure the wound was stable. Because you left early, we didn't catch the issue before you went home."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:54",
+      "text": "Oh. I thought I was just... I was just ready to go."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:01",
+      "text": "I understand it felt that way. Does that make sense? That we let you go too soon?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:05",
+      "text": "Yes. Too soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:14",
+      "text": "I am sorry for the confusion. We were very busy on the floor yesterday and the timing just got mixed up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:21",
+      "text": "Well, it was a long night. My wife was worried. I don't like being in the hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:28",
+      "text": "I can imagine it's frustrating to have to come back when you thought you were finished."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:32",
+      "text": "It is. I just wanted my own bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:36",
+      "text": "I know. It is a lot to deal with."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:40",
+      "text": "Did I do something wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:44",
+      "text": "Not at all. This was our error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "Oh. Well. What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:02:04",
+      "text": "Here is exactly what we are going to do. First, I am going to clean the wound right now using a sterile solution. Then, I am going to put a new, stronger dressing on it. This will take about ten minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:08",
+      "text": "Ten minutes?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:24",
+      "text": "Yes, just ten minutes. After that, you are going to stay here for two hours. I want you to sit in this chair and we will monitor the dressing to make sure there is no more leaking. While you wait, I want you to tell the nurse if you feel any new stinging or warmth in that area."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I can do that. I'll tell the nurse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:44",
+      "text": "Thank you. To make sure this doesn't happen again, I have already updated your chart with a mandatory hold. This means no one can discharge you until the head surgeon signs off personally. I am also filing a report with our safety team so they can change how we track discharge times for everyone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "That sounds like a good idea."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:56",
+      "text": "I want to make sure I've explained this clearly. Can you tell me what happened with your discharge yesterday?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:01",
+      "text": "You said... you let me go too early. Six hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "That is exactly right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "I'm just tired, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:18",
+      "text": "I know you are. I can see you're exhausted. Let's get this cleaned up so you can get some real rest soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "You're welcome. Let's start with the cleaning."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, uses no rushing language, and maintains a regulated pace throughout the interaction."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error (sent home six hours too early) is named in the second turn, lay language is used, and comprehension is checked twice (once via 'Does that make sense?' and once via a teach-back request)."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While the resident says 'I am sorry', the apology is immediately diluted by an excuse regarding being 'very busy on the floor yesterday'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions twice ('frustrating', 'exhausted') and references the patient's specific content about wanting their own bed."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (cleaning, dressing, monitoring), timelines (ten minutes, two hours), a named patient role (tell the nurse), and prevention (mandatory hold and safety report)."
+    }
+  }
+}

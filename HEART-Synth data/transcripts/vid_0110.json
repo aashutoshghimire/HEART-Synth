@@ -1,0 +1,141 @@
+{
+  "video_id": "vid_0110",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Williams, thank you for sitting down with me. I wanted to talk with you about your delivery and some things that happened with your baby's care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:17",
+      "text": "Is everything okay? I\u2019ve just been staring at the monitor. The baby looks so small."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "I need to be honest with you about a mistake that was made. During your pregnancy, your records showed that you tested positive for Group B strep. That is a common bacteria, but it means we should have given you antibiotics during labor to protect the baby. We didn't do that. The information was in your chart, but it wasn't communicated to the delivery team, and as a result, the medicine wasn't given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:37",
+      "text": "Wait, what? You mean you just missed it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:48",
+      "text": "Yes. We missed a critical piece of information. I am very sorry. Our team is responsible for this, and we failed to follow the necessary safety step."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:01:02",
+      "text": "I don't understand. Why would you miss that? I did everything right. I went to every single appointment. I'm here by myself because I had to find someone to watch my other two kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:16",
+      "text": "I know how much effort you put into your prenatal care, especially balancing two jobs and your other children. It feels incredibly unfair that you did everything right and we still dropped the ball."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:23",
+      "text": "I'm just... I'm terrified. Is my baby okay? Is that why they are in the NICU?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:39",
+      "text": "That is exactly why the baby is being monitored. Because the antibiotics weren't given, there is a risk of infection. We are treating the baby now, but the error is why we are in this position. Does that make sense so far, or can I explain any of that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:55",
+      "text": "It makes sense. It just makes me feel like I can't trust anyone here. If you missed this, what else did you miss? I can't afford for this baby to be sick. I don't have a husband to help me with the bills or the kids. I'm doing this all on my own."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:11",
+      "text": "It sounds like you're feeling completely overwhelmed, and that's entirely justified. Being a single parent is already a huge load to carry, and now you're facing this stress on top of everything else. I can't imagine how scary it is to feel like the people taking care of your child aren't paying attention."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:17",
+      "text": "Exactly. I just need to know if my baby is going to be okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:25",
+      "text": "I can't give you a guarantee right this second, but we are doing everything possible to correct the situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:30",
+      "text": "So what happens now? Do they just stay in the NICU forever?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "Look, I have to check on another patient in a moment, but we're going to get the baby started on a course of antibiotics right now. We'll monitor the bloodwork every twelve hours to make sure the infection is clearing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:55",
+      "text": "And when do I get to take them home? My other kids are asking when the baby is coming back."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:11",
+      "text": "I'm not entirely sure of the exact date yet. The neonatologist will come by around 2:00 PM today to give us a more specific timeline on the recovery. I'll make sure to be here for that or send you a message immediately after."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "I just can't believe this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:31",
+      "text": "I know. It is a failure on our part. We are reviewing how the information was handed off between the clinic and the ward so this doesn't happen to another mother. I will stay in constant contact with you throughout the shift."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language at 02:31 ('Look, I have to check on another patient in a moment')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, with one comprehension check ('Does that make sense so far...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am very sorry'), team responsibility explicitly claimed, and accountability maintained throughout pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions named ('unfair', 'overwhelmed', 'scary') and references to patient's specific life context (single parent, two jobs) are used."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Specific steps and timelines are provided (antibiotics now, neonatologist at 2:00 PM), but there is no named role for the patient in the plan."
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0084",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello Mrs. Kowalski, do you have a few minutes for us to talk?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:11",
+      "text": "I always have time for my doctors. I was just praying for my recovery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "I appreciate that. I wanted to come by and discuss some of the imaging we did earlier in your stay. There was an incidental finding on the scan\u2014basically something unrelated to why you came in\u2014that required a follow-up appointment in three months."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "A follow-up? What was it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:47",
+      "text": "It was a small spot on the lung. Now, the issue is that this was documented in a sub-section of the radiology report that wasn't forwarded to the primary medical team. Because of that, no follow-up was arranged."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:51",
+      "text": "I don't understand. Are you saying someone forgot me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:00:56",
+      "text": "The communication between the imaging report and the clinical team failed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:12",
+      "text": "I have trusted you all so much. I felt like I was in God's hands and your hands. To think that something was just... left in a folder somewhere? It feels so cold. Like I'm just a chart and not a person."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:16",
+      "text": "It is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:24",
+      "text": "I just feel so small right now. I thought we were all working together to get me healthy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:28",
+      "text": "I can see that you're feeling let down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:33",
+      "text": "Let down? I'm frightened. Is this spot cancer? Why wasn't I told?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:39",
+      "text": "The report indicated it needed a check in three months to be sure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:49",
+      "text": "And who is responsible for this? Was it you? Was it the radiologist? I just want to know why this happened to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:57",
+      "text": "There are many steps in the reporting process and the system didn't trigger the alert to the primary team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:06",
+      "text": "That doesn't tell me who forgot me. I just want a human being to tell me they made a mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:14",
+      "text": "The process for forwarding these reports is complex and unfortunately it didn't work as intended in this case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:23",
+      "text": "I feel like you're talking to me like I'm a stranger. I am a woman in your bed. I am scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "I understand that this is distressing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:36",
+      "text": "You keep saying you understand, but you're not really hearing me. I feel like I'm drifting in the wind here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:52",
+      "text": "I want to make sure we fix this immediately. Here is exactly how we are going to handle it. First, I have already contacted the pulmonology clinic. I have secured an appointment for you this coming Tuesday at 10:00 AM, which is much sooner than the three-month mark originally requested."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "Tuesday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:12",
+      "text": "Yes, Tuesday. I have also put a hard-stop alert in your electronic medical record. This means any doctor who opens your chart will see a bright red notification about the lung follow-up so this can never happen again. I will personally call the clinic on Monday morning to confirm they have your file and the original scan. All you need to do is let me know if that time works for you, and if not, I will move mountains to find a time that does."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:18",
+      "text": "I suppose Tuesday is fine. I just... I don't know how to feel."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:25",
+      "text": "I'll make sure you have the address for the clinic in writing before you leave today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:32",
+      "text": "Thank you for the appointment. But it still feels like a hole in my trust."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:41",
+      "text": "We will make sure the next steps are handled perfectly. Do you have any other questions about the Tuesday appointment?"
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish their turns and does not interrupt, though the pacing remains somewhat focused on the clinical resolution."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly and lay language is used, but there are no comprehension checks (e.g., 'Does that make sense?') throughout the transcript."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is consistently deflected to the 'communication' and 'the system'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('let down', 'distressing') and acknowledges the patient's feelings, though the patient explicitly notes they do not feel heard."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides a specific appointment (Tuesday at 10:00 AM), defines the patient's role (confirming the time), and addresses prevention (hard-stop alert in the EMR)."
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "video_id": "vid_0069",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:03",
+      "text": "Hello Mr. Thompson, how are you doing today?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:04",
+      "end_time": "00:00:07",
+      "text": "I am doing alright, thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:08",
+      "end_time": "00:00:17",
+      "text": "Good to hear. Listen, I wanted to come by and talk to you about your MRI scans and the plan for your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:18",
+      "end_time": "00:00:21",
+      "text": "Oh, okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:33",
+      "text": "So, there was a bit of a mix-up with the imaging. We had a situation where two different patients had their studies stored under the same accession number."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:37",
+      "text": "I am not sure what that means."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:51",
+      "text": "Right, basically it means the computer filed two different people's pictures in the same folder. Because of that, the surgical team reviewed the wrong scan when they were deciding how to do your procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:55",
+      "text": "Did I get the wrong one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:08",
+      "text": "No, but we looked at someone else's images instead of yours. It's sorry for any confusion this caused, but we were just really busy on the imaging floor that day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:12",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:16",
+      "text": "Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:20",
+      "text": "I think so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:21",
+      "end_time": "00:01:26",
+      "text": "It's really just a technicality in the system. Anyway, we've identified the mistake now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:30",
+      "text": "I feel a bit worried about it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:36",
+      "text": "I understand. But the main thing is we have the right images now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:40",
+      "text": "Will it change the surgery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:52",
+      "text": "Well, it might. We are re-evaluating the approach. Now, since I have to go see another patient in a few minutes, I want to quickly get through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "I just wonder if\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:04",
+      "text": "The important part is that we caught it before the actual operation. It's a common kind of system glitch."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:08",
+      "text": "Is it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:12",
+      "text": "I understand you're concerned, but we're handling it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "My daughter said I should ask about the risks."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:27",
+      "text": "I mean, the risk is minimal because we are fixing it now. Let's just wrap this up so I can get back to the ward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:37",
+      "text": "So for the plan, we are going to look at the images again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "When will that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "Sometime soon. The team will probably be in touch."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "Do I need to do anything?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:55",
+      "text": "Not really. Just stay in your bed and wait for us to come back."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:03:00",
+      "text": "I'm just a bit confused about who had the other scan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:08",
+      "text": "It doesn't really matter who it was, Mr. Thompson. The point is we have your correct MRI now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "Oh."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "I have a few more things to check on the floor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "Thank you, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "You're welcome. I'll have someone stop by later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "Will they tell me the new plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "We'll see. We'll likely send an update or someone will pop in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "I think I will just lie down then."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "Sounds good. I'll get going now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('quickly get through this', 'wrap this up', 'get back to the ward') and interrupts the patient's attempt to speak."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is explicitly named early using lay language and the resident checks for comprehension ('Does that make sense?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology is offered ('It's sorry for any confusion'), but it is immediately diluted by an excuse regarding being 'really busy on the imaging floor'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident uses generic validation ('I understand') but does not name specific emotions or engage with the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The plan consists of placeholders and vague timelines ('Sometime soon', 'We'll see', 'someone will pop in')."
+    }
+  }
+}

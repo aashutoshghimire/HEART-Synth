@@ -1,0 +1,267 @@
+{
+  "video_id": "vid_0053",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Mr. Chen, I wanted to come by and talk to you about your chest X-ray from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:10",
+      "text": "My X-ray? Is it okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:22",
+      "text": "Well, there was a problem with the imaging. The portable machine was positioned incorrectly when the image was taken. This resulted in an image of insufficient diagnostic quality."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:26",
+      "text": "What does that mean? I do not understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:37",
+      "text": "It means the picture was not clear enough for us to be sure about what was happening in your lungs. But the report said it was normal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:41",
+      "text": "Normal? You said not clear. I am confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:48",
+      "text": "Right, it was reported as normal, but because the positioning was wrong, that report was not accurate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "Did I do something wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:01",
+      "text": "No, it was not your fault. We were really busy on the floor yesterday and it happened. Sorry for any confusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:09",
+      "text": "I feel... I feel a lot of pain. Is that why the picture is bad? Am I very sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:20",
+      "text": "The pain is likely from your condition, not the X-ray. We just need to get a better image to see the extent of the pathology."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:28",
+      "text": "My chest hurts so much. I am scared. I just want to go home. Why is this happening?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:33",
+      "text": "I understand. But we need to focus on the next step here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:41",
+      "text": "But you said normal. Now you say not normal. I don't know what is happening to me. Please."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:45",
+      "text": "It's just a technical issue with the X-ray."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:49",
+      "text": "I cannot breathe well. I think I am dying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:57",
+      "text": "You aren't dying, Mr. Chen. Let's not get ahead of ourselves. We just need to repeat the test."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "Why did this happen? Who did this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:10",
+      "text": "The imaging team and the staff on the ward were managing many patients. These things happen in a busy hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "I don't understand. I just want to be okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:23",
+      "text": "Look, I actually have to go check on another patient in a few minutes, so we need to move through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "I am so scared. My breathing is getting worse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "I understand. We are going to do another X-ray."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "When? Now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "Sometime today. We'll get it done."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:44",
+      "text": "Will I be okay? Please tell me I will be okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:49",
+      "text": "We will know more once we have the new image."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:54",
+      "text": "I don't know what you are saying. This is too much."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:00",
+      "text": "We are just repeating the test because the first one wasn't good enough."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:05",
+      "text": "Why did they say it was normal if it was bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:10",
+      "text": "The report was based on an insufficient image. It's a process error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:15",
+      "text": "I am just a old man. No one tells me anything clearly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:22",
+      "text": "I'm telling you now. We'll get the X-ray done and then we can talk about the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "I can't stop shaking. I can't breathe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:31",
+      "text": "Just try to stay calm. Like I said, we'll do the repeat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "Will the doctor come back?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "I'll be back after the new film is read."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "How long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "Soon. Probably later today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:55",
+      "text": "Okay, I really have to go now. Just stay in bed and the techs will be here shortly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('move through this', 'really have to go now') and dismisses patient distress."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named early, but the resident fails to perform any comprehension checks and uses medical jargon like 'diagnostic quality' and 'extent of the pathology'."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Resident offers a brief apology ('Sorry for any confusion') but immediately dilutes it with excuses about being 'really busy on the floor'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but does not name specific emotions or engage with the patient's fear and pain."
+    },
+    "T": {
+      "score": 1,
+      "justification": "A next step is provided (repeat X-ray) with a vague timeline ('sometime today'), but there is no patient role or prevention strategy discussed."
+    }
+  }
+}

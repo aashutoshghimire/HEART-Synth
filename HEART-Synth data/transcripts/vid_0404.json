@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0404",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Ms. Anderson, thank you for coming back to see me. I asked to speak with you because I need to be honest about what happened during your procedure earlier today. I made a mistake. I did not check your pain levels during the repair, and as a result, I did not give you enough anaesthetic to numb the area."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:30",
+      "text": "I noticed. It was quite painful. The nurse who saw me after mentioned that the infiltration seemed low, but the attending told me it was just a normal reaction to the local anaesthetic wearing off quickly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:46",
+      "text": "I want to be very clear: that is not what happened. What the attending told you was incorrect. This was not a normal reaction or a timing issue. I failed to monitor your discomfort and failed to provide the necessary medication to keep you comfortable. I am sincerely sorry for the pain I caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:01:02",
+      "text": "I appreciate the directness. I\u2019ve spent twenty years in hospital administration, so I\u2019m used to hearing that things are just a byproduct of the process. It is refreshing to have someone actually take ownership. But it was still a very distressing experience."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:16",
+      "text": "It sounds like it was not just the physical pain, but the frustration of being told one thing when you knew something was wrong. I can only imagine how unsettling that must have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:23",
+      "text": "Precisely. The physical part is over, but the contradiction in the information is what sticks with me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:35",
+      "text": "I completely understand why that would be unsettling. To make sure I've explained this clearly, do you feel you have a full understanding of why you experienced that pain?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:42",
+      "text": "Yes. You didn't check if I was feeling it and you didn't give me enough numbing agent."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:58",
+      "text": "That is correct. Again, there is no excuse for that. I let a fundamental step of the process slide, and you paid the price for that in pain. Does that answer everything regarding the cause of the incident?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:05",
+      "text": "It does. So, where do we go from here? I assume there is a report being filed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:12",
+      "text": "We will definitely be documenting this. I'll be talking with my supervisor about how this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:25",
+      "text": "And for my care? Do I need to come back for a follow-up or are there specific signs of complications I should look for since the procedure was... traumatic, so to speak?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:31",
+      "text": "I'll look into that. We should probably just keep an eye on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:44",
+      "text": "Keep an eye on it? That's a bit vague. Is there a specific date for a wound check? A set of symptoms that would require a call to the clinic?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:51",
+      "text": "I'm not entirely sure on the exact schedule yet. I'll probably send an email or something."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:03:07",
+      "text": "Dr. or Resident, as an administrator, I can tell you that a \"keep an eye on it\" plan is where the next error usually happens. I'd like a specific timeline for my recovery and a clear point of contact."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "Right. I'll get back to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "When exactly?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:20",
+      "text": "Soon. Just whenever I have a moment to check the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "I'm not sure that's sufficient."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "I understand. I'll try to find out."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and maintains a regulated tone, though the pacing becomes slightly rushed/dismissive toward the end."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error is named in the first turn, lay language is used, and comprehension is checked twice ('do you feel you have a full understanding' and 'does that answer everything')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am sincerely sorry'), takes full personal responsibility, and maintains accountability even when the patient pushes for more details."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions twice ('frustration', 'unsettling') and references the patient's specific experience of being told contradictory information."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague responses ('keep an eye on it', 'I'll get back to you', 'soon') without specific timelines or a concrete plan."
+    }
+  }
+}

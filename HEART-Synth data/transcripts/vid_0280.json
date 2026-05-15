@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0280",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Ms. Tremblay, thank you for coming back in to see me. I asked you to come back because I discovered an error was made with your son's vaccinations during his visit yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "An error? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:29",
+      "text": "When the vaccines were being prepared, the nurse drew up the dose based on the wrong weight category. Your son received a dose of the vaccine intended for an older, heavier child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:34",
+      "text": "Wait. You gave my baby too much of a medication?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:41",
+      "text": "Yes, that is what happened. The dosage was higher than what was indicated for his current weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:48",
+      "text": "This is unbelievable. He is an infant. How does that even happen in a professional clinic?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:53",
+      "text": "I know this is alarming. I am very sorry that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:03",
+      "text": "Sorry doesn't change the fact that you put an overdose into my son. Was he poisoned? Is he going to have a reaction?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:17",
+      "text": "It is completely understandable that you are angry and worried about his safety. Given the specific vaccine involved, we do not expect any long-term harm or toxicity, but the dose was objectively too high."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:29",
+      "text": "You say you're sorry, but you're blaming the nurse. You're the doctor. You're the one who's supposed to be checking the numbers before they go into the arm."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:43",
+      "text": "You are right. As the physician, it was my responsibility to ensure the dose was correct before it was administered. I failed to catch that mistake, and I take full accountability for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:55",
+      "text": "I don't care about your accountability. I care about what this does to my child. My son is barely here and you've already messed up his medical record."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:02",
+      "text": "I hear how frustrating and frightening this is, especially when you're trusting us with your child's health."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:17",
+      "text": "I'm not frightened, I'm pissed off. I don't have time for this. I have a deployment cycle to prepare for and now I'm spending my afternoon in a clinic because you can't read a scale."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:32",
+      "text": "I realize this is an added stress you don't need right now. Does the explanation of how the dose was calculated for the wrong weight make sense, or can I clarify any part of that?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:37",
+      "text": "I get it. You used the wrong chart. Now what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:53",
+      "text": "Here is the plan. First, I have already contacted the toxicology and pharmacy team to confirm there are no immediate contraindications or risks for his specific weight. Second, I want you to monitor him for the next forty-eight hours for any unusual fever or lethargy. If you see anything, you call my direct line, which I'm going to give you right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "And then what? You just hope for the best?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:13",
+      "text": "No. I am scheduling a follow-up appointment for this Friday at ten in the morning just to do a physical check and ensure he is doing fine. I have also started a formal incident report so the clinic can change how vaccines are double-checked to make sure this doesn't happen to another parent."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "Who is actually checking the meds now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:30",
+      "text": "From this point forward, I will personally verify every dose against the chart before it is drawn. I'll be the one doing the final sign-off on every vaccine your son receives here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "Fine. Give me that phone number."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:47",
+      "text": "Here it is. Please save it in your contacts. I will call you tomorrow afternoon just to check in and see how he is doing before we see you on Friday."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident never interrupts the patient, remains regulated despite significant pushback, and allows the patient to express anger without rushing."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, lay language used throughout, comprehension checked ('Does the explanation... make sense?'), and no false reassurance given regarding the dose being 'objectively too high'."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am very sorry'), resident takes full personal accountability ('I failed to catch that mistake'), and maintains this under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions named ('alarming', 'angry and worried', 'frustrating and frightening') and references the patient's specific stress regarding the deployment cycle."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Includes specific next steps with timelines (48-hour monitoring, Friday 10am appointment), a named patient role (monitor for fever/lethargy), and a prevention plan (incident report and personal verification)."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0396",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Lindqvist, thank you for meeting with me. I need to discuss something that happened during your procedure yesterday. There was a medical error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "An error? What are you talking about?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "During your CT scan, we administered a contrast agent, but we did so without following the necessary pre-treatment protocol for your kidney function. Because your creatinine levels were high, you were at a significant risk for contrast-induced nephropathy, and we didn't take the steps to protect your kidneys before the dye was given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:42",
+      "text": "You're kidding me. I saw my labs. My creatinine was well above the threshold. You knew the risk of acute kidney injury was high, and you just pushed the contrast anyway?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:56",
+      "text": "I did. I was the one responsible for checking those labs and ordering the hydration protocol, and I failed to do that. I am very sorry. I take full responsibility for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:12",
+      "text": "Sorry doesn't fix my GFR. I spent fifteen years as a paramedic; I know exactly how this works. You didn't just \"forget a step,\" you ignored a contraindication. This is basic standard of care. How does this even happen in a teaching hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:28",
+      "text": "It is unacceptable. There is no excuse for missing a documented lab value. I can hear how angry you are, and given that you've spent your career ensuring patient safety, it must feel especially egregious that this happened under my care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:39",
+      "text": "It is egregious. It's negligent. My kidneys were already struggling, and now you've potentially pushed them into failure for a scan that could have been managed properly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:50",
+      "text": "You have every right to be furious. I let you down, and I compromised your safety. I am truly sorry for the position I've put you in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:56",
+      "text": "So where does that leave us? Are my kidneys failing right now or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:12",
+      "text": "I want to make sure I'm explaining the current status clearly. We are monitoring your urine output and your serum creatinine levels closely every twelve hours. Does that make sense, or would you like me to go over the specific numbers we're looking for?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:18",
+      "text": "I know the numbers. I want to know the plan to reverse the damage."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:27",
+      "text": "Right now, the most important step is aggressive intravenous hydration to flush the contrast out of your system. We've started that now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:44",
+      "text": "We will run another blood panel tomorrow morning to see if the creatinine is trending down. If it's still rising, I'll bring in the nephrology team for a formal consultation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:49",
+      "text": "Tomorrow morning. That's a long time to wait if I'm crashing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:03:02",
+      "text": "I understand that wait feels too long when you're the one in the bed. We are checking your vitals and output every four hours in the meantime to catch any sudden changes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:11",
+      "text": "Who else knows about this? Is this just going to be a note in my chart that some other doctor ignores?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:21",
+      "text": "No, I have already filed a formal incident report with the hospital's safety board. I want this documented so it's tracked and addressed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "I'll believe the documentation when I see the report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:32",
+      "text": "That's fair. I can provide you with the incident report number so you can reference it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I'm still not happy. This is a massive failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:52",
+      "text": "I know. This isn't something that a simple apology fixes, and I know it will take time for you to trust me again, if you can. I am committed to doing everything possible to manage your recovery from here."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to express anger without interruption and remains regulated and patient throughout the pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn and lay language was used, but comprehension was only checked once ('Does that make sense...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language, took full personal responsibility ('I did', 'I failed'), and maintained this accountability despite the patient's anger."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions ('angry', 'furious') and referenced the patient's specific background as a paramedic to validate the distress."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Specific steps and timelines were provided (hydration now, blood panel tomorrow), but there was no mention of the patient's role in the plan or how to prevent the error in the future."
+    }
+  }
+}

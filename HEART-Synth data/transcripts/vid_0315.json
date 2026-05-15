@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0315",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello Mrs. Hernandez, hello Maria. I wanted to come in and talk with you about your chest X-ray from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Hola doctor. Everything is okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "Actually, there was a mistake with your X-ray. The technician positioned you incorrectly, and because of that, the image we got was too blurry to actually see your lungs. It was of insufficient diagnostic quality, which means it couldn't be used to make a medical decision. However, it was reported as normal instead of being flagged as a bad image."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:33",
+      "text": "Wait, what? I thought the doctor said it was fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:45",
+      "text": "I know you were told it was fine, but that was incorrect. The image was essentially useless. Does that make sense so far, or should I explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:51",
+      "text": "I don't understand. Why tell me it is okay if it is not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:02",
+      "text": "I apologize. My team and I are responsible for this error. We failed to ensure the image was usable before signing off on the report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:12",
+      "text": "I was so scared when I came in. I thought I was getting better and now you say it was a lie? I just\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:23",
+      "text": "I understand. But we need to look at the facts here, because the most important thing is that we haven't actually seen your lungs yet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:27",
+      "text": "But I felt\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:38",
+      "text": "I really have to go see another patient in a few minutes, so I want to be quick about this. We need to fix this now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:51",
+      "text": "My mother is very stressed, doctor. She has been coughing all night and we thought the X-ray proved she was safe. Now you say it was a mistake. She is very worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:01:56",
+      "text": "I understand. But as I said, the image was just poor quality."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:06",
+      "text": "Is she in danger? Did you miss something? Was there a tumor or pneumonia that you didn't see because the picture was blurry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:12",
+      "text": "We don't know that yet. That is why we need a new one."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:18",
+      "text": "This is so frustrating. We trusted you. Why was this not caught immediately?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:24",
+      "text": "It was a mistake in the reporting process. I am sorry that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:31",
+      "text": "I feel like no one is listening to how scared we are. She is shaking right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:38",
+      "text": "Like I said, I understand. Now, regarding the next step, we just need to do another X-ray."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:46",
+      "text": "When? And will it be different this time? How do we know you won't just make another mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:52",
+      "text": "We will do it later today. I'll have the team come back in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:59",
+      "text": "Later today when? At what time? And who is going to make sure it's right?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:08",
+      "text": "Sometime this afternoon. I'll let the nurses know. Let's just wrap this up so I can get back to my rounds."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:14",
+      "text": "You are rushing us. We have a lot of questions about why this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:20",
+      "text": "The main point is that we are getting a new image. That's the plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:25",
+      "text": "And then what happens after the image? Who tells us?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:30",
+      "text": "We will see the results and then I'll stop by."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:38",
+      "text": "You just said \"we will see.\" Which doctor? Which time? My mother needs to know exactly what is happening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:44",
+      "text": "I'll check the results and I'll come back. I have to go now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I want to be quick', 'wrap this up', 'I have to go now') and interrupts the patient's emotional expressions."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn, lay language was used, and a comprehension check was performed once."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language, explicitly took responsibility for the team, and maintained this accountability throughout the interaction."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident only provided generic validation ('I understand') and consistently met emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan consists of a vague next step ('sometime this afternoon') with no named patient role and no discussion of prevention."
+    }
+  }
+}

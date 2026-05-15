@@ -1,0 +1,243 @@
+{
+  "video_id": "vid_0017",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mrs. Fitzgerald, thank you for agreeing to sit down with me. I wanted to talk to you about what happened with your admission yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:20",
+      "text": "I just... I don't understand why I'm still feeling this way. My husband, Arthur, he would have known what to do. He always took care of everything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:28",
+      "text": "I can see how overwhelming this feels, and it is especially hard when you're missing Arthur's support right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:36",
+      "text": "It's just so quiet in the house now. And then I come here and everything is just... confusing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:47",
+      "text": "I want to be very clear about why things have been confusing. We made a mistake in how we triaged you when you first arrived."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:51",
+      "text": "A mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:07",
+      "text": "Yes. You were categorized as low-acuity, which means we didn't recognize the urgency of your stroke symptoms quickly enough. Because of that, there was a long delay in getting you to the imaging scan. By the time we saw the images, the window of time to give you the clot-busting medication, the thrombolysis, had already closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:12",
+      "text": "You mean I missed my chance? Because of a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:23",
+      "text": "That is correct. I am very sorry. Our team failed to act with the urgency your condition required, and we are responsible for that delay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:29",
+      "text": "I was sitting there... I just sat there waiting. I felt so small."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:37",
+      "text": "I can't imagine how frightening and lonely that must have felt, especially while you were struggling to communicate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:46",
+      "text": "Arthur always told me to speak up. I tried. I think I tried. I just... I feel so let down."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:53",
+      "text": "You have every right to feel let down. This is a devastating realization to have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:00",
+      "text": "Is there... is there anything you can do now? Is it too late for everything?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:14",
+      "text": "Let me make sure I've explained this part clearly. Since the window for that specific medication has passed, we cannot give that drug. Does that make sense, or can I explain that part differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:19",
+      "text": "No, I think I get it. You're saying the window is shut."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:24",
+      "text": "Yes, it is. I know that's not what you wanted to hear."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:33",
+      "text": "I don't know who I'm supposed to tell. My daughter lives in another state. She's going to be so upset."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:43",
+      "text": "It's a lot to carry on your own. Would you like me to help you call your daughter and explain this to her together?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "I... maybe. I don't want to scare her."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:52",
+      "text": "We can do that whenever you feel ready. I'll be here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "Why did this happen? Was it just one person?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:11",
+      "text": "It was a failure in our triage process. I am not going to make excuses about how busy the ward was. We didn't follow the correct protocol for your symptoms, and that is on us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "I just wanted to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:24",
+      "text": "I know. We want to get you back home too, but we have to change how we move forward from here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "What happens now? Do I just stay here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:44",
+      "text": "We have a specific plan to manage your recovery and prevent this from happening again. First, I am scheduling a consultation with a neuro-rehabilitation specialist for tomorrow morning at ten. They will map out a physical therapy plan to help regain as much function as possible."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "Will I have to do the exercises myself?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:04:04",
+      "text": "You'll have a therapist guiding you, but your role will be to tell us exactly where you feel the most frustration or difficulty so we can adjust the plan. I've also requested a formal review of your chart by our quality board. I will personally bring you a copy of that review and the findings by next Friday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:05",
+      "end_time": "00:04:08",
+      "text": "You'll actually give me the report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:20",
+      "text": "Yes, I will. You deserve to see exactly what went wrong and what specific changes we are making to our triage system so no other patient has this experience."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:21",
+      "end_time": "00:04:25",
+      "text": "I just wish Arthur was here. He'd know if this was fair."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:26",
+      "end_time": "00:04:31",
+      "text": "It isn't fair, Mrs. Fitzgerald. It's a very painful situation to be in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:32",
+      "end_time": "00:04:35",
+      "text": "Thank you for... for not pretending it didn't happen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:36",
+      "end_time": "00:04:51",
+      "text": "You're very welcome. I'm going to step out for a moment to give you some space, but I'll be back in twenty minutes to see if you'd like me to make that call to your daughter. Does that sound okay?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:52",
+      "end_time": "00:04:55",
+      "text": "Yes. That sounds okay."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a slow pace during emotional distress, and never interrupts."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the second turn ('made a mistake in how we triaged you'), uses lay language, and checks comprehension twice ('Does that make sense', 'can I explain that part differently')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am very sorry'), takes full responsibility ('we are responsible', 'that is on us'), and refuses to make excuses about ward volume."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Names specific emotions ('overwhelming', 'frightening and lonely', 'devastating') and references the patient's loss of her husband Arthur."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provides specific steps with timelines (neuro-rehab tomorrow at 10, report by next Friday), defines the patient's role (reporting frustration/difficulty), and addresses prevention (review of triage system)."
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0339",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Patel, thank you for seeing me. I need to talk with you about a mistake that happened with your chemotherapy dose yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "A mistake? What kind of mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "Your dose was calculated using your weight from three months ago, instead of your weight from this morning. Because you've lost a significant amount of weight during treatment, you received a higher dose than you should have. I am so sorry. This was my error, and I take full responsibility for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:40",
+      "text": "I knew something felt off. I felt a lot sicker after this round than the last one. Are you telling me you just didn't check the scale?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:50",
+      "text": "I didn't. I relied on the old record in the chart instead of verifying your current weight. There is no excuse for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:01:01",
+      "text": "This is exactly why I don't trust anyone in this building. I read every single consent form you give me, and you can't even do basic math?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:12",
+      "text": "It is incredibly frustrating and scary to feel like the people caring for you aren't paying attention to the details, especially when you've been so diligent yourself."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:17",
+      "text": "Scaring me isn't the point. Is this going to kill me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:30",
+      "text": "I can't give you a guarantee that there are no risks, but we are monitoring your blood counts and kidney function every twelve hours right now to catch any adverse reactions immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:37",
+      "text": "Just to be clear, you gave me too much poison because you were lazy with the chart?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:44",
+      "text": "Yes, that is exactly what happened. I used the wrong weight, which led to an overdose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:51",
+      "text": "And what happens now? Do I just sit here and wait for my organs to shut down?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:07",
+      "text": "I want to walk you through exactly how we are handling this. First, we have started a hydration protocol with IV fluids to help your kidneys clear the extra drug. We will keep you on these for the next forty-eight hours. Second, the oncology pharmacist is rewriting your entire dosing schedule for the next three cycles to account for your current weight loss."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:12",
+      "text": "How do I know you won't just do it again next time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:28",
+      "text": "I understand why you'd doubt us. To prevent this from happening again, I have requested a \"hard stop\" in your electronic chart. This means the system will now block any medication order until a current-day weight is physically entered and verified by two different clinicians. I will be one of those two people."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:36",
+      "text": "I want to see the reports. I want the blood work results as soon as they hit the computer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:52",
+      "text": "You absolutely should see them. I will print the lab results and bring them to you at 6:00 PM tonight, and we can go over every single value together. I'll also bring a printed copy of the updated dosing protocol for you to keep."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "Fine. I'm still not happy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:01",
+      "text": "I don't expect you to be. You deserved better care than this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:06",
+      "text": "Why are you telling me this now? It's been a day."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:19",
+      "text": "I'm sorry, I just\u2014I wanted to make sure I had the full monitoring plan in place before I came in here so I could give you answers instead of just a problem."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:24",
+      "text": "You waited a day because you were worried about how I'd react?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:32",
+      "text": "I realize now that waiting was a mistake. I should have told you the moment I discovered the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:39",
+      "text": "At least you're admitting it. Most doctors just say \"there was a glitch in the system.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:44",
+      "text": "I won't hide behind the system. I made the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "So, the fluids. How long do those stay in?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:04:03",
+      "text": "They'll be running until Thursday morning. My role is to check your vitals every four hours, and your role is to let me know immediately if you feel any new nausea or shortness of breath."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:15",
+      "text": "Does that plan make sense to you, or is there any part of the monitoring you're unsure about?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:16",
+      "end_time": "00:04:20",
+      "text": "It makes sense. I just want those labs at six."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:31",
+      "text": "I will be here at six with the papers. I'll also bring the pharmacist with me if you have questions about the new dose calculations."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident never interrupts the patient, remains regulated despite aggressive pushback, and allows the patient to lead the pace."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the first turn, lay language used throughout, no false reassurance given, and comprehension checked twice (at 04:08 and 04:16)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am so sorry'), resident takes full personal responsibility, and maintains accountability even when the patient calls them 'lazy'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrating and scary') and references the patient's specific diligence with consent forms."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (hydration, dosing rewrite), timelines (48 hours, 6:00 PM, Thursday morning), patient role (reporting nausea/shortness of breath), and a prevention strategy (hard stop in chart)."
+    }
+  }
+}

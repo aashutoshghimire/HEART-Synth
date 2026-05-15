@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0181",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Good afternoon, Mrs. Al-Rashid. Please, come in and have a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:08",
+      "text": "Thank you, Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:21",
+      "text": "I have been looking forward to seeing you today, but before we go over your current symptoms, there is something important I need to discuss with you regarding your recent scans."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:25",
+      "text": "Is everything okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:41",
+      "text": "I need to tell you that I made a mistake in how I shared your imaging results with you last time. I told you that your tumour had shrunk, but it has not. The final report from the radiologist shows that the disease is stable, meaning it has stayed the same size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:47",
+      "text": "I do not understand. You said it was smaller. You were so sure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:02",
+      "text": "I was wrong. I gave you information before the specialist had officially signed off on the report. I apologize. It was my responsibility to wait for the final confirmation, and I failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:09",
+      "text": "But I felt so much hope. I told my daughters. I told them we were winning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:16",
+      "text": "I can see that this is a very difficult moment. This is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:21",
+      "text": "Why would you say it if it was not true?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:35",
+      "text": "I wanted to give you the good news as quickly as possible, and in doing that, I was careless. I am very sorry for the distress this has caused you and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:39",
+      "text": "I trusted you. I thought the doctors always knew."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:47",
+      "text": "It is completely understandable that you feel let down. I am the one who made the error here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:51",
+      "text": "So it is not getting better?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:00",
+      "text": "It is stable. In oncology, stable is not the same as shrinking, but it also means it is not growing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:04",
+      "text": "I feel like everything is moving in circles."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:14",
+      "text": "This is a heavy thing to process. I want to make sure we sit with this for a moment. There is no rush."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:33",
+      "text": "We need to look at our treatment options. I think the best next step is for me to schedule a consultation with the senior oncologist, Dr. Sterling, to see if we should adjust your medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:37",
+      "text": "When will that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:47",
+      "text": "I will call his office as soon as you leave this room, and I will make sure you have an appointment by this Friday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "And the medicine I am taking?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:01",
+      "text": "We will keep you on the current dose for now, but Dr. Sterling will make the final call on whether we change it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "I just feel very confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:12",
+      "text": "I understand. Does the part about the scan being stable, rather than smaller, make sense to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "Yes. It is not smaller. It is the same."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:31",
+      "text": "Exactly. I am sorry I gave you the wrong impression. I will also personally update your chart with a note about this error so that every doctor you see knows exactly what happened and why."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "You will do that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:40",
+      "text": "I will. I want to make sure this doesn't happen again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:45",
+      "text": "I do not know what to say to my children."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:58",
+      "text": "Maybe you can tell them that the results were more complicated than we first thought. Or if you prefer, I can even speak with them if they come to your next appointment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:03",
+      "text": "No, I will tell them. I just need a moment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:08",
+      "text": "Please take all the time you need. I am right here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:12",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:22",
+      "text": "I will get that appointment with Dr. Sterling sorted now. I will give you a printed summary of our plan today before you leave."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and explicitly tells the patient there is no rush to process the information."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, used lay language (stable vs shrinking), and checked comprehension twice (at 03:06 and 03:13)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used multiple times, explicitly taking personal responsibility ('I was wrong', 'I failed') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Named specific emotions ('difficult moment', 'feel let down') and engaged with the patient's specific distress regarding her daughters."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provided specific next steps (Dr. Sterling consultation), a timeline (by this Friday), a patient role (telling children/attending appointment), and a prevention step (updating the chart)."
+    }
+  }
+}

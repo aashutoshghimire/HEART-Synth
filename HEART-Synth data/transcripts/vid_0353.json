@@ -1,0 +1,141 @@
+{
+  "video_id": "vid_0353",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Lindqvist, thank you for meeting with me again. I spent some time yesterday reviewing the logs and talking with the cardiology team to get the specific answers you asked for."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "I hope you actually found something. Because from where I'm sitting, a flag on an ECG is a basic prompt. You don't just ignore a machine telling you a patient is having a cardiac event for four hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "You are right. There is no excuse for that gap in care. I want to start by saying I am deeply sorry that this happened. I am the one who was responsible for reviewing those results, and I failed to do that in a timely manner."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:01:00",
+      "text": "I\u2019ve spent years in the back of an ambulance. I know exactly how the triage system works. The machine flags the abnormality, the physician acknowledges it, and the intervention happens. That's the loop. In my case, the loop stayed open. Why?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:15",
+      "text": "The ECG was flagged as abnormal by the system, but because of how the notifications were routed to my workstation, I didn't see the alert immediately. That is a failure in my process and my oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:31",
+      "text": "So you're telling me you missed it because of a notification setting? That's a systemic excuse. The fact remains that for four hours, I was sitting there with a myocardial infarction progressing while my chart was just sitting in a digital queue."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:44",
+      "text": "I can see how frustrating and scary that is. To feel like you're waiting for help that is already available in the building, but just isn't being looked at. It's incredibly aggravating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:55",
+      "text": "It's not just aggravating. It's negligent. Did this actually delay the administration of the thrombolytics or the cath lab timing? Give me the actual clinical impact."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:06",
+      "text": "Because the ECG wasn't reviewed for those four hours, the diagnosis was delayed, which meant the treatment started four hours later than it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:11",
+      "text": "Which means more dead myocardium. Which means a lower ejection fraction."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:21",
+      "text": "I know you understand the physiology here, and you're correct. That delay did put you at a higher risk for further cardiac damage."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:32",
+      "text": "And what happens now? Do I just get a \"sorry\" and a pat on the back while I deal with the long-term effects of a delayed diagnosis?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:48",
+      "text": "No. I want to be clear about how we are moving forward. First, I have filed a formal incident report through the hospital's risk management system. This ensures there is a permanent record of the error. Second, I am meeting with my attending and the department head tomorrow morning to walk through exactly how this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "Why does that help me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:08",
+      "text": "It doesn't change what happened to you, but it's the only way to make sure this specific notification failure is fixed so it doesn't happen to the next person. As for your care, I have scheduled a follow-up with the cardiology specialist for tomorrow at ten a.m. to re-evaluate your current heart function and adjust your medications based on the delay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "I want a copy of that incident report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:28",
+      "text": "I can't give you the internal hospital document directly, but I will provide you with a written summary of the findings and the actions we are taking. I can have that typed up and delivered to your room by tomorrow afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "I'll believe it when I see the paper."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:46",
+      "text": "That's fair. I expect you to hold us to that. I'll check in with you again this evening before I leave for the day to see if any other questions have come up."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident never interrupts the patient and remains regulated and calm despite the patient's aggressive pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly, but the resident failed to perform any comprehension checks and used medical terminology (e.g., 'thrombolytics', 'myocardial infarction') without checking for understanding."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am deeply sorry'), takes personal responsibility ('I failed to do that'), and maintains accountability when the patient calls it a 'systemic excuse'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrating', 'scary', 'aggravating') and references the patient's specific experience of waiting for help that was already in the building."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides specific next steps with timelines (cardiology follow-up tomorrow at 10am, written summary by tomorrow afternoon) and addresses prevention, but does not name a specific role for the patient in the plan."
+    }
+  }
+}

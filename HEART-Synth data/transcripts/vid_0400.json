@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0400",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Ms. Williams, thank you for meeting with me. I need to talk to you about your baby's birth."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:12",
+      "text": "Is everything okay? I just want to go home to my kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "There was a mistake in how we watched your baby\u2019s heart during labor. We used a machine to track the heart rate. This machine showed that the baby was getting less oxygen. I looked at that screen and I said it was fine. I was wrong. I categorized it as normal when it was actually worrying."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "What? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "It means your baby was in distress, but I did not see it. Another doctor checked the screen two hours later and saw the problem. We should have acted two hours sooner. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "Two hours? My baby... is the baby okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:00",
+      "text": "The baby is stable now, but we missed a window of time to act. Am I explaining this clearly?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:07",
+      "text": "I don't know. I don't understand these words. You are saying you made a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:19",
+      "text": "Yes. I made a mistake. I'm sorry for any confusion this caused. We were very busy on the floor that day, and I missed the sign on the monitor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:34",
+      "text": "Busy? My baby is here. I have two children at home waiting. I can't be here forever. I am so scared. I don't even know if I can take care of them if I am sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:47",
+      "text": "It sounds like you are feeling completely overwhelmed, even with the baby being stable, because you are thinking about your other children and how hard it is to balance everything right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:57",
+      "text": "Yes. I work two jobs. I cannot afford to be in a hospital because a doctor was too busy to look at a screen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:05",
+      "text": "I hear you. It is frightening to feel like your baby was not safe because of my error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "What happens now? Is my baby hurt?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:17",
+      "text": "The doctors are monitoring the baby's breathing and movements. We need to make sure there is no long-term damage."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:21",
+      "text": "When will I know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:29",
+      "text": "I have to get back to the ward now, but we will check the baby again tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:34",
+      "text": "Tomorrow? That is too long. I need to know now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:47",
+      "text": "I can't give you the answer right this second. But tomorrow morning, the pediatrician will come to your room at 9:00 AM to give you the full results of the blood tests."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:58",
+      "text": "Then we will decide if the baby can go home or if they need more tests."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "How do I know this won't happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:15",
+      "text": "We are reviewing the logs from the monitor. We are talking about how to make sure a second doctor checks the heart rate more often so one person cannot miss it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "I just want my children."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:29",
+      "text": "I know you do. I can see how much you miss them. We will do everything we can to get you home safely."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language by stating 'I have to get back to the ward now' while the patient is in distress."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error is named in the second turn, lay language is used, and comprehension is checked twice ('Does that make sense so far?' and 'Am I explaining this clearly?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While a direct apology is used, it is diluted by an excuse regarding being 'very busy on the floor that day'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('completely overwhelmed', 'frightening') and references the patient's specific concerns about her other children."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides a specific next step with a timeline (pediatrician at 9:00 AM tomorrow), but does not define a role for the patient."
+    }
+  }
+}

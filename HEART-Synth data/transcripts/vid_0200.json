@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0200",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hi Ms. Williams, thank you for coming back in to see me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:09",
+      "text": "I can't stay long. I have to pick up my kids soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:22",
+      "text": "I understand. I wanted to talk to you about the discharge papers you were given on Tuesday. There was a mistake regarding the follow-up clinic we listed for your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:26",
+      "text": "What kind of mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:42",
+      "text": "The referral was sent to a facility that isn't in-network with your insurance provider. Because of that, they won't be able to see you for your post-op checkup. I'm sorry for any confusion this caused, but we were incredibly short-staffed in the discharge office that morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:46",
+      "text": "Oh. I didn't know that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:00:56",
+      "text": "It basically means the insurance won't cover the visit there, so we have to find a different provider who actually accepts your plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:04",
+      "text": "I just need to make sure I'm healing right. I can't afford to be sick. My kids need me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:09",
+      "text": "I understand. We just need to get the paperwork sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:13",
+      "text": "I'm just worried. Everything is already so hard."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:19",
+      "text": "Right. So, the main thing is that the current appointment is essentially void."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:23",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:27",
+      "text": "Do you follow what I'm saying so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:31",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:36",
+      "text": "Good. We just need to pivot to a new clinic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:43",
+      "text": "Will it be far? I only have one car and I'm working two jobs right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "I understand. We'll look for something closer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:52",
+      "text": "I hope it's soon. I've been feeling a bit tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:00",
+      "text": "That can be normal for recovery. As for the next step, I'll have my coordinator look into some options."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:04",
+      "text": "When will I know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:10",
+      "text": "Probably in a few days. We'll try to find a place that works."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "I really can't miss any more work."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "I understand. We'll get it sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "I'll just have the office reach out to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Will they call or email?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "I'm not entirely sure, but they'll get in touch."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "Is there anything else you need right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:47",
+      "text": "No. I just want to go home to my children."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "That makes sense."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:56",
+      "text": "I just don't want this to be a problem with my insurance."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "It shouldn't be, we're just fixing the referral."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "I'll let you get going then."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "Thank you, Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "Have a good afternoon."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and adjusts pacing to the patient's distress without interrupting or using rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn, lay language was used, and comprehension was checked once ('Do you follow what I'm saying so far?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology was offered, but it was immediately diluted by an excuse regarding being 'incredibly short-staffed'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident used generic validation ('I understand') multiple times but never named a specific emotion back to the patient."
+    },
+    "T": {
+      "score": 1,
+      "justification": "A next step was provided with a vague timeline ('a few days'), but there was no named patient role or mention of prevention."
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "video_id": "vid_0221",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Okafor, thank you for coming in to see me today. I wanted to talk with you personally about your MRI and the plan for your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:15",
+      "text": "I appreciate that. I've been thinking about the approach we discussed yesterday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:26",
+      "text": "Right. I know we've spent a lot of time talking about the specifics, and I realize that this is a very difficult and unsettling conversation to have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:30",
+      "text": "Is something wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:46",
+      "text": "There has been an issue with how your imaging was handled. Two different patients had their MRI studies stored under the exact same accession number in our digital archive. Because of that, the surgical team reviewed the wrong set of scans when they were deciding on the approach for your procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:00:50",
+      "text": "I see. So you looked at someone else's brain?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:51",
+      "end_time": "00:00:58",
+      "text": "Yes, that is exactly what happened. The images the team used to plan the surgery were not yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:02",
+      "text": "That is quite a significant clerical error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "It is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:11",
+      "text": "Were there differences in the surgical approach based on those images?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:19",
+      "text": "Yes, the images the team reviewed suggested a different anatomical layout than what is actually present in your scans."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:23",
+      "text": "I imagine that could change the risks."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:31",
+      "text": "It could. I can see that you're processing this calmly, but I suspect this is very disconcerting to hear."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:39",
+      "text": "It is unexpected, certainly. I am curious about how a single number can be assigned to two different people."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:46",
+      "text": "It was a failure in the registration process where the system allowed a duplicate entry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:52",
+      "text": "Who is responsible for the oversight in verifying the patient name against the image?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:01",
+      "text": "There are several checkpoints in the system that failed to catch the duplication before the images reached the surgical planning stage."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "And what does that mean for my actual surgery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:13",
+      "text": "We have now ensured that the correct images are being used. The team is currently re-evaluating the plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "Does this mean the date of the surgery changes?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:21",
+      "text": "We are looking into the schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:28",
+      "text": "Will I receive a written report of what was misread and what the corrected plan is?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "We will be in touch about the details."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:37",
+      "text": "I would prefer a specific timeline on when that re-evaluation is complete."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:42",
+      "text": "I'll have to check with the attending surgeon on that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:47",
+      "text": "I assume you'll be notifying the hospital board about this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:54",
+      "text": "The incident has been flagged in the system for a review of the digital archiving process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:03",
+      "text": "I can tell this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:12",
+      "text": "I am mostly interested in the clinical outcome. Was any action taken based on the wrong scan that cannot be undone?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "Not yet. The error was caught before the incision was made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:25",
+      "text": "That is a relief. But the fact that the planning phase was based on a falsehood is concerning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "It is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:38",
+      "text": "I would like to know exactly what the previous plan was and what the new plan is, side by side."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:44",
+      "text": "We will see how the surgeon wants to present that information to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:51",
+      "text": "That is a bit vague. Can you commit to a meeting with the surgeon tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:58",
+      "text": "I can't promise a specific time right now, but we'll try to make it happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:02",
+      "text": "I'll wait to hear from you then."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "I'll keep you posted."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to speak fully without interruption and remains regulated despite the patient's pointed questions."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to the 'registration process' and 'checkpoints in the system'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named specific emotions ('unsettling', 'disconcerting') and acknowledged the patient's state."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provided vague next steps ('we'll be in touch', 'we'll try to make it happen') without specific timelines or a defined patient role."
+    }
+  }
+}

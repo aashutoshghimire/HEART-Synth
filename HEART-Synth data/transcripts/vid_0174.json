@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0174",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Hi Mr. Park, thank you for seeing me. I know the nurse spoke with you a few minutes ago, but I wanted to come in personally to discuss your imaging results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "Yeah, she told me something happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "I want to be very clear about what happened. Earlier today, you were told that your tumor had shrunk. That information was shared with you before the radiologist had actually signed off on the final report. I have the final report now, and it shows that the tumor is actually stable, meaning it hasn't changed in size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "Oh. So it didn't get smaller?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:49",
+      "text": "No, it stayed the same. I am so sorry. I made a mistake by communicating those preliminary findings to you before they were verified. I take full responsibility for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:54",
+      "text": "I just... I felt really good for about ten minutes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:01",
+      "text": "I can see that. It's incredibly disappointing to have that hope taken away so quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:06",
+      "text": "I guess I just thought I was finally getting better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:17",
+      "text": "It is completely understandable that you'd feel let down right now. Does that explanation make sense, or can I clarify anything about the report itself?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:24",
+      "text": "No, I think I get it. It's just... is this common? To give the wrong answer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:39",
+      "text": "It shouldn't happen. We have a process in place to prevent this, and in this case, I failed to follow that process. I am deeply sorry for the stress and the confusion this has caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "Do I need to tell my parents?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:55",
+      "text": "That is entirely up to you. If you'd like, I can be on the phone with them to explain the situation so you don't have to do it alone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:01",
+      "text": "I'll probably just tell them later. I'm not really sure what we do now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:10",
+      "text": "I know this is a lot to take in. I'm here to answer any questions you have about the stable result."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "Does stable mean the medicine isn't working?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:23",
+      "text": "Stable means the tumor isn't growing, which is still a positive finding, even if it's not the reduction we were hoping for."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:29",
+      "text": "I just feel like I can't trust the notes in my chart now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:41",
+      "text": "I understand why you feel that way. I've given you a reason to doubt the information you're receiving, and that is a failure on my part. I truly apologize."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "So, what happens next?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "We will just keep monitoring it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "When is the next scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:58",
+      "text": "We'll probably just do another one in a few months."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "But is the treatment staying the same?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Probably. We'll see how it goes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Will the doctor call me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "Someone will probably send an email or something eventually."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:21",
+      "text": "I don't really know who I'm supposed to call if I have a question about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "You can just call the main clinic line."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "Do I need to do anything different today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "Not really. Just keep doing what you're doing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "I just feel kind of lost."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "I know this is a lot. I'm sorry again."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a regulated pace during distress, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the second turn, uses lay language, checks comprehension twice ('Does that explanation make sense', 'can I clarify anything'), and avoids false reassurance."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used multiple times, resident takes full personal responsibility, and maintains accountability when the patient expresses a loss of trust."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions are named back ('disappointing', 'let down') and the resident engages with the patient's emotional bids regarding their parents and their trust."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The plan consists entirely of placeholders and vague statements ('probably just do another one in a few months', 'probably', 'someone will probably send an email')."
+    }
+  }
+}

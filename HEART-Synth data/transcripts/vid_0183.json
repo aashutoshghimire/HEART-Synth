@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0183",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Good morning, Mr. Okafor. I wanted to sit down and talk with you about why you had to go back into the operating room last night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:23",
+      "text": "I assume it has something to do with the bleeding. I felt it happening, the weakness in my arm, and then the panic in the room when the nurses saw the monitor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:24",
+      "end_time": "00:00:34",
+      "text": "You're right. I am deeply sorry, Mr. Okafor. We made a serious medication error. I ordered ten times the intended dose of your blood thinner, the anticoagulant."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:39",
+      "text": "Ten times? That is a massive discrepancy. How does that even happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:55",
+      "text": "It was a decimal point error during the order entry. I entered the dose incorrectly, and it was administered to you. Because of that, your blood couldn't clot, which led to the internal bleeding we had to treat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:08",
+      "text": "I've taught chemistry for twenty years. I know how a decimal point works, but I also know that there are checks and balances in a hospital. Who else saw this order?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:23",
+      "text": "I take full responsibility for the mistake. I was the one who wrote the order. While there are pharmacists and nurses involved, the error started with me. I am truly sorry for the harm this caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:36",
+      "text": "I appreciate you owning it. But the fact remains that I'm now recovering from an emergency surgery that should never have happened. I feel... I feel cheated. I trusted the process."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:47",
+      "text": "It's understandable that you feel that way. It is frustrating and frightening to be put in danger by the people meant to be caring for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:54",
+      "text": "It is more than frustrating. I'm thinking about my recovery timeline now. Does this change my prognosis?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:10",
+      "text": "Let's talk about the plan to get you back on track. First, we have you on a continuous monitoring protocol for the next twenty-four hours to ensure there is no further bleeding. I will be checking your coagulation labs every six hours until tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:18",
+      "text": "And what about the medication moving forward? Surely you aren't going to give me another dose of that today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:32",
+      "text": "We have paused all anticoagulants for the next forty-eight hours to let your clotting factors stabilize. After that, I will meet with the hematology consultant and you to decide on a lower, safer dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "When exactly will that meeting happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:45",
+      "text": "Tomorrow at 10:00 AM. I'll bring the specialist to your bedside so you can ask him specific questions about the clotting levels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:55",
+      "text": "I'd like to see the chart. I want to see the exact dose that was given compared to what should have been given."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:05",
+      "text": "I will print those two records out for you and bring them here by noon today so you can review the numbers yourself."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:17",
+      "text": "I can't help but wonder if this happens often here. If one person can just type a wrong number and almost kill a patient, what is the system doing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:33",
+      "text": "It's a failure in the system as well as my own. To prevent this from happening again, I've already filed an incident report with the safety board. We are implementing a new \"double-signature\" requirement for all high-alert anticoagulants in this ward, meaning two physicians must verify the dose before it's sent."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "That should have been in place already."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:42",
+      "text": "I agree. It's a lesson that should have been learned sooner."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:47",
+      "text": "I need some time to process this. I'm just... I'm tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:57",
+      "text": "I understand. I have to check on a few other patients quickly, but I will be back in an hour to check your vitals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "Wait, you were saying something about the labs?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:13",
+      "text": "Right, the labs. I'll be checking those every six hours. Does that timeline make sense to you, or do you have concerns about how often we're drawing blood?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:19",
+      "text": "No, that part is fine. I just want to know I'm being watched."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:20",
+      "end_time": "00:04:25",
+      "text": "You are. We are monitoring you closely. I'll bring those printouts by at noon."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at [00:03:48] stating they have to check on other patients 'quickly'."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in the second turn using lay language, and comprehension is checked once regarding the lab timeline."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language, takes full personal responsibility, and maintains this accountability despite the patient's pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frustrating and frightening') and engages the patient's emotional bids regarding feeling 'cheated'."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific steps with timelines (noon today, tomorrow at 10 AM), includes the patient's role in reviewing records/consulting, and addresses systemic prevention."
+    }
+  }
+}

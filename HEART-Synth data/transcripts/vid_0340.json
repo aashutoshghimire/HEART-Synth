@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0340",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:13",
+      "text": "Mr. Hassan, I need to talk to you about what happened with your medication yesterday. There was a serious error. We ordered ten times the amount of anticoagulant you were supposed to receive."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:14",
+      "end_time": "00:00:17",
+      "text": "What?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "The intended dose was small, but the order was entered as ten times that amount. Because you received too much of the blood thinner, it caused internal bleeding in your abdomen, which is why we had to take you for that emergency procedure. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:40",
+      "text": "I knew it. I told the nurse yesterday I felt off. I just knew something was\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:47",
+      "text": "Just to make sure the clinical part is clear, are you following why the bleeding happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:01:02",
+      "text": "I'm following that you messed up. Again. God, I can't even get through one admission without some kind of disaster. I'm just so tired of being the one who gets the \"glitch\" in the system."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:11",
+      "text": "I am sorry for any confusion with the dosing. We were really busy on the ward yesterday and things got mixed up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:27",
+      "text": "Confusion? You gave me ten times the dose. This isn't a pharmacy mix-up where I got the wrong pill. This is a massive mistake. I'm lying here with a surgical drain in my side because someone couldn't read a screen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:32",
+      "text": "I understand. But we need to focus on where we are now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:47",
+      "text": "I don't want to focus on where we are. I want to know why this keeps happening to me. Every time I come in here, it's some new \"incident\" or \"event.\" I can't trust any of you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:57",
+      "text": "Look, I have to go check on another patient in a moment, so let's wrap up the details of the recovery plan quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:02",
+      "text": "Oh, you're in a rush now? I'm the one bleeding internally."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:18",
+      "text": "I'm just trying to manage the floor. Regarding the plan, first, we are keeping you on a strict blood pressure monitor every four hours for the next twenty-four hours to ensure there is no further leakage. Second, the hematology team will be here at 9:00 AM tomorrow to run a coagulation panel to see if your levels have stabilized. Third, I need you to press the call button immediately if you feel any new lightheadedness or if the dressing on your site looks damp."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "And what's to stop it from happening again today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:38",
+      "text": "We have already flagged your chart with a \"high-alert\" sticker. I have personally updated the electronic prescribing system to require a double-signature verification for every single dose of anticoagulant you receive for the rest of your stay. I've also briefed the night staff specifically on your case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "A sticker. Great."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "Those are the concrete steps we've taken."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:55",
+      "text": "I just don't see why I'm always the one who ends up in the emergency theatre because someone was \"busy.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:05",
+      "text": "Like I said, I understand, but we really need to move on to the monitoring. Does that plan for tomorrow morning sound clear?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:11",
+      "text": "It's clear. I'm just wondering if any of this actually matters to you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:21",
+      "text": "I've given you the timeline and the safeguards. I really have to get to the other room now. I'll see you during rounds."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap up... quickly', 'I have to go', 'I really have to get to the other room now') and shows defensive escalation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, used lay language ('blood thinner'), and comprehension was checked twice ('Does that make sense so far?', 'are you following...?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Apology is offered ('I am sorry') but immediately diluted by excuses regarding being 'really busy on the ward'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids are consistently met with factual redirection ('I understand. But we need to focus on where we are now')."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps with timelines (BP every 4 hours, Hematology at 9:00 AM), a named patient role (press call button), and prevention (double-signature verification)."
+    }
+  }
+}

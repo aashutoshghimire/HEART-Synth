@@ -1,0 +1,315 @@
+{
+  "video_id": "vid_0405",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Hello Mr. Hassan. I wanted to come in and speak with you and your son."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:15",
+      "text": "I already know. The nurse told me. Then my wife told me. I feel like I'm just waiting for the next mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:25",
+      "text": "This is a really heavy moment. I can see that this is just the latest thing in a long line of frustrations for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:32",
+      "text": "That is an understatement. Every time I bring him here, something goes wrong. What happened this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:41",
+      "text": "There was a bit of a mix-up with the dosages. Things didn't go quite right with the preparation of the vaccines today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:48",
+      "text": "A mix-up. That is a very convenient word. What does that actually mean for my son?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:55",
+      "text": "We had some issues with the weight bands during the draw-up process. It wasn't handled correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:01",
+      "text": "I don't care about your process. Did he get too much of something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:06",
+      "text": "There was some confusion regarding the dose intended for his age group."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:13",
+      "text": "I am asking you a direct question. Did you give him the wrong amount of medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:22",
+      "text": "I am sorry for any confusion this has caused. We were just incredibly busy in the clinic today and things got rushed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:36",
+      "text": "I don't give a damn about how busy you are. I have spent ten years dealing with medical errors in my own life. I just want to know if my child is in danger."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:45",
+      "text": "I know this is incredibly exhausting. It is completely understandable that you feel this way given everything you've been through."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:50",
+      "text": "Stop telling me how I feel. Just tell me what happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:01:54",
+      "text": "We are looking into how the dosing was handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:02:00",
+      "text": "You still haven't told me. Did he get a dose for a bigger child?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:07",
+      "text": "The medication was prepared using a different weight category than what was required for him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:11",
+      "text": "So yes. He got too much."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:16",
+      "text": "It was a systemic error in how the vials were drawn."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:21",
+      "text": "And what now? What are you going to do about it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "We are going to keep an eye on him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:30",
+      "text": "Keep an eye on him. How? What exactly are you looking for?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "We'll just monitor for any unusual reactions."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:45",
+      "text": "That is not a plan. That is a guess. Do I need to take him to the emergency room? Do I need to give him something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:52",
+      "text": "I think we can just wait and see how he does over the next few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:03:01",
+      "text": "This is exactly what happens every time. No one takes responsibility, and the plan is always to just hope for the best."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:08",
+      "text": "I realize this is a very difficult conversation to have. I am here with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "You are here, but you aren't telling me anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "We will follow up with you soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "Soon when? Tomorrow? Next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:27",
+      "text": "We'll probably send an email or give you a call once we've reviewed the chart more."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:33",
+      "text": "I'm not waiting for an email to know if my son is okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "I understand that this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:44",
+      "text": "Frustrating is not the word. I am tired. I am just so tired of this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:51",
+      "text": "I can see that. I am just going to stay here with you for a moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:58",
+      "text": "While you stay here, maybe you can actually explain why the wrong dose was given."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:59",
+      "end_time": "00:04:05",
+      "text": "Like I said, the clinic was very hectic today and the weight band wasn't cross-checked."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:12",
+      "text": "So you're sorry the clinic was busy. You're not sorry you gave my son the wrong dose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:16",
+      "text": "I am sorry that this situation happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:17",
+      "end_time": "00:04:21",
+      "text": "You aren't saying it. You aren't saying you messed up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:22",
+      "end_time": "00:04:25",
+      "text": "It was an unfortunate sequence of events."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:26",
+      "end_time": "00:04:32",
+      "text": "Unfortunate. Right. My son is the one who took the shot, not the sequence of events."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:33",
+      "end_time": "00:04:36",
+      "text": "I know this is a lot to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:37",
+      "end_time": "00:04:41",
+      "text": "I've processed enough. I want to speak to the attending physician."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:46",
+      "text": "I can certainly arrange for you to speak with them."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:47",
+      "end_time": "00:04:52",
+      "text": "I don't want you to arrange it. I want them in this room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:53",
+      "end_time": "00:04:56",
+      "text": "I will go and see if they are available."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:57",
+      "end_time": "00:05:02",
+      "text": "Don't take too long. I'm not leaving until I have a real answer."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes and hedging ('mix-up', 'things didn't go quite right', 'some confusion') and only admits the wrong dose was given after the patient explicitly prompts them multiple times."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident deflects responsibility to the clinic being 'busy', a 'systemic error', and an 'unfortunate sequence of events' rather than taking personal or team accountability."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('heavy moment', 'exhausting') and references the patient's history of frustrations."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The plan consists only of placeholders and vague monitoring ('keep an eye on him', 'wait and see', 'follow up soon') with no specific timeline or patient role."
+    }
+  }
+}

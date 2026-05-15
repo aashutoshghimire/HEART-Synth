@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0016",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Ms. Nakamura, do you have a few minutes to talk?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:08",
+      "text": "I do."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:21",
+      "text": "I wanted to come in and discuss your treatment schedule. There was some confusion with the calendar and things didn't go quite right with the timing of your dose yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:25",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:37",
+      "text": "It just means there was an issue with the scheduling entries. The dose was administered a bit off from where we intended it to be in the cycle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:41",
+      "text": "Wait. Was it the wrong day?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:49",
+      "text": "There was some instability in the scheduling process. The system didn't align perfectly with the intended cycle date."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:54",
+      "text": "Is that why the nurse asked me so many questions yesterday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:00:58",
+      "text": "We just had some coordination issues behind the scenes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:02",
+      "text": "Does this change how the medicine works?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:10",
+      "text": "I can see you're looking that up on your phone. I know it's a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:15",
+      "text": "I'm just trying to see if the window for immunotherapy is strict."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:22",
+      "text": "It's a common concern. I can tell you're feeling a bit uneasy about the timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:26",
+      "text": "I am."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:42",
+      "text": "The most important thing now is that we have a very clear path forward to fix this. Here is exactly what we are going to do. First, I have already consulted with the attending oncologist and the pharmacy lead this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:46",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:56",
+      "text": "We have recalculated your entire cycle. Your next dose is now rescheduled for Tuesday the 14th at 9:00 AM. That is a firm date."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "Tuesday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:14",
+      "text": "Yes. To make sure this doesn't happen again, I have personally entered your dates into a secondary tracking sheet that is taped to the medication cabinet, and the head nurse has verified it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:34",
+      "text": "From your side, I'd like you to keep a log of the dates you receive the infusions. If you see a date on your paperwork that doesn't match the 21-day cycle we discussed, I want you to flag it to me immediately during rounds."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:49",
+      "text": "I will also be sending you a printed copy of the revised calendar before you leave today so you have a hard copy to reference."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:02",
+      "text": "I'll be back in about an hour to give you that paper and check your vitals. Does that timeline work for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Good. I'll see you shortly then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, does not interrupt, and uses no rushing language."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes and vague hedging ('things didn't go quite right', 'confusion with the calendar', 'instability in the scheduling process') without explicitly naming the error."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is deflected to 'the calendar' and 'the system'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names a specific emotion ('uneasy') and engages the patient's emotional bid regarding the phone search."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific next steps with timelines (Tuesday 14th, 9 AM), a named patient role (keeping a log), and prevention measures (secondary tracking sheet)."
+    }
+  }
+}

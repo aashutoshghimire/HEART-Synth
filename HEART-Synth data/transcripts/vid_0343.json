@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0343",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:13",
+      "text": "Good morning, Mr. Rivera. It is good to see you back in the clinic. I want to talk to you about what happened when you came back to the emergency department last night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:14",
+      "end_time": "00:00:17",
+      "text": "I was scared. I thought maybe the surgery failed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "I understand. Well, looking at the records and the timeline, there was a mistake in the discharge process. You were sent home six hours earlier than the post-operative protocol requires. Because you left too soon, we didn't have enough time to ensure the wound was stable, which is why you had those complications overnight. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:46",
+      "text": "I didn't know it was a mistake. I just did what the nurse told me. I was worried if I asked too many questions, maybe it would be a problem for me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:00:55",
+      "text": "I'm sorry for any confusion this caused. We were really busy on the floor last night and the timing just got shifted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:07",
+      "text": "It was very painful. I didn't think I would have to come back. I don't have a car, so getting to the hospital is very hard for me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:18",
+      "text": "Right. But the important thing is that the ER team managed to stabilize the site. We just need to make sure it heals properly now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:27",
+      "text": "I just worry about my papers. If I am in the system too much, I don't know if it's okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:38",
+      "text": "I have to get us through the clinical plan for today, so let's focus on the wound. We need to keep an eye on the redness."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:45",
+      "text": "I felt like I couldn't say anything when they told me to leave yesterday. I just felt..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:55",
+      "text": "We can talk about that later, but I really need to show you how to do the dressing changes before the next patient arrives."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "Is the wound going to be okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:04",
+      "text": "It should be fine as long as you follow the steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:09",
+      "text": "I don't know if I understand the steps you wrote down."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:14",
+      "text": "It's pretty straightforward. You just clean it and wrap it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "I'm just worried it will happen again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "We'll just keep a closer watch now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:27",
+      "text": "I didn't want to cause a scene at the hospital last night."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "Well, the site looks much better today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "Why did they let me go so early?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:40",
+      "text": "Like I said, it was a timing error with the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "Will this be in my permanent record?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:50",
+      "text": "I'm not sure how that works, but it shouldn't affect your care here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "I just want to be safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:02",
+      "text": "I get that. Now, regarding the next steps, we will probably do another check-up in a week or so."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "A week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:11",
+      "text": "Yeah, sometime next week. I'll have the receptionist give you a date."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "Should I call you if it bleeds again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:20",
+      "text": "Just go back to the ER if it's an emergency."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "I can't really afford the ER."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "I understand, but that's the standard procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "I feel like I'm not being heard."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:41",
+      "text": "Let's just wrap this up so you can get home. I'll have someone give you the paperwork on your way out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "I just wanted to know if this is normal."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:50",
+      "text": "It's not normal, it was an error, but it's fixed now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:54",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:55",
+      "end_time": "00:03:58",
+      "text": "You're welcome. I'll see you next week then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('get us through the clinical plan', 'before the next patient arrives', 'wrap this up') and interrupts emotional bids."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was explicitly named in the second turn using lay language, and comprehension was checked once ('Does that make sense?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology was offered ('I'm sorry'), but it was immediately diluted by an excuse regarding being 'really busy on the floor'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "The resident uses generic validation ('I understand', 'I get that') and consistently meets emotional bids with factual redirection or dismissals."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides a vague next step (check-up in a week) but fails to define the patient's role or address prevention of future errors."
+    }
+  }
+}

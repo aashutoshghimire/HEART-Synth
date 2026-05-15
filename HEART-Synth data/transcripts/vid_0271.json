@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0271",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Hello Mr. Chen. I wanted to come in and talk to you about your scan from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:10",
+      "text": "Nurse told me... something wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:25",
+      "text": "Yes, that's right. I want to be very clear about this. There was a mistake. The first doctor who looked at your CT scan missed a pulmonary embolism, which is a blood clot in your lung."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:29",
+      "text": "Blood clot? I feel... very tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:45",
+      "text": "I know you do. I am incredibly sorry. This was our fault. We failed to catch that clot in the preliminary report, and because of that, your treatment was delayed by eighteen hours. I take full responsibility for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:51",
+      "text": "Eighteen hours... why? I was waiting. I asked nurse why I no get medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:02",
+      "text": "I understand. But look, the main thing is that we are treating it now. It's a common issue with how the radiology reports are processed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "I was scared. I thought I was dying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:13",
+      "text": "I understand. Now, the important thing is that the blood thinner is in your system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:18",
+      "text": "But the nurse said it was a big mistake. A big..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:31",
+      "text": "I've already apologized for that, Mr. Chen. We just need to focus on the recovery now. I really have to go check on another patient in a moment, so let's move forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:38",
+      "text": "I don't... I don't understand why the doctor didn't see it. The picture was there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:53",
+      "text": "Well, the preliminary read is a quick look. The attending radiologist is the one who does the final, detailed review. The clot was visible on the images, but it wasn't written in the first note."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:01:57",
+      "text": "So the first doctor... he just didn't look?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:03",
+      "text": "It's a very complex image. There are many slices of the lung to review."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:07",
+      "text": "I feel very shaking. My heart is..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:11",
+      "text": "I understand. But we have the medication running now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "My daughter, she is coming. She will ask..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:24",
+      "text": "You can tell her that we missed the clot and we are sorry. But we should quickly talk about what happens next."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "What happens?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:42",
+      "text": "We are going to keep you on the heparin drip for the next forty-eight hours to dissolve that clot. I will come back and check your blood levels tomorrow morning at 8 AM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "I stay here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:59",
+      "text": "Yes, you stay in the bed. Your job is to tell the nurse immediately if you feel any more shortness of breath or if you see any new bruising on your skin."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "Bruising. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:11",
+      "text": "Right. So, heparin for two days, blood tests tomorrow morning, and you keep us updated on your breathing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "And the mistake? It won't happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:23",
+      "text": "We are looking into the reporting system. But for now, the plan is the drip and the monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "I am just... very confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:35",
+      "text": "I understand. But like I said, I have to go. I'll send the nurse in to check your vitals."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I really have to go', 'we should quickly talk', 'I have to go') and interrupts the patient's emotional bids."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but there were no comprehension checks performed."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Direct apology used and responsibility taken, though the resident slightly deflects under pushback by citing the 'complex image' and 'reporting system'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident relies exclusively on generic validation ('I understand') and repeatedly redirects emotional bids to factual/clinical information."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps (heparin drip), timelines (48 hours, 8 AM tomorrow), patient role (report shortness of breath/bruising), and addresses prevention (looking into reporting system)."
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "video_id": "vid_0021",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello Ms. Patel, I wanted to come by and talk to you about the blood transfusion you received during your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:17",
+      "text": "Oh, I thought we already covered this. The other doctor told me everything was routine and there weren't any issues."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:29",
+      "text": "There is something I need to clarify. The pre-operative blood type verification process was skipped, and as a result, you received a compatible but not an ideal blood type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "What does that even mean? Compatible but not ideal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:47",
+      "text": "It means the blood didn't cause a reaction, but it wasn't the exact match we strive for. In clinical terms, we used a cross-matched unit that was acceptable but not the primary type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:56",
+      "text": "Why was the verification skipped? I read the consent forms carefully, and it specifically mentioned the safety protocols for blood matching."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:00",
+      "text": "It was an oversight in the surgical checklist sequence."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:06",
+      "text": "An oversight. That is a very convenient word for a mistake. Who missed it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:10",
+      "text": "The protocol wasn't followed according to the standard."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:16",
+      "text": "You are avoiding the question. Did you miss it? Did the surgeon miss it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:22",
+      "text": "The system for checking the blood type before the administration was not completed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:38",
+      "text": "This is exactly why I don't trust hospitals. You say it's routine, then you tell me you skipped a safety step, and now you're telling me the blood in my body isn't the ideal match. I feel like I'm just a number in a checklist that someone forgot to tick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:42",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:51",
+      "text": "You understand? Do you understand how it feels to have someone ignore a safety protocol while you are unconscious on a table?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:01:57",
+      "text": "We can look at the clinical data to see how you are recovering."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:03",
+      "text": "I don't care about the data right now. I care that this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:09",
+      "text": "The result is that you are stable, and the compatible blood did its job."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:13",
+      "text": "That's not the point. Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:18",
+      "text": "The workflow in the OR that day was deviated from."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:24",
+      "text": "You're still not saying it. You're using passive voice. Was it your fault?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "There are many people involved in the transfusion process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:34",
+      "text": "So no one is actually saying they messed up. Just that it happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:41",
+      "text": "I want to make sure we move forward with a clear path for your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:46",
+      "text": "I'm not sure I want to move forward with this team."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "I can explain the monitoring plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "I'm listening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:10",
+      "text": "First, I have ordered a follow-up blood panel for tomorrow morning at 8:00 AM to monitor your hemoglobin and ensure there is no delayed immune response. I will personally review those results by 10:00 AM and come back to this room to discuss them with you. Second, I have filed an incident report with the Quality and Safety board, which triggers a mandatory review of the OR checklist. You will receive a written copy of the investigation's summary in your discharge paperwork. Third, I want you to monitor for any new fever or shortness of breath; if you feel either, press your call button immediately so we can run a STAT lab. I have also scheduled a meeting with the Chief of Surgery for Thursday at 2:00 PM if you would like to discuss the systemic failure with the department head."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "At least the plan is specific."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:19",
+      "text": "I will make sure the results are here by ten."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:26",
+      "text": "I'll be waiting. And I want that written report. I'm not taking your word for it."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated despite significant pushback and accusations."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly in the second turn, but the resident never checked for patient comprehension."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was consistently deflected to the 'system', 'workflow', and 'protocol'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident provides only generic validation ('I understand') and otherwise meets emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific next steps with timelines (8 AM/10 AM), a named patient role (monitoring for fever/shortness of breath), and prevention (incident report/checklist review)."
+    }
+  }
+}

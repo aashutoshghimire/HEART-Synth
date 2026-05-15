@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0187",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello Mr. Hassan, I'm Dr. Miller. I wanted to come in and talk to you about those lab results from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:13",
+      "text": "I think the nurse already told me. Or some of it anyway."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "Right, yeah. So, there was a bit of a mix-up in the scheduling and the EHR system. Essentially, we had a patient with a very similar name and your results were swapped with theirs. That's why you were told you had a condition that you actually don't have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "Typical. Just typical."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:42",
+      "text": "I'm sorry for any confusion this caused. We were really busy in the clinic yesterday and things just got tangled up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:58",
+      "text": "Confusion? I spent three hours thinking I had a chronic kidney issue. I've been through this before with you people. Two years ago it was the wrong dosage, then the wrong appointment. I'm just tired of being the one who has to double check everything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:03",
+      "text": "I can see you're frustrated. It's definitely not an ideal situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:16",
+      "text": "Not ideal? It's a joke. Who is actually looking at these charts? Do you even know who I am, or am I just a name that looks like someone else's?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:25",
+      "text": "I understand. But like I said, it was a system error with the scheduling. It happens sometimes when names are almost identical."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:40",
+      "text": "It happens to me. It always happens to me. Why should I trust that the results I have now are actually mine? For all I know, I'm looking at some other guy's blood work right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:49",
+      "text": "Well, we've reviewed the identifiers now. The current results are correct. It was just a temporary glitch in the data entry process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:53",
+      "text": "A glitch. Right. That's the word of the day."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:02:02",
+      "text": "Look, I really want to make sure we get this sorted. Is there anything else you're worried about regarding the labs?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:15",
+      "text": "I'm worried about everything. I'm worried about the next mistake. What are you actually going to do to stop this? Because \"sorry for the confusion\" doesn't exactly fix my medical record."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:22",
+      "text": "We'll look into the system logs. I'll probably send a note to the administration about it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:30",
+      "text": "A note. That's it? I want to know exactly when this gets corrected and who is verifying it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:38",
+      "text": "We'll see. I'm sure it'll be updated in the portal soon. Just keep an eye on your emails."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:46",
+      "text": "\"Soon\" isn't a time, Doctor. Do I need to call someone? Do I need to file a report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:51",
+      "text": "No, that's not necessary. Just stay tuned for an email."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:56",
+      "text": "I've heard that before. Usually, the email comes three weeks too late."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:03",
+      "text": "I have to get to another patient now, but we've cleared up the main issue."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:12",
+      "text": "We haven't cleared up a thing. I still don't know if I can trust a single word on my chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "It's all fine now. I'll just have the staff check the portal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "This is exactly why I hate coming here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:29",
+      "text": "I'm sorry you feel that way. Let's just wrap this up. I'll let the nurse know we talked."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to get to another patient now', 'Let's just wrap this up') and shows defensive escalation."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly in the second turn, but there are no comprehension checks performed throughout the interaction."
+    },
+    "A": {
+      "score": 0,
+      "justification": "While the resident says 'I'm sorry', responsibility is consistently deflected to 'the scheduling', 'the EHR system', and 'a temporary glitch'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I can see you're frustrated', 'I understand') but otherwise meets emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague promises ('We'll see', 'stay tuned for an email') with no specific timelines or patient role."
+    }
+  }
+}

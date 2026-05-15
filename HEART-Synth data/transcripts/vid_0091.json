@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0091",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Rivera, thank you for meeting with me. I want to talk to you about why you had to come back to the emergency department last night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:17",
+      "text": "I just want to know why my wound is open. I did everything you told me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:25",
+      "text": "I know this is a very difficult and frustrating conversation to have. I want to be honest with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:35",
+      "text": "Honest about what? I was told I was good to go. I drove an hour home and then I started bleeding through the bandages."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:42",
+      "text": "I am very sorry. This is our fault. We made a mistake in your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:46",
+      "text": "What mistake? Who made it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:00:54",
+      "text": "There was some confusion with the timing of your discharge yesterday. Things didn't go quite right with the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:06",
+      "text": "Confusion? You sent me home. You told me I was healed enough to leave. Now I am back in a hospital bed. Was I not supposed to leave?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:12",
+      "text": "I understand how you feel. We are looking into how the timing happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:23",
+      "text": "I don't care about the timing! I care that I'm bleeding! Do you even know what you did? Or are you just sorry that I'm back here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:32",
+      "text": "I am truly sorry that this happened to you. It was the team's responsibility to ensure you stayed long enough."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:48",
+      "text": "I can't afford to be here. I don't even have papers. If I stay here longer, if this goes on a record, I don't know what happens to me. Why did you let me leave if it wasn't safe?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:55",
+      "text": "I can see you are worried. We are focusing on getting the wound fixed right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:06",
+      "text": "You aren't answering me! Did you ignore the rules? Did you just want the bed? I felt like you were rushing me out the door yesterday!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:13",
+      "text": "It is a very heavy thing to deal with, especially when you are already stressed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:22",
+      "text": "Stop telling me how I feel and tell me exactly what went wrong! Was I discharged too early? Yes or no?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:30",
+      "text": "There were some issues with the discharge process. We are reviewing the charts to see where the overlap happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:41",
+      "text": "That is not an answer. You are talking in circles. I am sitting here with a complication and you are telling me there was a process issue."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:46",
+      "text": "I apologize again. We take full responsibility for the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:54",
+      "text": "What error? You still haven't said it. You keep saying sorry but you won't tell me what you did."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:00",
+      "text": "The timing of your exit was not aligned with the standard post-op window."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:05",
+      "text": "So you sent me home early. That's it? That's the mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:10",
+      "text": "We had an issue with the scheduling of the discharge."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:20",
+      "text": "This is unbelievable. I'm the one who suffered for it. Now what? Do I just stay here until you decide I'm actually ready?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "We will keep a close eye on the wound."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:29",
+      "text": "For how long? What is the plan? Am I staying tonight?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "We will see how the dressing looks in a few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:45",
+      "text": "That is not a plan. I need to know if I am going home or if I am staying. My family is waiting for me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:51",
+      "text": "Just stay tuned. We will let you know when we have more information."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:04:03",
+      "text": "You just told me you made a mistake, and now you can't tell me the plan to fix it. Is this how you treat people who don't have papers?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:13",
+      "text": "You don't understand. You're just saying words. I want to speak to your boss."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:18",
+      "text": "I can look into who is available to speak with you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated despite significant pushback and frustration."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes like 'things didn't go quite right' and 'confusion' and avoids explicitly naming the error until the patient forces the admission of being sent home early."
+    },
+    "A": {
+      "score": 2,
+      "justification": "The resident uses direct apology language ('I am very sorry', 'I apologize') and explicitly states 'This is our fault' and 'We take full responsibility'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident relies on generic validation ('I understand how you feel', 'I can see you are worried') without engaging the specific content of the patient's distress regarding their legal status."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders such as 'we will see' and 'just stay tuned' without timelines or a concrete plan."
+    }
+  }
+}

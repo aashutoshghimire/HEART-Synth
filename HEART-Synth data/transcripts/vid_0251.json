@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0251",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello Mr. Thompson. It is good to see you today. How are you feeling?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:10",
+      "text": "Oh, I'm doing alright. A bit tired. Is this about my scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:24",
+      "text": "It is. I want to be very open with you about something that happened with your imaging reports from a few months ago. There was a mistake in how we handled your results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "I am very sorry, Mr. Thompson. The radiologist found something small on your scan that needed to be checked again in three months. However, that information was put in a part of the report that the rest of the medical team didn't see. Because of that, we didn't schedule the follow-up appointment we should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:48",
+      "text": "I don't quite follow. Did you miss something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:01:02",
+      "text": "Yes. We missed a follow-up appointment. To put it simply, there was a note saying we needed to look at your scan again, but the team didn't see that note, so it didn't happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:07",
+      "text": "Oh. I see. I thought everything was fine. Is it something bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:15",
+      "text": "I can see that this is worrying to hear. It's a lot to take in all at once."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:21",
+      "text": "I just... I trust you doctors. I thought we were on top of things."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:34",
+      "text": "It is completely understandable that you feel let down right now. It is really difficult to find out that the system you trusted didn't work the way it was supposed to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "So what happens now? Is it too late?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:54",
+      "text": "That is exactly what we are figuring out. Right now, we are still investigating why the report was hidden in that sub-section and if any other notes were missed. We don't have all the answers yet, but the first priority is getting you that new scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "A new scan. When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:06",
+      "text": "I'm still working on the exact timing. I'll be talking to the scheduling office to get this prioritized."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:13",
+      "text": "I can't remember if I have my calendar here. Do I need to do something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:26",
+      "text": "For now, you don't need to do anything. I will handle the paperwork. I'll call you by Friday to tell you the exact date and time for the new imaging."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Friday. Okay. I'll try to remember."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:36",
+      "text": "We can certainly take a moment here. It is a heavy thing to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:41",
+      "text": "I just don't like the idea of things being missed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:51",
+      "text": "You have every right to be upset. We failed to follow the correct process for your care, and I apologize for that failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "Will this happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:10",
+      "text": "I can't give you a guarantee today because we are still reviewing the investigation. I do know we are looking at how the reports are formatted so this specific error doesn't happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "Well. I suppose we just do the scan then."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:27",
+      "text": "Yes, that is the next step. I will get that arranged and I'll call you. Would you like me to call your daughter as well, so she has the date too?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:33",
+      "text": "Yes, that would be a good idea. She helps me with my dates."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:38",
+      "text": "I'll do that. I will call her and you by Friday afternoon."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a steady pace during distress, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but there were no comprehension checks (e.g., 'Does that make sense?') performed by the resident."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am very sorry', 'I apologize') and explicitly takes responsibility ('We failed to follow the correct process')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('worrying', 'feel let down', 'upset') and engages with the patient's emotional bids regarding trust."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides a specific next step (new scan), a clear timeline (call by Friday), defines the patient's role (no action needed/daughter's involvement), and addresses prevention (reviewing report formatting)."
+    }
+  }
+}

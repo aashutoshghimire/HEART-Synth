@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0148",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello, Ms. Anderson. It is good to see you again. Please, have a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:10",
+      "text": "Thank you. I appreciate you seeing me so quickly today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:26",
+      "text": "I want to start by telling you that I am deeply sorry for the mistake we made with your discharge instructions. I personally feel responsible for the frustration and the gap in your care over the last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:42",
+      "text": "I appreciate the apology. I was quite surprised when I called the specialist's office and was told my insurance wasn't accepted. As someone who manages a hospital, I know things get missed, but it was an incredibly stressful way to spend my first few days back home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:57",
+      "text": "I can imagine that feeling of uncertainty was overwhelming, especially when you are trying to recover and just want to know you are in safe hands. It is completely unacceptable that we left you in that position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:11",
+      "text": "It was. I spent three hours on the phone trying to figure out who actually takes my plan. I felt like I was back at work, managing a crisis, instead of being a patient."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:27",
+      "text": "It sounds like you had to step into a professional role just to ensure your own basic medical needs were met, which is the opposite of what should happen. I am truly sorry I put that burden on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:35",
+      "text": "So, what actually happened? How does a patient get sent to a clinic that doesn't take their insurance?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:46",
+      "text": "There was some confusion with the paperwork and things didn't go quite right with the coordination. We had a bit of an issue with the discharge process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:02:01",
+      "text": "That is very vague. Did the resident fail to check the insurance portal? Was it a coding error? I am asking because I want to know if this is a recurring problem in your discharge workflow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:08",
+      "text": "We had some issues with the system and there was some general confusion during the transition."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:19",
+      "text": "I am not asking about the system. I am asking for the specific error. Was my insurance type ignored, or was the wrong clinic selected?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:27",
+      "text": "It was just a bit of a mix-up in the communication chain and we didn't handle it correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:35",
+      "text": "I'm sorry, but you still haven't told me what the actual error was. I feel like you are hedging."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:42",
+      "text": "I realize I'm not being specific. There was just an error in the coordination of the follow-up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:51",
+      "text": "That is a circular explanation. If I were auditing this in my facility, I would mark this as a failure to disclose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:59",
+      "text": "I understand your frustration with my explanation. I clearly haven't been clear enough. I apologize for that as well."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:11",
+      "text": "I appreciate the sentiment, but as a patient and an administrator, I need the facts. If you can't give me the facts, how can I trust the new plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:27",
+      "text": "I hear you. You need transparency to feel secure in your care. I am sorry that I am struggling to articulate the exact failure point right now, but please know that I take full ownership of the fact that you were misdirected."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:32",
+      "text": "I accept the ownership. I just don't have the explanation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:48",
+      "text": "I want to make sure that moving forward, we leave no room for more errors. I have already spent this morning verifying your insurance coverage with three different providers. I have confirmed that the new specialist, Dr. Lee, is fully in-network. I have the confirmation number from the insurance company right here on my desk if you'd like to see it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "That is a start. When is the appointment?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:04:08",
+      "text": "Dr. Lee has seen your charts and has you scheduled for this coming Thursday at 10:00 AM. I have printed the confirmation and the address for you. I will also personally call Dr. Lee's office this afternoon to ensure your records have been transferred so you don't have to spend any more time on the phone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:14",
+      "text": "And if there is another issue with the insurance at the front desk?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:30",
+      "text": "If you encounter any problem at all, I want you to call my direct cell phone, which I am writing on this card for you right now. If the receptionist says there is an issue, you call me immediately, and I will resolve it while you are standing there."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:31",
+      "end_time": "00:04:37",
+      "text": "I appreciate the direct line. That provides a level of accountability I can work with."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:38",
+      "end_time": "00:04:53",
+      "text": "To make sure this doesn't happen to anyone else, I have already flagged this case for our Quality Improvement committee. I am writing a formal incident report today detailing how the insurance check was missed so we can implement a mandatory double-check for all outpatient referrals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:54",
+      "end_time": "00:04:59",
+      "text": "I am glad to hear that. It turns a mistake into a process improvement."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:00",
+      "end_time": "00:05:08",
+      "text": "It is the only way to ensure it doesn't happen again. Do you have any other concerns about the plan for Thursday?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:09",
+      "end_time": "00:05:16",
+      "text": "No, the plan seems solid now. I just hope the actual clinical care is better than the administrative side."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:17",
+      "end_time": "00:05:27",
+      "text": "I intend to make sure it is. I will follow up with you personally on Friday morning to make sure the visit with Dr. Lee went smoothly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to express frustration and push back without interrupting and remains regulated throughout the encounter."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident repeatedly uses platitudes like 'things didn't go quite right' and 'mix-up in the communication chain' without ever explicitly naming the specific error."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language and takes full personal ownership ('I personally feel responsible') even under significant pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('uncertainty was overwhelming', 'burden') and references the patient's specific experience of acting as a professional instead of a patient."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides a specific appointment (Thursday at 10 AM), a clear patient role (call cell phone if issues arise), and a prevention plan (QI committee/incident report)."
+    }
+  }
+}

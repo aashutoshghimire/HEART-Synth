@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0108",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hi, Mr. Park. I wanted to come back in and talk to you about why you had that reaction to the medication we gave you earlier."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:16",
+      "text": "Is it bad? I'm still feeling kind of itchy and my throat feels tight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:31",
+      "text": "You're doing better now that we've given you the antihistamines, but I want to be clear about what happened. You had an allergic reaction because you were given a drug that you are allergic to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:36",
+      "text": "What? But I told the nurse. I wrote it on the form."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:51",
+      "text": "You did. It was documented in your chart. However, I overlooked that allergy when I was writing the prescription. I prescribed the medication despite the warning in your file, and that is why you had this reaction."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:02",
+      "text": "I can't believe that. I'm alone here, I don't even know anyone in this city. Am I going to be okay? What if it happens again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:11",
+      "text": "I can see that you're really scared right now. It's completely understandable to feel that way, especially being here on your own."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:22",
+      "text": "I just... I thought I was safe. I'm just a student. I don't even know if I'm supposed to be here or if I'm allowed to complain."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:23",
+      "end_time": "00:01:35",
+      "text": "You have every right to be upset. I am sorry for this mistake. We were very busy on the floor today, but that doesn't make it okay that I missed that note."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:41",
+      "text": "I just started shaking when I couldn't breathe. I thought I was actually dying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:45",
+      "text": "I know. That must have been terrifying."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:49",
+      "text": "Is this going to affect my recovery? Like, permanently?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:02",
+      "text": "No, the reaction was moderate and we caught it quickly. There is no permanent damage to your organs. Does that make sense, or can I explain the clinical part a bit more?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:07",
+      "text": "I think I get it. You just missed the note."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:20",
+      "text": "That is correct. I missed the note. Now, I want to tell you how we are going to make sure this doesn't happen again for the rest of your stay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "I don't know if I trust the meds now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:40",
+      "text": "That's a fair feeling. Here is the plan. First, I have put a bright red alert sticker on your physical chart and a digital pop-up in the computer system that triggers every time anyone opens your file. Second, I want you to help me. Every time a nurse or doctor brings you a pill, I want you to ask them, Do you know about my allergy? before you take it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "Me? I'm supposed to check you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:03:00",
+      "text": "I know it's not your job to be the safety check, but it adds an extra layer of protection while we fix the process on our end. I'll also be reviewing this mistake with my attending physician this afternoon to see how we can change the prescribing software."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:07",
+      "text": "I just feel really overwhelmed. I don't have my parents here to tell me what to do."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:23",
+      "text": "I get that it's a lot to handle. Look, we have to move to the next patient for a bit, but I'll be back in thirty minutes to check your vitals again. If you feel any tightness in your chest before then, hit the call button immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:33",
+      "text": "I'm really sorry again, Mr. Park. We're going to take care of you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('we have to move to the next patient for a bit')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in the second turn using lay language, and comprehension is checked once ('Does that make sense...')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While the resident apologizes and takes responsibility, the apology is diluted by an excuse ('We were very busy on the floor today')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('scared', 'terrifying') and references the patient's specific situation of being alone in the city."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific steps (stickers, pop-ups), a timeline (30 minutes), a named patient role (asking the nurse), and prevention (software review)."
+    }
+  }
+}

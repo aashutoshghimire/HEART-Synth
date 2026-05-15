@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0356",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Good afternoon, Mr. Dubois. I am Dr. Miller. I am one of the residents on the surgical team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:13",
+      "text": "Good afternoon. I was told there was some update on the surgery plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "Yes, that is why I am here. There was a mistake with how your imaging was handled. Two different patients had their MRIs saved under the exact same identification number in our system. Because of that, the team reviewed the wrong scan when deciding how to approach your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "The wrong scan? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:42",
+      "text": "It means we were looking at images that belonged to someone else, not you. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:47",
+      "text": "I do not understand. How can this happen in a modern hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:00:51",
+      "text": "It was a clerical error with the accession number."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:03",
+      "text": "This is... c'est inadmissible. I have trusted you with my body. Do you know how it feels to be a number that is mixed up with another person?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:08",
+      "text": "I can see that you feel quite insulted by this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:13",
+      "text": "Insulted? I feel violated. My dignity is not something you can just\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:21",
+      "text": "I have to be quick because I have other patients waiting, but we need to focus on the solution."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:30",
+      "text": "You are rushing me? I am telling you that my trust is broken and you are looking at your watch?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:35",
+      "text": "I just want to make sure we get to the plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:42",
+      "text": "The plan for what? Who is responsible for this? Did you personally look at the wrong scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:51",
+      "text": "The system allowed the files to overlap, and the review process failed to catch the discrepancy before the surgical plan was drafted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:58",
+      "text": "You are talking about systems and processes. I want to know who made the mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "It was a failure of the administrative workflow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:09",
+      "text": "Mon Dieu, you are avoiding the question. Do you not feel any shame in this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:13",
+      "text": "I realize this is upsetting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:18",
+      "text": "Upsetting is a small word. This is a disaster of competence."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:34",
+      "text": "We have already taken steps to fix this. First, I have personally verified your correct MRI images this morning. I have cross-referenced your name and date of birth against the image metadata to ensure there is no further confusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "And what now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:54",
+      "text": "Now, the lead surgeon and I are meeting at 4:00 PM today to redraw the surgical map based on your actual anatomy. I will then come back to your room at 6:00 PM tonight to show you the corrected plan and explain the changes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "And who will ensure this does not happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:14",
+      "text": "I have already filed a formal incident report with the Risk Management department. They are implementing a new double-verification step for all MRI uploads starting tomorrow. Additionally, your chart has been flagged with a red alert that requires a manual signature from the attending physician before any imaging is viewed. This means two sets of eyes must verify the patient's identity against the scan regardless of the accession number."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:23",
+      "text": "It is a very detailed plan. But it does not change the fact that you treated me like a filing error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:30",
+      "text": "I understand you are feeling disregarded. I can explain the new safety protocols further if you wish."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:36",
+      "text": "I do not want protocols. I want to know why you are not sorry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "We are working to ensure the surgery is successful."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "You are skipping over my feelings again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:04:00",
+      "text": "Let's wrap up the logistics so you can rest. To summarize, I will be back at 6:00 PM. Your role is simply to review the new images with me then and tell me if you have any questions about the updated approach. If you feel the corrected plan is not clear, you can ask to speak with the Chief of Surgery tomorrow morning at 8:00 AM. Does that timeline work for you?"
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to be quick', 'Let's wrap up') and shows defensive escalation under pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error was named explicitly in the first turn using lay language, and comprehension was checked once ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to the 'clerical error', 'system', and 'administrative workflow'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Patient's emotional bids are consistently met with factual redirection or clinical summaries."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provided specific next steps with timelines (4 PM, 6 PM, 8 AM), defined the patient's role (review images), and detailed prevention steps."
+    }
+  }
+}

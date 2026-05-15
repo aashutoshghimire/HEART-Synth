@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0289",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello Mr. Chen. I am Doctor Miller. I need to talk with you about the dye we used for your scan this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "The nurse... she say something. About the kidneys."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "Yes, that is why I am here. We made a mistake. We gave you the contrast dye when we should not have because your kidney blood tests showed they were too weak to handle it. We didn't follow the safety steps to protect your kidneys first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "I don't... why? I feel okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:44",
+      "text": "I am very sorry. This was my responsibility as your doctor, and I failed to check your levels before the procedure. I apologize deeply for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:48",
+      "text": "Is it... bad? My kidneys?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:01:00",
+      "text": "It means your kidneys might not work as well as they did yesterday. Does that make sense? Do you understand why the dye is a problem for the kidneys?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:04",
+      "text": "Maybe. I just... I don't know. I am scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:14",
+      "text": "I understand. Now, we need to move quickly because I have another patient in room four, so let's look at how we fix this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:19",
+      "text": "But I don't know what happens now. The nurse said\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:34",
+      "text": "Right, so the first thing we are doing is starting an IV drip of fluids right now. This will help flush the dye out of your system. We will keep that running for the next twenty-four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "Twenty-four hours? I can't go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:54",
+      "text": "No, you will stay here so we can watch you. Second, I have already scheduled a blood test for tomorrow morning at eight a.m. to check your creatinine levels. That's the test that tells us how the kidneys are filtering."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:01:59",
+      "text": "I just feel... why did this happen? I thought you checked."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:06",
+      "text": "I really am sorry. I messed up the check. I take full responsibility for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "I don't... I don't trust..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:26",
+      "text": "We are going to make sure this doesn't happen again. I've already flagged your chart with a red alert for all other doctors. Also, I am writing a report to our safety board so we can change how we check these tests. Your job is just to tell me if you feel any new pain or if you stop peeing as much. Can you do that for me?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:31",
+      "text": "I can try. But I am still... I don't know."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:39",
+      "text": "I know. But the fluids are the priority. I really have to go now, but we have a plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "Wait, what about the tomorrow test?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:58",
+      "text": "Like I said, tomorrow morning at eight. The nurse will draw your blood. We will check the numbers, and if they are better, we talk about discharge. If they are worse, we bring in the kidney specialist."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "Why did the nurse tell me before you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:13",
+      "text": "I understand it's confusing. I just wanted to get the fluids started. I am sorry again. Let's wrap this up so I can get your IV adjusted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "I just wanted to ask..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:26",
+      "text": "I've got to run, Mr. Chen. The nurse is right here if you need water. I'll be back after my other patient."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('move quickly', 'I have another patient', 'let's wrap this up', 'I've got to run') and interrupts the patient's final attempt to ask a question."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is explicitly named in the second turn, lay language is used throughout, and comprehension is checked twice ('Does that make sense?', 'Do you understand...?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am very sorry', 'I apologize deeply') and takes full personal responsibility without deflection."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand', 'I know') but never names specific emotions back to the patient or engages deeply with emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (IV fluids, blood test), timelines (24 hours, tomorrow at 8am), the patient's role (report pain/urine output), and prevention (red alert, safety board report)."
+    }
+  }
+}

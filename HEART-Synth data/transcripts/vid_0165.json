@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0165",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Tremblay, thank you for coming in. I need to discuss a mistake that was made regarding your daughter's antibiotic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "A mistake? What are you talking about?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "The medication itself was the correct concentration, but the dosing syringe we gave you was calibrated for a different strength. Because of that, your daughter has been receiving double the dose she was supposed to for the last three days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:38",
+      "text": "Wait. Double? Are you telling me my child has been overdosed for three days because you can't give a piece of plastic correctly?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:44",
+      "text": "I am sorry. This was our mistake and it should not have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:51",
+      "text": "I don't care if you're sorry. Is she poisoned? Is her liver failing? Why wasn't this caught?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:04",
+      "text": "To answer your question, this specific antibiotic has a wide safety margin. Based on the dose she received, we don't expect any permanent organ damage, but we need to monitor her."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:16",
+      "text": "Wide safety margin. That's a great way to put it while my daughter is potentially toxic. I specifically checked the labels. I did my part. You're the professional here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:25",
+      "text": "I understand. But we need to focus on the clinical facts of the current situation so we can move forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:37",
+      "text": "Don't tell me to focus on facts. I'm telling you that you failed a basic safety check. Who signed off on this? Was it you or someone else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:46",
+      "text": "The team failed in the dispensing process. Again, I apologize for this error. Does that explanation make sense to you so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:55",
+      "text": "It makes sense that you're incompetent. I want a full report on what this dose does to a toddler's system."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "Right, we can get a report, but\u2014"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "No, I want to know right now. Now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:18",
+      "text": "Look, I have to go see another patient in a few minutes, so let's keep this moving. The overdose is unlikely to cause a crisis, but we want to do some blood work to be certain."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:27",
+      "text": "You have to go? My child is the one who took the wrong medicine and you're worried about your schedule?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:34",
+      "text": "I'm just saying we need to be efficient. We can do the blood tests now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:41",
+      "text": "This is unbelievable. You're treating this like a clerical error. My daughter is the patient here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:46",
+      "text": "I understand, but as I said, the medical risk is low."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:52",
+      "text": "Low isn't zero. You don't get to decide what's acceptable when it's my kid."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:02:57",
+      "text": "I hear you. Now, regarding the plan, we will draw blood today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:06",
+      "text": "We'll probably check the levels in a couple of days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:11",
+      "text": "A couple of days? Which days? What exactly are you checking for?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:18",
+      "text": "Just some general markers. We'll see how the results look and then we'll decide the next step."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:25",
+      "text": "That is not a plan. That is a guess. Give me a date and a specific test."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:31",
+      "text": "We'll do the labs now and then we'll probably follow up sometime next week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:36",
+      "text": "I'm not leaving this room until I have a timeline."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:47",
+      "text": "I really do have to get to my next appointment. Let's just get the blood drawn first and we can figure the rest out later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('keep this moving', 'be efficient', 'have to get to my next appointment') and shows defensive escalation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first two turns using lay language, and comprehension was checked once ('Does that explanation make sense to you so far?')."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Direct apologies were used, the team was named as responsible, and accountability was maintained despite the patient's pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident used generic validation ('I understand', 'I hear you') but never named specific emotions or engaged with emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The plan consists of placeholders and vague timelines ('probably check', 'sometime next week', 'figure the rest out later') with no patient role or prevention mentioned."
+    }
+  }
+}

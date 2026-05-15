@@ -1,0 +1,309 @@
+{
+  "video_id": "vid_0376",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "It is good to see you again, Ms. Anderson. How have you been feeling since you got home?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:14",
+      "text": "I am doing reasonably well, thank you. A bit tired, as expected, but the recovery is proceeding."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:29",
+      "text": "I am really glad to hear you are feeling better. I can only imagine how draining the last week has been for you, especially trying to balance your recovery with everything you have going on."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:34",
+      "text": "It has been a challenge. I appreciate you saying that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:46",
+      "text": "I wanted to talk to you about your stay. While you were in the ward, there were some things that didn't go quite right regarding your post-operative care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:00:50",
+      "text": "What do you mean by that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:51",
+      "end_time": "00:00:59",
+      "text": "Well, there was some confusion with the monitoring protocols. The team had a few issues with the timing of the checks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:05",
+      "text": "I am not following. Confusion about what? Specifically, what happened during my care?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:13",
+      "text": "It was just a bit of a systemic breakdown in the workflow. We had some gaps in the observations."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:24",
+      "text": "Dr. Smith, I manage a hospital myself. I know how monitoring protocols work. Were your vital signs checked at the intervals prescribed in the surgical orders?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:38",
+      "text": "I can see this is frustrating for you. It must feel very unsettling to come back for a follow-up and feel like you are not getting a straight answer about your own health."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:48",
+      "text": "It is more than unsettling. I am asking for a factual account. Did the team fail to monitor my blood pressure as ordered?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:57",
+      "text": "Things just get so busy on the floor, and sometimes the communication between the nurses and the residents isn't seamless."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:05",
+      "text": "That is an explanation for why it happens, not a description of what happened. Did my blood pressure drop?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:16",
+      "text": "There was a period where the numbers weren't where we wanted them to be, and it took a little while for that to be flagged."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "How long is a little while?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:30",
+      "text": "I have to check the rest of your chart for a moment, but generally, there was a delay in the frequency of the checks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:41",
+      "text": "I want a specific timeframe. If there was a failure in the standard of care, I need to know the exact duration of the undetected hypotension."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:53",
+      "text": "I hear how important this is to you, and I truly value your professionalism and your need for clarity. It is completely reasonable that you want the exact details."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "Then give them to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:05",
+      "text": "I can't recall the exact minute on the spot, but there was an issue for a couple of hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:13",
+      "text": "A couple of hours? That is a significant window for a high-risk procedure. Who was responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:21",
+      "text": "The unit was very shorthanded that night, and the system for alerts didn't trigger as it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "Is anyone taking responsibility for this error?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:37",
+      "text": "We are looking into how to prevent this from happening again. I really do care about your well-being and I want to make sure you feel supported today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:44",
+      "text": "I appreciate the sentiment, but I am looking for an apology and a corrective action plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:50",
+      "text": "I just want us to move forward and focus on your healing now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:04:00",
+      "text": "I cannot move forward without knowing the impact of those two hours of undetected low blood pressure on my kidney function and cardiac output."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:10",
+      "text": "I can see you are worried about the long-term effects, and that is a very valid fear to have after a surgery like this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:11",
+      "end_time": "00:04:17",
+      "text": "I am not just worried, I am informed. This was a deviation from the prescribed care plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:24",
+      "text": "Let me see if I can find someone to help me pull the exact logs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:29",
+      "text": "I would like that. I would also like a written incident report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:30",
+      "end_time": "00:04:38",
+      "text": "We can see about that. Let's just wrap up the physical exam quickly so I can get you on your way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:39",
+      "end_time": "00:04:42",
+      "text": "I am not finished with this conversation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:43",
+      "end_time": "00:04:48",
+      "text": "I understand, but I have to go to another appointment in a few minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:49",
+      "end_time": "00:04:57",
+      "text": "That is unacceptable. You have admitted to a gap in care and now you are rushing out of the room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:58",
+      "end_time": "00:05:05",
+      "text": "I really do feel for the stress this is causing you. It is a very difficult conversation to have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:06",
+      "end_time": "00:05:16",
+      "text": "It would be easier if you were transparent. What is the plan to ensure my current recovery isn't compromised by what happened in the hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:17",
+      "end_time": "00:05:20",
+      "text": "We will keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:21",
+      "end_time": "00:05:27",
+      "text": "That is not a plan. Do I need additional blood work? Do I need a cardiology consult?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:28",
+      "end_time": "00:05:31",
+      "text": "We'll just see how the next few weeks go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:32",
+      "end_time": "00:05:39",
+      "text": "Dr. Smith, I am going to request a meeting with your Chief of Surgery and the Risk Management department."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:40",
+      "end_time": "00:05:43",
+      "text": "I think we can just handle this internally."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:44",
+      "end_time": "00:05:52",
+      "text": "I am certain we cannot. I want a timeline for when I will receive the full records of the monitoring gaps."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:53",
+      "end_time": "00:05:56",
+      "text": "I'll try to send an email when I can."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:57",
+      "end_time": "00:06:01",
+      "text": "That is too vague. I want a date and a time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:06:02",
+      "end_time": "00:06:07",
+      "text": "I'll check my schedule. I really have to get to my next patient now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap up the physical exam quickly', 'have to go to another appointment', 'have to get to my next patient now')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident initially uses platitudes ('things didn't go quite right', 'some confusion') and only admits to a 'delay' after the patient repeatedly demands factual accounts."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to the unit being 'shorthanded' and the 'system for alerts'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('frustrating', 'unsettling', 'worried', 'valid fear') and references the patient's specific situation and professionalism."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders and vague promises ('keep an eye on things', 'see how the next few weeks go', 'try to send an email when I can')."
+    }
+  }
+}

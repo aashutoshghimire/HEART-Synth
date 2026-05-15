@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0279",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Osei, thank you for coming back in to see us. I have Dr. Miller here with me as well."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "I'm a bit confused why you needed me to come back so quickly after we just left."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:27",
+      "text": "I know this is an unexpected interruption to your day. This is a difficult conversation to have, but we found a mistake in how we handled your son's vaccinations."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "A mistake? What exactly happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:47",
+      "text": "When we were preparing the doses, the medication was drawn up based on a weight band for an older, heavier child. This means your son received a dose of one of the vaccines that was higher than what is indicated for his specific weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:54",
+      "text": "I'm sorry, a higher dose? You're telling me he was overdosed because someone didn't check the chart?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:07",
+      "text": "It was an error in the preparation process. I'm sorry for any confusion this causes. We were incredibly busy in the clinic this morning and the wrong vial was selected."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:19",
+      "text": "As a nurse practitioner, I find that an incredibly disappointing explanation. Being busy doesn't excuse a failure in basic medication safety protocols. This is a fundamental professional standard."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:23",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:29",
+      "text": "Do you understand the clinical implications of this, or are you just saying that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:36",
+      "text": "The dosage was higher than intended, but it is still within a range that we monitor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:45",
+      "text": "That is a very vague answer. I want to know exactly what the risk is for my child right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:53",
+      "text": "I can tell you that based on the pharmacology of this specific vaccine, we don't expect any long-term toxicity."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:02",
+      "text": "I'm not talking about long-term toxicity. I'm talking about the fact that a safety check was missed. This is a systemic failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "I see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:13",
+      "text": "You're just sitting there. Are you not concerned that your process allowed this to happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "I recognize that this is upsetting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "Upsetting isn't the word. It's a breach of trust. I trusted your team with my son's health."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I hear you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:34",
+      "text": "What is the plan to make sure this doesn't happen to another child?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:50",
+      "text": "I have a very specific plan for us moving forward. First, I have already flagged this incident in our internal reporting system so the clinic manager can review the dosing workflow. Second, I am going to call our toxicology consult service right now to get a second opinion on any specific monitoring we need for your son. I will call you by 5:00 PM today with their specific feedback."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "And what about my son's immediate symptoms?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:10",
+      "text": "I want you to monitor his temperature every four hours for the next twenty-four hours. If he develops a fever over 101 or any unusual rash, I want you to call my personal pager immediately, which I will give to you on a slip of paper before you leave. I am also scheduling a follow-up appointment for him in three days from now to do a physical assessment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "I expect a written copy of this incident report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:29",
+      "text": "I will provide a formal letter detailing the error, the dose given, and the steps we are taking to prevent this from recurring. I will have that drafted and emailed to your portal by tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:39",
+      "text": "I still can't get past the \"busy\" comment. In my practice, \"busy\" is where the errors happen, but it is never the excuse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:50",
+      "text": "I suppose the plan for the child is comprehensive. But the accountability is missing here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:54",
+      "text": "We will make sure the documentation is thorough."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:55",
+      "end_time": "00:04:01",
+      "text": "I'll wait for that phone call at five. Please make sure you actually speak to the specialist."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:06",
+      "text": "I will. I will call you at 5:00 PM exactly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated despite significant pushback, and allows the patient to lead the emotional pace."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While the resident says 'I'm sorry', the apology is diluted by an immediate excuse ('We were incredibly busy in the clinic this morning')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident relies on generic validations such as 'I understand', 'I see', and 'I hear you' without naming specific emotions."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific next steps (toxicology consult, monitoring), clear timelines (5:00 PM, tomorrow morning), a named patient role (monitor temperature), and prevention (internal reporting system)."
+    }
+  }
+}

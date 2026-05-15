@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0154",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Ms. Patel, thank you for coming back in to see me today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:13",
+      "text": "I really don't have much time. I have a deadline for a project and I already spent four hours here yesterday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:24",
+      "text": "I know. I am so incredibly sorry for this, but I need to tell you that we made a mistake with your chemotherapy dose yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "I took full responsibility for this because I was the one who calculated the dosage. I used your weight from your first admission three months ago instead of your current weight. Because you've lost a significant amount of weight during treatment, you received a dose that was too high for where you are today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:54",
+      "text": "Wait. Yesterday the oncologist told me that the dose was adjusted perfectly for my current labs and weight. He specifically said everything was double-checked."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:09",
+      "text": "I realize that contradicts what you were told. He was mistaken in his assessment of the situation, and I was the one who actually failed to update the weight in the system. I am deeply sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:25",
+      "text": "This is exactly why I don't trust this place. I read every single consent form I sign. I asked three different people if the dose was right. And now you're telling me you just... forgot to check a scale?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:33",
+      "text": "I completely understand why you feel that way. It is my fault. There is no excuse for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:46",
+      "text": "I feel like a lab rat. I'm trying to fight this cancer and I can't even trust that the person with the calculator knows how much I weigh. It's terrifying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:50",
+      "text": "It is a very frustrating situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:02:00",
+      "text": "Frustrating? It's a dangerous error. What does a higher dose even do? Am I poisoned? Am I going to have more side effects?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:07",
+      "text": "We are monitoring your bloodwork. It is a generic concern for everyone on this regimen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:12",
+      "text": "That's not an answer. Tell me exactly what the risk is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:20",
+      "text": "I just want to make sure we get you home soon, so let's look at the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:28",
+      "text": "No, we are not moving on until I know what this does to my organs. You're dodging the question."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:36",
+      "text": "I'm sorry, I just mean that we are keeping a close eye on your labs. It's a known complication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:43",
+      "text": "I don't care if it's known. I want to know the specific risk for me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:50",
+      "text": "I apologize. I truly am sorry for the error and the stress this is causing you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:03:00",
+      "text": "Your apology doesn't change the fact that the medicine is already in my system. Why did this happen? Is the system just broken?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:12",
+      "text": "I was the one who made the error. It wasn't a system failure; it was my failure to check the current weight. I take full accountability for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:18",
+      "text": "And what happens now? Who is going to make sure this doesn't happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "We will be more careful moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:30",
+      "text": "\"More careful\" is not a plan. I want to know the protocol. Who is checking the dose next time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "I'll make sure the team is aware."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:43",
+      "text": "That is so vague. Are you the one checking it? Is there a second person? I need to know the actual process."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:48",
+      "text": "We will figure out a way to keep it from happening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:59",
+      "text": "This is unbelievable. You've told me you're sorry, but you can't tell me what the medical risk is and you can't tell me how you'll fix it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:06",
+      "text": "I really do apologize. I just... I have to go check on another patient right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:12",
+      "text": "You're leaving? I'm sitting here telling you that I'm terrified and you're leaving?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:18",
+      "text": "I just need to step out for a moment. We'll be in touch soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:19",
+      "end_time": "00:04:22",
+      "text": "\"In touch\"? When? By phone? Email?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:23",
+      "end_time": "00:04:26",
+      "text": "Someone will probably reach out soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:27",
+      "end_time": "00:04:35",
+      "text": "I am not leaving this hospital until I have a written plan and a signature from the head of the department."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:36",
+      "end_time": "00:04:39",
+      "text": "I'll see what I can do."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language ('get you home soon', 'have to go check on another patient') and exits the room while the patient is expressing terror."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly and in lay language, but there were no comprehension checks performed."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language and repeatedly takes full personal accountability without deflection, even under intense pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I completely understand why you feel that way', 'It is a very frustrating situation') without naming specific emotions or engaging deeply with emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders and vague promises ('We will figure out a way', 'Someone will probably reach out soon') with no timelines or specific protocols."
+    }
+  }
+}

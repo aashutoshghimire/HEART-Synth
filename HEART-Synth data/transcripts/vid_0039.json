@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0039",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Mrs. Al-Rashid, it is good to see you again. Please, take a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:12",
+      "text": "Thank you, Doctor. I am glad to be home, though I am still feeling a bit tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:18",
+      "text": "I can imagine. It has been a very long few days for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:19",
+      "end_time": "00:00:22",
+      "text": "It was very frightening. The hospital is so loud."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:38",
+      "text": "It really is. And I know that when you are in a hospital bed, everything feels much more overwhelming. I want to spend some time today talking about your stay and some things that happened with your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:42",
+      "text": "Is there something wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:58",
+      "text": "I know this is a difficult thing to bring up, and it might feel unsettling to talk about. I want to be honest with you. During your admission, there was some confusion with how your tests were handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:02",
+      "text": "Confusion? I do not understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:13",
+      "text": "Some of the results from your heart tracing, the ECG, didn't get processed as quickly as they should have. There was an issue with the timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:18",
+      "text": "But the machine is fast. Why was there an issue?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:28",
+      "text": "Things just didn't go quite right with the workflow that day. The system of notification didn't happen the way it was supposed to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:37",
+      "text": "I remember waiting. I felt the pain in my chest and I wondered why no one was coming back to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:46",
+      "text": "That sounds like such a lonely and scary feeling, sitting there in that room and wondering why the help isn't arriving."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:54",
+      "text": "I did not want to complain. You are the doctor. I trusted that you knew what was happening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:06",
+      "text": "I hear you. You put your trust in us to keep you safe, and feeling that uncertainty while you are in pain is a heavy thing to carry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:11",
+      "text": "So, did the machine miss it? Or did the doctor miss it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:21",
+      "text": "It was a systemic failure in the communication of the result. The flag was there, but the process of reviewing it was delayed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "For how long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:31",
+      "text": "There was a gap of a few hours before the results were seen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:37",
+      "text": "A few hours? My heart was stopping and for hours no one looked?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:46",
+      "text": "I can see how shocking that is to hear. To feel like you were invisible for those hours must have been devastating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:53",
+      "text": "I felt it. I felt the time passing. I thought perhaps it was just my age."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:02",
+      "text": "It was not your age, and it was not something you imagined. Your feeling that something was wrong was correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Why did this happen? Is the hospital not organized?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:14",
+      "text": "There are sometimes gaps in how the software alerts the physicians. It is a challenge we are working on."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:19",
+      "text": "I just want to know if I am okay now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:25",
+      "text": "Your heart is stable now, and we have you on the correct medications."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "But the delay... did it cause more damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:39",
+      "text": "It is hard to say exactly, but the goal now is to make sure we monitor you very closely to prevent any further issues."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:48",
+      "text": "I do not know what to say. I have always respected the doctors. I did not think this happened in your clinic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:59",
+      "text": "It is a lot to process. It is okay if you don't have the words right now. We can just sit with this for a moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "I feel very small."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:12",
+      "text": "You are not small. You are the most important person in this room, and your experience of this is what matters."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:13",
+      "end_time": "00:04:16",
+      "text": "What happens now? Will it happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:17",
+      "end_time": "00:04:31",
+      "text": "I have a very clear plan to make sure you are supported. First, I want you to come back here this Friday for another ECG. I will personally review the result the moment it is printed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:32",
+      "end_time": "00:04:35",
+      "text": "You will do it yourself?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:36",
+      "end_time": "00:04:51",
+      "text": "Yes. I will be the one looking at it. Secondly, I want you to keep a written log of any chest tightness you feel at home. If you feel anything, you are to call this specific number for my nurse immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:52",
+      "end_time": "00:04:55",
+      "text": "I can do that. I have my notebook."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:56",
+      "end_time": "00:05:08",
+      "text": "Perfect. That notebook will be our way of tracking everything. I will also be reviewing your charts every week for the next month to ensure the medication is working as it should."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:09",
+      "end_time": "00:05:12",
+      "text": "I hope the next time is faster."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:13",
+      "end_time": "00:05:21",
+      "text": "I understand. We are going to move forward very carefully. Do you have any other questions about the plan for Friday?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:22",
+      "end_time": "00:05:25",
+      "text": "No, Doctor. I think I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:26",
+      "end_time": "00:05:31",
+      "text": "I appreciate you listening to me today. I will see you on Friday morning."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and remains regulated throughout the patient's distress."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes like 'some confusion' and 'things didn't go quite right' without explicitly naming the error (e.g., 'we failed to review your ECG')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to 'systemic failure' and 'software alerts'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('lonely and scary', 'shocking', 'devastating') and engages deeply with the patient's emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (Friday ECG, weekly chart reviews), timelines, a named patient role (keeping a written log), and prevention (personal review by resident)."
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0179",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Tremblay, thank you for waiting for me. I need to talk to you about the reaction you had to the medication we gave you this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "I'm fine. The itching is mostly gone."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "I appreciate that, but I need to be direct with you. I made a mistake. You have a documented allergy to this drug in your chart, and I overlooked it before I signed the order. That is why you had the reaction."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:40",
+      "text": "The other doctor told me that the drug was safe for me regardless of the allergy. He said it was a different class."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:55",
+      "text": "I apologize for that contradiction. The previous clinician was incorrect. This medication is absolutely contraindicated for you. I am the one who prescribed it today, and the responsibility for that error is mine. I am very sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:00",
+      "text": "It was a waste of four hours of my day."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:12",
+      "text": "I know it was. You\u2019re here to get better and get back to your unit, and instead, I caused a setback and put you in a dangerous position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:19",
+      "text": "I don't need the apology. I just want to know if it did any permanent damage."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:28",
+      "text": "No, the reaction was moderate and the antihistamines we gave you have reversed the effects. Your vitals are stable now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:33",
+      "text": "So why did the first guy say it was fine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:44",
+      "text": "He was mistaken about the chemistry of the drug. It is a common confusion, but it doesn't excuse the fact that it shouldn't have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:50",
+      "text": "I just can't be dealing with this right now. I have a deployment window."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:02:02",
+      "text": "Having your timeline compromised because of a clinical error is incredibly frustrating. I recognize that your priority is getting back to mission-readiness, and I failed to support that today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "Exactly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:15",
+      "text": "I want to make sure I've been clear about what happened here. Do you have any questions about why the reaction occurred?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "No, you said you missed the note in the chart. Got it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:30",
+      "text": "Right. I\u2019m going to walk you through exactly how we are fixing this so it doesn't happen again before you leave this hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "I'm listening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:50",
+      "text": "First, I have already entered a \"hard stop\" alert into your electronic record. That means the system will now physically block any provider from ordering this medication for you. It is no longer just a note; it's a digital barrier."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "That should have been there already."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:10",
+      "text": "You're right, it should have been. I am the one who ensured it was finalized ten minutes ago. Second, I am updating your discharge summary with a bolded allergy warning that will be sent to your primary care manager and your military physician this afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "And what about the rest of the treatment?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:28",
+      "text": "We are switching you to an alternative medication that has no cross-reactivity. I will be personally monitoring your first dose of the new drug at 2:00 PM today to ensure you tolerate it well."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "When can I actually leave?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:48",
+      "text": "If the 2:00 PM dose goes well and your skin stays clear, I will sign your discharge papers by 6:00 PM today. You will need to review the new medication list I'm printing for you and sign off that you understand the alternative."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:04:08",
+      "text": "I know I'm rushing this part of the conversation because I see you're checking your watch, but I want to stop for a second. I know you're focused on the mission, but if there is any part of this that you're still uneasy about, please tell me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:12",
+      "text": "I'm not uneasy. I'm just annoyed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:20",
+      "text": "That's a completely fair response. I've taken a shortcut where I should have been thorough, and that's on me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:21",
+      "end_time": "00:04:29",
+      "text": "Just make sure the paperwork is right. I can't have my CMO questioning my meds because someone forgot to read a chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:30",
+      "end_time": "00:04:38",
+      "text": "I will double-check every line of your discharge summary myself before it hits your doctor's desk. I'll be back at 2:00 PM."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language by explicitly stating, 'I know I'm rushing this part of the conversation'."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the second turn, lay language is used, and comprehension is checked twice ('Do you have any questions...?' and 'if there is any part... you're still uneasy about')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I apologize', 'I am very sorry') and takes full personal responsibility without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('incredibly frustrating', 'annoyed') and references the patient's specific concern regarding mission-readiness."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific steps (hard stop, discharge summary, new med), timelines (2:00 PM, 6:00 PM), a patient role (review and sign off), and prevention (digital barrier)."
+    }
+  }
+}

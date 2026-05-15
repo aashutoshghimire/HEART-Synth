@@ -1,0 +1,207 @@
+{
+  "video_id": "vid_0169",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Patel, thank you for coming back in to see me today. I wanted to speak with you about your son's visit last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:16",
+      "text": "Is everything okay? I have a few meetings this afternoon, so I'm hoping this is quick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "I actually need to tell you that we made a mistake during the immunization process. One of the vaccines was drawn up for the wrong weight band, so your son received a dose intended for a heavier child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "I'm sorry, what do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "The dosing for certain vaccines is based on the child's weight. In this case, the dose administered was higher than what was indicated for his specific weight bracket. I am very sorry that this happened. My team and I are responsible for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:03",
+      "text": "Higher dose? Is he going to be okay? He's been a bit fussy since the visit, but I just figured that's normal for a toddler."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:12",
+      "text": "It's understandable that you're worried. The fussiness could be a reaction, though most of the time these over-doses don't cause long-term harm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:28",
+      "text": "I don't know. Honestly, he's had a few health scares before we came to this clinic. Maybe he's just sensitive. This happens sometimes with kids, right? It's probably just his system reacting to the medicine regardless of the dose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:43",
+      "text": "I hear that you're trying to make sense of it, but I want to be clear that this was a clinical error, not just a natural reaction. The amount given was technically incorrect for his size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:54",
+      "text": "But you're saying it's probably fine. If it's a common vaccine, why does the weight even matter that much? It feels like you're overcomplicating a standard\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:01",
+      "text": "It matters because the pharmacological titration is specific to weight to ensure safety and efficacy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:17",
+      "text": "See, that's the problem. You're using words like titration. Is he in danger or not? I just feel like maybe this is just how these things go and you're just following a protocol to tell me something went wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:32",
+      "text": "I can tell you're skeptical about why I'm bringing this up if he seems okay. I realize you've had bad experiences with medical providers in the past, and it makes it hard to trust the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:43",
+      "text": "It does. I read the consent forms, I check the labels. I thought that's what the forms were for, so we wouldn't have these kinds of \"surprises.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:51",
+      "text": "I understand. The error occurred because the syringe was prepared using the parameters for the next weight bracket up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:03:02",
+      "text": "I still think it's more likely that he's just reacting to the shot. My cousin's kid had the same thing and it was just his nature."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:09",
+      "text": "It is possible he is reacting, but we cannot ignore that the dose was too high."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:14",
+      "text": "So what now? Do I need to take him to the ER?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:23",
+      "text": "No, he doesn't need the emergency room. I'll have the attending physician review the chart and we will likely just monitor him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:30",
+      "text": "\"Likely\" monitor? What does that actually mean? What am I supposed to do at home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:37",
+      "text": "Just watch for any unusual fever or swelling. I'll probably get a follow-up call scheduled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:44",
+      "text": "When? Because I'm not just going to wait for a random phone call. I need a plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:54",
+      "text": "I have to go see another patient in a moment, so let's wrap up. I'll check with the attending and someone will reach out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:55",
+      "end_time": "00:04:03",
+      "text": "Wait, you're leaving? You just told me my son was given the wrong dose of medicine and now you're rushing out?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:08",
+      "text": "I'm sorry, I just have a very tight schedule today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:22",
+      "text": "This is exactly why I don't trust this place. You tell me there's a mistake, you can't explain it without using jargon, and then you cut me off when I ask for a plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:23",
+      "end_time": "00:04:30",
+      "text": "I am truly sorry for the error. I just need to coordinate the next step with my supervisor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:31",
+      "end_time": "00:04:37",
+      "text": "I want a written report of exactly what dose he got versus what he should have gotten."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:38",
+      "end_time": "00:04:46",
+      "text": "I can see how that would make you feel more secure. I will put in a request for the records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:47",
+      "end_time": "00:04:51",
+      "text": "I'll be waiting for that email. I'm not leaving this to chance."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('let's wrap up', 'tight schedule') and cuts the patient off to leave."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named early, but the resident uses medical jargon ('pharmacological titration') and never checks for patient comprehension."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language, explicitly takes responsibility for the team, and maintains this accountability throughout."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('worried', 'skeptical') and references the patient's past bad experiences."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan consists of vague steps ('likely just monitor', 'probably get a follow-up call') without specific timelines or prevention strategies."
+    }
+  }
+}

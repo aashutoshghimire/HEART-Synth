@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0232",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Mr. Rivera, thank you for coming in today. I asked to see you because I need to correct some information I gave you about your latest scans. I made a mistake in how I reported your results, and I am very sorry for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:20",
+      "text": "I don't understand. You told me the tumor was smaller."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "I did, and that is where I failed. I told you the tumor had shrunk based on a preliminary look at the images. However, the radiologist, who is the specialist who officially signs off on these reports, has now completed the final review. That final report shows the tumor is actually stable, meaning it hasn't shrunk, but it also hasn't grown. I apologized for giving you the wrong impression before the final check was done."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "Stable. So it's just... staying the same?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:55",
+      "text": "That is correct. It hasn't gotten smaller as I first told you. I want to make sure I'm being clear about this shift in the news. Does that make sense, or can I explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:02",
+      "text": "It makes sense. I just... I felt for a second like things were finally getting better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:12",
+      "text": "I know. It is incredibly difficult to hear that the progress we hoped for isn't there, especially after I told you it was."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:18",
+      "text": "Is this... does this change how you treat me? Because of my situation?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:34",
+      "text": "Your immigration status has absolutely no bearing on the quality of care you receive or how we handle your treatment. We are focused entirely on your health. I am the one who made the error here, and that is something we are addressing internally."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "I just didn't want to cause any trouble."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:50",
+      "text": "You haven't caused any trouble at all. If anything, I am the one who caused a problem by giving you incorrect information. I take full responsibility for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:54",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:05",
+      "text": "I can see you're being very quiet. I imagine this feels like a bit of a blow, especially after the hope I gave you the other day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "I just don't want it to get bigger."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:22",
+      "text": "That is the primary goal for all of us. While it didn't shrink, \"stable\" is still a result we can work with. It means the current approach is holding the line."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "So what happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:42",
+      "text": "I want to lay out exactly how we move forward so we are on the same page. First, I am going to schedule a follow-up meeting with the oncology lead for this Friday at 10 AM to review if we should adjust your medication or stay the course. I will call you by Thursday afternoon to confirm if that time still works for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "I can do Friday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:03:02",
+      "text": "Great. Second, I am personally reviewing our communication protocol with my supervisor today. I am doing this to make sure that no patient is ever given preliminary results again until the final signature is on the report. It's a failure in my process that I'm fixing immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "I appreciate that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:15",
+      "text": "Does that plan sound okay to you? Do you feel like you have a clear path for the next few days?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "Yes. I think so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:34",
+      "text": "I want to pause here for a moment. I know this is a lot to process in one sitting. Is there anything else on your mind, or any other questions you have for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:40",
+      "text": "Not right now. I just need to go home and think about it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:56",
+      "text": "Of course. Please take all the time you need. I will be the one calling you on Thursday. If you think of any questions before then, you can call my line directly. I am here to make sure we get this right."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and uses a measured pace that adjusts to the patient's distress."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the first turn, uses lay language ('stable'), and checks comprehension twice ('Does that make sense', 'Do you feel like you have a clear path')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I am very sorry', 'I apologize'), takes full personal responsibility, and maintains accountability throughout."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Names specific emotions ('difficult to hear', 'feels like a bit of a blow') and engages with the patient's fear of the tumor growing."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provides specific next steps with timelines (Friday 10 AM, call by Thursday), includes the patient's role in confirming, and addresses prevention via communication protocol review."
+    }
+  }
+}

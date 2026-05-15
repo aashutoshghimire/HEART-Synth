@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0222",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello, Ms. Anderson. Thank you for meeting with me. I wanted to sit down and talk with you about your CT scan from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:14",
+      "text": "Of course. I was wondering when we would get the final results."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "Right. Well, looking back at the images and the report, there was a mistake. The CT scan showed a pulmonary embolism, which is a blood clot in the lung, but that wasn't included in the preliminary report we received."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:50",
+      "text": "This means the clot was there, but it wasn't flagged. Because of that, the treatment was delayed by eighteen hours. We didn't start the blood thinners until the attending radiologist reviewed the study later. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:00:54",
+      "text": "Yes, it does."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:10",
+      "text": "I know you're a hospital administrator yourself, so you likely know how critical those first few hours are for treatment. To have that window of time pass without the right medication... I can only imagine how unsettling and frustrating it is to hear that the system failed you while you were trusting us with your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:14",
+      "text": "It is disappointing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:28",
+      "text": "I truly hear that. It is a frightening realization to know that a piece of information was sitting right there and was simply missed. It is an incredibly stressful position to be in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:32",
+      "text": "I appreciate you telling me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:39",
+      "text": "The report was issued incorrectly by the radiology department. It was a failure in the reporting process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "Who is responsible for the oversight?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:51",
+      "text": "The error occurred during the preliminary read. The process for flagging urgent findings didn't happen as it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:55",
+      "text": "And what happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:11",
+      "text": "Well, we have you on the heparin drip now. I'm going to check your coagulation levels every six hours for the next two days. I'll be the one coming in to review those labs with you each morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "And for the long term?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:23",
+      "text": "We'll start the oral anticoagulant transition tomorrow. I'll bring the discharge paperwork for you to review before you leave."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "I'll need to see the formal incident report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:36",
+      "text": "I can look into how to get a copy of that for you. I'll check with the risk management team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:47",
+      "text": "I just want to make sure you feel okay with the current plan for the medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "I'm fine for now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:57",
+      "text": "I understand. I'll be back in a few hours to check your vitals."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and maintains a regulated pace throughout the interaction."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, uses lay language ('blood clot'), checks comprehension twice, and provides no false reassurance."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to the 'radiology department' and 'the system'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('unsettling', 'frustrating', 'frightening', 'stressful') and references the patient's role as an administrator."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Specific next steps and timelines are provided (labs every six hours, transition tomorrow), but there is no named patient role in the plan and no mention of prevention."
+    }
+  }
+}

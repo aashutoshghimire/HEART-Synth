@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0370",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Mrs. Al-Rashid, thank you for agreeing to speak with me. I have some very difficult information to share regarding the complications you experienced over the last two days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:16",
+      "text": "I just want to go home. Is the bleeding finally stopped?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:31",
+      "text": "It has slowed, but the reason this happened is because a mistake was made with your medication. You were given a dose of an anticoagulant\u2014the blood thinner\u2014that was ten times higher than what you should have received."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:36",
+      "text": "Ten times? I do not understand. Why would that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "The wrong dose was entered into the system and then administered. Because the dose was so high, your blood could not clot, which is why you had the internal bleeding that required the emergency surgery. Does that make sense, or can I explain that part differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:00",
+      "text": "I... I trusted the hospital. I thought you were the experts. I feel very strange. I cannot stop shaking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:15",
+      "text": "I can see how shocking this is. It is completely overwhelming to find out that the place where you came for help is where this happened. I can see the distress this is causing you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:23",
+      "text": "Will I be okay? Will I be able to walk again normally? I can't feel my left leg properly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:39",
+      "text": "The bleeding caused some damage to the nerves in your spine. This means you may have permanent weakness in your leg. We are doing everything we can to manage it, but the prognosis for a full recovery is uncertain."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:49",
+      "text": "This cannot be true. Please tell me you are mistaken. I have children. I have a home to run. This is a mistake, yes?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:05",
+      "text": "I know this is devastating. To hear that your life might change in this way is just an incredible burden to carry. I am sitting here with you, and we are going to figure out the next steps together."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "Who did this to me? Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:18",
+      "text": "The error happened within the medical team's process. There were failures in how the medication was checked and given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:26",
+      "text": "But you are the doctor. You are the one in charge. How could this happen in your ward?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:37",
+      "text": "It is a failure of the safety checks. We are reviewing the logs to see exactly where the breakdown occurred so it never happens to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:46",
+      "text": "My husband will be so angry. I don't know how to tell him that I might be disabled because of a pill."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:57",
+      "text": "It is heartbreaking that you have to carry this news to your family. I can only imagine the fear and the anger you both feel right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:02",
+      "text": "What do we do now? Am I just staying here forever?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:18",
+      "text": "We have a specific plan for the next few days. First, you will start intensive physical therapy tomorrow morning at 9:00 AM. A therapist will come to your room to assess your leg. Your role is to tell them exactly where you feel the numbness."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "And after that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:33",
+      "text": "After the assessment, I will schedule a meeting with the neurology consultant for Thursday afternoon. They will give us a more precise timeline for your recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "Can I go home soon?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:50",
+      "text": "I actually have to get to a ward round right now, so we need to wrap this up quickly, but I will be back in two hours to check on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:57",
+      "text": "Wait, you are leaving? I have more questions. What about the cost? What about the\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:08",
+      "text": "I really must go, but I will bring the patient advocate with me when I return so we can discuss the administrative side. I'll be back shortly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('wrap this up quickly', 'I really must go') while the patient is still asking questions."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and a comprehension check was performed ('Does that make sense?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') was used, and responsibility was deflected to 'the medical team's process' and 'safety checks'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('shocking', 'overwhelming', 'devastating', 'fear and anger') and referenced the patient's specific burdens regarding her children and home."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided specific steps (PT, neurology meeting) with timelines (tomorrow 9am, Thursday afternoon), a named patient role (reporting numbness), and addressed prevention (reviewing logs)."
+    }
+  }
+}

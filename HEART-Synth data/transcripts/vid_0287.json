@@ -1,0 +1,171 @@
+{
+  "video_id": "vid_0287",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Good afternoon, Mrs. Hernandez. How are you feeling after the surgery?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:08",
+      "text": "Estoy bien, doctor. I feel a little tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:20",
+      "text": "That is normal. Your daughter told me you were feeling a bit sluggish. Now, I need to discuss something with you both regarding the blood transfusion you received yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:21",
+      "end_time": "00:00:24",
+      "text": "\u00bfQu\u00e9 pas\u00f3? Did something happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:40",
+      "text": "Yes. There was a mistake. Before the transfusion, we are supposed to verify your blood type one last time to ensure a perfect match. We skipped that verification step. Because of that, you received blood that was compatible, meaning it was safe to give you, but it wasn't the ideal match for your specific blood type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:44",
+      "text": "I don't understand. Is it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:00:55",
+      "text": "It is not dangerous in your case, but it is a failure in our protocol. Does that make sense so far, or should I clarify anything?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:00:59",
+      "text": "My daughter, can you explain?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:08",
+      "text": "I'm sorry. I am the one responsible for overseeing that process, and I missed the check. I apologize for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:15",
+      "text": "I feel very scared now. I thought everything was fine. I just wanted to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:24",
+      "text": "I understand, but let's look at the clinical data. The blood was compatible, so there is no immediate risk of a reaction."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:30",
+      "text": "But you said it was a mistake. Why did this happen? I trusted you\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:43",
+      "text": "Like I said, the verification step was missed. Look, I have to go check on another patient in a few minutes, so I want to make sure we cover the plan quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:49",
+      "text": "But I am shaking. I don't know if I can trust the medicine now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:54",
+      "text": "Again, I understand, but the facts are that you are stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:02:02",
+      "text": "I feel like I am just a number here. I was so worried about the surgery and now this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:18",
+      "text": "We have a very clear path forward to make sure you are okay. First, I have already ordered a set of blood tests for 8:00 AM tomorrow to monitor your hemoglobin and look for any delayed reactions. I will personally review those results by 10:00 AM and come back to this room to give you the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:38",
+      "text": "If those labs are normal, which I expect them to be, you will be cleared for discharge on Thursday. Your role is simply to tell us if you feel any new chills or itching. We have also filed an internal incident report today, and our department head is changing the checklist requirement for all residents starting Monday so this specific oversight cannot happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "Will the other doctors know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:56",
+      "text": "Yes, the whole surgical team has been briefed. We are documenting the error and the solution in your permanent chart. Do you have any questions about those specific steps or the timing for tomorrow?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "I just feel very sad."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:10",
+      "text": "I understand. But the plan is set. I really have to get to my other patient now, but I will be back tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "Okay. Thank you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language multiple times, stating they have to check on another patient and wanting to cover the plan 'quickly'."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the second turn, lay language is used, comprehension is checked twice, and no false reassurance is given."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I'm sorry', 'I apologize'), takes personal responsibility, and maintains it under pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but does not name specific emotions or engage with the patient's emotional bids, instead redirecting to facts."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific next steps with timelines (8 AM labs, 10 AM review), defines the patient's role (report chills/itching), and addresses prevention (changing the checklist)."
+    }
+  }
+}

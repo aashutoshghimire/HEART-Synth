@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0054",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mrs. Fitzgerald, thank you for seeing me. I wanted to sit down and talk with you about your recovery and a mistake that happened with your monitoring after your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:21",
+      "text": "A mistake? The doctor this morning said everything was just a bit slow to start, that it was normal for my age."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:37",
+      "text": "I know you were told it was normal, but that wasn't accurate. The error was that we did not check your vital signs, specifically your blood pressure, as often as we were supposed to. Because of that, your blood pressure stayed too low for two hours before we caught it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:51",
+      "text": "Oh dear. I felt so dizzy. I tried to tell the nurse but she just told me to sleep. Arthur always told me to speak up, but I didn't want to be a bother."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:02",
+      "text": "I understand. To make sure I've explained this clearly, do you understand that the problem was we missed the scheduled checks on your blood pressure?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:11",
+      "text": "I think so. I just... I can't believe this. My heart is racing. I feel so alone in this bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:15",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:26",
+      "text": "I just keep thinking about how Arthur would have known something was wrong. He always knew. He would have fought for me. I feel so small here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:31",
+      "text": "I understand that this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:36",
+      "text": "Is it my fault? Did I do something wrong during the surgery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:48",
+      "text": "No, this was not your fault at all. I am sorry for any confusion this caused. The ward was very busy that afternoon and the checks were missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:57",
+      "text": "Busy. I'm just a number then. My blood pressure was low for two hours and you were just too busy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "It was a failure in our process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:08",
+      "text": "I feel like I can't trust anyone in this building. What if it happens again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:17",
+      "text": "Does that make sense so far, or is there a part of the timeline you want me to go over again?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "No, the timeline is clear. The part that isn't clear is why I should trust you now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I can see you're upset."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:41",
+      "text": "Upset? I'm terrified. I'm seventy-four years old and I'm lying here wondering if I'm going to wake up because someone forgot to look at a monitor. Arthur would be so angry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:57",
+      "text": "I understand. Regarding the next steps, I have updated your chart so that the nurses must manually sign off on your blood pressure every hour for the next twenty-four hours. I will personally review those logs at 8:00 AM tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "And if it happens again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:16",
+      "text": "I want you to be part of this too. If you feel that dizziness again, I want you to press your call button and specifically tell the nurse that you want your blood pressure taken immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "I don't want to be a nuisance."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:36",
+      "text": "You are not being a nuisance. It is your right to have these checks. We will also be filing an incident report to change how these alerts are tracked on the unit so other patients don't experience this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "I just wish he were here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:48",
+      "text": "I understand. I'll leave you with this plan for now. I'll check in with you again tomorrow morning."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under pushback, though pacing is slightly rushed by moving to comprehension checks during emotional distress."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error (missed blood pressure checks) is named in the first turn, lay language is used, and comprehension is checked twice (at 00:00:52 and 00:02:09)."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While 'I am sorry' is used, the apology is diluted by an immediate excuse ('The ward was very busy') and a deflection to 'failure in our process'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident relies on generic validation ('I understand') and only names one emotion ('upset') after the patient explicitly stated they were 'terrified'."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific steps (manual sign-offs), a timeline (every hour for 24 hours/8:00 AM tomorrow), a patient role (press call button), and prevention (incident report)."
+    }
+  }
+}

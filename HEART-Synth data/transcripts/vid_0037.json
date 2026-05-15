@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0037",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello Ms. Tremblay. I wanted to come in and speak with you personally."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "I already know what happened. The nurse told me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:25",
+      "text": "I understand you've been briefed. I want to be very clear about this: we marked the wrong site for your excision. We marked your left side when the lesion is on your right. I am incredibly sorry. This was my mistake and I take full responsibility for the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:29",
+      "text": "Right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "Does that explanation make sense to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:38",
+      "text": "It makes sense. You put the mark on the wrong leg."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:42",
+      "text": "Exactly. It was a failure in my process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:48",
+      "text": "It is a bit concerning that you guys can't tell left from right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "I realize that it's frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:01",
+      "text": "Frustrating isn't really the word. It's a lack of attention to detail. In my line of work, that gets people killed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:05",
+      "text": "I can see why you'd feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:15",
+      "text": "I just want to know why it happened. If you're that distracted, how do I know you won't cut the wrong thing anyway?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:20",
+      "text": "Well, it was a lapse during the marking phase and\u2014"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:27",
+      "text": "I'm not interested in why it happened, I'm interested in whether you're capable of doing the job."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:31",
+      "text": "I hear you. I want to assure you that\u2014"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:35",
+      "text": "Don't assure me. Just tell me the fix."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:51",
+      "text": "Right, sorry. To move forward, we are doing a full timeout reset. I'm going to personally re-mark the correct site right now, and then the circulating nurse and the anesthesiologist will both independently verify the mark against your chart before you leave the holding area. We will do this in the next ten minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:55",
+      "text": "And the actual procedure?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:09",
+      "text": "The procedure itself will go exactly as planned, just on the correct side. You'll just need to keep the new mark visible and speak up if you see anything else that looks off."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:13",
+      "text": "I already did that. That's why I'm still here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "You did. Your catch prevented the error from proceeding."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "I'm not looking for a gold star. I just want the thing off my leg."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:34",
+      "text": "I understand. I have to go check the chart one more time before we start, so let's wrap this up and get you moving."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "You're in a rush now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "I just want to make sure we are efficient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "Typical."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:55",
+      "text": "I'm sorry if it feels that way. I'll be back in two minutes to do the re-marking. Does that sound okay?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "Thanks. I'll be right back."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('let's wrap this up', 'make sure we are efficient') toward the end of the encounter."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once ('Does that explanation make sense to you?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language, took full personal responsibility, and maintained accountability despite the patient's pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident named a specific emotion ('I realize that it's frustrating') and engaged with the patient's concerns about attention to detail."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provided specific next steps (timeout reset, re-marking), a timeline (next ten minutes), a patient role (keep mark visible/speak up), and addressed prevention (independent verification)."
+    }
+  }
+}

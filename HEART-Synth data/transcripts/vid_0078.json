@@ -1,0 +1,171 @@
+{
+  "video_id": "vid_0078",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Mr. Okafor, thank you for coming in today. I also want to thank you for bringing your daughter along. I asked you both to come in because I have some important information to share regarding the developmental screening for your grandson."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:21",
+      "text": "Of course. We've been wondering why we haven't heard anything since that first call."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:32",
+      "text": "This is a difficult conversation to have, and I want to be very direct with you. We made a mistake in how we handled the referral process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "A mistake? What exactly do you mean by that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:51",
+      "text": "After the first appointment was declined, the referral was marked as completed in our electronic system. Because of that, no further follow-up attempts were made. Essentially, the system showed the task as done when it actually wasn't."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:05",
+      "text": "Wait. You are telling me that because we missed one date, the entire process just stopped? I'm a retired teacher, I know how bureaucracy works, but this seems like a significant lapse in care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:14",
+      "text": "I apologize. I am responsible for overseeing these referrals, and I failed to ensure the follow-up occurred. I am very sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:30",
+      "text": "I understand you're apologizing, but I'm more concerned about the time lost. My grandson is at a critical age for these interventions. Do you have any idea how long this has been sitting in the system as completed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:34",
+      "text": "It has been four months since the initial referral."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:45",
+      "text": "Four months. That is a quarter of a year. I feel incredibly frustrated that we trusted the clinic to manage this and it just vanished."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:49",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:58",
+      "text": "Do you actually understand? We were waiting for a phone call that was never going to come because someone clicked a box."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:05",
+      "text": "It is frustrating. Now, to get this moving, I have already called the screening center."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "You've called them? When can we actually get an appointment?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:23",
+      "text": "I have a provisional slot for next Tuesday at ten in the morning. I need you to call my office by tomorrow afternoon to confirm if that time works for your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:34",
+      "text": "Tuesday could work. But what happens if this happens again? How do I know that other things aren't being marked as finished when they aren't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:50",
+      "text": "I am reviewing all pending referrals in my current patient list to ensure no one else was missed. I will also be setting up a weekly manual audit of the screening logs so we aren't relying solely on the software."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:03:00",
+      "text": "That sounds like a start. But I want a written record of this error and the plan to fix it for my own files."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:11",
+      "text": "I can certainly provide that. I will draft a summary of the error and the corrective steps we've taken and send it to your portal by Friday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:16",
+      "text": "Fine. And the appointment? If we confirm tomorrow, is it guaranteed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:25",
+      "text": "Yes. Once you call the office and confirm, I will personally call the specialist to lock in that ten o'clock slot."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:31",
+      "text": "I appreciate the apology, but the loss of time is the real issue here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:40",
+      "text": "I hear you. Now, regarding the appointment on Tuesday, is there anything else you need from me to make that happen?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:47",
+      "text": "No, I think the priority is just getting the child seen. I will call tomorrow."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under pushback, though pacing is slightly brisk toward the end."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly and in lay language, but the resident never performs a comprehension check (e.g., 'Does that make sense?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I apologize', 'I am very sorry'), takes personal responsibility, and maintains accountability despite the patient's frustration."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident uses generic validation ('I understand', 'It is frustrating') but does not name specific emotions back to the patient or deeply engage emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific next steps (appointment Tuesday), timelines (call by tomorrow, portal by Friday), the patient's role (confirming the time), and a prevention plan (manual audits)."
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0117",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:14",
+      "text": "Mr. Hassan, thank you for coming back into the room with your brother. I asked to see you both because I need to discuss a mistake that was made with the monitoring of the baby's heart rate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:15",
+      "end_time": "00:00:18",
+      "text": "Here we go. What is it this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:34",
+      "text": "I am very sorry to tell you that we misread the heart rate tracing earlier. There were decelerations, which are drops in the baby's heart rate, and I incorrectly categorised them as normal. It took another two hours for a second doctor to review the strip and realize it was actually more serious. I am deeply sorry that this happened and I take full responsibility for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:43",
+      "text": "My brother told me the baby looked fine, but now you're saying you missed something for two hours. Two hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:44",
+      "end_time": "00:00:49",
+      "text": "That is correct. It was a failure in my assessment of the monitor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:01:05",
+      "text": "I am so tired of this. Every time I come into a hospital, something goes wrong. It's always a mistake, or a glitch, or a sorry. I can't even trust that the people in this building know how to do their jobs."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:21",
+      "text": "I can hear how exhausted and cynical you feel right now. When you've had so many bad experiences in the past, a mistake like this doesn't just feel like a clinical error, it feels like a pattern of failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:28",
+      "text": "Exactly. Because it is. What actually happened to the baby because you weren't paying attention?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:44",
+      "text": "Because the second doctor caught it and we intervened, the baby is stable now, but the delay was unacceptable. Just so I'm sure I've explained this clearly, do you understand what I mean by the heart rate decelerations and the timing of the error?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:51",
+      "text": "Yeah, you missed the drops in the heart rate for two hours. I get it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:01:58",
+      "text": "I appreciate you confirming that. I know an apology doesn't undo the anxiety of those two hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:05",
+      "text": "It doesn't. Now what? Do we just sit here and hope you don't miss something else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:21",
+      "text": "I want to be very specific about how we are moving forward to make sure you and the baby are safe. First, I have requested that a senior consultant reviews every single tracing for the rest of this admission. That starts immediately. Second, we are scheduling a formal review of the baby's current status with the neonatologist at ten o'clock tomorrow morning, and I want both of you in that meeting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "And who is actually watching the monitor right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:41",
+      "text": "The nursing staff and the on-call registrar are monitoring the baby. To keep you in the loop, we will give you a written update on the baby's vitals every four hours. I will also provide you with a written summary of this error by the end of the day, which you can keep for your records or share with your own legal or medical advisors."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:48",
+      "text": "I've heard about the reviews before. They usually just happen in a meeting and nothing changes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:04",
+      "text": "I understand that skepticism. To make sure this actually leads to a change, I am filing an incident report today. I will give you the reference number for that report so you can track the investigation into why my initial reading was wrong and what the hospital is changing in its training to prevent this from happening to someone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "You're actually going to give me the report number?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:17",
+      "text": "Yes, I will have that for you by five p.m. today. I will come back into the room myself to deliver it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:22",
+      "text": "Fine. I just... I can't believe this is happening again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:28",
+      "text": "I know. It is incredibly unfair that you are in this position again."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows patient to express frustration without interruption, remains regulated under pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the first turn using lay language, but comprehension was checked only once (at 01:29)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language, takes full personal responsibility, and maintains accountability throughout the interaction."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('exhausted', 'cynical') and references the patient's shared history of bad experiences."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (consultant review, neonatologist meeting), clear timelines (10am tomorrow, 5pm today), patient role (invited to meeting), and prevention (incident report/training)."
+    }
+  }
+}

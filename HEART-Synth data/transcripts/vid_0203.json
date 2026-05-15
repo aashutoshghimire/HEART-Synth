@@ -1,0 +1,141 @@
+{
+  "video_id": "vid_0203",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mrs. Hernandez, Ms. Hernandez, thank you for coming back into the room. I want to talk to you about what happened with your mother's care today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "\u00bfQu\u00e9 pas\u00f3? What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:28",
+      "text": "To put it simply, we made a mistake. When your mother first arrived, the staff categorized her symptoms as low urgency. Because of that, we didn't get her to the imaging scan quickly enough."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "Why? She couldn't even speak right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "It was a triage error. We didn't recognize the stroke symptoms immediately, and that delay meant we missed the window of time to give her the clot-busting medication. I am sorry. The medical team, including myself, is responsible for this failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:59",
+      "text": "But you told us she was okay while we waited. We waited for three hours. My mother is not speaking now. She is so scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:05",
+      "text": "I can see how frightening and frustrating this is for both of you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:13",
+      "text": "It is more than frustrating. She might never walk again because you were slow. I feel so angry that\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:22",
+      "text": "Now, just to make sure I've explained the medical part clearly, do you understand why the medicine couldn't be given now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:29",
+      "text": "She was saying we were waiting for the test and then it was too late."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:33",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:45",
+      "text": "I just don't understand how you can miss a stroke. My mother is sixty-seven, she is not a child, but she is very fragile. If we had just\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:54",
+      "text": "I have to go check on another patient in a moment, so let's wrap this up and get to the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:01:59",
+      "text": "Wait, you are leaving? We are talking about my mother's life!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:15",
+      "text": "I am staying on the case, I just have a very tight schedule. But I want to be very clear about what happens next. First, I have already scheduled a consultation with the neurology specialist for 10:00 AM tomorrow morning to map out her rehab. Second, I am admitting her to the stroke unit right now so she has 24-hour specialized monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:19",
+      "text": "And the rehab?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:35",
+      "text": "I will be the one coordinating her physical therapy. You will see a therapist in the room by noon tomorrow. Your role right now is to help us monitor her swallowing and let us know if you notice any new weakness. As for how we prevent this, I am filing a formal incident report tonight which triggers a mandatory review of our triage process so this doesn't happen to another family. I will give you a written copy of this plan and my direct pager number before I leave the floor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "I still feel like you are rushing us."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:46",
+      "text": "I understand you're upset, but we have a very clear plan for her recovery moving forward."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'tight schedule', 'before I leave the floor') and interrupts the patient's emotional expression."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in the first turn using lay language, and a comprehension check is performed once."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am sorry') and explicitly names the medical team and themselves as responsible without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "While the resident names 'frightening and frustrating' once, they later rely on generic validation ('I understand you're upset') and redirect emotional bids to factual plans."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific next steps with timelines (10:00 AM, noon tomorrow), defines the patient's role (monitor swallowing), and addresses prevention (incident report/triage review)."
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "video_id": "vid_0143",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Mr. Hassan, thank you for coming back to see me. I want to talk to you about why you had to come back to the emergency room last night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:16",
+      "text": "I am just tired. Every time I come here, something is wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:22",
+      "text": "I know this is very difficult. I can see that you are exhausted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:29",
+      "text": "Always the same. My wound is open. I go home, then I come back. Why?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:45",
+      "text": "I have some news that is hard to say. We made a mistake. You were sent home six hours too early. The rules for your surgery say you must stay longer to make sure the wound is safe. We did not follow that rule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:49",
+      "text": "Too early?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:00:57",
+      "text": "Yes. We let you leave before the time was right. Do you understand what I mean by that?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:01",
+      "text": "I understand. You rushed me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:06",
+      "text": "That is correct. You were rushed out. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:11",
+      "text": "Yes. it makes sense. It always makes sense when it is bad."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:18",
+      "text": "I am sorry for any confusion with your discharge. We were very busy on that floor yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:25",
+      "text": "Busy. That is what they always say. I am the one with the hole in my leg."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "I hear you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:38",
+      "text": "I have been here four times this year. Every time, a new mistake. A new \"sorry.\" I don't believe the sorry anymore."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:45",
+      "text": "I know you have had many bad experiences here. This is a very heavy thing to carry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:53",
+      "text": "My leg hurts. I was told I was okay to go. Now I am back in a hospital bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:01:57",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:05",
+      "text": "You understand? You are not the one who had to drive back in the middle of the night."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:14",
+      "text": "So what now? My leg is leaking. What do you do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "We will keep an eye on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "Keep an eye? That is not a plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "We will check the wound and see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "When? Tomorrow? Next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:35",
+      "text": "We will see how it looks over the next bit of time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:40",
+      "text": "I cannot go home again if you just \"see how it looks.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:45",
+      "text": "We will let you know when we have a new update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:50",
+      "text": "I want to know who did this. Who sent me home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:56",
+      "text": "It was a team effort in the ward. The system was moving fast."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "The system. Not a person. Always the system."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "It is a very complicated process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "My pain is not complicated. It is just pain."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "I want to speak to the chief. I don't trust this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "I can look into that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "Do it now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "We will see what we can do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "You are not listening. I am tired of the mistakes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "I know this is a hard moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "It is not a moment. It is my life."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:51",
+      "text": "What is the next step for my leg? Give me a time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:55",
+      "text": "We will wait for the tests."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "And then?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "We will check back with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "This is exactly why I hate this place."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named explicitly in the second turn ('We made a mistake. You were sent home six hours too early'), used lay language, and checked comprehension twice ('Do you understand...?' and 'Does that make sense?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "While a sorry is mentioned, the resident explicitly deflects responsibility to 'a team effort' and 'the system' when asked who was responsible."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('exhausted', 'heavy thing to carry') and engages with the patient's distress."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders ('keep an eye on it', 'see how it looks', 'wait for the tests') with no specific timelines or patient role."
+    }
+  }
+}

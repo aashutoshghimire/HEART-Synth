@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0094",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Okafor, thank you for meeting with me. I wanted to sit down and talk about the portable X-ray we did yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:14",
+      "text": "Of course. I was actually waiting for the results. I assume everything looked okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "This is a difficult conversation to have, and I want to be very clear with you. There was an error in how your X-ray was taken. The equipment wasn't positioned correctly, which meant the image we got was of insufficient quality. We essentially didn't get a clear view of the area we needed to see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:35",
+      "text": "I'm sorry, I don't quite follow. You're saying the image was blurry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:51",
+      "text": "Yes, essentially. Because of the positioning, the image wasn't diagnostic. That means a doctor looked at it and reported it as normal, but the truth is the image wasn't good enough to actually make that call. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:02",
+      "text": "It makes sense, but it\u2019s concerning. If the image was poor, how could anyone report it as normal? That sounds like a significant lapse in the process."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:11",
+      "text": "The image was processed and read through the system, and the result was recorded as normal despite the technical quality being low."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:26",
+      "text": "As a teacher, I always told my students that the process is as important as the result. If the process failed, the result is meaningless. Was this a software glitch or a human error by the technician?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:33",
+      "text": "It was a combination of how the machine was placed and how the image was interpreted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:43",
+      "text": "I feel quite unsettled by this. I came in here trusting that the diagnostics were precise. Now I'm wondering what else has been overlooked."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:58",
+      "text": "It's not just about the X-ray, it's the fact that a \"normal\" result was given when the data didn't actually support that. That's a failure of communication."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:06",
+      "text": "The system manages a lot of images daily, and in this instance, the quality check didn't trigger a repeat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:15",
+      "text": "But who is responsible for that? Was it the person taking the film or the radiologist who signed off on it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "Mistakes happen in a busy hospital environment. There are many moving parts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:26",
+      "text": "That's a very general answer. I'm asking specifically who is accountable for this oversight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "It's a team effort to get these images done."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:37",
+      "text": "I'm not looking for a team answer. I'm looking for an acknowledgment of who failed here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "The process failed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:53",
+      "text": "You're avoiding the question. It feels like you're shielding the staff. If I had made this kind of error in my classroom, I would have owned it immediately."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "I hear that you're frustrated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:04",
+      "text": "Frustrated? I'm concerned about my health. So, what happens now? Do I just hope for the best?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "We will look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "Look into what? Do I need another X-ray?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "We'll see if that's necessary."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:29",
+      "text": "\"We'll see\" is not a medical plan. I want to know exactly what the next step is. Do I need to come back tomorrow? Do I need a different type of scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "Someone will probably send an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:41",
+      "text": "An update via what? An email? A phone call? Who is the person in charge of this decision?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "The attending physician will review the file."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:46",
+      "end_time": "00:03:49",
+      "text": "And when will that happen? Today? Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "Sometime soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:04:08",
+      "text": "This is incredibly vague. I have a high expectation for the quality of care here, but this conversation is leaving me with more questions than I started with. I want a timeline and a specific action plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:12",
+      "text": "The team is working on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:13",
+      "end_time": "00:04:17",
+      "text": "That doesn't tell me if I'm safe or if I've been misdiagnosed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:21",
+      "text": "I'm sure it will be fine."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:22",
+      "end_time": "00:04:28",
+      "text": "Please stop telling me it will be fine and start telling me what the corrective action is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "We'll keep you posted."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "The resident shows defensive escalation and dismissiveness under pushback, particularly with phrases like 'I'm sure it will be fine' and 'The team is working on it' in response to direct concerns."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn using lay language ('insufficient quality'), and comprehension was checked once ('Does that make sense so far?'), but the resident provided false reassurance at the end ('I'm sure it will be fine')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was consistently deflected to 'the system', 'the process', and 'the team'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident used generic validation ('I understand', 'I hear that you're frustrated') but failed to engage with the patient's specific emotional bids regarding trust and health concerns."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague responses such as 'We'll see if that's necessary', 'Sometime soon', and 'We'll keep you posted'."
+    }
+  }
+}

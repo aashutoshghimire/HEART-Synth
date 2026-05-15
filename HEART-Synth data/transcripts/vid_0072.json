@@ -1,0 +1,309 @@
+{
+  "video_id": "vid_0072",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Chen, thank you for coming in. I need to tell you something about the biopsy results from last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Is it bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:27",
+      "text": "Yes. There was a mistake in the pathology lab. Your tissue sample was mislabelled. This means the cancer diagnosis you were given last Tuesday actually belongs to another patient. You do not have that cancer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "I don't... what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:42",
+      "text": "The lab mixed up the bottles. The report that said you had a tumor was for someone else. Does that make sense to you so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:47",
+      "text": "I thought... I told my daughter. I told her I was dying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:00:57",
+      "text": "I understand. But to be clear, the result was wrong. The labels were swapped. Do you understand that the diagnosis was a mistake?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:04",
+      "text": "Why? How can they do that? My life... I have been crying for three days."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:11",
+      "text": "It was a processing error in the lab. The system for labeling the slides failed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:17",
+      "text": "I am so scared. Is it still there? Maybe the other one is mine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:21",
+      "text": "No, the records show the sample was simply swapped."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:26",
+      "text": "I can't breathe. I can't... I feel like my heart is stopping."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:31",
+      "text": "But the good news is that you don't have the disease."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:44",
+      "text": "But I was so sure. I already started thinking about the end. I am just an old man, but I have my grandkids. I thought I would never see them grow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:49",
+      "text": "Let's look at the facts here. The pathology report was incorrect."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:53",
+      "text": "I feel sick. I feel like I am shaking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:01:57",
+      "text": "It's just that the lab made a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:05",
+      "text": "Did anyone else know? My daughter, she was so sad. We were talking about the hospital and the medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "The lab has flagged the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:18",
+      "text": "I don't know what to do. I am so confused. I can't believe this. Is it really gone? Am I okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "The test that said you had cancer was wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:27",
+      "text": "I just want to go home. I can't think. Everything is spinning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:34",
+      "text": "I have to go to another appointment in a few minutes, so we need to move forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "Wait. What happens now? Do I need more tests?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:43",
+      "text": "We will probably need to do another biopsy to be sure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:51",
+      "text": "Another one? I can't do that again. The needle, the waiting. I can't go through the waiting again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "It's the only way to be certain."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "When? When do I know for sure?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "We will look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:11",
+      "text": "But you said I don't have it. Now you say another test. I don't understand. You are confusing me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:18",
+      "text": "The first result was wrong because of the label. We just need a clean sample."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:24",
+      "text": "Will you call me? My daughter is at work. I need to tell her."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:29",
+      "text": "Just stay tuned for an email or a call from the office."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:37",
+      "text": "An email? I don't check email. I told you. I don't use those things. Please, just tell me when."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "We will be in touch."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:51",
+      "text": "I am so frightened. I feel like I can't trust any of this. How can you mix up a person? I am a person."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:55",
+      "text": "These things happen in large hospitals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:04:01",
+      "text": "My daughter is going to be so angry. We spent all weekend praying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:06",
+      "text": "Let's wrap this up so I can get to my next patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:12",
+      "text": "I'm not finished. What about the other person? The one who has my sample?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:16",
+      "text": "That is being handled by the administration."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:17",
+      "end_time": "00:04:20",
+      "text": "I just feel... empty. I thought I was dead."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "We'll see what the next steps are."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:28",
+      "text": "Please. Just tell me one thing. Am I healthy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:33",
+      "text": "We will find out once we get the new results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:34",
+      "end_time": "00:04:37",
+      "text": "I don't want to wait anymore."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "I really have to go now. We'll send word."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to go to another appointment', 'Let's wrap this up', 'I really have to go now')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, lay language used, and comprehension checked twice ('Does that make sense to you so far?', 'Do you understand that the diagnosis was a mistake?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language used and responsibility is deflected to the lab and the hospital system."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids regarding fear and grief are consistently met with factual redirection or dismissiveness."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Plan consists only of placeholders ('We will look into it', 'stay tuned', 'we'll send word') with no timelines or patient role."
+    }
+  }
+}

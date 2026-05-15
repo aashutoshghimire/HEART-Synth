@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0235",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Good afternoon, Mr. Mbeki. Thank you for coming back in to see us today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:15",
+      "text": "Good afternoon. I'm hoping we can get this sorted quickly. I have a delivery arriving at the shop tomorrow that I need to oversee."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:28",
+      "text": "I understand you're on a tight schedule. Before we go over the next steps, there is something very serious I need to discuss with you regarding your care. We made a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "I am very sorry, but our team reviewed the wrong MRI scan before we decided on the surgical approach for your back. Two different patients' scans were saved under the same identification number in our system, and we looked at the other person's images instead of yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:53",
+      "text": "You're telling me you planned a surgery based on someone else's body?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:01:03",
+      "text": "Yes, that is exactly what happened. I am deeply sorry. We are responsible for this error, and it is completely unacceptable that this occurred."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:17",
+      "text": "This is unbelievable. I've spent three weeks preparing my business for this absence. I've hired a temporary manager. I've taken a loan to cover the overhead. Now you're telling me the plan was wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:32",
+      "text": "I can hear how frustrating and overwhelming this is, especially with the financial pressure and the effort you put into arranging cover for your shop. It is incredibly unfair that this has added to your stress."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:36",
+      "text": "How does this even happen in a modern hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:48",
+      "text": "It was a failure in how the images were filed and a failure by our team to verify the images against your charts. There is no excuse for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:56",
+      "text": "So, what now? Does this mean I don't need the surgery? Or that I need a different one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:06",
+      "text": "We have now correctly identified your actual scan. To make sure I'm explaining this clearly, do you understand why the original plan was incorrect?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "Yes, because you were looking at a stranger's MRI."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:26",
+      "text": "That's correct. Based on your actual images, the issue is in a different segment of your spine than we originally thought. The good news is that the surgery is still the right path, but the specific approach we take will change."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:34",
+      "text": "So I still have to go under the knife? I still have to be away from my business?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:50",
+      "text": "Yes, the recovery time will be similar to what we discussed, but the target area is different. I know that doesn't make the mistake any easier to swallow, especially when you've already committed your time and money to this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:57",
+      "text": "I just can't believe I almost went in there for a surgery that wouldn't have fixed anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:08",
+      "text": "That is a frightening thought. I realize that this breaks the trust you placed in us, and I am truly sorry for the anxiety this causes you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:15",
+      "text": "I'm just thinking about my ledger. Every day I'm not at the shop is a loss."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:30",
+      "text": "I hear you. It's not just about the medical side; it's about your livelihood. I want to make sure we do everything right from this point forward to ensure there are no further delays or errors."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:36",
+      "text": "Well, what is the plan then? I'm not just leaving here with a \"sorry.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:52",
+      "text": "I completely understand. First, I have already scheduled a meeting with the lead surgeon for tomorrow morning at 8:00 AM to map out the corrected approach. After that, I will call you personally tomorrow by 11:00 AM to give you the new exact date for the surgery. Then, I'm going to give you a direct line to my office so you don't have to go through the main switchboard if you have questions."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "When will I know the date?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:09",
+      "text": "You'll have it by 11:00 AM tomorrow. Your role right now is just to hold off on any further changes to your work schedule until you hear from me tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "Fine. I'll wait for the call."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:27",
+      "text": "I appreciate your patience. I also want you to know that I've filed a formal incident report so the hospital can change how scans are numbered, meaning this cannot happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:28",
+      "end_time": "00:04:35",
+      "text": "I don't care much about the other people right now. I just care about my back and my shop."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:36",
+      "end_time": "00:04:44",
+      "text": "That is entirely fair. Your health and your business are the priority here. I'm going to move quickly on this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "I hope so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:04:59",
+      "text": "Wait, before you go, I just want to check one more time\u2014is there any part of the mistake or the new plan that feels unclear?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:00",
+      "end_time": "00:05:06",
+      "text": "No, it's clear. You messed up the scan, you're fixing the plan, and you're calling me tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:07",
+      "end_time": "00:05:11",
+      "text": "That is correct. I will speak with you tomorrow at 11:00 AM."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated under pushback, and allows the patient to fully express their frustration without rushing."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error is named in the second turn, lay language is used throughout, and comprehension is checked twice (at 01:57 and 04:49)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language multiple times and explicitly states 'We are responsible for this error' without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frustrating and overwhelming', 'frightening thought') and references the patient's specific concerns regarding his business and livelihood."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific next steps with timelines (8:00 AM meeting, 11:00 AM call), defines the patient's role (hold off on schedule changes), and addresses prevention (incident report for scan numbering)."
+    }
+  }
+}

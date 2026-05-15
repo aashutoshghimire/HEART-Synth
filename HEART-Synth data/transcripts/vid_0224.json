@@ -1,0 +1,261 @@
+{
+  "video_id": "vid_0224",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Mrs. Al-Rashid, please come in. Thank you for coming back to see us today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:11",
+      "text": "Thank you, Doctor. We are just glad to have the little one home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:22",
+      "text": "I want to talk to you about something that happened while your son was in the hospital. There was a mistake made with his medication dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:27",
+      "text": "A mistake? I don't understand. He seemed to be getting better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:28",
+      "end_time": "00:00:43",
+      "text": "I can see this is very sudden. I want to be very clear about what occurred. When we were calculating the dose for his medicine, the weight was estimated instead of being measured on a scale. Because the estimate was too high, he was given a dose that was significantly above the safe limit for a child of his size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:48",
+      "text": "Oh my God. Was he poisoned? Is he in danger now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:59",
+      "text": "It is a very difficult thing to hear. The medication was a higher dose than he should have received. Does that explanation make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:05",
+      "text": "I... I think so. But why would this happen? You are the doctors."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:20",
+      "text": "The weight was guessed rather than measured. In pharmacy terms, we call this a dosing error. Essentially, the amount of medicine in his system was too much for his body weight. Are you following me?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:27",
+      "text": "Yes. But my son... is he okay? You are not telling me if he is okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:32",
+      "text": "His current vitals are stable and the medication has cleared his system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:39",
+      "text": "I feel sick. I trusted you. I thought everything was handled correctly. I cannot believe this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:48",
+      "text": "I just want to know why this happened to my baby."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:53",
+      "text": "The medication was administered based on an incorrect weight estimate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:02",
+      "text": "Do you know how scary that is? My heart is beating so fast. I cannot stop thinking about him in that bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "It is a serious situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:11",
+      "text": "Does this happen often at this hospital? Who did this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:16",
+      "text": "The process for verifying weight was not followed correctly in this instance."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:23",
+      "text": "I don't understand why you are talking about processes. I want to know if you are sorry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "The error was made during the admission process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:35",
+      "text": "You are not listening to me. My son almost had a disaster because of a guess? A guess?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "It was an estimate of the weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:49",
+      "text": "I feel like I am dreaming. I don't know what to do. Should I be taking him back to the emergency room right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "He is stable now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:58",
+      "text": "But what happens next? How do we know he is truly safe?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "We will keep an eye on him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "When? How? Do I call someone?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:11",
+      "text": "We can see how he does over the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:21",
+      "text": "That is not a plan. I need to know exactly what I am supposed to do. Is there a test? A blood draw?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "We will look at the charts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:34",
+      "text": "I cannot go home just hoping he is fine. You are the doctor, tell me the plan for my son."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "We will monitor the situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:46",
+      "text": "I don't understand you. You tell me a terrible mistake happened and then you tell me to just wait?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "The medical facts are that he is currently stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:56",
+      "text": "I am shaking. I just want to know that this will never happen again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "The system is being reviewed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:08",
+      "text": "I don't care about the system. I care about my son. What is the very next thing that happens?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:12",
+      "text": "We will stay in touch."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident allows the patient to finish their turns and does not interrupt, though the pacing does not meaningfully adjust to the patient's increasing distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the second turn, lay language is used, and comprehension is checked twice ('Does that explanation make sense so far?' and 'Are you following me?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is deflected to 'the process' and 'the system'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident uses only generic validation ('I understand') and consistently meets emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders ('we will keep an eye on him', 'we will stay in touch') with no specific steps, timelines, or patient roles."
+    }
+  }
+}

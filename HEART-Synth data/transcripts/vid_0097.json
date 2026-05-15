@@ -1,0 +1,273 @@
+{
+  "video_id": "vid_0097",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello Mr. Chen. Thank you for coming back in to see me today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "Hello doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:25",
+      "text": "I want to talk about why your symptoms have come back. There has been a mistake with your medicine. The antibiotic you took was the right kind and the right strength, but the prescription was written for only seven days instead of fourteen. You did not get the full amount of medicine needed to kill the infection."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:29",
+      "text": "Seven days?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:43",
+      "text": "Yes. You took seven days of pills, but your body needed fourteen days to get rid of the germs. Because it stopped too early, the infection came back. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:47",
+      "text": "I took all the pills. The bottle was empty."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:02",
+      "text": "You did exactly what you were supposed to do. You followed the instructions perfectly. The mistake was in how the prescription was written by the clinic. Do you understand why you are feeling sick again?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "I think so. Not enough medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:10",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:15",
+      "text": "I felt better. Then I felt bad again. I was worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:25",
+      "text": "I can see you looking at the floor. It is very difficult to feel like you are getting healthy and then have it disappear."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:30",
+      "text": "I cannot go back to work yet. My wife is tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:38",
+      "text": "It is frustrating to have this happen when you are trying to get back to your normal life."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:42",
+      "text": "How did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:55",
+      "text": "We are still looking into the exact details of how the error occurred in our system. We are doing a full review now to find out why the duration was wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "Was it me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:04",
+      "text": "No. It was not you. The error happened here at the clinic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:08",
+      "text": "I do not understand why the doctor did this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:13",
+      "text": "It is a very serious matter that the prescription was incorrect."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "I am still sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:22",
+      "text": "I know. It is a heavy thing to deal with."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:35",
+      "text": "Like I mentioned, we are investigating the process we used to write the prescription to make sure it does not happen again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "It is a big mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:44",
+      "text": "The system failed to ensure the correct duration was entered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "I had to take the bus twice today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:55",
+      "text": "That is an extra burden on you and your wife when you are already feeling unwell."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "What now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:10",
+      "text": "First, I am giving you a new prescription today for another fourteen days of the same antibiotic. This will ensure the infection is completely gone this time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "More pills?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:30",
+      "text": "Yes. You will take one pill every morning for the next fourteen days. I want you to keep a calendar and put a checkmark every day after you take the pill. If you miss one, I want you to call me immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:48",
+      "text": "I have also scheduled a follow-up appointment for you in exactly ten days. I want to see you then to confirm the symptoms are gone. That is next Thursday at ten in the morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "Thursday. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:04:08",
+      "text": "Additionally, I am going to personally review every antibiotic prescription for the next month in this clinic to check the durations myself. I am also filing a formal incident report so the hospital board can change how we double-check these medicines."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:12",
+      "text": "You will check others?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:19",
+      "text": "Yes. We need to change the system so this does not happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:20",
+      "end_time": "00:04:23",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:24",
+      "end_time": "00:04:34",
+      "text": "I will print the new prescription now. I will also print a simple picture guide that shows the pill and the time of day to take it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:35",
+      "end_time": "00:04:38",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:39",
+      "end_time": "00:04:46",
+      "text": "We will make sure you get through this second course of medicine. I will see you next Thursday."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, never interrupts, and maintains a steady pace without rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the first turn, lay language used throughout, and comprehension checked twice ('Does that make sense so far?' and 'Do you understand why...?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to 'the clinic' and 'the system'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrating', 'heavy thing') and references specific patient content regarding the wife and the bus."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (new prescription, follow-up in 10 days), patient role (calendar checkmarks), and prevention (personal review and incident report)."
+    }
+  }
+}

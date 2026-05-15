@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0099",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Patel, thank you for coming in today. I wanted to sit down with you and talk about your son's developmental screening process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:18",
+      "text": "Is everything okay? I haven't heard anything since we missed that first appointment last year. I assumed the system just hadn't updated."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:26",
+      "text": "I've spent some time reviewing the charts and I've found that things didn't go quite right with the referral."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:30",
+      "text": "What does that mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:43",
+      "text": "I'm sorry that this happened. There was some confusion in how the appointment was logged in our system, and as a result, the follow-up didn't happen when it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:55",
+      "text": "Confusion? I'm a software engineer, I know how databases work. If I decline one appointment, the ticket doesn't just close unless someone manually closes it. Did someone close it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:07",
+      "text": "I am truly sorry for this mistake. Our team was responsible for ensuring that the referral stayed open until your son was seen, and we failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:20",
+      "text": "My son is almost two. If he has a delay, every month I'm not getting him into therapy is a month he loses. Do you have any idea how terrifying that is?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:21",
+      "end_time": "00:01:36",
+      "text": "I can only imagine how scary it is to think that precious time has been lost, especially when you're trying to do everything right for him. I can see you're shaking, and it makes complete sense that you feel this way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:52",
+      "text": "I knew it. I told my husband that I didn't trust the intake process here. Why should I trust you now? You're telling me \"things didn't go right\" but you aren't actually telling me what happened to the referral."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:00",
+      "text": "You have every right to be skeptical. It's completely understandable that you feel let down by the institution again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:08",
+      "text": "Stop validating me and tell me exactly what happened. Was it a glitch? Did a human ignore it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:15",
+      "text": "There was an issue with the tracking. It was marked as completed in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:22",
+      "text": "That's not an answer. Who marked it completed? Why was it marked completed if he wasn't seen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:31",
+      "text": "I understand you want a specific name or a technical reason. The bottom line is that the process failed. I'm so sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:42",
+      "text": "I'm actually crying because I'm terrified he's behind and you're giving me vague corporate speak. Is he going to be okay? Is the delay permanent?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:55",
+      "text": "I hear the fear in your voice, and I know that not knowing the prognosis right now is the hardest part of this. Please know that I am here with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:03:02",
+      "text": "I don't want to be \"here\" with you, I want my son to be in a clinic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:18",
+      "text": "I understand. Let me tell you exactly how we are going to fix this right now. I have already called the developmental pediatrician's office. I've flagged this as an urgent priority. I am going to personally call them every morning until we have a date."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "And when will that be?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:36",
+      "text": "My goal is to get him an appointment within the next ten business days. I will send you an email by 5:00 PM today confirming the specific date and time they give me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "What am I supposed to do in the meantime?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:55",
+      "text": "I want you to keep a log of any specific behaviors you're worried about so we can hand that directly to the specialist. That way, we don't lose any more time during the actual intake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "I can't believe this is happening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:13",
+      "text": "I know this is an incredibly stressful moment. Listen, I have to go check on a patient in the ICU, but I am going to start those calls the second I leave this room."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "You're leaving? Now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:24",
+      "text": "Yes, but I will be the one emailing you by five. We'll get this sorted."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('I have to go check on a patient in the ICU') while the patient is still in distress."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident relies on platitudes ('things didn't go quite right', 'some confusion') and fails to explain the actual cause of the error despite repeated patient prompts."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language and explicitly states 'Our team was responsible... and we failed to do that' while maintaining accountability under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('scary', 'fear') and references the patient's specific concerns about lost time and the child's prognosis."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides specific next steps with a timeline (email by 5:00 PM, appointment within 10 days) and a patient role (keeping a behavior log), but does not address how to prevent the error in the future."
+    }
+  }
+}

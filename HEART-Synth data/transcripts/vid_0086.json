@@ -1,0 +1,297 @@
+{
+  "video_id": "vid_0086",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello Ms. Patel, I am Dr. Miller. I am one of the residents working on the team taking care of you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Hi. Is the lead doctor coming in?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:23",
+      "text": "He is currently in another patient's room, but I wanted to come in and talk with you as soon as possible about your imaging results from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:24",
+      "end_time": "00:00:27",
+      "text": "Which imaging? The CT scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:28",
+      "end_time": "00:00:33",
+      "text": "Yes, that one. There was an issue with how the results were communicated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:37",
+      "text": "What does that mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:46",
+      "text": "Well, the preliminary report didn't include everything, so there was a bit of a delay in getting the treatment started."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:00:52",
+      "text": "A delay? I've been lying here for nearly a day. What exactly was delayed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:03",
+      "text": "We had some confusion with the radiology report. It took some time for the attending physician to review the images and see the pulmonary embolism."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:10",
+      "text": "Wait. You're saying there was a blood clot in my lung and you guys didn't see it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:17",
+      "text": "It was visible on the scan, but it wasn't in the first report we received."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:21",
+      "text": "So for how long was that just sitting there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:25",
+      "text": "About eighteen hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:34",
+      "text": "Eighteen hours. I was literally telling the nurse I felt short of breath and she told me it was just anxiety."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:45",
+      "text": "I can hear how frustrating that is. It sounds incredibly frightening to feel like your symptoms are being dismissed while something serious is happening inside your body."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:56",
+      "text": "It's not just frustrating. It's typical. This is exactly why I don't trust this process. You people just glance at a screen and assume you know everything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:10",
+      "text": "You've had experiences in the past where you felt let down by the medical system, and now it feels like we are just proving you right. That is a heavy thing to carry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:17",
+      "text": "Exactly. So who messed up? Was it the person reading the scan or the person ordering it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:28",
+      "text": "It was a systemic failure in the reporting process. The preliminary read didn't catch the embolus, and the final review took longer than it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:37",
+      "text": "That is a very corporate way of saying someone failed to do their job. Who is taking responsibility for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "The process was flawed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:52",
+      "text": "I'm not talking about a process. I'm talking about a person. Did a doctor miss a clot in my lung for almost a whole day?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "The images were there, but the report was incomplete."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:02",
+      "text": "You aren't answering me. Did you miss it? Did the radiologist miss it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "There were gaps in the communication between the departments."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:20",
+      "text": "This is unbelievable. You're just dodging. Are you even going to apologize for the fact that I was at risk for another clot or a stroke or whatever because of your gap in communication?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:31",
+      "text": "I understand that you are angry and that you feel unsafe right now. It's completely valid to feel that the trust has been broken here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:42",
+      "text": "Trust was never there to begin with. I want to know exactly what happens now. I'm not signing anything until I see the actual records."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:56",
+      "text": "I completely respect that. I'll make sure you have full access to the imaging reports. In terms of the plan, we have started you on the heparin drip, which is the blood thinner."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "For how long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:13",
+      "text": "We will keep you on this drip for the next four days. I will be checking your blood levels every morning at eight a.m. to make sure the dose is safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "And what happens if another report comes back wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:29",
+      "text": "I will personally review every single one of your labs and scans with the attending physician before they are entered into your chart for the rest of your stay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:30",
+      "end_time": "00:04:33",
+      "text": "I want that in writing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:34",
+      "end_time": "00:04:43",
+      "text": "I can write that down for you right now and put it in your chart. Do you have any other questions about the medication?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:44",
+      "end_time": "00:04:48",
+      "text": "I have a lot of questions. Starting with why this is okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:04:54",
+      "text": "It isn't okay. I know this has been a distressing experience for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:55",
+      "end_time": "00:05:00",
+      "text": "You're very good at saying you understand, but you still haven't said the words."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:01",
+      "end_time": "00:05:06",
+      "text": "I can see that it's important to you that I acknowledge the failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:07",
+      "end_time": "00:05:10",
+      "text": "I'm waiting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:11",
+      "end_time": "00:05:14",
+      "text": "The system failed to alert us in time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:15",
+      "end_time": "00:05:18",
+      "text": "You're doing it again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:19",
+      "end_time": "00:05:22",
+      "text": "I hear you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:23",
+      "end_time": "00:05:29",
+      "text": "Just tell me what the next step is before I change my mind about staying here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:30",
+      "end_time": "00:05:45",
+      "text": "The next step is the blood work at eight tomorrow. Then, we will schedule a follow-up scan for next week to ensure the clot is dissolving. I will be the one to call you with those results directly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated despite significant pushback, and allows the patient to express anger without rushing."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error (pulmonary embolism) is named, but the resident never checks for patient comprehension of the explanation."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language ('I'm sorry' or 'I apologize') and repeatedly deflects responsibility to 'systemic failure' and 'the process'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frustrating', 'frightening', 'angry', 'unsafe') and references the patient's shared history of medical mistrust."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides specific next steps and timelines (heparin for 4 days, blood work at 8am), but does not define a role for the patient in the plan."
+    }
+  }
+}

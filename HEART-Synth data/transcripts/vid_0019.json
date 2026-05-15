@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0019",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mrs. Fitzgerald. I wanted to come in and speak with you personally about what happened this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:13",
+      "text": "The nurse told me. She said there was a mistake. I can't believe this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:24",
+      "text": "I know you've already been told some of this, and I want to be very clear about what occurred. I am sorry that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:31",
+      "text": "My husband... he always handled the medications. He would have caught this. He would have known."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:37",
+      "text": "It sounds like you're feeling really overwhelmed and alone in this right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:46",
+      "text": "I just feel so small in this bed. And then they tell me I'm bleeding inside. Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:00:59",
+      "text": "The error was that a dose of your anticoagulant was ordered at ten times the intended amount. Because of that high dose, you had internal bleeding that required the emergency procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:03",
+      "text": "Ten times? How is that even possible?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:14",
+      "text": "I'm sorry for the confusion and the stress this caused. We were very busy on the ward this morning and the wrong dose was entered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:25",
+      "text": "I just wanted to go home. I can't stay here. Arthur hated hospitals. He used to make jokes about the food just to keep me from crying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:31",
+      "text": "It's incredibly hard to deal with this, especially when you're missing him so much."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:38",
+      "text": "I just don't understand how a doctor can give ten times too much of something."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:45",
+      "text": "It was a mistake in the ordering process that wasn't caught before the medication was given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:49",
+      "text": "Is it going to happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:05",
+      "text": "Here is exactly how we are going to make sure you are safe. First, I have personally updated your medication chart to a double-verification system. This means two separate nurses must sign off on every single dose of your blood thinner before it ever reaches your room."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "I don't know if I trust the charts anymore."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:25",
+      "text": "I completely understand. To add another layer of safety, I want you to be part of the process. Every time a nurse brings you that specific medication, I want you to ask them to show you the dose on the screen. If you see anything that looks different from your usual dose, I want you to tell them to stop immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:30",
+      "text": "I don't feel like I can do that. I'm too tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:44",
+      "text": "You don't have to do it alone. Your daughter is coming in at two o'clock, and I've already spoken to her. She is going to help you monitor the medications during her visits."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "She's been so worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:04",
+      "text": "I'll be back here at four o'clock today to check your blood work and your hemoglobin levels. If those numbers are stable, we will keep you on the current recovery path. If they are low, I'll be coordinating with the hematology team for a possible transfusion tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "What about the bleeding?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:23",
+      "text": "We will perform an ultrasound of your abdomen every twelve hours for the next two days to ensure the internal bleeding has stopped completely. You'll see the technician coming in around 8 AM and 8 PM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "It's just so much."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:38",
+      "text": "I know it is. I will be the one overseeing your care for the rest of your stay to make sure these safety steps are followed perfectly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns, maintains a steady pace during emotional distress, and never interrupts."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in lay language, but there are no comprehension checks (e.g., 'Does that make sense?') throughout the transcript."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While the resident says 'I am sorry', they dilute accountability by attributing the error to being 'very busy on the ward' and a 'mistake in the ordering process'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('overwhelmed and alone', 'missing him') and engages with the patient's emotional bids regarding her husband."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific next steps with timelines (4 PM check, 8 AM/PM ultrasounds), a named patient role (checking the screen), and a prevention strategy (double-verification)."
+    }
+  }
+}

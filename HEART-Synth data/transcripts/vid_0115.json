@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0115",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Ms. Williams, hello. I'm Dr. Aris, one of the residents on the surgical team. I wanted to come in and talk to you about the blood transfusion you received during your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:18",
+      "text": "The nurse already told me something happened. She said it wasn't the right blood."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:34",
+      "text": "I know you've already had a conversation about this, but I wanted to be the one to explain it to you directly. I'm sorry for any confusion that's been caused so far. We were really busy in the unit yesterday and the pre-operative blood type verification was skipped."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:41",
+      "text": "Skipped? How do you just skip that? I'm lying there and you're just... you didn't check?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:53",
+      "text": "You're right, we didn't. It was a failure in our protocol. Because of that, you received a compatible blood type, but not the ideal one for your specific match."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:09",
+      "text": "I can't believe this. I can't even be here. My kids are at home with my sister and she can't do this for long. I'm already terrified about when I can go back to work, and now you're telling me you messed up my blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:25",
+      "text": "It sounds like you're feeling completely overwhelmed, not just with what happened here, but with everything waiting for you at home with your children. I can only imagine how frightening it is to feel like your recovery is being put at risk while you're already worrying about your two jobs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:40",
+      "text": "I just... I can't afford to have a complication. If I stay here longer than I have to, I don't know what I'm going to do. Was the blood poisonous or something? Do I have a reaction?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:56",
+      "text": "Let me explain the clinical side. When we say it wasn't the ideal match, it means it was a different group that the body generally accepts, but it's not the perfect one. It's not poisonous, but it can sometimes cause a mild reaction."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "So am I okay right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:16",
+      "text": "We are monitoring your vitals. I just need to quickly check your chart for the latest labs\u2014actually, looking at these, your white cell count is stable. We just need to keep an eye on you for the next twenty-four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:21",
+      "text": "What if I'm not okay? What if this ruins my recovery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:31",
+      "text": "I know this is scary. I want you to know that I am here to make sure we handle this correctly moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:41",
+      "text": "Who is going to make sure it doesn't happen again? Because \"we were busy\" isn't a good enough reason to gamble with my life."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:52",
+      "text": "You're absolutely right. Being busy is no excuse for skipping a safety check. I realize that doesn't take away the fear you're feeling right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:57",
+      "text": "No, it doesn't. I just want to go home to my kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:11",
+      "text": "I hear that. Your kids are your priority, and getting you back to them safely is ours too. Regarding the plan, we'll do another blood draw tomorrow morning to monitor for any antibodies."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:25",
+      "text": "Once those results come back, we can determine if we need any further treatment. We'll keep you updated on those results by tomorrow afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:30",
+      "text": "What do I have to do? Do I just lay here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:42",
+      "text": "All I need from you is to let us know immediately if you feel any itching or shortness of breath. Just press the call button if anything feels off."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "I just can't believe this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:56",
+      "text": "I understand. It's a lot to take in. I'll go check in with the attending physician and I'll be back in a bit."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but the resident never checked for the patient's comprehension of the explanation."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While a direct apology was used, it was immediately diluted by an excuse ('We were really busy in the unit yesterday')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('overwhelmed', 'frightening', 'fear') and referenced specific patient content regarding her children and jobs."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided specific steps (blood draw), timelines (tomorrow morning/afternoon), the patient's role (report itching/shortness of breath), and addressed prevention by admitting the safety check was skipped."
+    }
+  }
+}

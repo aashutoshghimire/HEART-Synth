@@ -1,0 +1,141 @@
+{
+  "video_id": "vid_0261",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Thanks for coming in today, Mr. Lindqvist. I wanted to sit down with you because I found something in your son's chart that we need to address."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:20",
+      "text": "Is this about the developmental screening? Because I've been checking my phone and I haven't heard a word from the specialist in two months."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "That is exactly what I want to talk about. I looked into the records and it turns out the referral for the screening was marked as completed in our system, but it actually wasn't. Because the first appointment was declined, the file was closed off without any further follow-up being attempted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:50",
+      "text": "Marked as completed? Are you kidding me? I told the receptionist I couldn't make that Tuesday slot, not that I didn't want the service. You just checked a box and forgot about my kid?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:51",
+      "end_time": "00:01:01",
+      "text": "I know this is frustrating. I'm sorry for the confusion here. We've been really shorthanded in the clinic lately and things just slipped through the cracks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:16",
+      "text": "\"Confusion\" is a very polite way of saying clinical negligence. I was a paramedic for fifteen years. I know exactly how a trigger-based system works. Someone consciously clicked \"complete\" on a pending task. Who did that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:25",
+      "text": "It was a mistake made by the team. But look, I can see you're angry, and you have every right to be."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:41",
+      "text": "Angry doesn't even cover it. We are talking about a critical window for early intervention. If he's lagging in a specific domain, we've just wasted two months of potential progress because someone was too lazy to double-check a chart. Do you have any idea how that feels as a parent?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:46",
+      "text": "I can hear how stressed you are about the timeline. But\u2014"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:51",
+      "text": "I'm not \"stressed,\" I'm furious. I trusted you with his care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:01",
+      "text": "I understand, but we have to focus on how to fix this now. Does that make sense? Do you understand how the error happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:10",
+      "text": "I understand it perfectly. You failed to follow up. Now, what happens next? Or is that \"too confusing\" for the system?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:26",
+      "text": "I've already started the process to override the previous entry. I am calling the developmental pediatrician's office today before I leave. I will get your son scheduled for the earliest possible opening, which I expect will be within the next ten business days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "And if they're booked out for another two months?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "I'll push for an urgent slot based on the administrative error. I'll call you personally by tomorrow at 4 PM to give you the exact date and time. On your end, if you happen to see any notification in the portal, just shoot me a message immediately so I can verify it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:51",
+      "text": "I'm not going to be the one doing the tracking for you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:01",
+      "text": "I understand. I'll take the lead on this. But I really have to go to my next appointment now, so let's wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:10",
+      "text": "Wait, you're just leaving? You haven't even told me how you're going to make sure this doesn't happen to someone else."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:23",
+      "text": "I'll bring it up at the staff meeting. But like I said, I have to get to my next patient. I'll call you tomorrow at 4 PM with the appointment."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident interrupts the patient during emotional content (\"But\u2014\") and uses rushing language at the end (\"let's wrap this up\", \"I have to get to my next patient\")."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and the resident checked for comprehension (\"Do you understand how the error happened?\")."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology was offered, but it was immediately diluted by excuses regarding being \"shorthanded\" and things \"slipping through the cracks.\""
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named specific emotions (\"frustrating\", \"angry\", \"stressed\") and acknowledged the patient's right to be angry."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provided specific next steps with timelines (call by tomorrow 4 PM), a named patient role (portal notifications), and addressed prevention (staff meeting)."
+    }
+  }
+}

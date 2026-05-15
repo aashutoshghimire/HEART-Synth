@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0252",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Ms. Patel, thank you for coming back in. I asked your brother to join us so we are all on the same page. I need to be direct with you about why you are back in the emergency department today. We made a mistake. You were discharged six hours earlier than our post-operative protocol requires. Because we sent you home too soon, we didn't catch the wound complications that brought you back tonight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:29",
+      "text": "Wait, what do you mean you made a mistake? I signed those papers. I read the discharge summary and it didn't say anything about a protocol. It just said I was cleared to go."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:45",
+      "text": "I apologize. I am personally responsible for that oversight. I should have verified the timeline against the protocol before signing your release. I am very sorry that this happened and that you are now back in the hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:01:01",
+      "text": "This is exactly why I don't trust this place. I spent an hour reviewing every line of those documents before I left yesterday. You told me I was fine. Now I'm back here with a leaking incision and a fever. Do you have any idea how stressful it is to be told everything is okay and then find out it wasn't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:14",
+      "text": "I understand that is frustrating. To make sure I am being clear, do you have any questions about the timing of the discharge or how it led to the wound issue?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:23",
+      "text": "My question is why it happened. Was someone just lazy? Or did you just decide the rules didn't apply to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:33",
+      "text": "It was a failure in my process of checking the protocol. There is no excuse for it. I take full accountability for that error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:49",
+      "text": "My brother had to miss work today because of this. I feel like I'm just a checkbox to you people. You don't actually care that I'm sitting here in a gown again, terrified that this wound is infected."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:53",
+      "text": "I understand. Let's look at the clinical steps now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:03",
+      "text": "I don't want to talk about steps, I want to know why I can't trust a single word coming out of your mouth."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:14",
+      "text": "I understand. Does the explanation of the six-hour gap make sense to you, or is there a part of the timing that still feels unclear?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:25",
+      "text": "The timing is clear. The incompetence is what's clear. I'm sitting here shaking and you're talking to me like I'm a data point in a study."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:33",
+      "text": "I have to get the nurse in here to start the IV, so let's focus on the recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:44",
+      "text": "Oh, now you're in a rush? I'm the one who's suffered because of your mistake and suddenly you're too busy to acknowledge that I'm upset?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:52",
+      "text": "I'm not trying to rush you, but the medical priority is the wound. We need to start the antibiotics."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:58",
+      "text": "You're just redirecting. You're avoiding the fact that you lied to me yesterday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:14",
+      "text": "I apologize again for the error. My priority now is fixing the complication. Here is the plan. First, we are admitting you back to the surgical floor immediately. Second, the attending surgeon is coming to re-evaluate the wound within the next hour to see if we need to go back to the OR for a washout. Third, I will provide you with a written log of every medication and dressing change for the next forty-eight hours. Your role will be to notify the nurse immediately if you feel any new chills."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:20",
+      "text": "And then what? You just send me home again when you feel like it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:35",
+      "text": "We will not discharge you until the attending surgeon and I both sign off that the wound is stable and the protocol is fully met. I will personally review your chart every four hours until you leave."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:43",
+      "text": "I want this recorded. I want a written apology and a record that this error happened in my file."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:59",
+      "text": "I will ensure the incident is documented in the hospital's reporting system and I will write a formal note in your medical record detailing the discharge error. I'll have a copy of that report ready for you before you leave the hospital this time."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('I have to get the nurse in here', 'let's focus on the recovery') during the patient's emotional distress."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in first turn, lay language used, and comprehension checked twice ('do you have any questions...', 'does the explanation... make sense')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used, resident takes personal responsibility ('I am personally responsible'), and maintains accountability despite patient pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but never names specific emotions or engages with the patient's emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (admission, attending review), timelines (within the hour, every four hours), patient role (notify nurse of chills), and prevention (double sign-off)."
+    }
+  }
+}

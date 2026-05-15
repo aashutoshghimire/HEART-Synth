@@ -1,0 +1,279 @@
+{
+  "video_id": "vid_0282",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hello Ms. Williams. I wanted to come in and talk to you about why you had to come back to the emergency department last night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:17",
+      "text": "I just don't understand why this is happening. I was told I was fine to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "I have the charts here. Looking at the timeline, the post-operative protocol required you to stay for twenty-four hours after the procedure. However, you were discharged six hours earlier than that requirement. Because you left too soon, your wound didn't get the necessary observation time and it started to complicate, which is why you're back here now. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:49",
+      "text": "Wait, so you guys just let me leave too early? I can't believe this. I have two kids at home and I'm barely hanging on with two jobs. I can't keep coming back and forth to the hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:00:53",
+      "text": "I understand that this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:09",
+      "text": "Frustrating? I'm terrified. I don't know who is watching my kids right now or if I'm even going to be able to work next week. I thought the surgery was over and I was on the mend. Now I'm back in a hospital gown and I don't even know if I'm actually okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:17",
+      "text": "It is a lot to handle. Do you have any other questions about the timing of the discharge?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:24",
+      "text": "I just want to know why it happened. Did someone forget? Was I just a number?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:33",
+      "text": "The discharge papers were processed before the full observation window had closed. It was a breakdown in the timing of the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:40",
+      "text": "It feels like nobody is actually saying they're sorry. I've lost two days of work already."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:45",
+      "text": "The medical team is focused on getting the wound stabilized now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:59",
+      "text": "That's not what I asked. I'm sitting here wondering if I can even pick up my children tomorrow and you're talking about stabilization. Do you even realize how much this messes up my life?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "I know it's a stressful situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:08",
+      "text": "It's not just stressful, it's a disaster. I'm alone in this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:24",
+      "text": "I can see you're overwhelmed. Just to be clear on the facts, the error was that the six-hour window was missed. To make sure we're on the same page, can you tell me what your understanding is of why you came back?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:32",
+      "text": "Because you guys sent me home too early and my wound opened up or got infected or whatever."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:42",
+      "text": "That is correct. The wound is not infected, but it did start to separate because we didn't monitor the initial healing phase long enough."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "So what happens now? How long am I staying?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "We'll have to see how the wound looks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:58",
+      "text": "What does that mean? Do I have a date? Do I tell my boss I'm out for another week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:05",
+      "text": "We will keep an eye on it and someone will probably let you know later on."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:12",
+      "text": "Later? I need to coordinate childcare. I can't just wait for someone to maybe tell me something."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "We'll just have to see how things progress."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:28",
+      "text": "This is unbelievable. I come back because of a mistake and now I can't even get a straight answer on when I can go home to my children."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "We are monitoring the site."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:42",
+      "text": "I feel like I'm just being pushed around. First I'm pushed out the door too early, and now I'm being told to just wait."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "I hear that you're worried about your kids."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:55",
+      "text": "Yes, I am! They're everything. And I'm stuck here because of a mistake that shouldn't have happened. Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "There was a lapse in the discharge process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:00",
+      "end_time": "00:04:04",
+      "text": "That's not an answer. Was it you? Was it the nurse?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:08",
+      "text": "The team handled the discharge."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:15",
+      "text": "I just feel like no one is taking ownership. I'm the one suffering the consequences."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:16",
+      "end_time": "00:04:19",
+      "text": "I've explained the error with the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:20",
+      "end_time": "00:04:25",
+      "text": "You've explained the facts, but you haven't actually acknowledged that this was a failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:26",
+      "end_time": "00:04:29",
+      "text": "The situation is being addressed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:30",
+      "end_time": "00:04:34",
+      "text": "I'm just so tired. I'm so tired of fighting for basic information."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:35",
+      "end_time": "00:04:38",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:39",
+      "end_time": "00:04:44",
+      "text": "Is there anyone else I can talk to about the plan for my recovery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:45",
+      "end_time": "00:04:49",
+      "text": "We can check back in once the attending doctor makes their rounds."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:50",
+      "end_time": "00:04:53",
+      "text": "When is that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:54",
+      "end_time": "00:04:57",
+      "text": "Sometime this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:58",
+      "end_time": "00:05:02",
+      "text": "I hope it's soon. I really need to call my babysitter."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated despite significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (discharged six hours early) is named in the first turn, lay language is used, and comprehension is checked ('Does that make sense so far?' and 'can you tell me what your understanding is')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is deflected to 'the protocol', 'the discharge process', and 'the team'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('frustrating', 'overwhelmed', 'worried about your kids') and references the patient's specific concerns."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague responses ('we'll have to see', 'someone will probably let you know later', 'sometime this morning') without a concrete plan or timeline."
+    }
+  }
+}

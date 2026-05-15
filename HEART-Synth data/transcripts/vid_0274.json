@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0274",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Good morning, Mr. Thompson. It is good to see you again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:11",
+      "text": "Oh, hello doctor. I was just wondering about those tests. My daughter said you wanted to talk."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:20",
+      "text": "Yes, I wanted to sit down with you to discuss your recent lab results and some information we gave you last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:21",
+      "end_time": "00:00:27",
+      "text": "Is it about that condition? The one you mentioned? I've been quite worried about it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:28",
+      "end_time": "00:00:38",
+      "text": "I can see that you are worried, and I want to start by saying I am very sorry. Our team made a mistake with your records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:42",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:51",
+      "text": "Well, things didn't go quite right with the paperwork. There was some confusion in the scheduling system regarding the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:56",
+      "text": "I don't understand. Did I have the sickness or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:04",
+      "text": "We had an issue with the files. It seems like the information we discussed last time wasn't actually yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:08",
+      "text": "I don't follow. Was the report wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:13",
+      "text": "There was a mix-up in the system. Some things got switched around."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:22",
+      "text": "Wait, so you told me I was ill, but now you are saying the system had an issue? Am I okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:23",
+      "end_time": "00:01:32",
+      "text": "I am sorry for the stress this has caused you. I know it is frightening to be told you have a medical condition."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:40",
+      "text": "It was very frightening. I couldn't sleep for three days. I told my son I might be leaving soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:48",
+      "text": "It sounds like this has been a very heavy burden for you and your family to carry this week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:55",
+      "text": "It has. But I still don't know what happened. Why did this happen to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:02",
+      "text": "Like I said, the scheduling system just didn't process the data correctly. It was a systemic error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:08",
+      "text": "But who did the error? Did the nurse do it? Did you do it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:21",
+      "text": "The team and I are responsible for ensuring the right results go to the right patient, and we failed to do that in this case. I apologize deeply for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:26",
+      "text": "So, do I have the condition or not? Please, just tell me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:33",
+      "text": "Based on what we know now, you do not have the condition we discussed last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:37",
+      "text": "I don't have it? I'm healthy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:44",
+      "text": "I cannot say you are perfectly healthy, but you definitely do not have that specific illness."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:50",
+      "text": "Oh thank god. Oh, thank goodness. I felt like the world was ending."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:57",
+      "text": "I am glad to hear you feel relieved. I know it is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:03",
+      "text": "But why did you tell me I had it if you weren't sure?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:08",
+      "text": "There was some confusion with the labels on the lab results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:13",
+      "text": "I still don't quite get it. Were the papers swapped?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:20",
+      "text": "We had a bit of a glitch in how the names were listed in the computer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:25",
+      "text": "That sounds like a very big mistake for a hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:30",
+      "text": "I agree. It is not how we want to provide care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:35",
+      "text": "What happens now? Do I have to do more tests?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:44",
+      "text": "Here is what we are going to do. I am going to personally re-order all of your blood work today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "Today? Do I have to stay here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:57",
+      "text": "No, you can stay home. I will have the nurse come and draw your blood in the next twenty minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:02",
+      "text": "Twenty minutes. Okay. And when will I know the real answer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:07",
+      "text": "I will call you personally on Thursday afternoon with the final results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:11",
+      "text": "You will call me? Not my daughter?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:12",
+      "end_time": "00:04:22",
+      "text": "I will call you directly on your home phone, and I will also call your daughter so you both have the news at the same time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:27",
+      "text": "That would be better. I don't like waiting for the mail."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:36",
+      "text": "I understand. Your only job right now is to wait for the nurse to come in and then head home to relax."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:37",
+      "end_time": "00:04:41",
+      "text": "I think I can do that. I just wish this hadn't happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:48",
+      "text": "I completely understand. We are going to make sure we get the correct answers this time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:49",
+      "end_time": "00:04:53",
+      "text": "Will you make sure the other person gets their news too?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:54",
+      "end_time": "00:04:58",
+      "text": "We are working on correcting the records for everyone involved right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:59",
+      "end_time": "00:05:02",
+      "text": "I hope they are okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:03",
+      "end_time": "00:05:06",
+      "text": "Thank you for your kindness, Mr. Thompson."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:07",
+      "end_time": "00:05:10",
+      "text": "You are welcome, doctor. I'll wait for the nurse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:11",
+      "end_time": "00:05:16",
+      "text": "I will be back in a moment to make sure the nurse has arrived."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns, maintains a steady pace during distress, and never interrupts."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident relies entirely on platitudes and vague hedging ('things didn't go quite right', 'confusion in the scheduling system', 'mix-up') without explicitly naming the error (e.g., 'we gave you another patient's results')."
+    },
+    "A": {
+      "score": 2,
+      "justification": "The resident uses direct apology language ('I am very sorry', 'I apologize deeply') and explicitly accepts responsibility for the team's failure."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('worried', 'frightening', 'heavy burden') and references the patient's specific experience of not sleeping and talking to his son."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific next steps (re-ordering blood work), timelines (next 20 minutes, Thursday afternoon), the patient's role (wait for nurse, head home), and addresses prevention (correcting records for everyone)."
+    }
+  }
+}

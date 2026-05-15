@@ -1,0 +1,357 @@
+{
+  "video_id": "vid_0067",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello, Mrs. Al-Rashid. It is good to see you again, although I wish it were under better circumstances. How are you feeling right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:21",
+      "text": "I am very confused, doctor. My wound is open. I felt the pain coming back and then the bleeding started. I do not understand why this is happening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:31",
+      "text": "I know it is very upsetting to be back in the hospital so soon. I have looked at your charts and the wound."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:39",
+      "text": "I did everything you told me. I rested. I was very careful. Why did the stitches not hold?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:47",
+      "text": "There was some confusion with the timing of your discharge yesterday. Things didn't go quite right with the schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:54",
+      "text": "Confusion? What do you mean? You told me it was time to go home. I trusted you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:02",
+      "text": "We had an issue with the coordination of the discharge papers. It happened faster than it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "I do not understand. Did someone make a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:16",
+      "text": "The system for tracking the post-operative hours was not followed perfectly. It is a very busy unit, and the paperwork was processed early."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:25",
+      "text": "But I am here now. My leg is bleeding. I was so happy to be going home. Now I am scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "I understand. We are going to fix this now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:36",
+      "text": "Is this common? For the doctors to be confused about when a patient can leave?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:43",
+      "text": "These things can happen in a large hospital. It is just how the workflow is sometimes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:48",
+      "text": "I just want to know why I am in pain again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:57",
+      "text": "We need to focus on the clinical side of the wound now. I'm going to have the nurse clean the area."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:02",
+      "text": "I feel like I was sent away too soon. Was I?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:07",
+      "text": "There were some discrepancies in the timing of the protocols."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:12",
+      "text": "Please, doctor, just tell me. Did I come home too early?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:17",
+      "text": "It was a bit premature based on the standard window."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "I am very disappointed. I thought the care here was the best. I feel very lost."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I know this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:35",
+      "text": "My daughter said I should have stayed. I told her you are the expert. I believed you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "It is a difficult situation for everyone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:45",
+      "text": "What will happen to me now? Will I have to have the surgery again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:51",
+      "text": "We will see how the cleaning goes. I think we can manage it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "When can I actually go home this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:00",
+      "text": "We'll see how you progress over the next few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:05",
+      "text": "I cannot go back and forth like this. My family is worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "I understand that it is an inconvenience."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:14",
+      "text": "Was it my fault? Did I do something wrong at home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:21",
+      "text": "No, you followed the instructions. It was just a matter of the timing of the exit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "So you are saying the hospital made a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "There was a breakdown in the communication process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "This is very distressing. I have never had this happen before."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "I know. But we are here now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:43",
+      "text": "What is the plan to make sure this doesn't happen again tonight?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:51",
+      "text": "We will keep a close eye on you. Just stay tuned for an update from the nursing staff."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:57",
+      "text": "That is not a plan, doctor. What exactly are you doing for my leg?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:03",
+      "text": "We are going to monitor the drainage. We'll likely just wait and see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "And the discharge? When is that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:13",
+      "text": "I cannot give you a time yet. We will just have to see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:18",
+      "text": "I feel very shaken. I don't know who to trust."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:22",
+      "text": "It's going to be okay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:28",
+      "text": "But you won't tell me what happened. You keep talking about systems and confusion."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "It was a timing issue with the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:36",
+      "text": "Is that the only thing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:37",
+      "end_time": "00:04:40",
+      "text": "Yes, that is the main point."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:41",
+      "end_time": "00:04:44",
+      "text": "I just wanted to be healed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:49",
+      "end_time": "00:04:52",
+      "text": "Will the chief doctor be informed of this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:53",
+      "end_time": "00:04:56",
+      "text": "I'll make a note of it in the file."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "I feel very small in this big building."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:01",
+      "end_time": "00:05:04",
+      "text": "I hear you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:05",
+      "end_time": "00:05:08",
+      "text": "So, what happens next?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:09",
+      "end_time": "00:05:13",
+      "text": "The nurse will be in shortly. We'll just see how it goes."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and maintains a regulated tone despite the patient's repeated pushback."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes and hedging such as 'things didn't go quite right' and 'confusion' without explicitly naming the error until the patient repeatedly prompts them, and never checks for comprehension."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is consistently deflected to 'the system', 'the workflow', and 'communication process'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident uses generic validation like 'I understand' and 'I know this is frustrating' but does not name specific emotions back to the patient."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders such as 'we'll see how it goes' and 'stay tuned', with no specific timelines or patient role."
+    }
+  }
+}

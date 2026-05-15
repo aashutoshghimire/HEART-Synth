@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0331",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Patel, I am Dr. Miller. I'm one of the residents working with the obstetric team today. Thank you for meeting with me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:18",
+      "text": "I'm not sure why I'm here. I was told there was something about my charts that needed to be discussed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:29",
+      "text": "There is. I have come to speak with you because a mistake was made regarding the monitoring of your baby's heart rate during your labor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "A mistake. What kind of mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:49",
+      "text": "While you were in labor, we were tracking the baby's heart rate on a monitor. There were some decelerations, which are dips in the heart rate. These were categorized as normal when they should have been flagged as a concern. Because of that misinterpretation, it took two hours for a second doctor to identify the severity and correct the category. I am very sorry that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:58",
+      "text": "Two hours? You're telling me that for two hours my baby was in distress and you people just... ignored it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:13",
+      "text": "I can see how alarming that is to hear. It is completely unacceptable that it took that long to catch the error. I take full responsibility for the team's failure to read that tracing correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:26",
+      "text": "I've dealt with this before. Different hospital, different city, but it's always the same. You do something wrong and then you give me some scripted apology so I don't sue you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:38",
+      "text": "It sounds like you've had experiences in the past where you felt dismissed or managed, rather than actually heard. That must make this conversation feel even more frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:47",
+      "text": "It does. Because now I'm sitting here wondering if my child has permanent damage because someone couldn't read a graph."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:02:03",
+      "text": "That is a terrifying thought to be sitting with right now. I want to be clear about what we know and what we don't. While the delay occurred, the second clinician intervened and the baby was delivered safely. Does that make sense so far, or can I clarify any of the terminology I used?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:12",
+      "text": "I understand the words. I don't understand how a professional misses a dip in a heart rate for two hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:28",
+      "text": "There is no excuse for it. It was a failure in our review process. I am not going to tell you it was a busy shift or a system glitch, because the bottom line is that we failed to identify a critical change in your baby's status in a timely manner. I am deeply sorry for that failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:36",
+      "text": "So what now? You're just going to put a note in my file and tell me everything is fine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:52",
+      "text": "No. We have a specific plan to ensure we are monitoring for any late effects and to make sure this doesn't happen to anyone else. First, I have coordinated a full pediatric neurology consult for your baby, which will happen tomorrow morning at 10 AM. They will perform a detailed assessment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "And if they find something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:12",
+      "text": "If they find any concerns, we will sit down with you and the specialist to discuss the exact nature of the issue and the treatment plan. Second, I am filing a formal incident report today. This triggers a mandatory peer review where the specific tracing is analyzed by the department head to determine exactly where the training gap occurred."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "I want to see that report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:27",
+      "text": "You absolutely should. I will provide you with the case number today, and I will personally email you the summary of the review findings by Friday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "I'll believe it when I see the email."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:47",
+      "text": "I understand that trust is something I have to earn back, and I know an apology doesn't either fix the error or automatically build that trust. Beyond the neurology consult and the report, is there anything else you need from me right now to feel that your baby is being watched closely?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:54",
+      "text": "I want a different doctor checking the vitals for the rest of the stay. Not you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:55",
+      "end_time": "00:04:07",
+      "text": "That is a completely reasonable request. I will update the nursing staff and the attending physician immediately so that a different provider manages the monitoring for the remainder of your admission."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:11",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:12",
+      "end_time": "00:04:20",
+      "text": "I'll go make those changes now. I will be back in twenty minutes to give you that case number for the report."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident never interrupts, remains regulated under significant pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in turn 2, used lay language ('dips'), checked comprehension ('Does that make sense'), and avoided false reassurance."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used multiple times, took full responsibility for the team's failure, and maintained accountability without excuses."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Named specific emotions ('frustrating', 'terrifying') and engaged with the patient's history of feeling dismissed."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provided specific steps (neurology consult, incident report) with timelines (tomorrow 10 AM, Friday) and addressed prevention (peer review)."
+    }
+  }
+}

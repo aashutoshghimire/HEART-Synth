@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0176",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Lindqvist, thank you for coming back in. I asked you to come in because we discovered a mistake was made during your son's vaccinations earlier today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "A mistake? What do you mean by a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:28",
+      "text": "While we were preparing the doses, the vaccines were drawn up for the wrong weight band. This means one of the vaccines was administered at a dose intended for an older, heavier child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:36",
+      "text": "You're kidding. I was literally standing there. Which one? Give me the exact medication and the dosage error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:50",
+      "text": "It was the pediatric dose of the combined vaccine. We used the dose for the ten to fifteen kilogram bracket instead of the under ten bracket. I am very sorry. This was our mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:01:03",
+      "text": "I spent fifteen years in a rig as a paramedic. I know exactly how a dosing error happens when people are lazy with their charts. You've given my son an overdose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:07",
+      "text": "It is a serious error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:14",
+      "text": "Serious? It's a failure of basic clinical safety! How does this even happen in a well-child clinic?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:20",
+      "text": "We were moving quite quickly between patients and the check was missed. I apologize."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:32",
+      "text": "I don't give a damn if you were busy. My son is a baby, not a conveyor belt. Is he going to have a reaction? Is there toxicity?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:36",
+      "text": "It's understandably frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:45",
+      "text": "Frustrating? I'm beyond frustrated, I'm furious. I trusted you with his health and you can't even get the weight band right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:49",
+      "text": "I know you're angry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:58",
+      "text": "You have no idea. I want to know exactly what the toxicity profile is for the excess amount he received. Now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:14",
+      "text": "I actually have the specific plan for the next few hours ready. First, we have already contacted the toxicology pharmacy to confirm the ceiling dose for this specific agent. Second, I need you to monitor his temperature every two hours for the next twenty-four hours. If it exceeds thirty-eight degrees, you call this direct line immediately. Third, we have scheduled a follow-up blood panel for tomorrow morning at eight to check his renal function."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "Why does he need blood work?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:34",
+      "text": "To be absolutely certain there is no systemic impact from the higher dose. You'll bring him to the lab at eight, and I will personally review those results by ten. I will call you at ten-fifteen with the findings."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "And what happens if the results are abnormal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:53",
+      "text": "If there's any deviation from the norm, we have a protocol to admit him for observation and fluid management. I've already alerted the pediatric lead and the on-call consultant so they are expecting him if that happens."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:03:03",
+      "text": "This is a nightmare. I can't believe I have to spend my tomorrow morning at a lab because you couldn't read a scale."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:08",
+      "text": "I realize this is a huge burden on you and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "You're just saying that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:28",
+      "text": "I am. And to make sure this doesn't happen to anyone else, I've already filed an incident report. Starting tomorrow, our clinic is implementing a dual-signature verification for all weight-based dosing before the needle even touches the patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:33",
+      "text": "Well, that's great for the next kid. What about my son?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:41",
+      "text": "That's why I'm staying on top of these tests tomorrow. I'll be the one managing his follow-up personally."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:47",
+      "text": "I still want the written report of the dosage error for my own records."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:59",
+      "text": "I will print that out for you right now, including the exact milligrams administered versus the intended dose, and I'll give it to you before you leave today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "Fine. I'm still not happy about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:09",
+      "text": "I completely understand. I'll get that paperwork and then I'll walk you out."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated despite aggressive pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn, but there were no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am very sorry', 'I apologize') and takes full responsibility without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frustrating', 'angry') and references the patient's specific burden regarding the lab visit."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific steps (temp monitoring, blood panel), clear timelines (8am, 10am, 10:15am), the patient's role (monitoring/bringing child to lab), and a prevention plan (dual-signature verification)."
+    }
+  }
+}

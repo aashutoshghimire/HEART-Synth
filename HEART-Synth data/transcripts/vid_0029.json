@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0029",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mrs. Hernandez, thank you for meeting with me and your daughter. I wanted to talk to you about your transfusion yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Gracias. My daughter says I am doing better today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:25",
+      "text": "I'm glad you feel a bit stronger. But I need to be honest about something that happened during your care. There was a problem with how we handled your blood type verification."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:29",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:44",
+      "text": "We didn't follow the full safety checklist to verify your blood type before the transfusion started. Because of that, you received blood that was compatible, but it wasn't the ideal match for your specific type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:52",
+      "text": "I don't understand. I have been sick for a long time. Maybe this is just how the illness is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:08",
+      "text": "I know it's been a very long and difficult road for you, and it makes sense that you'd feel like this is just part of the struggle. But this specific part was not the illness. It was our mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:12",
+      "text": "But the doctor said I was stable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:26",
+      "text": "You are stable, but I want to be clear that we failed to do the check we are supposed to do every single time. I am very sorry that we let this happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:33",
+      "text": "My daughter told me it was a mistake. But I think maybe I am just old."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:46",
+      "text": "It has nothing to do with your age or your health. This was a failure in our process. I am apologizing because we didn't do our jobs correctly in that moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:50",
+      "text": "So it was not the right blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:02:03",
+      "text": "It was safe to give you, but it wasn't the perfect match. I can see this is confusing, and it's probably upsetting to hear that we didn't follow the rules."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:07",
+      "text": "I just want to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:18",
+      "text": "I hear that. You've spent so much time in this hospital already, and the last thing you want is more complications or more talk about mistakes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "Yes. Everything is always a problem with my heart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:30",
+      "text": "It feels like an endless cycle of problems, doesn't it? But this blood issue was separate from your heart."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "Is it dangerous now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:46",
+      "text": "No, you are not in danger. But I want to make sure I've explained this clearly. Do you feel like you understand what happened with the blood type?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "My daughter says she understands. I think so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:02",
+      "text": "I'm sorry, I just need to\u2014I actually have to get to a rounding meeting in a few minutes, so I want to make sure we cover the plan quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Wait, what happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:22",
+      "text": "We have already updated your chart so this cannot happen again. For the next twenty-four hours, the nursing staff will check your vitals every four hours to make sure you're reacting well. I will personally review your labs tomorrow morning at 8 AM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "And if I need more blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:40",
+      "text": "Then we will use a double-verification process with two different doctors to ensure the match is perfect. Your role is just to let us know if you feel any new chills or itching."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:51",
+      "text": "I really apologize again for the error. I'll be back tomorrow morning to check on you myself."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at [00:02:51] stating they 'actually have to get to a rounding meeting in a few minutes'."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the second turn, lay language is used throughout, and comprehension is checked twice ([00:02:35] and [00:02:47])."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies are used multiple times, and the resident explicitly takes responsibility ('our mistake', 'we didn't do our jobs correctly') without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('upsetting', 'confusing') and references the patient's shared content regarding her heart and hospital stay."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific steps (vitals every 4 hours, lab review at 8 AM), a prevention strategy (double-verification), and a named patient role (reporting chills or itching)."
+    }
+  }
+}

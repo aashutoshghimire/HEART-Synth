@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0164",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Tremblay, thank you for coming back into the room. I need to talk to you about your care today and a mistake that was made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "I thought the tests were done. What's going on?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "I am sorry. I made a mistake in how I managed your results. Your ECG showed an abnormal rhythm, which the machine flagged, but I did not review that result for four hours. That meant we delayed the diagnosis of your cardiac event."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "Four hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:43",
+      "text": "Yes. It was my responsibility to check those flags immediately, and I failed to do that. I apologize for this failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:47",
+      "text": "Why did it take four hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:00:56",
+      "text": "I didn't prioritize the review of the machine's alerts. It is my fault, and there is no excuse for that delay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:02",
+      "text": "I feel like I was just sitting there while the clock was running."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:13",
+      "text": "I don't need you to understand. I need to know if the delay changed the outcome."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:23",
+      "text": "The delayed diagnosis did postpone the start of your treatment. Because the ECG indicates a myocardial ischemia, we should have started the intervention sooner."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:27",
+      "text": "So where are we now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:33",
+      "text": "We have identified the issue and are moving forward with the protocol now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:37",
+      "text": "Is this going to affect my deployment?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:44",
+      "text": "I'm not sure yet. We have to see how you respond to the treatment first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:49",
+      "text": "Give it to me straight. Did you mess up my career?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:56",
+      "text": "I cannot give you a definitive answer on your status right now. I know this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:04",
+      "text": "I'm not frustrated. I'm calculating the risk. If you missed this for four hours, what else did you miss?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:08",
+      "text": "I understand you're concerned about the quality of care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:12",
+      "text": "I'm concerned about my readiness."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:17",
+      "text": "We are focusing on the current cardiac event to get you stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:21",
+      "text": "Right. So what happens next?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "We are continuing the monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "That's not a plan. What is the next step?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:35",
+      "text": "We will keep an eye on the monitors and see how the medication works."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "When will I know if I'm cleared?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "We'll see. It depends on the labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "Which labs? Which ones specifically?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "The cardiac enzymes. I'll check them later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "When is later?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "Probably in a few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:06",
+      "text": "This is unacceptable. I need a timeline and a specific set of criteria for my discharge."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:11",
+      "text": "We'll just have to wait and see how the numbers look."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:18",
+      "text": "I am not used to waiting and seeing. I am used to objectives. Give me an objective."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "The objective is to ensure the rhythm is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "And when is the next check?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:30",
+      "text": "Whenever the lab sends the results back."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "That is not a time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "I'll let you know when I see them."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:43",
+      "text": "I'm going to need to speak with the attending physician."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:48",
+      "text": "You can. I'll let them know you want to talk."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "I want them in here now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "I can arrange that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:04",
+      "text": "While we wait for the doctor, tell me again why the machine flagged it but you didn't see it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:09",
+      "text": "Like I said, I didn't review the flags in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "So the technology worked, but the human failed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "Yes. I take full responsibility for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:18",
+      "end_time": "00:04:21",
+      "text": "I appreciate the honesty. Now get the attending."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:22",
+      "end_time": "00:04:25",
+      "text": "I'll go find them."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn, but there were no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, explicitly took personal responsibility ('It is my fault'), and maintained this accountability throughout the patient's questioning."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident relied on generic validation ('I understand', 'I know this is frustrating') without naming specific emotions or engaging deeply with the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague responses ('We'll see', 'Probably in a few hours', 'Whenever the lab sends the results') without a concrete timeline or patient role."
+    }
+  }
+}

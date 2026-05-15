@@ -1,0 +1,159 @@
+{
+  "video_id": "vid_0123",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Mbeki, thank you for coming in to see me today. I have some information about your latest scan that I need to discuss with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:18",
+      "text": "Good. I'm hoping we can make this quick. I have a delivery arriving at the shop in an hour."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:31",
+      "text": "I understand you're pressed for time. I have to be honest with you, I made a mistake in how I shared your results last week, and I want to correct that now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:36",
+      "text": "What do you mean? You told me the tumour had shrunk."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "I did. I told you the size had reduced, but I did that before the radiologist had finished and signed off on the final report. I was looking at a preliminary version. The final, official report shows that the disease is actually stable, meaning the tumour has not shrunk."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:00:56",
+      "text": "Stable? You're saying it hasn't changed at all?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:03",
+      "text": "That is correct. It is the same size as it was on the previous scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:08",
+      "text": "I don't understand. Maybe the first report was just more accurate?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:24",
+      "text": "No, the final report is the correct one. I gave you the wrong information because I moved too quickly. I am very sorry for this mistake. It was my responsibility to wait for the final sign-off, and I failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:37",
+      "text": "I don't know. My oncologist always says these things can be tricky. Maybe the tumour is just behaving unpredictably. Maybe it looked smaller for a moment and then grew back?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:52",
+      "text": "I understand why you'd look for another explanation, but in this case, it wasn't the cancer changing. It was a mistake in how I communicated the data to you. I apologize for giving you false hope."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:02:06",
+      "text": "Well, if it's stable, it's still not growing. That's fine. I can deal with that. I just can't afford to be off work for more tests if this is just how the disease works."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:15",
+      "text": "Does that make sense so far, or is there any part of the reporting process I can clarify for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "It makes sense. It just feels like a waste of time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:28",
+      "text": "I can see you're feeling frustrated that we've spent time on incorrect information when your business needs you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:33",
+      "text": "I just need to know if I have to change my schedule."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:49",
+      "text": "The treatment plan remains the same because the disease is stable. The next concrete step is a follow-up scan in six weeks. I will put that in the calendar now, and you'll receive the appointment confirmation via email by tomorrow afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "Six weeks. Right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:06",
+      "text": "I am also going to meet with my attending physician today to review why this happened so we can ensure it doesn't happen again for you or any other patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "I suppose that's all you can do now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:18",
+      "text": "I know this is a lot to take in right before you have to head back to your shop."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:23",
+      "text": "I'm fine. I'll just see you in six weeks then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns, does not interrupt, and remains regulated despite the patient's time pressure and confusion."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in the second turn using lay language, and a comprehension check is performed once ('Does that make sense so far...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am very sorry', 'I apologize'), takes full personal responsibility, and maintains this accountability when the patient suggests alternative explanations."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names a specific emotion ('frustrated') and references the patient's specific situation regarding their business."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides a specific next step (follow-up scan) with a timeline (six weeks) and a patient role (receiving email confirmation), but does not explicitly name a role for the patient in the clinical plan."
+    }
+  }
+}

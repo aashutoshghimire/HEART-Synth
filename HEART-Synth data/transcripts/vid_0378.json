@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0378",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Osei, thank you for coming in. I need to discuss something that happened with your daughter's medication earlier today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Is everything okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "Not exactly. There was an error in the dosing of the medication she received. Instead of using the scale to get her exact weight, I estimated her weight. Based on that estimate, the dose I calculated and administered was significantly higher than the safe limit for a child her size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:36",
+      "text": "You estimated it? You're telling me you guessed the weight of a pediatric patient before giving a potent medication?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:41",
+      "text": "Yes, that is what happened. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:57",
+      "text": "It makes sense in that I understand the words you're saying, but it is absolutely incomprehensible as a clinical practice. I am a nurse practitioner. I know the standards for pediatric dosing. This is a fundamental failure of safety."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:06",
+      "text": "I'm sorry for any confusion this has caused. We were really busy on the floor today and things were moving very quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:19",
+      "text": "I don't care how busy you were. We are talking about a child's safety. A calculated overdose because of a guess? Who else knows about this? Has it been reported?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:28",
+      "text": "I understand. But looking at the facts, she is currently stable. I've already alerted the attending physician and the pharmacy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:37",
+      "text": "You are ignoring the point. You're telling me you bypassed a basic safety check. How could you possibly justify that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:49",
+      "text": "It was a mistake in judgment during a high-pressure shift. Now, let's wrap up the details of what happened so I can tell you what we are doing now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:02:04",
+      "text": "No, we are not wrapping anything up. I want to know exactly how much over the limit she was. I want to know what the specific toxicity risks are for this drug at that dose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:11",
+      "text": "She received roughly double the recommended dose per kilogram. But again, her vitals are normal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:24",
+      "text": "Normal vitals right now do not mean there is no risk of delayed organ stress or systemic toxicity. This is negligence. I am appalled that you thought an estimate was acceptable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:29",
+      "text": "I understand. However, the focus now should be on the monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:42",
+      "text": "You keep saying you understand, but you aren't listening to me. This is a systemic failure and a personal failure. I feel like I can't trust anyone in this unit right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:52",
+      "text": "Look, I have to go check on another patient in a moment, so I need to move through the plan for her care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:03:00",
+      "text": "You are leaving? While I am telling you that I no longer trust your team with my child?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:16",
+      "text": "I am just trying to ensure we have a clear path forward. Here is the plan. We have her on a continuous cardiac monitor for the next twelve hours. I have ordered a metabolic panel for tomorrow morning at 6 AM to check her kidney function. You will stay at the bedside and let us know immediately if she becomes lethargic or develops a rash."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "And what happens if the labs come back abnormal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "Then we will consult the toxicology team immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:29",
+      "text": "This is an unacceptable way to handle a medication error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:35",
+      "text": "I've explained the facts and the plan. I really do have to go now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap up', 'move through', 'have to go now') and shows defensive escalation under pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn and a comprehension check was performed ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology is diluted by an immediate excuse regarding being 'really busy on the floor today'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Resident uses generic validation ('I understand') without naming specific emotions or engaging emotional bids."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides specific steps with timelines (cardiac monitor for 12 hours, labs at 6 AM) and a patient role (let us know if she becomes lethargic), but does not address prevention."
+    }
+  }
+}

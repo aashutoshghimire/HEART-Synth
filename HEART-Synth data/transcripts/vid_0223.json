@@ -1,0 +1,231 @@
+{
+  "video_id": "vid_0223",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Mr. Okonkwo, thank you for meeting with me. I wanted to speak with you in person about your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "I thought we were discussing the surgery date."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:18",
+      "text": "This is actually about the preparation for that. I have some difficult information to share with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:19",
+      "end_time": "00:00:22",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:38",
+      "text": "There was a mistake with your imaging. Your MRI study and another patient's study were stored under the same accession number in our computer system. This meant that when the surgical team reviewed the scans to plan your operation, they were looking at the wrong person's images."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:42",
+      "text": "The wrong images."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:47",
+      "text": "Yes. The images the team used for the planning were not yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:51",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:00:59",
+      "text": "I can see this is a lot to take in. I want to sit with this for a moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:03",
+      "text": "It is a lot."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:07",
+      "text": "Is that a clear explanation of what happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:11",
+      "text": "Yes. You looked at the wrong scan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:16",
+      "text": "That is correct. The system failed to distinguish between the two files."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:20",
+      "text": "Will this change the surgery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:21",
+      "end_time": "00:01:26",
+      "text": "It may. We need to re-evaluate the surgical approach based on your actual images."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:42",
+      "text": "I am a man of standing in my community. My family, my people, they look to me. If word gets out that there was a mistake in my care, or that I am unwell in a way that was mismanaged, it reflects on me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:50",
+      "text": "I can hear that you are worried about how this affects your reputation and your standing with your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:54",
+      "text": "It is a matter of dignity."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "I recognize how important that is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:18",
+      "text": "First, I have already pulled your correct scans. The lead surgeon and I will meet tomorrow morning at 8:00 AM to re-map the procedure. Then, I will call you by 2:00 PM tomorrow to give you the updated surgical plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "And the date?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:38",
+      "text": "For now, we are keeping the date, but I will confirm that during tomorrow's call. Your role right now is simply to wait for my call tomorrow afternoon. Once we speak, we can decide if you want to move forward as planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:51",
+      "text": "We are also auditing the radiology upload process today to ensure this specific filing error doesn't happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "I suppose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "I know this is unsettling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "It is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I will make sure we get this right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:16",
+      "text": "Do you have any other questions for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "No. Not right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "I will call you tomorrow afternoon then."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "Very well."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and explicitly suggests sitting with the information for a moment."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the third turn using lay language, and comprehension was checked once ('Is that a clear explanation...?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') was used, and responsibility was deflected to the computer system."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident named specific emotions ('worried', 'important') and referenced the patient's specific concerns regarding reputation and dignity."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provided specific next steps with timelines (8:00 AM meeting, 2:00 PM call), defined the patient's role (wait for the call), and addressed prevention (auditing the process)."
+    }
+  }
+}

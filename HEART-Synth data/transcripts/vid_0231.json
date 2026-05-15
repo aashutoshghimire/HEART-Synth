@@ -1,0 +1,327 @@
+{
+  "video_id": "vid_0231",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Ms. Tremblay, thank you for coming back in. I have your daughter's chart here and I need to discuss a mistake that was made during the vaccinations earlier."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:15",
+      "text": "What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "I am sorry. We gave your daughter a dose of one of the vaccines that was intended for a child in a higher weight bracket. Essentially, she received more of the medication than was required for her specific weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:35",
+      "text": "How much more?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:46",
+      "text": "It was the dose for the next weight band up. I was responsible for the drawing of the medication and I selected the wrong one."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:00:54",
+      "text": "Is she going to have a reaction? My husband is already stressed about her fever from the last round."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:00:58",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:05",
+      "text": "I don't need you to understand. I need to know if she is in danger right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:14",
+      "text": "We are monitoring her and there are no immediate contraindications, but the dose was technically an overdose for her size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:18",
+      "text": "An overdose. Right. So what happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:24",
+      "text": "We are just keeping an eye on her for any unusual symptoms today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:28",
+      "text": "Unusual symptoms like what? Give me a list."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:32",
+      "text": "Fever, redness, or maybe some lethargy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:39",
+      "text": "That's not a list. That's a general description. Is this going to affect her long-term health?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "It is unlikely to cause long-term issues."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "That's not a yes or a no."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:56",
+      "text": "I can't give a definitive yes or no, but based on the pharmacology, the risk of permanent harm is very low."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:01",
+      "text": "This is incredibly frustrating. We trust you people with our kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "I understand that this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:14",
+      "text": "I'm not just frustrated. I'm questioning why the system allows a resident to just pick the wrong dose. Was there no double-check?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:22",
+      "text": "The weight-based dosing is integrated into our electronic system, but the manual draw was where the error occurred."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "So you just grabbed the wrong vial."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Yes, that's correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:36",
+      "text": "What is the plan to make sure this doesn't happen to the next kid?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "We will be reviewing the incident with the department."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:46",
+      "text": "That's not a plan for my daughter. What is the plan for her?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:51",
+      "text": "We'll see how she responds over the next twenty-four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:59",
+      "text": "That is a vague answer. Do I need to take her to the ER if she gets a fever?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "Just call the clinic first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:12",
+      "text": "When will I hear from you about whether this dose needs to be countered or if we need to adjust future shots?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:19",
+      "text": "I'm not entirely sure on the timeline for that yet. I'll have to check with the attending."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:25",
+      "text": "You are the one who gave it. You should know the next step."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "I'll find out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:38",
+      "text": "I want a written record of exactly which vaccine was overdosed and by how many milligrams. When can I have that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:43",
+      "text": "I can probably get that to you in a few days. Maybe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:52",
+      "text": "I need it today. I'm active duty. I don't have time to be chasing a doctor for a mistake they made."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "I can see you're upset."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:03",
+      "text": "I'm not upset, I'm focused on the facts. What are the facts of the recovery plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "Like I said, we just monitor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:11",
+      "text": "That's not a plan. That's a hope."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:12",
+      "end_time": "00:04:16",
+      "text": "We'll just stay tuned for any updates from the pharmacy side."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:17",
+      "end_time": "00:04:20",
+      "text": "This is unacceptable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "I apologize again for the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:28",
+      "text": "Your apology doesn't fix the dose in her system."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "I know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:36",
+      "text": "Who is the supervisor here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:37",
+      "end_time": "00:04:40",
+      "text": "Dr. Miller is the attending on call."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:41",
+      "end_time": "00:04:44",
+      "text": "Get Dr. Miller in here. Now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "I can check if he's available."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:49",
+      "end_time": "00:04:52",
+      "text": "Don't check if he's available. Get him."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish turns and remains regulated despite significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly and early, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language and explicitly took personal responsibility ('I selected the wrong one') without deflection."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident relied on generic validation ('I understand', 'I can see you're upset') without naming specific emotions or engaging deeply with the patient's content."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague responses ('we'll see', 'stay tuned', 'I'll find out') without specific timelines or a concrete recovery plan."
+    }
+  }
+}

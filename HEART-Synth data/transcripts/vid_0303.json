@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0303",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mrs. Al-Rashid, thank you for meeting with me. I need to tell you about a mistake that happened with your medical records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "Yes. Your MRI scan, the picture of your inside, was mixed up with another patient's picture. They both had the same identification number in our computer. Because of this, my team looked at the wrong scan when we were planning your surgery. I am very sorry. This was our fault."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:33",
+      "text": "I do not understand. You said you were ready for surgery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:49",
+      "text": "I know this is confusing. Let me explain. An MRI is a special photo. Two different people had the same number on their photos. My team looked at a photo of another person, thinking it was yours. We used that wrong photo to decide how to do your operation. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:54",
+      "text": "Why would you look at another person? You are the doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:07",
+      "text": "You are right. It is my job to make sure the photo is yours. We failed to do that. I apologize deeply for this error. I take full responsibility for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:11",
+      "text": "I trusted you. I thought you knew."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:21",
+      "text": "I understand that you feel let down. It is very upsetting to find out the people taking care of you made a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:26",
+      "text": "My family, they will ask me. What do I tell them?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:39",
+      "text": "You can tell them exactly what I told you. We mixed up the pictures. I want to make sure I explained this clearly. Can you tell me what you understand happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:46",
+      "text": "You looked at a wrong picture. Now I do not know if the surgery is right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:56",
+      "text": "Exactly. You have it right. Because we looked at the wrong picture, the plan we made was for a different person, not for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "Is it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:11",
+      "text": "We stopped before the surgery started, so you were not harmed during an operation. But it means the plan we told you about was wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:18",
+      "text": "I feel... I cannot believe this. In my home, the doctor does not make these mistakes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:25",
+      "text": "I can see this is shocking for you. It is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:42",
+      "text": "First, I have already gone back and personally checked your correct scan. I have spent the last hour reviewing your actual images. I now have the right plan for your specific needs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "And the other person?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:03:02",
+      "text": "We have fixed the computer error so this cannot happen to anyone else. Now, for you, the next step is for me to meet with the chief surgeon. We will meet tomorrow morning at 9:00 AM to finalize the new, correct plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:17",
+      "text": "Yes, tomorrow morning. After that meeting, I will come back to your room at 11:00 AM to explain the new plan to you and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "I must call my son."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:33",
+      "text": "Please do. You should talk to your family. I will be here for the next hour if you think of any more questions while you are talking to him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "I am still very worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:46",
+      "text": "It is normal to feel worried after hearing this. I am going to stay here with you for a moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "You will come back tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:04:05",
+      "text": "I will. I will be here at 11:00 AM. I will also write down the steps we discussed and leave the paper here for you, so you can show your son exactly what the plan is."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, avoids interrupting, and maintains a regulated pace despite the patient's distress."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error is named in the first turn, lay language is used throughout, comprehension is checked twice ('Does that make sense so far?' and 'Can you tell me what you understand happened?'), and no false reassurance is given."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies are used ('I am very sorry', 'I apologize deeply'), responsibility is explicitly taken ('This was our fault', 'I take full responsibility'), and no deflection occurs."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions twice ('feel let down', 'shocking', 'worried') and engages with the patient's emotional bids regarding trust and family."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Specific next steps are provided with timelines (9:00 AM and 11:00 AM tomorrow), the patient's role in informing the son is addressed, and prevention is mentioned ('fixed the computer error')."
+    }
+  }
+}

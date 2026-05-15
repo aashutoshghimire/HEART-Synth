@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0214",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Hello, Mrs. Fitzgerald. I am Dr. Miller. I know you've already spoken with the nurse about what happened, but I wanted to come and talk to you directly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:16",
+      "text": "I just... I don't know. She told me something was wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:29",
+      "text": "I am so sorry. We made a mistake in how we read your grandchild's heart rate tracing. I was the doctor who reviewed it, and I categorized the heart rate patterns incorrectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:34",
+      "text": "A mistake? How can you make a mistake with a baby?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:48",
+      "text": "It was a failure in my judgment during the review. The tracing showed decelerations, which means the baby's heart rate was dropping, but I didn't recognize the severity of those drops at the time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:58",
+      "text": "My husband... Arthur would have known what to do. He was always the one who handled the doctors. I feel so alone in this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:03",
+      "text": "It sounds like you're feeling overwhelmed and missing Arthur's support right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:09",
+      "text": "I am. I just can't believe this is happening. Was the baby hurt?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:25",
+      "text": "I want to make sure I'm being clear about the error. The heart rate drops were missed for two hours before a second doctor reviewed the trace and identified the true severity. Does that make sense, or can I explain that part differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "I think I understand. You just didn't see it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:37",
+      "text": "That is correct. I missed it. I take full responsibility for that error. There is no excuse for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:44",
+      "text": "Two hours... two hours where nothing was being done. It's just... I can't stop shaking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "I know this is incredibly frightening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:54",
+      "text": "He would be so angry. Arthur would be furious that you just ignored it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:03",
+      "text": "I understand why you would feel that way. I am truly sorry for the distress this has caused you and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:07",
+      "text": "What happens now? Is the baby okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:23",
+      "text": "To make sure we have a clear path forward, here is the plan. First, the neonatal team is going to perform a full physical assessment and a blood gas check within the next thirty minutes to ensure the baby has recovered fully."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:43",
+      "text": "After that, the consultant will meet with you here at 4:00 PM today to review those results and discuss the long-term follow-up. Your role right now is to let us know if you notice any changes in how the baby is feeding or breathing. Does that timeline work for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:48",
+      "text": "I suppose. I just don't know if I can trust you people."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:04",
+      "text": "I completely understand why your trust is shaken. To prevent this from happening again, I am reporting this incident to our quality board today, and we are implementing a mandatory second-signature requirement for all high-risk tracings starting tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "I just want the baby to be alright."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:20",
+      "text": "I know. Now, I really need to go check on the latest readings in the nursery, but I will come back to check on you before the consultant arrives."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "Wait, you're leaving? I still feel like I'm floating."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:29",
+      "text": "I'll be right back, I just need to verify the latest stats."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "It's just so much."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:48",
+      "text": "I can see that. I'll be back in ten minutes. Just to be sure we're on the same page, do you have any other questions about the error itself before I step out for a moment?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "No. I just... I just wish Arthur were here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:58",
+      "text": "I'm sorry you're going through this without him. I'll see you very shortly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language when attempting to leave the room ('I really need to go', 'I'll be right back, I just need to verify')."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error is named in the second turn, lay language is used, and comprehension is checked twice ('Does that make sense', 'do you have any other questions')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language, takes full personal responsibility ('I missed it'), and maintains this under pushback regarding the two-hour delay."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('overwhelmed', 'frightening') and engages the patient's emotional bids regarding her late husband Arthur."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific steps with timelines (30 mins, 4:00 PM), defines the patient's role (monitoring feeding/breathing), and addresses prevention (quality board/second-signature)."
+    }
+  }
+}

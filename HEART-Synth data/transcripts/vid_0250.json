@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0250",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Lindqvist, thank you for coming in. I asked to see you because there has been a serious medication error regarding your son's antibiotic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "An error? What the hell are you talking about?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "I am so sorry. This is my responsibility. The pharmacy dispensed the correct concentration of the liquid, but we gave you the wrong dosing syringe. It was calibrated for a different strength, which meant your son received double the dose for three days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:36",
+      "text": "Double? You gave a toddler double the dose of a potent antibiotic for three days?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:42",
+      "text": "Yes, that is exactly what happened. I take full accountability for this failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:54",
+      "text": "I was a paramedic for fifteen years. I know exactly how this works. I trusted the syringe you handed me. Why was the wrong one in the bag?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:05",
+      "text": "There is no excuse for it. I messed up the verification process and I am deeply sorry for the harm this has caused your son."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:10",
+      "text": "Harm? You said harm. What does that actually mean? Tell me specifically."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:26",
+      "text": "Based on the blood work, the overdose has caused acute kidney injury. Specifically, we are seeing a significant rise in creatinine and a decrease in glomerular filtration rate. This means there is lasting damage to the renal parenchyma."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:39",
+      "text": "Don't give me the textbook definition. I know what GFR is. Is he going to need dialysis? Is he going to have chronic kidney disease for the rest of his life?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:49",
+      "text": "It is possible that his renal function will not return to baseline. We are monitoring his output, but the prognostic implications are significant."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:02:00",
+      "text": "This is unbelievable. My son is poisoned because you couldn't check a piece of plastic. I am absolutely livid. I can't even look at you right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:04",
+      "text": "I can see that you're angry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:11",
+      "text": "Angry? I am terrified and furious! My child's organs are failing because of your incompetence!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "It is a terrible situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:23",
+      "text": "You're just sitting there. Do you have any idea what this does to a family? The stress, the fear\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:33",
+      "text": "Look, I really need to get to the next room to check on the other patients, so we have to move through this quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:42",
+      "text": "You have to go? My son is in a hospital bed with kidney failure and you're rushing me out of the room?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:47",
+      "text": "I just mean we should focus on what happens next."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:03:00",
+      "text": "I don't care about your schedule! I want to know what the long-term outlook is. Will he be able to grow normally? Will he need transplant surgery in ten years?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:05",
+      "text": "We don't have all the answers yet. I know this is scary."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "Stop using those scripts. Give me a real answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:16",
+      "text": "I can't give you a definitive prognosis today, but we are consulting with pediatric nephrology."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "When? Exactly when?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:25",
+      "text": "They should be here sometime this week to review the charts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:30",
+      "text": "Sometime this week? That's not a plan. That's a guess."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "I'll let you know when they provide an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:42",
+      "text": "I want a written report of every dose he's had and a copy of the lab results now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "I can probably get those for you by tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "I don't want probably. I want them now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:57",
+      "text": "I have to go check those other patients now, let's just wrap this up for today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:02",
+      "text": "Get out. Just get out of my sight before I lose it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "I apologize again. I'll send a nurse in."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('move through this quickly', 'wrap this up for today') and prioritizes other patients over the distressed parent."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly, but the resident uses heavy medical jargon ('renal parenchyma', 'glomerular filtration rate') and performs no comprehension checks."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language, takes full personal accountability ('This is my responsibility'), and maintains this without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names a specific emotion ('I can see that you're angry') and acknowledges the situation is 'terrible', though later responses become dismissive."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan is vague ('sometime this week', 'probably by tomorrow') and lacks a named patient role or a discussion on prevention."
+    }
+  }
+}

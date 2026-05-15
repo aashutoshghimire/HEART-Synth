@@ -1,0 +1,243 @@
+{
+  "video_id": "vid_0092",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Lindqvist, thank you for coming back in so quickly. I wanted to talk to you about why your symptoms have returned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:23",
+      "text": "I can tell you why they've returned. I followed the script exactly. I took every pill. And yet here I am, feeling just as sick as I was two weeks ago. I'm not happy about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:24",
+      "end_time": "00:00:34",
+      "text": "I know you aren't. And I want to start by saying I am truly sorry. This is my fault. I made a mistake in the prescription."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:41",
+      "text": "A mistake? What kind of mistake? I\u2019m a former medic, don\u2019t give me the runaround. What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:51",
+      "text": "There was some confusion with the duration of the course. Things didn't go quite right with the script I sent over to the pharmacy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:57",
+      "text": "Confusion? Be specific. Did you give me the wrong drug? Was the dosage off?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:08",
+      "text": "The dose was correct, but it looks like there was an issue with how the timing was handled. We didn't get the full cycle completed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:13",
+      "text": "You're hedging. Just tell me. Did you under-prescribe the duration?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:18",
+      "text": "It wasn't the ideal length of time for this specific infection."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:29",
+      "text": "It wasn't \"ideal\"? It was wrong. You gave me seven days of antibiotics when the protocol for this strain clearly requires fourteen. Am I right?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:44",
+      "text": "I can see how frustrating this is. You did everything right on your end, you were diligent with the medication, and now you're paying the price for a mistake I made. That's incredibly unfair to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:55",
+      "text": "It is unfair. It's negligent. I had to take three days off work already. Now I'm back at square one because you couldn't count to fourteen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:08",
+      "text": "It is completely understandable that you're angry. You relied on me to get this right so you could get back to your life and your job, and I let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:17",
+      "text": "So what now? Are you going to give me another seven days? Or are we starting the whole fourteen-day clock over again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "We just need to get you back on the right track. I'll get a new script sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:33",
+      "text": "Which drug? Are we switching to a broader spectrum since the first attempt failed, or are we sticking with the same one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:40",
+      "text": "I'm sure we can figure something out. I just need to check a few things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:51",
+      "text": "\"Figure something out\" isn't a clinical plan. I want to know the exact regimen, the dosage, and how we're ensuring this doesn't happen a third time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:04",
+      "text": "I hear you. I really do. I can tell you're feeling dismissed by the vagueness of this, and that's the last thing I want. I care about getting you healthy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "Caring doesn't fix the infection. I need a protocol."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:15",
+      "text": "I'll have a plan for you soon. Just give me a little bit of time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:24",
+      "text": "I've already given you two weeks of my life and a failed course of treatment. Why is the plan so vague?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:33",
+      "text": "Look, I have to go check the charts and consult with the attending, so let's just wrap this up for a second."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:41",
+      "text": "You're rushing me? I'm the one who was misdiagnosed or mismanaged, and you're the one in a hurry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:49",
+      "text": "I'm not trying to brush you off. I just want to make sure the next step is perfect."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:57",
+      "text": "That's a contradiction. If you wanted it to be perfect, you would have known the duration the first time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:08",
+      "text": "I know. I really messed this up, and I take full responsibility for that. I hate that you're feeling this way because of my error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:15",
+      "text": "My \"feelings\" aren't the issue. The pathology is the issue. What is the next step?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:16",
+      "end_time": "00:04:21",
+      "text": "We'll see what the lab says and then I'll probably send a new script."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:22",
+      "end_time": "00:04:25",
+      "text": "\"Probably\"? When? Today? Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:26",
+      "end_time": "00:04:31",
+      "text": "I'll get back to you. Maybe stay tuned for an email later this afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:32",
+      "end_time": "00:04:40",
+      "text": "I am not staying tuned for an email. I am sitting here in your office. Give me a date and a dose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:41",
+      "end_time": "00:04:47",
+      "text": "I just need to step out for a moment to verify the current guidelines for the recurrence."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:48",
+      "end_time": "00:04:56",
+      "text": "This is unbelievable. You apologize for the mistake, but you can't even provide a basic recovery plan in the same conversation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:57",
+      "end_time": "00:05:05",
+      "text": "I understand why you're so angry. You're used to a high standard of clinical care, and I'm not meeting it right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:06",
+      "end_time": "00:05:13",
+      "text": "Correct. Now, are you going to fix this, or do I need to speak with the department head?"
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at 03:25 ('let's just wrap this up for a second')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident never explicitly names the error (under-prescribing duration), instead using platitudes like 'things didn't go quite right' and 'some confusion'."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am truly sorry'), takes full personal responsibility ('This is my fault'), and maintains this under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frustrating', 'angry', 'dismissed') and references the patient's specific situation regarding work and diligence."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague possibilities ('figure something out', 'probably send a new script', 'stay tuned for an email')."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0073",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Ms. Anderson, thank you for coming back in. I wanted to sit down with you and talk about why you ended up back in the emergency department last night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:20",
+      "text": "I appreciate that. I was quite surprised to be back here so soon after I thought I was cleared to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:35",
+      "text": "I know this is frustrating. To be direct, we made a mistake. You were discharged six hours earlier than our post-operative protocol requires. We didn't wait for the full window to ensure the wound was stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:40",
+      "text": "Six hours. Is that why the site started leaking and swelling?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:56",
+      "text": "Yes, exactly. Because we didn't monitor you for that final window of time, we missed the early signs of the complication you experienced last night. I am sorry for the confusion and that this happened, but we were just incredibly slammed on that floor yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:10",
+      "text": "Being busy is a reality of the system, but it doesn't change the fact that I was sent home prematurely. As an administrator, I know exactly how those protocols are written. They aren't suggestions."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:26",
+      "text": "You're right, they aren't. It is completely understandable that you feel let down. You trusted us to follow the safety steps, and we failed to do that. I can see how unsettling it is to feel like your safety was compromised, especially when you know how the process should work."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:36",
+      "text": "It is unsettling. It\u2019s also physically painful. I had to drive back here in the middle of the night while bleeding through a bandage."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:48",
+      "text": "I can't imagine how stressful that drive must have been, feeling the wound fail while you were alone in your car. That's a frightening position to be in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "It was. So, where does this leave us now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:01",
+      "text": "Right, so\u2014sorry, I just want to make sure we address the pain first\u2014but essentially, we have you back on the ward now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:08",
+      "text": "I'm already on the ward. I want to know how you're going to fix the wound."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:24",
+      "text": "I'm sorry, I just wanted to acknowledge the distress first. But to answer your question, the plan is to keep you here for another forty-eight hours. I will be checking the site every four hours to monitor for further dehiscence."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "And the medications?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:44",
+      "text": "We've started you on a course of prophylactic antibiotics to prevent infection. I'll have the nurse bring you the first dose within the hour. Your role right now is mostly to keep the area immobilized. If you feel any new warmth or sudden pain, please hit the call button immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:51",
+      "text": "I can do that. Will this be noted in my permanent record that the protocol was breached?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:58",
+      "text": "It will be documented in the clinical notes. I am also filing an internal incident report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:05",
+      "text": "I'm sure you are. I'd like to see a copy of that report once it's finalized."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:18",
+      "text": "I understand. I can't give you the internal report directly, but I can ensure the attending physician documents the specific error in your patient summary, which you have a right to access."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:24",
+      "text": "That will be necessary. I don't want this just disappearing into a database."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:33",
+      "text": "I completely hear you. It's important that there is a transparent record of what went wrong. I'll make sure that happens."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:42",
+      "text": "Thank you. I appreciate the empathy, but I really just want to make sure this doesn't happen to the next person."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:55",
+      "text": "I agree. Along with the report, I'm meeting with the nursing lead tomorrow morning to figure out why the discharge timer was ignored so we can prevent this from happening again."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident interrupts the patient at [00:01:53] while the patient is asking about the current situation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly and in lay language, but there are no comprehension checks (e.g., 'Does that make sense?') throughout the transcript."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While the resident apologizes and takes responsibility, they dilute the accountability by stating they were 'incredibly slammed on that floor yesterday' as a reason for the error."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('unsettling', 'frightening') and references the patient's specific experience of driving home while bleeding."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific steps (48 hours stay, 4-hour checks, antibiotics within the hour), defines the patient's role (immobilization/call button), and addresses prevention (meeting with nursing lead)."
+    }
+  }
+}

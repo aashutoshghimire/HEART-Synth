@@ -1,0 +1,195 @@
+{
+  "video_id": "vid_0151",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Ms. Williams, thank you for taking a few minutes to talk with me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:18",
+      "text": "Is everything okay? I just want to know when I can actually go home. My kids are staying with my sister and I really can't leave them there much longer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:27",
+      "text": "I know you're anxious to get back to them. I need to share some information with you about your transfusion yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "The blood? Was there a problem with it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:46",
+      "text": "There was. We had a failure in our pre-operative protocol. Specifically, the blood type verification step was skipped, and you received a blood type that was compatible, but not the ideal match for your specific type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:00:50",
+      "text": "Wait, what? You gave me the wrong blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:51",
+      "end_time": "00:00:59",
+      "text": "I am sorry for any confusion this causes, but the process was missed because the unit was really busy yesterday morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:14",
+      "text": "I don't care if you were busy. I'm lying here and you're telling me you just... skipped a step? Am I okay? Is this going to make me sicker? I can't be sicker, I have to work."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:18",
+      "text": "Why aren't you saying anything?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:25",
+      "text": "I realize this is a lot to take in and it's a very frightening thing to hear."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:40",
+      "text": "It is frightening! I'm a single mom. If something happens to me because of a mistake, who is going to take care of my girls? I can't even afford to miss another week of work."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:49",
+      "text": "You are feeling completely overwhelmed right now, and it makes total sense that your first thought is for your children."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:57",
+      "text": "Yes. Exactly. So, what does \"compatible but not ideal\" even mean? Does that mean I'm having a reaction?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:07",
+      "text": "It means the blood won't cause a major rejection, but it's not the exact cross-match we aim for. It's essentially a sub-optimal transfusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:14",
+      "text": "I don't know what \"sub-optimal\" means in real life. Does this mean I'm in danger?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "Your vitals are stable right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:25",
+      "text": "That's not what I asked. Do I need more treatment? Is there a permanent effect?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "We are continuing to monitor you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:33",
+      "text": "Monitor me how? What is the actual plan here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:39",
+      "text": "We'll keep an eye on your labs and we'll see how things evolve."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:46",
+      "text": "We'll see? That's it? I need to know if I can go home tomorrow. Can I?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:55",
+      "text": "I can't give you a firm date yet. We'll just have to stay tuned for the results of the next blood draw."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:03:05",
+      "text": "This is unbelievable. I can't just \"stay tuned\" while my kids are in a different house. Who else is checking this? My doctor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "I'm the one handling this right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:22",
+      "text": "I want to talk to the attending. I want to know why this happened and what you're doing to make sure it doesn't happen again before I get another bag of anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "I understand. I'll make sure they are aware."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:31",
+      "text": "When will I know for sure if I'm safe to go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "We'll see how the morning goes."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to speak fully without interruption and remains regulated despite the patient's increasing distress and pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named early, but the resident used medical jargon ('compatible', 'cross-match', 'sub-optimal') and never checked for patient comprehension."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The resident uses apology language ('I am sorry'), but immediately dilutes it with an excuse regarding the unit being 'really busy'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frightening', 'overwhelmed') and references the patient's specific concerns regarding her children."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides no concrete plan or timeline, using only placeholders such as 'we'll see' and 'stay tuned'."
+    }
+  }
+}

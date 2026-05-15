@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0033",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Mr. Mbeki, thanks for coming back in to see me today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:20",
+      "text": "I appreciate you fitting me in. I've been thinking about that diagnosis you gave me on Tuesday. I've been trying to figure out how to tell my partner and how to manage the business if I'm going to be out for treatment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:31",
+      "text": "I know you've been putting a lot of thought into that. It's completely understandable that you're worried about the business and your family right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:43",
+      "text": "Exactly. I can't just step away from the shop for weeks. I don't have a manager I trust. I've been losing sleep over the logistics of it all."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:44",
+      "end_time": "00:00:52",
+      "text": "It sounds like an immense amount of pressure to carry, especially when you're already dealing with the shock of the news."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:00:58",
+      "text": "It is. So, what's the next step? Do we start the medication now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:14",
+      "text": "Actually, that is why I wanted to see you. There was a mistake in the scheduling system. Another patient with a very similar name to yours was in the system, and their lab results were uploaded to your file."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:18",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:26",
+      "text": "The results I discussed with you on Tuesday actually belonged to someone else. You do not have that condition."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:32",
+      "text": "I'm sorry, I don't think I follow. You told me I was sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:45",
+      "text": "Because of the mix-up with the names in the computer, the wrong data was attached to your chart. I read the wrong person's labs and told you they were yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:49",
+      "text": "You're telling me I don't have it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:54",
+      "text": "That is correct. You are not sick with that condition."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:02:03",
+      "text": "I can't believe this. I've spent three days in a complete panic. I almost called my accountant to discuss a partnership buyout."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:15",
+      "text": "I can only imagine how jarring this is. To go from a state of total crisis to finding out it was all based on an error is incredibly disorienting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:21",
+      "text": "Who did this? How does a name get mixed up? This is basic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:34",
+      "text": "The system labels patients by name and date of birth, but in this case, the software linked the two files because of the similarities. It was a failure in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:45",
+      "text": "I don't care about the software. You're the doctor. You're the one who looked me in the eye and told me my life was changing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "It's a very frustrating situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:56",
+      "text": "Frustrating? My heart has been racing for seventy-two hours. I didn't sleep. I've been calculating my losses."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:07",
+      "text": "It's a heavy burden to feel that kind of anxiety and fear, and it's completely unfair that you had to experience that because of a mistake here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:20",
+      "text": "I just want to know how this doesn't happen again. I can't have you telling me I have cancer one day and then saying oh, sorry, wrong guy the next."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:27",
+      "text": "I understand. We are going to look into how the electronic records are flagged to prevent this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "And what now? Do I just go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:40",
+      "text": "I'll need to double-check your actual results one more time and then I'll send a corrected summary to your portal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "I'll get that done sometime this week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:53",
+      "text": "This week? I need to know now if everything is actually fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:03:59",
+      "text": "I'll check the file. You can just wait for the notification on your phone."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish turns and adjusts pacing to distress, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in lay language, but there are no comprehension checks performed."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry', 'I apologize') is used, and responsibility is deflected to the 'scheduling system' and 'software'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('shock', 'disorienting', 'anxiety and fear') and references the patient's specific concerns about the business and family."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides a vague timeline ('sometime this week') and a next step, but does not define a patient role."
+    }
+  }
+}

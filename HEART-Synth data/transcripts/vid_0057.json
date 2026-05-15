@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0057",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Hello Mrs. Hernandez, it's good to see you and your daughter again. I wanted to follow up on the questions you had last time about the developmental screening for your grandson."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:17",
+      "text": "Hola Doctor. Mi hija me dijo que usted ten\u00eda respuestas."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "Right, so I spent some time reviewing the electronic health record. To be completely honest, the error happened because I marked the referral as completed in the system after you declined that first appointment. I didn't set a reminder to follow up, and the system just closed the task. It was my mistake for not ensuring a second attempt was made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:38",
+      "text": "Pero nosotros quer\u00edamos ir. Solo que el primer d\u00eda no pudimos."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:54",
+      "text": "I know. And I am truly sorry for this. I take full responsibility for the fact that we missed the window to get him screened. It is my job to make sure these things happen, and I failed to do that here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:01",
+      "text": "I just worry if he is behind. He is not talking like the other kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:06",
+      "text": "It is completely understandable that you feel anxious about his progress."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:19",
+      "text": "Exactly. And I thought the clinic was taking care of it. We trusted you. When we didn't hear back, I thought maybe it was just the way things work here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:25",
+      "text": "I understand that you feel let down because you trusted us to manage this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:33",
+      "text": "I feel like my grandson is losing time. Every month matters at this age. I just don't know if\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:46",
+      "text": "Now, I really have to move quickly because I have a full clinic today, but let's look at the fix. Since the referral was closed, we need to restart the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:51",
+      "text": "What does that mean? Do we start from the beginning?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:02",
+      "text": "Sort of. I have already placed a priority request with the early intervention team. They should call you by this Friday to schedule a new date."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "Friday. And if they don't call?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:19",
+      "text": "If you don't have a call by Friday afternoon, I want you to call my nurse, Sarah, directly at the office number. Tell her this is for the priority developmental screen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:24",
+      "text": "I can do that. But will the wait be long again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:34",
+      "text": "I've flagged this as an urgent follow-up due to the previous error, so you should be seen much faster than the first time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:42",
+      "text": "I hope so. I just keep thinking about how much time passed. I feel so sad that we\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:56",
+      "text": "I have to go in a few minutes to see my next patient, so let's wrap up. The plan is the phone call by Friday, and then you call Sarah if it doesn't happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:03",
+      "text": "Wait, will this happen again? How do I know the computer won't just close it again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:13",
+      "text": "I\u2019ve put a manual alert on his chart now. I'll be personally checking the status every Tuesday until I see the final report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "Okay. I just want him to be okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:26",
+      "text": "He will get the help he needs. We'll make sure of it this time. I'll see you at the next check-up."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I really have to move quickly because I have a full clinic today', 'I have to go in a few minutes... let's wrap up')."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly in the first turn, but there were no comprehension checks (e.g., 'Does that make sense?') throughout the transcript."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am truly sorry'), takes full responsibility ('It was my mistake', 'I failed'), and maintains this under pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions twice ('feel anxious', 'feel let down') and references the patient's shared content regarding trust and the grandson's progress."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (priority request), timelines (by Friday), a named patient role (call Sarah), and prevention (manual alert and Tuesday checks)."
+    }
+  }
+}

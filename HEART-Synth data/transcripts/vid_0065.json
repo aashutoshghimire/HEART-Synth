@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0065",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Good afternoon, Mrs. Al-Rashid. Thank you for coming in to see me. My name is Dr. Miller."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:10",
+      "text": "Good afternoon, Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:24",
+      "text": "I asked to meet with you because I have some important and difficult information to share regarding your daughter\u2019s medication. There was a mistake made in how her antibiotic was prescribed and dispensed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "The medicine itself was the correct drug and the correct strength. However, the oral syringe you were given to measure the dose was calibrated for a different concentration. Because of this, your daughter has been receiving double the intended dose for the last three days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:53",
+      "text": "Double? Oh my god. Is she... is she going to be okay? I just did what the pharmacy told me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:01:08",
+      "text": "I can see how shocking this is to hear. I want to be very clear: this was our error. I am sincerely sorry that this happened and that your daughter received the wrong amount of medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:15",
+      "text": "I can't believe this. I trusted the clinic. I just want her to be healthy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:27",
+      "text": "It is completely understandable that you feel betrayed and worried right now. You trusted us to provide the correct instructions for your child, and we failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:31",
+      "text": "Will she be sick? Will she have a reaction?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:47",
+      "text": "Since we are talking about an antibiotic, the main concern with a double dose is usually stomach upset or a rash. I have reviewed her current vitals, and she is stable, but we need to be vigilant. To make sure I have explained this clearly, could you tell me in your own words what happened with the dosage?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:58",
+      "text": "You are saying the syringe was wrong. That she took too much medicine for three days because the tool you gave me was for a different strength."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "That is exactly right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:07",
+      "text": "I don't understand how this can happen in a hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:14",
+      "text": "I know it feels unfathomable. Please, take a moment. I know this is a lot to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:20",
+      "text": "I am just... I feel very dizzy. I don't know what to do."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:26",
+      "text": "It's okay. We are going to take this slowly. I am here with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "I just want to know if she is safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "I understand that her safety is the only thing that matters to you right now. Based on the specific antibiotic she is on and her weight, the risk of long-term toxicity is very low, but we are not going to leave it to chance."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:06",
+      "text": "Here is the plan. First, I have already contacted the attending pediatrician, and we are going to perform a physical exam on your daughter right now to check her hydration and bowel sounds. Second, I am ordering a blood test for this afternoon to check her kidney function, just to be absolutely certain they are processing the medication correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "A blood test? Is that necessary?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:24",
+      "text": "While we believe she is fine, the most responsible way to ensure her safety is to have a concrete measurement of her organ function. I would want the same certainty for my own child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "I suppose so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:43",
+      "text": "Third, I have personally gone to the pharmacy and hand-verified a new, correctly calibrated syringe. I have it here in my hand. I will show you exactly how to use it before you leave today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "And the medicine? Do we stop?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:04:03",
+      "text": "We will continue the antibiotic, but at the correct, lower dose starting immediately. Now, I want to tell you what we are doing to make sure this never happens to another family. I am filing a formal incident report today. This triggers a review of how our syringes are labeled and dispensed so that the pharmacy and the clinic have a double-check system in place."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "I just can't believe this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:21",
+      "text": "I know. It is a failure of the process and a failure on our part. I am truly sorry. Does that plan for the exam and the blood test sound okay to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:22",
+      "end_time": "00:04:25",
+      "text": "Yes, Doctor. I trust you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:26",
+      "end_time": "00:04:40",
+      "text": "Thank you. I'm going to step out for one second to get the nurse, and then we will start the exam. While I do that, do you have any other questions about the dosage error itself?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:41",
+      "end_time": "00:04:44",
+      "text": "No, I think I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "Alright. I'll be right back."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and adjusts pacing to the patient's distress (e.g., 'Please, take a moment')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, but comprehension was checked only once (at 01:32)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am sincerely sorry'), responsibility explicitly claimed ('this was our error'), and accountability maintained throughout."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions named back twice ('shocking', 'betrayed and worried') and emotional bids are actively engaged."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Specific next steps with timelines (exam 'right now', blood test 'this afternoon') and prevention addressed, but no specific role for the patient in the plan other than receiving care."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0364",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Rivera, thank you for sitting down with me. I need to talk to you about something that happened with your medication yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:24",
+      "text": "I have some very difficult news. There was a mistake made with your anticoagulant, the blood thinner. You were given ten times the dose that was intended."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "Ten times?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "Yes. Because of that high dose, you had internal bleeding in your abdomen, which is why we had to take you into the emergency procedure last night to stop it. I am so sorry. This was a failure on our part, and it is my responsibility as your doctor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:51",
+      "text": "I just... I felt something was wrong. I thought maybe it was just the surgery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:03",
+      "text": "It makes sense that you would feel that way. I can only imagine how frightening it must have been to feel something was wrong and not know why."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:10",
+      "text": "I don't want to cause any trouble. I don't have papers. I just want to get better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:24",
+      "text": "Your status doesn't change your right to safe care, and it doesn't change the fact that we failed you here. You aren't causing any trouble by being here or by asking what happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:31",
+      "text": "Will I be okay? I mean, the bleeding. Does this mean I'm not going to heal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:47",
+      "text": "I want to be honest with you. The bleeding caused some permanent damage to your kidney function. It means you are likely going to need long-term medication and monitoring for your kidneys for the rest of your life."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:51",
+      "text": "For the rest of my life? I'm only thirty-eight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:01:59",
+      "text": "I know. Hearing that you'll have a lifelong health issue because of a mistake we made is devastating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:04",
+      "text": "I can't tell my family. I can't tell them I'm sick now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:14",
+      "text": "You're carrying a huge burden right now, worrying about your family and your status while trying to process this news. It sounds incredibly isolating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "Is there a way to fix the kidney part?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:32",
+      "text": "Unfortunately, the damage to that part of the kidney cannot be reversed. We can manage it, but we can't undo it. Does that make sense, or should I explain the kidney function part differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "I think I understand. It's just broken."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "That is a fair way to put it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "What happens now? Do I just stay here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:58",
+      "text": "I know we need to figure out a path forward. I have to go check on another patient for a moment, but I will come back in an hour to sit with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "You have to go?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:18",
+      "text": "Yes, just for a few minutes. But before I step out, I want to tell you that we are starting you on a new medication schedule today to stabilize you. I'm also going to bring the kidney specialist back in here at 2:00 PM today to walk you through the long-term plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "I don't know if I can do this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:34",
+      "text": "I can see how overwhelmed you feel. Please, just try to breathe. I will be back very shortly, and we will take this one step at a time."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows patient to finish turns and adjusts pacing to distress, though the transition to leave at the end introduces a slight sense of urgency."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, and comprehension was checked once regarding kidney function."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am so sorry') and explicitly takes responsibility ('it is my responsibility as your doctor')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frightening', 'devastating', 'isolating') and engages with the patient's specific concerns regarding status and family."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Resident provides specific next steps with timelines (returning in an hour, specialist at 2:00 PM), but does not address prevention or the patient's role in the plan."
+    }
+  }
+}

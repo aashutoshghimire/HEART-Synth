@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0209",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Ms. Williams, thank you for meeting with me. I know you've had a very long and scary few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:13",
+      "text": "I just want to go home. I don't even know why I'm still here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "I know it's incredibly difficult to be stuck in this bed right now. I need to be honest with you about why your condition changed so suddenly. A serious mistake was made with your medication. You were given a dose of your blood thinner that was ten times higher than what was intended."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "What? Ten times?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:48",
+      "text": "Yes. That is exactly what happened. Because the dose was too high, it caused internal bleeding, which is why we had to bring you in for that emergency procedure. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:57",
+      "text": "I don't... the other doctor told me it was just a complication of my surgery. He said it happens sometimes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:13",
+      "text": "I understand why that would be confusing, and I am sorry that you were given conflicting information. The previous doctor was mistaken. This wasn't a random complication. This was a medication error. We failed to catch the wrong dose before it was given to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:22",
+      "text": "My kids... they're only four and six. Who is watching them? I can't be in here because someone typed the wrong number."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:23",
+      "end_time": "00:01:36",
+      "text": "It is completely overwhelming to have your children's care hanging in the balance like this. I can only imagine how frightening it is to be away from them because of a mistake we made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:47",
+      "text": "I'm just... I'm terrified. What if I can't even walk when I get out of here? I have two jobs. I can't take a month off."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:56",
+      "text": "I hear you. You're worried about how this recovery is going to impact your ability to provide for your kids."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "Yes. Exactly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:13",
+      "text": "I want to be very clear: I am truly sorry. This is our responsibility. It should not have happened, and it is our fault that you are in this position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:21",
+      "text": "Is it going to happen again? How do I know the next pill isn't ten times too much?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:29",
+      "text": "That is a very fair question. Does it feel like you can't trust the medication process right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:33",
+      "text": "I can't. Not at all."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:49",
+      "text": "I understand. To make sure this doesn't happen again, I've personally double-checked every single dose in your chart for the next forty-eight hours. I've also flagged your file so that two different nurses must sign off on any anticoagulant before it reaches your room."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "So what happens now? When do I leave?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:02",
+      "text": "We need to keep you here for another two days to monitor the bleeding and make sure your levels are stabilizing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Two days. I can't do two more days."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:11",
+      "text": "I know. I know this is a huge burden on your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:16",
+      "text": "What is the actual plan to get me out of here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:32",
+      "text": "Right now, the first step is for the lab to draw your blood at 6:00 AM tomorrow to check your clotting levels. If those are back to normal, I will meet with the surgical team at 10:00 AM to clear you for discharge. Your role for now is just to let us know immediately if you feel any new dizziness or see any bruising."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "10:00 AM tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:52",
+      "text": "Yes, that's the goal. I will come by your room at 11:00 AM tomorrow regardless of the result to give you a definitive update. Do you feel like you have a clear picture of what we're monitoring and when you'll hear from me?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "I think so. I'm still just... I'm so angry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:11",
+      "text": "You have every right to be angry. We let you down. I am going to stay here with you for a bit longer if you have more questions, or if you just need a moment."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows patient to finish all turns, maintains a regulated pace during emotional distress, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn ('serious mistake... ten times higher'), uses lay language, and checks comprehension twice ('Does that make sense so far?' and 'Do you feel like you have a clear picture...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Directly apologizes ('I am truly sorry'), explicitly takes responsibility ('This is our responsibility', 'it is our fault'), and maintains this under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Names specific emotions ('frightening', 'overwhelming', 'angry') and references specific patient content regarding her children and financial worries."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provides specific steps with timelines (6:00 AM labs, 10:00 AM meeting, 11:00 AM update), defines the patient's role (monitoring for dizziness/bruising), and addresses prevention (double-checks and two-nurse sign-off)."
+    }
+  }
+}

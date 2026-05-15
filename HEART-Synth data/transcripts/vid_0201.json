@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0201",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Ms. Osei, thanks for coming back in. I wanted to talk to you about why your symptoms have returned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:17",
+      "text": "I'm glad we're doing this. I was quite surprised to see the fever come back after I thought I was finished with the meds."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:28",
+      "text": "I am sorry that this happened. I'm the one responsible for your prescriptions, and there was a bit of a mix-up with the duration of your antibiotics."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "A mix-up? What does that mean specifically?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:43",
+      "text": "Things didn't go quite right with the script. It seems there was some confusion regarding the number of days you were supposed to be on the medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:54",
+      "text": "I don't follow. As a nurse practitioner, I know that if a course isn't completed, the infection isn't eradicated. Are you telling me the prescription was wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:00:59",
+      "text": "There were some issues with how the order was processed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:07",
+      "text": "Stop using vague language. Was the dose wrong, or was the duration wrong? Just tell me what happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:15",
+      "text": "I just mean it didn't go as planned. But anyway, I'm sorry for the frustration this is causing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:28",
+      "text": "This isn't about frustration. This is about a standard of care. If you wrote the prescription for seven days instead of fourteen, that is a clinical error. Why aren't you saying that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:36",
+      "text": "I understand. But we've been incredibly busy on the ward lately and sometimes things get overlooked in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:52",
+      "text": "I don't care how busy the ward is. You are the provider. You are responsible for the accuracy of the script. I have spent the last three days feeling like I'm sliding back into a crisis because of a basic clerical mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:01:57",
+      "text": "Look, I get it, but we can just fix it now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:11",
+      "text": "You're dismissing this. I am telling you that my health was compromised because you didn't follow the basic protocol for this infection. Do you even realize how dangerous it is to under-treat an infection?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:16",
+      "text": "I understand. But let's move on to how we handle it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:25",
+      "text": "I don't want to move on. I want a clear explanation of how this happened and who is documenting this error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:33",
+      "text": "It's just a complication. I'm sorry it happened. But we really need to focus on the next step."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:43",
+      "text": "You are not listening to me. I am expressing a very serious concern about professional standards here and you are just brushing it off."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:50",
+      "text": "I'm not brushing it off, but I have another patient waiting, so we have to be quick."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:58",
+      "text": "So my care is an inconvenience to your schedule now? After you gave me the wrong dose of medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:07",
+      "text": "I didn't say that. I just think we should wrap this up so I can get the new script sent over."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:17",
+      "text": "I want to know exactly what the plan is. Just \"sending a script\" isn't a plan. What about the resistance? What about the recurrence?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "We'll just start the course again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:27",
+      "text": "Which course? The original one or a different one because the first one failed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:34",
+      "text": "We'll see. I'll probably just send the same one but for the full length this time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:39",
+      "text": "That's your plan? To just try again and hope for the best?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:44",
+      "text": "Basically, yes. I'll get that sent to your pharmacy soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:51",
+      "text": "When is \"soon\"? And who am I supposed to contact if the symptoms don't resolve this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:56",
+      "text": "Just stay tuned for the email confirmation from the pharmacy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:05",
+      "text": "This is completely unacceptable. You've admitted a mistake, you've refused to explain it clearly, and you're rushing me out of the room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:11",
+      "text": "I'm sorry you feel that way, but I really have to go now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('have to be quick', 'wrap this up', 'have to go now') and shows defensive escalation."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses only platitudes and vague language ('mix-up', 'things didn't go quite right', 'some confusion') and never explicitly names the error."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apology is offered, but it is diluted by excuses regarding how busy the ward is and things being 'overlooked in the system'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses only generic validation ('I understand', 'I get it') without naming specific emotions or engaging emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders and vague steps ('we'll see', 'stay tuned') with no timelines or patient role."
+    }
+  }
+}

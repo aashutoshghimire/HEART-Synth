@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0023",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Good morning, Mr. Okafor. It is good to see you back in the clinic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:14",
+      "text": "Thank you. I am glad to be home, though I am still struggling quite a bit with my right side."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "I want to start by being very direct with you. We made a serious mistake during your admission. You were triaged as low-acuity, which means we didn't recognize the urgency of your stroke symptoms immediately. Because of that, there was a delay in getting you to imaging, and by the time we did the scan, the window to give you thrombolysis\u2014the clot-busting medication\u2014had already closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:45",
+      "text": "The window closed? I remember feeling like I was waiting for hours in that bay. I tried to tell the nurse that my speech was getting worse, but they just said they would be right back."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:58",
+      "text": "I am deeply sorry. We failed you. As the resident on the team, I take full responsibility for the lack of oversight in your triage process. There is no excuse for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:13",
+      "text": "I spent thirty years teaching history. I know how to analyze a sequence of events. If the medicine is time-sensitive, why was I sitting there? Was it a staffing issue or just a lack of competence?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:26",
+      "text": "It was a failure in our clinical judgment during triage. We missed the signs. Does that explanation make sense to you, or is there any part of that process I can clarify?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:41",
+      "text": "It makes sense in a technical way, but it is devastating. My daughter says I\u2019m lucky to be alive, but I feel like I\u2019ve lost a part of my autonomy because of a clerical error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:45",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:50",
+      "text": "Do you actually understand? I can't button my own shirt. I can't\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:01:59",
+      "text": "We really need to focus on the recovery timeline now because I have to go see another patient in a few minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:09",
+      "text": "You are rushing me. I am telling you that I am grieving the loss of my dexterity and you are looking at the clock."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:16",
+      "text": "I just want to make sure we cover the medical plan before the session ends."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:25",
+      "text": "It seems you are more concerned with your schedule than the fact that your team missed the window for my treatment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:39",
+      "text": "Again, I apologize. I am responsible for this. To make sure we are on the same page, you understand that the delay in imaging meant we could not use the thrombolysis drug, correct?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:45",
+      "text": "Yes, I understand it. I understood it the first time you said it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:03:01",
+      "text": "Right. Now, here is exactly how we are going to move forward. First, I have already scheduled a comprehensive swallow and speech evaluation for this Thursday at ten a.m. Second, you will start intensive outpatient physical therapy three times a week starting Monday. Your role is to keep a daily log of your grip strength exercises that I've printed here, which we will review together in two weeks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:07",
+      "text": "And what is being done to stop this from happening to someone else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:23",
+      "text": "We have already filed a formal incident report and the department is implementing a new mandatory \"stroke-screen\" double-check for all triage nurses. I am personally presenting this case at our quality improvement meeting tomorrow to ensure the team learns from this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:28",
+      "text": "I appreciate the plan. I just wish the empathy matched the efficiency."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:38",
+      "text": "I hear you. I\u2019ll see you in two weeks for the follow-up. Let's wrap this up so I can get to my next room."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to go see another patient in a few minutes', 'before the session ends', 'wrap this up so I can get to my next room')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, used lay language ('clot-busting medication'), and checked comprehension twice ('Does that explanation make sense', 'you understand... correct?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used, resident took full responsibility ('I take full responsibility'), and maintained accountability despite patient pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand', 'I hear you') and meets emotional bids with factual redirection to the recovery timeline."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Specific steps with timelines (Thursday, Monday), a named patient role (daily log), and prevention addressed (stroke-screen double-check)."
+    }
+  }
+}

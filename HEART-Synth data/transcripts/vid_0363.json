@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0363",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "It is good to see you again, Ms. Osei. I wanted to start today by being very direct with you about a mistake that occurred with your last immunotherapy dose. We gave the medication on the wrong day of your cycle because of a calendar entry error. Instead of the scheduled date, it was administered early. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:24",
+      "text": "I was wondering why the clinic called me in earlier than usual. You are saying the dosing schedule was missed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:40",
+      "text": "Yes, that is exactly what happened. In this specific treatment, the timing between doses is designed to maximize how the drug interacts with your immune system. By giving it too early, we deviated from the clinical protocol. Are you following me on the timing aspect of this?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:53",
+      "text": "I follow you. As a nurse practitioner, I'm familiar with cycle intervals. My concern is the efficacy. This isn't a minor administrative slip; this is a deviation from the standard of care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:01:04",
+      "text": "I can hear how unsettling that is. Knowing the clinical standards yourself, it must feel incredibly frustrating to know those standards weren't met in your own care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:19",
+      "text": "It is more than frustrating. It is a breach of professional trust. I trust my team to be precise with these intervals because the efficacy depends on it. How does this actually impact my prognosis?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:30",
+      "text": "That is a very valid question. While we can't say for certain, administering a dose early can potentially reduce the effectiveness of that specific cycle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:34",
+      "text": "Which is exactly why\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:39",
+      "text": "We are currently reviewing the literature on similar timing errors."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:52",
+      "text": "I wasn't finished. If the efficacy is compromised, we are talking about a window of time where my cancer might not be suppressed as it should be. That is a significant risk."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:03",
+      "text": "I completely recognize that the stakes feel incredibly high right now. It is scary to think that your progress might be stalled because of a scheduling mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:16",
+      "text": "It is not just scary, it is an avoidable error. Who was responsible for the calendar entry? Was this a systemic failure in the software or a human error in data entry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:25",
+      "text": "The entries were mismanaged during the scheduling process. The system relies on manual input, and the wrong date was selected."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:34",
+      "text": "So someone just typed it in wrong. I'm surprised that a double-check system didn't catch this before the infusion started."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:41",
+      "text": "I understand why you'd expect that level of redundancy. It is disappointing that it didn't happen here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:53",
+      "text": "Disappointing is a very mild word. I expect a formal apology and a clear explanation of how you intend to rectify the dosing for the rest of the cycle."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:09",
+      "text": "We have a plan to move forward. I have consulted with the attending oncologist, and we have decided to shift the subsequent doses to get you back on the original rhythm. You will come in on the 14th of next month instead of the 10th. I need you to mark that in your own calendar to ensure we are aligned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:17",
+      "text": "And what about the missed window? Are we just hoping for the best, or is there a compensatory dose?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:33",
+      "text": "There is no compensatory dose for immunotherapy, but we will move your next scan up by two weeks to monitor for any change in response. I will call you tomorrow morning to confirm the appointment time for that scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:44",
+      "text": "I appreciate the scan. But I still feel that the gravity of the error hasn't been fully acknowledged. This was a failure of basic clinical safety."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:53",
+      "text": "I know it's hard to feel secure in the process after this. It's a heavy realization that your care wasn't precise."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:04:02",
+      "text": "Precisely. As a clinician, I can't help but think about the documentation. Is this being filed as an incident report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:13",
+      "text": "We are processing the internal paperwork now. Look, I really have to go to my next appointment in a couple of minutes, so let's wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:22",
+      "text": "I'm sorry, you're rushing me now? I am trying to discuss the safety protocols of the clinic that failed me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:23",
+      "end_time": "00:04:32",
+      "text": "I just want to make sure we get you out on time. We've established the shift in the schedule and the early scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:39",
+      "text": "We have not established how you will prevent this from happening to the next patient."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:40",
+      "end_time": "00:04:44",
+      "text": "We are reviewing the scheduling workflow with the nursing staff."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:49",
+      "text": "That is vague. I want a specific change in protocol."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:05:03",
+      "text": "We are looking into a second-person verification for all immunotherapy dates. I'll have to get back to you on when that becomes policy. I really have to get to the other room now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident interrupts the patient at [00:01:35] and uses rushing language repeatedly at the end of the encounter."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in first turn, used lay language, and checked comprehension twice ('Does that make sense so far?' and 'Are you following me...?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') was used throughout the transcript."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions ('unsettling', 'frustrating', 'scary') and referenced the patient's professional background as a clinician."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provided specific next steps (date of 14th, early scan), assigned a patient role (mark calendar), and addressed prevention (second-person verification)."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0114",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Mr. Lindqvist, thank you for coming back in to see me. I know you've had a frustrating morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:23",
+      "text": "Frustrating is a polite way to put it. I spent two hours on the phone with my insurance and the clinic you referred me to. I'm a former paramedic, so I know how a discharge summary is supposed to work. Why on earth did you send me to a provider that's out of network?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:24",
+      "end_time": "00:00:29",
+      "text": "I can see that this is a very difficult and aggravating situation for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:45",
+      "text": "Aggravating? I\u2019m sitting here without a follow-up plan for a condition that requires immediate monitoring. I did my job for twenty years, and I can tell you right now, this is a failure in the chain of care. Who messed this up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:51",
+      "text": "I realize how unsettling it is to feel like your care has been stalled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:00",
+      "text": "Stop with the adjectives. Just tell me what happened. Was it a clerical error? Did someone just not check the insurance portal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:10",
+      "text": "There was some confusion with the paperwork during the discharge process. Things didn't go quite right with the coordination of the clinic assignment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:26",
+      "text": "Confusion? That\u2019s not an answer. \"Things didn't go right\" is what you tell a child when they drop a plate. I am talking about my medical management. Did you actually verify the facility, or did someone just click a random name on a dropdown menu?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:36",
+      "text": "I am sorry for any confusion this has caused you. We were really busy on the ward yesterday when the orders were being finalized."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:52",
+      "text": "I don't care how busy the ward was. Being busy doesn't make your insurance requirements disappear. I\u2019m now in a position where I\u2019m not getting the care I need because of a lazy mistake. Do you even understand the clinical risk of missing this window for follow-up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "I hear you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:06",
+      "text": "You hear me, but you aren't answering. I want a straight answer. Who is responsible for the fact that I'm currently without a doctor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:11",
+      "text": "It is a very heavy feeling to be left in this position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:23",
+      "text": "Again with the feelings. I want the facts. Did the resident or the attending sign off on a clinic that they knew, or didn't know, was out of network?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:29",
+      "text": "There were some issues with the way the list was generated in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:41",
+      "text": "The system didn't write the discharge notes. A human did. Now, what is the plan to fix this, or am I just supposed to keep calling insurance companies myself?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:57",
+      "text": "I have already started looking into a new referral. I will call the office of Dr. Arispe this afternoon to see if he can see you by Friday. I'll send you a confirmation email by 5:00 PM today with the address and the appointment time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "And if Dr. Arispe is full?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:17",
+      "text": "Then I will contact the department head to get you an expedited slot. Once you get that email from me, I need you to call the office immediately to confirm your insurance ID number so we don't have a repeat of this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:23",
+      "text": "Fine. But I still don't have an admission that a mistake was actually made."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:30",
+      "text": "I've looked into the options, and that is the fastest way to get you seen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "You're avoiding the question. Was this a medical error?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "As I said, the process didn't go as intended."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "That is a coward's way of saying \"yes.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:47",
+      "text": "I will make sure the email is sent by five."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated despite significant pushback and hostility."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes like 'confusion with the paperwork' and 'things didn't go quite right' and never explicitly names the error."
+    },
+    "A": {
+      "score": 0,
+      "justification": "While the resident says 'I am sorry for any confusion,' responsibility is deflected to the ward being busy and issues with how the list was generated in the system."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('difficult and aggravating', 'unsettling', 'heavy feeling') and references the patient's specific situation."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides a specific next step (Dr. Arispe), a timeline (by 5:00 PM today), a patient role (call to confirm insurance ID), and a prevention strategy to avoid a repeat."
+    }
+  }
+}

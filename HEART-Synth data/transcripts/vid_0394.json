@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0394",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hi Mr. Park, come on in. Please have a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:08",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:21",
+      "text": "Now, before we go over your discharge papers and your recovery, I need to discuss something that happened while you were in the hospital. We made a mistake with your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:25",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:41",
+      "text": "When you were admitted, we took an ECG, which is the heart rhythm test. The machine flagged an abnormal result immediately, but I didn't review that result for four hours. Because I missed that flag, there was a delay in diagnosing your cardiac event and starting your treatment. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:52",
+      "text": "Oh. I... I didn't know that. I just thought I was waiting for the doctors to decide what to do. Was it... was it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:03",
+      "text": "It did delay the process by four hours. I am sorry. This was my responsibility, and I apologize for failing to check the results promptly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:15",
+      "text": "I guess I just felt really scared when I was lying there and no one was coming in. I didn't know if I was doing something wrong or if\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:22",
+      "text": "Right, but the important thing is that the treatment eventually started and your vitals stabilized."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:35",
+      "text": "I mean, I just didn't have anyone there with me. My parents are back home and I didn't know who to ask for help. I felt like I was just..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:49",
+      "text": "I understand. Now, looking at the chart, the delayed intervention didn't result in long-term damage, but it wasn't the standard of care you should have received. Do you understand why the delay happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:59",
+      "text": "Yeah, you didn't look at the machine. I just... I'm kind of shaking. I don't really know what this means for my health now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:09",
+      "text": "Everything is stable now. Look, I actually have to go see another patient in a few minutes, so let's wrap this up quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:17",
+      "text": "Wait, I have a question about the medication. If the diagnosis was late, does that mean the medicine is\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:22",
+      "text": "The medication is the same regardless of the four-hour window."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:32",
+      "text": "I just feel like I'm not really sure what to do if it happens again. Like, what are my rights if this happens again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:37",
+      "text": "You're fine now. We'll just keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:43",
+      "text": "But how? Do I need more tests? Do I need to go back sooner?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "We'll see how you feel over the next week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "So there's no specific plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:57",
+      "text": "Just stay tuned for an email from the clinic about your next follow-up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "I don't really know when that will be."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:08",
+      "text": "It should come eventually. I really have to run now. Have a good afternoon, Mr. Park."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up quickly', 'have to go see another patient', 'really have to run now')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first two turns, used lay language, checked comprehension twice ('Does that make sense so far?', 'Do you understand why the delay happened?'), and avoided false reassurance regarding the error itself."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language ('I am sorry', 'I apologize') and explicitly took personal responsibility ('This was my responsibility')."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids regarding fear and isolation were consistently met with factual redirection ('Right, but the important thing is...', 'Everything is stable now')."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provided only placeholders ('we'll see', 'stay tuned', 'should come eventually') with no specific timeline or patient role."
+    }
+  }
+}

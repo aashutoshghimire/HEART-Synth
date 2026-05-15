@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0341",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Patel, thank you for taking a few minutes to speak with me. I wanted to come in and discuss some of the events from your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:16",
+      "text": "Is something wrong? You look like you have something specific on your mind."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:25",
+      "text": "I do. I want to start by saying that I am sorry. We made a mistake during your pre-operative process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:29",
+      "text": "A mistake? What kind of mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:38",
+      "text": "There was some confusion with the blood verification process before your transfusion. Things didn't go quite right with the checks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:43",
+      "text": "What does that mean? Did you give me the wrong blood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:44",
+      "end_time": "00:00:52",
+      "text": "We had an issue with the verification steps. The blood you received was compatible, but it wasn't the ideal type for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:01",
+      "text": "I don't understand. What do you mean it wasn't ideal? If it wasn't the right one, why was it given to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:08",
+      "text": "We ensured it was safe to give, but the specific blood type verification was skipped."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:17",
+      "text": "Skipped? You skipped a safety check? Oh my god. Am I in danger? Is my body rejecting this right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:21",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:36",
+      "text": "Do you even know what's happening to me? I can't believe this. I read every single consent form you gave me. I trusted that if I signed off on the protocol, the protocol would be followed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:46",
+      "text": "I know this is upsetting. I want you to know that our team is responsible for this oversight. It should not have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:02:02",
+      "text": "Is it going to affect my recovery? I can't afford a complication right now. I have a project deadline in three weeks. If I have a reaction, if my organs fail because of some clerical error, what then?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "We are monitoring your vitals closely. Everything looks stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:17",
+      "text": "Stable is not the same as safe. I feel like I'm shaking. I can't even breathe properly. I can't believe the lack of care here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:25",
+      "text": "I understand how you feel. But looking at the charts, your hemoglobin is where it needs to be."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:41",
+      "text": "I don't care about the hemoglobin! I'm talking about the fact that you played Russian roulette with my blood type! I've had bad experiences with hospitals before, and this is exactly why. You people just treat us like numbers until you mess up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "I apologize again for the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:54",
+      "text": "I want to see the records. I want to know exactly which step was skipped. Who signed off on it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "We are reviewing the internal logs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:09",
+      "text": "While you're reviewing logs, I'm sitting here wondering if I'm going to have a delayed reaction. What happens if I start reacting tomorrow? Or next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:21",
+      "text": "We have a plan for that. We're going to run a full blood panel every twelve hours for the next two days to ensure there are no antibodies forming."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:26",
+      "text": "And who is doing that? You? Or someone else who skips steps?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:37",
+      "text": "I will be the one overseeing the results. Every morning at 8:00 AM, I will come back into this room and show you the lab results personally."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:45",
+      "text": "I want a copy of those results. Not just you telling me they're fine. I want the printouts."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:53",
+      "text": "I can do that. I'll bring the physical printouts of the labs during the 8:00 AM rounds starting tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:04:03",
+      "text": "I still can't wrap my head around how this happens in a modern hospital. I feel terrified. I actually feel sick to my stomach."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:10",
+      "text": "Your vitals are still the priority here. The blood is compatible, so the risk is very low."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:11",
+      "end_time": "00:04:21",
+      "text": "Low is not zero. You're telling me it's low, but you're the one who skipped the check. Why should I believe your assessment of the risk?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:22",
+      "end_time": "00:04:28",
+      "text": "I understand. I will be here to answer any questions as the tests come back."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:29",
+      "end_time": "00:04:37",
+      "text": "I need to call my lawyer. I need to know what my rights are when a safety protocol is ignored."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:38",
+      "end_time": "00:04:45",
+      "text": "That is your right. I will make sure you have a private phone and the time you need."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:52",
+      "text": "I just can't believe this. I did everything right. I read everything. And you just skipped it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:53",
+      "end_time": "00:04:58",
+      "text": "I am sorry. I will see you tomorrow morning at 8:00 with those results."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes and hedging ('things didn't go quite right', 'some confusion') and never explicitly names the specific error (e.g., 'wrong blood type administered') and performs no comprehension checks."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am sorry', 'I apologize') and explicitly states 'our team is responsible for this oversight' without deflection."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident relies on generic validation ('I understand', 'I know this is upsetting') without naming specific emotions or engaging the patient's emotional bids."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides a specific next step (blood panel every 12 hours) with a clear timeline (8:00 AM daily) and a patient role (reviewing physical printouts)."
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0058",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Hassan, thank you for coming in to see me today. I wanted to speak with you personally about your recent scans and some things that happened with your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:19",
+      "text": "I figured. Every time I come back here it's some kind of problem. What is it now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:30",
+      "text": "I can see you're feeling exhausted by all of this, and I really appreciate you making the time to sit down with me despite that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:38",
+      "text": "My back is worse. The pain is just moving. That's just how this goes, isn't it? It gets worse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:54",
+      "text": "I want to be very clear about something. While your pain is a major concern, there was a mistake made with your imaging from six months ago. There was a finding on the scan that needed a follow-up in three months, but that information was placed in a part of the report that the primary team didn't see. Because of that, the follow-up was never scheduled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:04",
+      "text": "A mistake? I don't know about that. I've had this illness for years. Things just progress. This is just part of the disease."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:19",
+      "text": "I hear you saying that this feels like the natural course of your condition. It is true that your illness progresses, but this specific lack of follow-up was an error in how we handled the data."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:26",
+      "text": "You people always try to make it sound more complicated than it is. It's just bad luck."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:40",
+      "text": "It's completely understandable that you'd feel cynical about this, especially given everything you've been through in this clinic. It sounds like you've reached a point where you just expect things to go wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:44",
+      "text": "Because they do. Why bother with the details?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:57",
+      "text": "I know it's frustrating, but I want to make sure we're on the same page. Does the part about the missed follow-up make sense, or can I explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:07",
+      "text": "I get what you're saying. You missed a date. But like I said, I'm sick. I'm still sick. It doesn't matter who forgot what."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:18",
+      "text": "You're right that the illness is the primary driver here, but that doesn't change the fact that we failed to follow the protocol for that scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:24",
+      "text": "So what now? You're just telling me this so you can feel better?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:40",
+      "text": "No, I want to make sure we fix this immediately. The first thing we are doing is scheduling a new scan for tomorrow morning at 8:00 AM. I have already called the imaging department to ensure you are prioritized."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "Tomorrow? I have to take the bus across town."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:03:00",
+      "text": "I've arranged for the clinic to provide a transport voucher so you don't have to worry about the cost of getting there. After the scan is done, I will personally review the results with the radiologist by noon tomorrow. Then, I will call you at 2:00 PM on your mobile to discuss the findings."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:06",
+      "text": "And then what? Another six months of waiting for someone to remember me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:22",
+      "text": "That is exactly what I want to prevent. Once we have these results, we will set up a dedicated tracking alert in your electronic chart. This means any one of us in the office will see a red flag if a follow-up is missed. You'll also receive a copy of the scan report via the patient portal, so you have the same information we have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "It's just a lot of noise."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:35",
+      "text": "It really is. Dealing with chronic pain is hard enough without having to worry if your doctors are doing their jobs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:40",
+      "text": "You're a nice enough kid. But the system is still broken."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:51",
+      "text": "I can't argue with that. I can only control what I do for you right now. Does that plan for tomorrow sound okay to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:55",
+      "text": "I guess. I'll be there at eight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:04:00",
+      "text": "Thank you, Mr. Hassan. I'll make sure everything is ready for you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows patient to finish all turns, remains regulated under significant cynicism/pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named explicitly in the second turn, uses lay language, and checks comprehension twice ('Does the part... make sense', 'can I explain that differently')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used throughout the transcript."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('exhausted', 'cynical', 'frustrating') and engages with the patient's emotional bids regarding the broken system."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps with timelines (tomorrow 8am, noon, 2pm), patient role (attending the scan), and a prevention strategy (tracking alert)."
+    }
+  }
+}

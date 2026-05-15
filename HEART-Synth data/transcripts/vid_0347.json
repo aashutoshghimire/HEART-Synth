@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0347",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:14",
+      "text": "Hello Ms. Osei, I am Dr. Miller. I am the resident on the team. I wanted to sit down with you today to discuss why your symptoms have returned and look at your chart again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:15",
+      "end_time": "00:00:25",
+      "text": "Thank you for seeing me. I was quite surprised to feel the fever and the pain coming back after I thought I'd finished the course."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:41",
+      "text": "I have the records here. I reviewed the prescription that was sent over last time, and the issue is that you were prescribed the correct medication and the correct dose, but the duration was only for seven days when it should have been fourteen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "Wait. Seven days?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:52",
+      "text": "Yes. The prescription was written for half the time required to fully clear the infection."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:08",
+      "text": "I see. As a nurse practitioner, I know that an incomplete course essentially leaves the door open for a relapse. I noticed the bottle said seven days, but I assumed that was the clinical decision based on my presentation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:14",
+      "text": "Does that make sense in terms of why you are feeling sick again?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:19",
+      "text": "It makes perfect sense. But this is a fundamental prescribing error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:28",
+      "text": "Right. Now, the clinic was extremely understaffed that week and there were a lot of overlapping orders in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:40",
+      "text": "I am less interested in the staffing levels and more concerned with the standard of care. A fourteen-day course is standard for this diagnosis. Why was this missed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:45",
+      "text": "It was just a clerical oversight during the entry process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:54",
+      "text": "An oversight. That is a very clinical way to describe something that has put me back in a hospital bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "I can tell you are frustrated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:05",
+      "text": "Frustrated is one word. I am concerned about the lack of oversight. Who checked the prescription?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:11",
+      "text": "I think we can just move on to how we fix this now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:18",
+      "text": "I don't think we can just move on. I expect a level of professional accountability here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:23",
+      "text": "Look, it was a mistake. These things happen in a busy environment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:32",
+      "text": "They happen, but they shouldn't. I would have caught it if I weren't feeling so ill, but I trusted the provider's order."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:40",
+      "text": "I have to get to another patient in a few minutes, so let's just focus on the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:47",
+      "text": "You are rushing me through the fact that you gave me the wrong amount of medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "I am just trying to be efficient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:58",
+      "text": "Efficient is not the same as professional. This is a breach of basic safety standards."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:06",
+      "text": "I understand. But really, the dose was correct, so it isn't like you were given a toxic amount."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:12",
+      "text": "That is not the point. The point is that the treatment was incomplete."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:21",
+      "text": "Right. So, for the plan, I'm going to get you a new prescription for the remaining seven days of the antibiotic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "And when will that be processed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:31",
+      "text": "Sometime today. You can probably pick it up at the pharmacy this evening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:36",
+      "text": "Will there be any change in the medication or just the duration?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "Just the duration. You'll finish the full fourteen days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:47",
+      "text": "And what is being done to make sure this doesn't happen to the next person?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:51",
+      "text": "We will look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:55",
+      "text": "That is a very vague answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:04:01",
+      "text": "It is just how the system works. We'll put a note in the file."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:08",
+      "text": "I'm not satisfied with that. I would expect a formal incident report to be filed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:15",
+      "text": "I really have to go now. Just take the new pills and you should be fine."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:16",
+      "end_time": "00:04:22",
+      "text": "I will take the pills, but I want to know who is supervising your prescribing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:23",
+      "end_time": "00:04:27",
+      "text": "That can be discussed later. Just check the pharmacy later today."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to get to another patient', 'I really have to go now') and shows defensive escalation under pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn, lay language was used, and comprehension was checked once ('Does that make sense...')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to staffing levels and clerical oversight."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I can tell you are frustrated', 'I understand') but otherwise meets emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides a specific next step (new prescription) with a timeline (today/this evening) and a patient role (pick it up at the pharmacy)."
+    }
+  }
+}

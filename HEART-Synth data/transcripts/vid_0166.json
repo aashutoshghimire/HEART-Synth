@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0166",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Hello Mrs. Hernandez. I am Dr. Miller, one of the residents on the cardiology team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:10",
+      "text": "Hola."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:16",
+      "text": "Your daughter is here with you, and I understand she is translating for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:17",
+      "end_time": "00:00:20",
+      "text": "Si, my daughter is here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:29",
+      "text": "I wanted to come in and talk to you about your care and why things took a bit longer this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:34",
+      "text": "Why longer? I felt the pain in my chest and I waited."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:50",
+      "text": "I know you've been in a lot of pain. I can see how exhausted you look, and I can only imagine how frightening it was to feel that pressure in your chest while waiting for someone to come back."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:00:56",
+      "text": "I was very scared. I told the nurse. I thought I was dying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:09",
+      "text": "It is completely understandable that you felt that way. Being in that position, feeling like your life is at risk and not knowing why the help isn't arriving, is a terrifying experience."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:13",
+      "text": "Why did it take so long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:23",
+      "text": "Well, there were some issues with how the results were handled. There was a bit of a mix-up with the timing of the review."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:27",
+      "text": "A mix-up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:41",
+      "text": "Yes, basically things didn't go quite right with the workflow. I want to say that I am sorry. I am sorry that our team failed to get you the treatment you needed faster."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:46",
+      "text": "But the machine, it says something, no? My daughter saw the paper."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:50",
+      "text": "There were some complications in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:55",
+      "text": "I do not understand. Did the doctor see my heart test?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:00",
+      "text": "It was a bit of a confused situation with the flagging process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:05",
+      "text": "I just want to know why I had to wait four hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:17",
+      "text": "I can tell you are feeling frustrated and maybe even a bit betrayed by the hospital. You trusted us to watch you, and it feels like we weren't watching."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "I am not frustrated, I am scared. I do not know if my heart is okay now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:35",
+      "text": "I hear that fear. It's that feeling of uncertainty\u2014not knowing if the damage is permanent because of the delay\u2014that is the hardest part of this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "Is my heart okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:50",
+      "text": "We are monitoring it now. But look, I actually have to go check on another patient in a moment, so I need to be quick."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "Wait, you are leaving? I have more questions."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:02",
+      "text": "Just a few more seconds. I just wanted to make sure you knew we are sorry for the confusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "What happens now? Do I get more medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:13",
+      "text": "We'll probably do some more tests. We will see how the next few hours go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "When? Today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:28",
+      "text": "We'll just stay tuned to the monitors. I'll have someone send over an update or maybe you'll get an email in the discharge summary later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:35",
+      "text": "I don't want an email. I want to know what you are doing for me right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:42",
+      "text": "We are just keeping a close eye on things. We'll let you know if something changes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:47",
+      "text": "My daughter says we should ask for the chief doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:55",
+      "text": "I really have to wrap this up now to get to my other room. We will keep monitoring you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I actually have to go', 'need to be quick', 'just a few more seconds', 'really have to wrap this up')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses only platitudes and vague hedging ('mix-up with the timing', 'things didn't go quite right', 'confused situation') without explicitly naming the error."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Resident uses direct apology language ('I am sorry') and explicitly names the team as responsible ('our team failed') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frightening', 'terrifying', 'frustrated', 'betrayed', 'fear') and references the patient's specific experience of waiting."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague statements ('probably do some more tests', 'stay tuned', 'we'll let you know') with no timelines or prevention plan."
+    }
+  }
+}

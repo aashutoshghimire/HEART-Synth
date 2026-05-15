@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0381",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Good morning, Mr. Thompson. I want to talk with you about your MRI scan and your upcoming surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "Oh, hello. Is it time for the operation?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "Not quite yet. First, I need to tell you that a mistake was made. Two patients' scans were saved under the same identification number in our system. Because of that, our team looked at the wrong scan when we were planning how to do your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "What do you mean? I had the picture taken."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:40",
+      "text": "Yes, you did. But the computer showed us another person's image instead of yours. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:44",
+      "text": "I don't follow. You saw someone else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:00:52",
+      "text": "Yes. We looked at the wrong image. We used that wrong image to decide how to operate on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:00:57",
+      "text": "Why would that happen? I thought you people were professionals."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:09",
+      "text": "It was a failure in how we organized the files. I am sorry for any confusion this has caused. We have been incredibly busy on the ward lately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:13",
+      "text": "Well, that doesn't help me. Am I in danger?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:24",
+      "text": "We have now found your correct scan. The good news is that we have corrected the plan. But I realize this is upsetting news to hear."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:30",
+      "text": "Upsetting? I'm just confused. I don't understand why you're telling me this now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:36",
+      "text": "I want to be honest about what happened. It is a very frustrating situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:43",
+      "text": "I just wanted to get this over with. My hip has been hurting for months."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:50",
+      "text": "I hear you. It is a lot to take in when you just want to feel better."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:54",
+      "text": "So, does this mean the surgery is cancelled?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:10",
+      "text": "No, the surgery is still happening. We have the right image now, and the surgeon has reviewed it. To make sure we are on the same page, can you tell me what you understood about the mistake I mentioned?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "You looked at the wrong picture. Someone else's picture."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "That's correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "And you're sorry about the confusion."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "Yes, I am."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "Here is the plan. I have already updated your chart with the correct images. The lead surgeon is going to review the new plan one more time this afternoon. I will come back to your room at 4:00 PM today to tell you the exact time of your surgery tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "4 o'clock. Right. Do I need to do anything?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:57",
+      "text": "Your only job right now is to keep fasting from midnight tonight, just as we planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "I can do that. I'm used to not eating."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "I appreciate that. I'll be back at 4:00."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "Alright. Thank you, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:13",
+      "text": "You're welcome, Mr. Thompson."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and adjusts pacing to the patient's confusion and distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and a comprehension check was performed once."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology was offered, but it was diluted by an excuse regarding being 'incredibly busy on the ward lately'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named specific emotions ('upsetting', 'frustrating') and referenced the patient's desire to feel better."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provided specific next steps with a timeline (4:00 PM) and a named patient role (fasting), but did not address prevention."
+    }
+  }
+}

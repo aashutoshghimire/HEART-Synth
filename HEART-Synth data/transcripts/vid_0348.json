@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0348",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hi Ms. Patel, I wanted to come in and talk to you about the reaction you had to the medication this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:19",
+      "text": "I'm still feeling the itching. The nurse said it was just a side effect, but I told her three times I'm allergic to that class of drugs."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:31",
+      "text": "Right, well, I've looked at your chart. There was a mistake with the prescribing process. The allergy was listed, but it was overlooked when the order was put through."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:45",
+      "text": "Overlooked? I wrote it on the intake form myself. And Dr. Aris told me yesterday that this specific medication was safe for me because of my history. He specifically said it wouldn't trigger anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:54",
+      "text": "I know that's confusing. Dr. Aris gave you some incorrect information. The medication was actually contraindicated because of your allergy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:09",
+      "text": "This is exactly why I don't trust this place. One person says it's fine, then I break out in hives, and now you're telling me it was just... overlooked? How does that even happen in a hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:20",
+      "text": "I'm sorry for any confusion this caused. We were really busy with a surge in the ER this morning and things got a bit chaotic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:30",
+      "text": "I don't care how busy you are. My skin feels like it's on fire and I'm the one sitting here in the bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:39",
+      "text": "I can see that you're feeling really frustrated and angry right now. It is completely unfair that you're dealing with this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:55",
+      "text": "Frustrated doesn't even cover it. I feel like I'm not being listened to. I spent twenty minutes explaining my medical history to the admitting nurse and for what? To be given a drug that could have put me in respiratory distress?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:04",
+      "text": "I have to go check on another patient in a moment, but I want to make sure we address this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:14",
+      "text": "Wait, you're leaving? I'm still trying to understand why I was given a drug I'm allergic to after being told it was safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:24",
+      "text": "Look, the administration of the drug happened because the flag in the system wasn't caught. It's a titration error based on the pharmacy's output."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "What does that even mean? A titration error?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:35",
+      "text": "It just means the dosage and the specific agent didn't align with your allergy profile."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "So you're saying the computer failed or you failed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:44",
+      "text": "Like I said, the team was under a lot of pressure today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:52",
+      "text": "I'm not interested in the pressure you're under. I want to know if I'm going to have another reaction."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:03",
+      "text": "You're safe now. The medication is out of your system. I've already updated your chart with a bold red alert so this cannot happen again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "How do I know you actually did that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:18",
+      "text": "I did. Your role now is just to alert any nurse who comes in here if they try to give you something that looks unfamiliar."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "That's my job? To do your job for you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:34",
+      "text": "Let's wrap this up quickly because I really do have to go. I'll have the attending physician stop by tomorrow morning to review the rest of your meds."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:42",
+      "text": "Tomorrow? I want someone here now who can explain why I was lied to by the first doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:49",
+      "text": "Dr. Aris will be in on his shift tomorrow. He'll be able to clarify that then."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "This is unbelievable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:04:07",
+      "text": "I'll make sure the nurses keep giving you the antihistamines every six hours to bring the swelling down. Just keep an eye on your breathing and press the call button if it gets worse."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to go check on another patient', 'wrap this up quickly because I really do have to go')."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The resident uses medical jargon ('titration error', 'contraindicated') and never checks for patient comprehension."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology is diluted by an immediate excuse regarding the ER surge ('I'm sorry for any confusion... We were really busy')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('frustrated and angry') and acknowledges the unfairness of the situation."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides specific steps (antihistamines every 6 hours, attending visit tomorrow), a patient role (alerting nurses), and prevention (bold red alert in chart)."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0173",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Osei, thank you for coming back into the room. I need to discuss something with you regarding the fetal heart rate monitoring from earlier this afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "I'm listening. Is everything alright with the baby?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "There was a mistake in how the tracing was interpreted. I reviewed the monitor and categorized the decelerations as normal, but they were actually indicative of fetal distress. A second clinician reviewed the strip two hours later and identified the severity of those drops."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:35",
+      "text": "Wait. You're telling me you misread the monitor? For two hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:42",
+      "text": "Yes, that is correct. I apologize. I was responsible for that assessment, and I got it wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:58",
+      "text": "I am a nurse practitioner, Doctor. I know exactly how these strips are read. This isn't just a \"mistake.\" This is a failure to meet the basic professional standard of care. You left my child at risk for two hours because of a lapse in competence."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:02",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:13",
+      "text": "Do you? Do you actually understand that while you were \"categorizing,\" my baby was potentially suffocating? How does this even happen in a modern hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:21",
+      "text": "The tracing showed a pattern that I misidentified as a non-reassuring but stable trend, rather than a critical one."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:28",
+      "text": "That is an excuse. You saw a deceleration and you ignored the clinical significance. This is negligent."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:33",
+      "text": "I understand. Right now, the priority is the baby's current status."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:44",
+      "text": "Don't pivot. I want to know why the system allowed a resident to misread a strip for two hours without a double check. Who else saw this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:51",
+      "text": "Only the second clinician who corrected the reading. I am the one who made the initial error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:58",
+      "text": "This is absolutely unacceptable. I feel sick. I can't believe I trusted my care to this team."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:14",
+      "text": "You keep saying you understand, but you aren't actually listening to me. You're just reciting a script. My child was in danger because you weren't doing your job."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:20",
+      "text": "We need to move forward with the plan to ensure this is managed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:31",
+      "text": "I don't care about the plan yet. I care about the fact that you almost caused a permanent injury. Are you even capable of reading these strips?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:47",
+      "text": "I am sorry that this happened. To make sure we have the baby safe now, I have already coordinated with the senior consultant and the neonatal team. We are going to perform a bedside ultrasound every thirty minutes for the next four hours to monitor blood flow. I have also requested a formal review of the entire monitoring log by the Chief of Obstetrics, which will be completed by tomorrow morning at 9 AM. You will be present for that review so you can ask questions of the department head directly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "And what happens if the baby shows symptoms later?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:07",
+      "text": "I have already charted a high-observation status for the delivery. This means we will have a one-on-one nurse in this room at all times, and we will perform Apgar assessments every five minutes post-birth. I've also initiated an incident report through the hospital's quality board, and you will receive a copy of the internal investigation's findings within seven business days. Your role now is to alert us to any change in fetal movement you feel, even slight, and we will trigger an immediate ultrasound."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:17",
+      "text": "I want the senior consultant in here. Now. I don't want you as the primary point of contact for the rest of this stay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:23",
+      "text": "I will go get the consultant immediately and bring them back to the room."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language to pivot away from the patient's distress ('Right now, the priority is...', 'We need to move forward with the plan...')."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly in the first turn, but there are no comprehension checks performed throughout the transcript."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I apologize', 'I am sorry'), takes personal responsibility, and maintains accountability despite the patient's pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident relies exclusively on generic validation ('I understand') and does not name specific emotions or engage with the patient's emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific steps (ultrasounds, review, high-observation status), clear timelines (every 30 mins, tomorrow 9 AM, 7 business days), a patient role (alerting to fetal movement), and prevention (incident report/review)."
+    }
+  }
+}

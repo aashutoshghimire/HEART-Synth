@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0006",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Ms. Patel, thank you for coming back in to see me today. I asked you to come in because I need to discuss something that happened during your daughter's visit yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "I figured as much."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "I want to be very direct with you. I made a mistake. When I was preparing your daughter's immunizations, I drew up the vaccines based on the wrong weight band. This means she was given a dose of one of the vaccines intended for a much older, heavier child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:48",
+      "text": "I am so sorry. I take full responsibility for this error. It is my job to ensure the dosage is exact, and I failed to do that yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "Which vaccine was it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:01",
+      "text": "It was the pneumococcal vaccine. Specifically, the volume of the liquid was higher than what is required for her current weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:05",
+      "text": "And what does that mean for her?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:20",
+      "text": "I know that hearing this is incredibly unsettling, especially when you trust us with your child's health. This is a difficult conversation to have, and I realize this might feel like a breach of that trust."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:24",
+      "text": "It is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:37",
+      "text": "I understand that skepticism. You've mentioned before that you've had bad experiences with medical systems in the past, and I recognize that this mistake only reinforces those feelings for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:41",
+      "text": "Yes, it does."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:57",
+      "text": "I really want to make sure I am being clear about what happened. When I say weight band, I mean the specific dosage range we use to make sure a baby gets the right amount of medicine for their size. In this case, she got the dose for a child in a higher weight bracket. Does that make sense, or can I explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "It makes sense."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:07",
+      "text": "I am truly sorry that this happened. There is no excuse for the oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:11",
+      "text": "So what now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:23",
+      "text": "We are monitoring her. Because it was a vaccine, the risk of a severe reaction is low, but it is still a mistake that should not have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "Do I need to bring her back in?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:32",
+      "text": "We'll see. I'll probably send an email or something later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:41",
+      "text": "Just soon. I'll check with the attending and let you know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "What exactly are we looking for?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:50",
+      "text": "Just general things. We'll keep an eye on the situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "Is there a protocol for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "We are looking into it. I'll be in touch."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows full pauses, never interrupts, and remains regulated throughout the patient's expressions of distrust."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and a comprehension check was performed once."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language and took full personal responsibility without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions ('unsettling', 'skepticism') and referenced the patient's previous history of bad experiences with medical systems."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The plan consists entirely of placeholders and vague responses such as 'We'll see', 'Just soon', and 'We are looking into it'."
+    }
+  }
+}

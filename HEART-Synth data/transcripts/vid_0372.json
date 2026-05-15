@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0372",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello Mr. Mbeki. Thanks for meeting with me again. I've had a chance to look into the questions you asked during our last talk."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:19",
+      "text": "I appreciate you coming back. I've been thinking about it. I just keep wondering how this even happens in a place like this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:35",
+      "text": "I understand that's frustrating. To be clear about what happened, the surgical plan required us to check your blood pressure and heart rate every fifteen minutes for the first few hours after your procedure. Because of a lapse in our monitoring process, those checks weren't done as often as they should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:39",
+      "text": "So you just didn't check?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:55",
+      "text": "That's correct. Your blood pressure dropped to a low level, and because we weren't monitoring it at the required frequency, we didn't notice for two hours. I want to apologize. It was our team's responsibility to monitor you, and we failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:11",
+      "text": "Two hours. My business is already struggling with me being out. If something had actually happened to my kidneys or my brain because of that drop, I wouldn't be going back to work at all. I'd be bankrupt."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:19",
+      "text": "I understand. Does that explanation make sense, or is there any part of the timing that is still unclear?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:30",
+      "text": "It makes sense. It makes me feel like I was just a number on a chart that someone forgot to look at. It's a bit frightening, honestly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:42",
+      "text": "It's a very serious matter. I've got a few more patients to see before the shift change, so I want to make sure we address the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:51",
+      "text": "I'm not sure if I'm ready to just move on to next steps. I'm wondering if this is common here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:01:57",
+      "text": "I can tell you it's not the standard we strive for. I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:04",
+      "text": "Do you? Because you're talking about schedules and shifts and I'm talking about my livelihood."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:16",
+      "text": "Right. Regarding the plan moving forward, we are going to keep you on a more frequent monitoring schedule for the next twenty-four hours just to be absolutely safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:24",
+      "text": "And then what? When do I actually get to go home? Every day I'm here is money I'm losing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:35",
+      "text": "We'll likely be able to discharge you tomorrow afternoon, provided the readings stay stable. You'll just need to keep us updated if you feel any dizziness today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:43",
+      "text": "Tomorrow afternoon. I'll have to call my manager again. I don't even know what to tell him now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:48",
+      "text": "I'm sorry about the stress this is causing your business."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:55",
+      "text": "It's not just stress. It's my rent. It's my employees' wages. This wasn't a minor mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:05",
+      "text": "I see. Well, as I mentioned, we'll check your vitals every hour now. I'll come back by this evening to confirm the discharge paperwork."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "You're just checking boxes now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:22",
+      "text": "I'm trying to give you the most accurate timeline I have. If you have more questions about the medical side of the blood pressure drop, I can write them down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:31",
+      "text": "I don't want to write them down. I want to know why I should trust the people in this room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:40",
+      "text": "We are doing everything we can now to ensure you are stable. I'll be back in a couple of hours."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('I've got a few more patients to see before the shift change') during a moment of patient distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once ('Does that explanation make sense')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language, explicitly names the team as responsible, and maintains accountability despite patient pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident relies on generic validation ('I understand', 'I see') and frequently redirects emotional bids back to the medical plan."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides a specific next step (hourly vitals) with a timeline (next 24 hours) and a patient role (update if dizzy)."
+    }
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "video_id": "vid_0198",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Hello Ms. Patel. I wanted to come by and talk to you about how the surgery went."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:13",
+      "text": "I'm awake. I just want to know why I was under for longer than the estimate."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:20",
+      "text": "Right. Well, during the laparoscopic part of the procedure, a clip was placed on the wrong structure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:21",
+      "end_time": "00:00:24",
+      "text": "The wrong structure? What does that mean exactly?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:40",
+      "text": "It means that in the process of the ligation, the instrument was applied to a nearby piece of tissue instead of the target vessel. Because of that, we had to perform an additional maneuver to correct the placement and ensure everything was secure before we closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:48",
+      "text": "So you put a metal clip on something you weren't supposed to. Did that cause any permanent damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:53",
+      "text": "No, it was identified and corrected in the operating room."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:00:57",
+      "text": "Who did this? Was it you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:04",
+      "text": "The surgical team manages the field together. These things can happen when the anatomy is complex."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:17",
+      "text": "That isn't an answer. I read the consent form three times before I signed it. It said the risks were minimal for this specific approach. This sounds like a mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:21",
+      "text": "It was a complication during the intraoperative phase."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:29",
+      "text": "A complication is a side effect. A mistake is someone doing the wrong thing. This sounds like a mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:33",
+      "text": "I can see that you are frustrated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:49",
+      "text": "Frustrated isn't the word. I feel like I can't trust that the people in that room actually know what they are doing. I've had this happen before with a different clinic, which is why I'm asking for a straight answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:55",
+      "text": "I understand. But like I said, it was corrected before you left the table."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:02",
+      "text": "But why was it done in the first place? How do I know nothing else was missed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "The surgeons were very thorough in the final check."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:17",
+      "text": "You're avoiding the question. Did you or the lead surgeon actually apologize for this, or am I just supposed to accept it as part of the process?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:21",
+      "text": "We are focused on your recovery right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:30",
+      "text": "I'm focusing on my recovery too, which starts with knowing exactly what happened inside my body. Who is accountable for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:38",
+      "text": "The system we have in place is designed to catch these things, and it worked. The error was caught."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:45",
+      "text": "Again, \"the system.\" I want to know if the person holding the tool knows they messed up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "It's a very fast-paced environment in the OR."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "That doesn't make it okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "Look, the result was successful. You're stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:04",
+      "text": "I'm stable, but I'm not satisfied. What happens now? How is this recorded in my chart?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "It will be in the operative note."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:13",
+      "text": "And what about my follow-up? Does this change my recovery time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "We'll probably just see you at the usual time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "When is that? Exactly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:26",
+      "text": "Usually it's a week or two. I'll have to check the schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:30",
+      "text": "That's not a date."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:37",
+      "text": "I'll make sure someone sends you a notification or an email about the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:47",
+      "text": "I don't want an email. I want a date and a name of who is going to explain the pathology of the correction."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:51",
+      "text": "I'll see if the attending can stop by later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:55",
+      "text": "Can you promise that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:04:00",
+      "text": "I can't promise their schedule, but I'll put it on the list."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:05",
+      "text": "This is exactly why I don't trust hospitals. You talk in circles."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "I've told you the facts of the case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:14",
+      "text": "You've told me a version of the facts that protects you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:20",
+      "text": "Well, there isn't much more to say about the clip since it's gone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:21",
+      "end_time": "00:04:26",
+      "text": "I want a copy of the surgical report before I leave this bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:27",
+      "end_time": "00:04:31",
+      "text": "I don't know if I can get that printed right this second."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:32",
+      "end_time": "00:04:35",
+      "text": "Then I'll wait."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:36",
+      "end_time": "00:04:42",
+      "text": "I have to go check on another patient now, but we'll get the paperwork sorted."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident shows defensive escalation under pushback, using phrases like 'Look, the result was successful' and 'I've told you the facts of the case' to shut down the patient."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly, but the resident never checked for patient comprehension and used medical terminology like 'ligation' and 'intraoperative phase'."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to 'the surgical team' and 'the system'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident used generic validation ('I understand') and named one emotion ('frustrated'), but otherwise met emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provided vague next steps (checking the schedule, seeing the attending) without specific timelines or a defined patient role."
+    }
+  }
+}

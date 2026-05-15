@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0022",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello Mrs. Fitzgerald, I wanted to come by and talk to you about the reaction you had to the medication earlier."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:24",
+      "text": "Oh, thank goodness you're here. I was so frightened. I felt my throat closing and I just kept thinking that if I died, my Arthur would be all alone in the afterlife and I don't know who would have handled the funeral arrangements because he did everything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:40",
+      "text": "Right, so what happened is that the medication we gave you, the antibiotic, interacted with your system in a way that caused that rash and the breathing difficulty. We\u2019ve given you some steroids to bring that inflammation down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:56",
+      "text": "But I told the nurse. I told everyone I'm allergic to that specific kind of drug. Arthur always reminded me to tell the doctors because I get so confused when I'm nervous. He was always my rock, and now I just feel so small and alone in this bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:05",
+      "text": "As I was saying, the drug was administered, but we have stopped it now. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:19",
+      "text": "I suppose it makes sense that it's stopped, but why did it happen? I specifically listed it on my forms. I can't believe I almost had a crisis here. I'm just so shaken up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:35",
+      "text": "Well, it looks like the allergy was documented in the chart, but it wasn't caught before the dose was given. There are a lot of moving parts in a hospital and sometimes things get overlooked in the system during the transition from pharmacy to the floor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:44",
+      "text": "Overlooked? My life was overlooked? I just can't stop crying, I feel like I'm failing at everything since he passed away."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:51",
+      "text": "I can see you're upset. Anyway, the important thing is that your vitals are stable now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:57",
+      "text": "I just don't understand how this could happen. Did nobody look at my file?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:08",
+      "text": "The file was there, it just wasn't flagged in time for this specific order. Do you understand the process of how the medication is ordered?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:21",
+      "text": "I don't care about the process. I care that I couldn't breathe. I felt so helpless. Arthur would have known exactly what to say to the doctors to make them listen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:33",
+      "text": "I have to go in a few minutes for rounds on the other patients, so let's wrap this up. Your breathing is fine now and the rash is fading."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:42",
+      "text": "You're leaving? I'm still shaking. I don't feel like I've been told why this happened or if it's going to happen again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:47",
+      "text": "It's unlikely to happen again because we know about it now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:54",
+      "text": "But who is responsible for this? I need to know that someone is taking this seriously."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:04",
+      "text": "It was a series of events. The system has alerts, but sometimes they are bypassed. We will just be more careful moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:12",
+      "text": "I just feel so fragile. I don't think I can handle another scare like this. I really miss him."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:19",
+      "text": "It's a difficult time for you. Now, regarding the next steps, we'll keep an eye on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:24",
+      "text": "What does that mean? Do I have to do anything?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:32",
+      "text": "We'll just monitor your oxygen levels and we'll see how the steroids work over the next few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "And the medication? What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:43",
+      "text": "We'll look for a different antibiotic. I'll check with the pharmacy and we'll see about a substitute."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "When will that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:54",
+      "text": "Sometime today, probably. Just stay put and let the nurses know if you feel any more itching."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('let's wrap this up', 'I have to go in a few minutes') and interrupts the patient's emotional narrative ('As I was saying')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (medication interaction/allergy) is named explicitly, lay language is used, and comprehension is checked ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is deflected to 'the system' and 'moving parts'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's repeated emotional bids regarding her late husband and fear are consistently met with factual redirection or dismissive transitions ('Anyway', 'Now, regarding the next steps')."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan is vague ('Sometime today, probably') and lacks a specific patient role beyond 'stay put'."
+    }
+  }
+}

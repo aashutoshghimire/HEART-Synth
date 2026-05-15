@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0052",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Ms. Williams, thank you for seeing me. I need to talk with you about what happened with your medication yesterday and why you had to have that emergency procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:19",
+      "text": "I just want to know why I started bleeding. I woke up and everything was just... I was terrified."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:32",
+      "text": "I am so sorry. This happened because of a mistake I made. I ordered a dose of your blood thinner that was ten times higher than it should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "Ten times? How is that even possible?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:49",
+      "text": "It was a dosing error on my part. Because the dose was so high, it caused internal bleeding, which is why we had to step in so quickly to stop it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:01:00",
+      "text": "I can't believe this. I have two kids at home. I'm the only one who takes care of them. Who is watching them right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:09",
+      "text": "I can see how overwhelming this is. You're thinking about your children and whether they're safe while you're stuck here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:21",
+      "text": "They're with my sister, but she can't do this for long. I have two jobs. I can't just miss a week of work because someone messed up my medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:30",
+      "text": "It is incredibly stressful to be worrying about your family and your job while you are trying to recover from a crisis."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:35",
+      "text": "So what now? Am I okay? Is the bleeding gone?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:40",
+      "text": "The emergency intervention stopped the bleeding. We are monitoring you closely now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:45",
+      "text": "Why did this happen? Was it the computer? Or the nurse?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:55",
+      "text": "No, this wasn't a computer glitch. I was the one who entered the wrong dose into the system. I take full responsibility for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:06",
+      "text": "I just... I feel like I can't trust anyone here. If you can give ten times too much of something, what else is going wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:16",
+      "text": "I understand that trust is broken right now. It is a frightening feeling to realize the person caring for you made a serious mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:21",
+      "text": "I just need to get home. I can't be here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:32",
+      "text": "I know you feel a desperate need to get back to your kids. We are going to stay here with you and make sure you are stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:39",
+      "text": "How long is this going to take? I need a date. I need to tell my boss."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "We'll keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "That's not a date. When can I go?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:52",
+      "text": "We just have to see how the next few tests go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "Which tests? What tests?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:01",
+      "text": "The blood work. We'll check the labs and then we'll know more."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:07",
+      "text": "And then what? Do I just wait here until someone decides I'm okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "We will keep you updated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:21",
+      "text": "This is unbelievable. I'm lying here in this bed and I don't even know what the plan is to get me out of here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "We'll keep monitoring the bleeding."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:37",
+      "text": "But what about the medicine? Am I still taking that blood thinner? Because if you're just going to give me ten times too much again, I'd rather not."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "We are adjusting the dose now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "To what? What is the correct dose?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:49",
+      "text": "We are using the standard protocol now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:56",
+      "text": "I don't know what a protocol is. I want to know what is going into my body."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "We'll make sure the dosage is correct moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:05",
+      "text": "When am I going home? Please just give me a timeline."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:12",
+      "text": "I can't give you a specific day yet, but we'll see how you respond to the treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:13",
+      "end_time": "00:04:21",
+      "text": "My daughter is four. She thinks I'm just sick. I can't tell her that I'm here because my doctor made a mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:22",
+      "end_time": "00:04:29",
+      "text": "That is a heavy burden to carry, trying to protect your children from the reality of what happened here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:30",
+      "end_time": "00:04:33",
+      "text": "It's just too much. I can't do this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:34",
+      "end_time": "00:04:38",
+      "text": "I know it feels like everything is hitting you at once."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:39",
+      "end_time": "00:04:42",
+      "text": "I just want to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:43",
+      "end_time": "00:04:46",
+      "text": "We'll keep checking your levels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:47",
+      "end_time": "00:04:50",
+      "text": "That doesn't tell me when I can leave."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:51",
+      "end_time": "00:04:54",
+      "text": "We'll just have to wait and see."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite repeated pushback and frustration."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but the resident never checked for patient comprehension."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, took full personal responsibility, and maintained that accountability throughout the encounter."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions (overwhelming, stressful, frightening, heavy burden) and referenced the patient's children and job."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders such as 'we'll keep an eye on things' and 'wait and see' without timelines, patient roles, or prevention steps."
+    }
+  }
+}

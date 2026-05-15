@@ -1,0 +1,141 @@
+{
+  "video_id": "vid_0051",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Mr. Okafor, thank you for meeting with me. I need to talk to you about what happened with your medication yesterday. There was a serious error. I ordered ten times the amount of anticoagulant that you should have received. Instead of five milligrams, you were given fifty."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:25",
+      "text": "Ten times? I felt some dizziness, but I didn't realize it was a dosing error. What exactly did that do to my body?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:41",
+      "text": "Because the dose was so high, your blood became too thin. This led to internal bleeding in your gastrointestinal tract, which is why we had to bring in the emergency team to stabilize you and give you a reversal agent to stop the bleed. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:54",
+      "text": "It makes sense, though it is quite alarming. I trust the process here, but I can't help but wonder how a ten-fold error even happens. Was it a typing mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:10",
+      "text": "It was. I typed the wrong number into the system and didn't catch it before it was processed. I'm sorry for any confusion this caused you. We were really busy on the ward yesterday and things were moving fast."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:26",
+      "text": "I appreciate the apology, but I'm more concerned about the fact that I almost bled out because of a typo. I spent my whole career teaching students to double-check their work. I'm feeling quite shaken by the lack of oversight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:40",
+      "text": "I can hear how distressing this is for you. To feel like the very people caring for you weren't paying attention to the details\u2014especially when you value precision so much\u2014must be incredibly unsettling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:49",
+      "text": "It is. It makes me question every other pill I've taken since I got here. If this happened once, what else\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:05",
+      "text": "Look, we just need to move forward now. The bleeding has stopped and your vitals are stable. I have to go check on another patient in a few minutes, so I want to make sure we're on the same page. Do you have any other questions about the dose itself?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:14",
+      "text": "I do. I want to know what the long-term effects of that massive overdose are. Will this affect my kidney function or\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:30",
+      "text": "I can tell you that right now your labs are returning to normal. It's a very scary experience, and I can see you're still processing the shock of it all. I really want to support you through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:37",
+      "text": "I appreciate the empathy, but I'm still asking about my kidneys. Was there any organ damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:46",
+      "text": "Let's wrap this up quickly because I'm running behind. As I said, the reversal agent worked. We've corrected the coagulation levels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:59",
+      "text": "You're rushing me. I'm trying to understand the damage to my body. Who is going to ensure this doesn't happen again? I don't want to just \"move forward\" without a guarantee."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:08",
+      "text": "I understand you're worried about the safety of your care. It's completely valid to feel that way after such a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:17",
+      "text": "Then what is the plan? How are we fixing the system so the next person doesn't get ten times their dose?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:28",
+      "text": "We'll see what the administration says. Stay tuned for an email from the patient safety team. They usually send something out after an incident report is filed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:38",
+      "text": "An email? I'm lying in a hospital bed. I want a specific protocol change. I want to know who is checking your orders."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:49",
+      "text": "We'll keep an eye on things. Just keep resting and we'll figure it out. I really have to get going now. I'll stop by later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('move forward now', 'wrap this up quickly', 'running behind', 'have to get going now')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn, lay language was used, and comprehension was checked once ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology was offered, but it was immediately diluted by an excuse regarding being busy on the ward."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions ('distressing', 'unsettling', 'scary experience', 'shock') and referenced the patient's specific value of precision."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague responses ('We'll see what the administration says', 'stay tuned', 'we'll figure it out')."
+    }
+  }
+}

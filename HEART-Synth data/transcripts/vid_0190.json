@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0190",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Chen, thank you for sitting up with me. I want to talk to you about something that happened yesterday after your surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "Is... something wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "Yes. I need to tell you that we made a mistake in your care. After your procedure, I was supposed to check your blood pressure every fifteen minutes. We didn't do that. We missed several checks, and your blood pressure stayed too low for two hours without us knowing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "Low?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:44",
+      "text": "Yes. Blood pressure is like the water pressure in a pipe. When it is too low, the blood doesn't push enough oxygen to your organs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:48",
+      "text": "I felt... very sleepy. Very dizzy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:01:02",
+      "text": "I know you did. I am so sorry, Mr. Chen. This was my responsibility as your doctor, and I failed to make sure those checks happened. I apologize to you for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "I thought... maybe it was just the medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:17",
+      "text": "It might have felt that way, but it was because we weren't monitoring you like we should have been. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:21",
+      "text": "Yes. I think so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:32",
+      "text": "I can see you look confused, and maybe a little worried. It is very unsettling to find out the people looking after you missed something important."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:37",
+      "text": "I don't... I don't understand why. You are good doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:47",
+      "text": "I appreciate you saying that, but being a good doctor means being honest when I make a mistake. I let you down yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:51",
+      "text": "Did I... did I hurt my heart?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:07",
+      "text": "That is a very important question. We have run tests, and your heart and kidneys are working fine now. There is no permanent damage. I don't want to tell you everything is perfect, but right now, your vitals are stable. To make sure I'm being clear, can you tell me what you understood about why you felt dizzy?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:11",
+      "text": "You didn't check... the pressure. For two hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "I feel... very strange. I thought I was safe here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:36",
+      "text": "It is completely normal to feel that way. It is scary to feel like you aren't being watched closely when you are most vulnerable. I am sitting here with you now, and I am not going anywhere until we have answered every question you have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "What now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:56",
+      "text": "Here is the plan to keep you safe. First, I have personally updated the nursing chart so that the checks are now every ten minutes instead of fifteen for the next twelve hours. Second, I have asked the head nurse to double-check the logs every four hours to make sure no one misses a beat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "Who checks?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:16",
+      "text": "The nurses will do the checks, and the head nurse will verify them. And I want you to help me too. If you feel that dizziness again, or if you feel a sudden chill, I want you to press this red button right here immediately. Do you think you can do that for me?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "Press button. Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:34",
+      "text": "Thank you. I will be back in one hour to check your blood pressure myself and to see how you are feeling. In the meantime, do you have any other questions about what happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "No. I just... I want to sleep."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:47",
+      "text": "I understand. I will let you rest now. I will be back in one hour. I am truly sorry again, Mr. Chen."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a patient pace, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, used a water pipe analogy for lay language, checked comprehension twice, and avoided false reassurance by stating 'I don't want to tell you everything is perfect'."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Used direct apology language ('I am so sorry', 'I apologize') and took full personal responsibility ('This was my responsibility... I failed')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Named specific emotions twice ('confused', 'worried', 'scary') and engaged with the patient's feeling of vulnerability."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provided specific steps (10-min checks, 4-hour head nurse audits) with timelines, assigned the patient a role (press the red button), and addressed prevention."
+    }
+  }
+}

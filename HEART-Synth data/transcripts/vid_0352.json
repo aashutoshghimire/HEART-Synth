@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0352",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Thank you both for coming in today. Ms. Patel, I wanted to sit down with you and your sister to discuss your most recent imaging."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:19",
+      "text": "Is this about the scan from Tuesday? You told me on the phone it looked like the tumor had shrunk."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:35",
+      "text": "I need to correct that information. There was an error in how those results were communicated to you. I gave you a preliminary reading before the radiologist had officially signed off on the report. The final, verified report shows that the disease is actually stable, not reduced."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:40",
+      "text": "Wait. What do you mean by stable? You said it was smaller."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:52",
+      "text": "Stable means the tumor is the same size as it was on the last scan. It hasn't grown, but it hasn't shrunk either. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:02",
+      "text": "It makes sense that you're changing the story. It doesn't make sense that you'd tell me it was shrinking if you didn't actually know."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:11",
+      "text": "I see. I wanted to give you the news quickly, and I shared the initial findings without waiting for the final verification."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:25",
+      "text": "Quickly? I've spent the last three days telling my family we were winning this. I actually felt like I could breathe for a second. Now you're telling me it's just... what? The same?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "I can tell this is a huge disappointment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:44",
+      "text": "Disappointment is a polite word for it. I don't trust this process. I've had doctors tell me things were fine before they found a massive leak in my last surgery. Why is this happening again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:50",
+      "text": "I understand you've had bad experiences with the medical system in the past."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:02:05",
+      "text": "You don't understand. You're just saying a phrase. My sister had to fly in because I told her the meds were working. Now we're back to square one because someone couldn't wait for a signature?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:15",
+      "text": "The timing of the communication was handled incorrectly. We were managing a high volume of patients and the preliminary data was relayed too soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "So it's a volume issue? You're too busy to be accurate?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:27",
+      "text": "I'm saying the system was under pressure, but the result is that you were given incorrect information."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:32",
+      "text": "I want to know who exactly did this. Was it you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:37",
+      "text": "I was the one who called you with the preliminary results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "And you just decided to wing it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "I wanted to provide a timely update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:55",
+      "text": "While I'm sitting here wondering if I need to change my entire life plan, you wanted to be timely. This is incredibly reckless."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:07",
+      "text": "I realize this is upsetting. However, we need to focus on the clinical reality now, which is that stable disease is still a positive outcome compared to growth."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:15",
+      "text": "Don't tell me it's a positive outcome. You don't get to decide how I feel about this mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "I'm trying to explain the medical context."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:35",
+      "text": "I don't care about the context! I care that I can't trust a word coming out of your mouth right now. How do I know this final report is even real? How do I know you didn't just misread it again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:42",
+      "text": "The final report is signed by the lead radiologist and is the gold standard for the imaging."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:47",
+      "text": "I want to see it. I want to read the actual words."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:04:03",
+      "text": "I can print that for you. Now, looking forward, the next step is for us to meet with the oncologist on Thursday at 10 AM. We will review this stable result and decide if we should adjust your medication or stay the course. Your role will be to bring a list of questions for the specialist, and I will ensure the oncologist has a full briefing on this communication error before you walk in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:08",
+      "text": "I'm not sure I want to see the same team."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:15",
+      "text": "I hear that, but the oncology team is the best for this specific tumor type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:16",
+      "end_time": "00:04:19",
+      "text": "And you're sure this is the final word?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:20",
+      "end_time": "00:04:23",
+      "text": "Yes, this is the final, signed report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "I'm still not okay with this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:40",
+      "text": "I understand. Let's get that printout for you. I actually have to get to another appointment now, so let's wrap up the logistics. I'll have the nurse bring the paperwork."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language at the end of the encounter ('I actually have to get to another appointment now, so let's wrap up the logistics')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn, lay language was used, and comprehension was checked once ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') was used, and responsibility was deflected to the system ('the system was under pressure')."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand', 'I realize this is upsetting') but fails to engage emotional bids, often redirecting to facts."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides a specific next step with a timeline (Thursday at 10 AM), a named patient role (bring a list of questions), and addresses prevention (briefing the oncologist on the error)."
+    }
+  }
+}

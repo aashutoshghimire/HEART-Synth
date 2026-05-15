@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0070",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Ms. Williams, do you have a few minutes for us to talk?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:13",
+      "text": "I do. I just... I've been trying to call my sister to see if she can get the kids for the weekend."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:28",
+      "text": "I can see you're thinking about them. I want to be completely honest with you about your care over the last day and a half. There was a mistake in how your imaging was handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "When you had your CT scan, there was a blood clot in your lung\u2014what we call a pulmonary embolism. That clot was visible on the images, but it wasn't included in the first report the radiology team sent to us. Because of that, we didn't start your blood thinner treatment for eighteen hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:53",
+      "text": "Wait. Eighteen hours? You're saying it was just sitting there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:01:04",
+      "text": "Yes. I am very sorry. Our team missed this, and we failed to get you the treatment you needed as quickly as we should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:08",
+      "text": "My God. Was I... was I going to die?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:14",
+      "text": "It is a serious condition, and the delay was a failure on our part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:24",
+      "text": "I can't believe this. I'm already missing work. If something happened to me, my kids... they're so little. Who takes care of them?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:33",
+      "text": "It sounds like you're feeling completely overwhelmed right now, especially with the weight of everything you're carrying for your children."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:44",
+      "text": "I just can't be here for weeks. I have two jobs. I don't have a safety net. Now you're telling me you just missed it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:59",
+      "text": "I know this is incredibly frightening to hear. This is a heavy moment, and I want to make sure we sit with this for a bit. I am truly sorry that we let this happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "So what now? Am I okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:17",
+      "text": "You are currently stable, and the medication we've started is working to dissolve the clot. Just so I'm sure I explained it clearly, do you understand why there was a delay in your treatment?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "Yeah. The scan showed the clot, but the report didn't, so you guys didn't know."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "That's correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "Is it gone now? The clot?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:42",
+      "text": "Not entirely, but the medicine is treating it. We are monitoring your oxygen levels every few hours to make sure you're recovering safely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:48",
+      "text": "I just keep thinking about those eighteen hours. What if I'd had another one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:56",
+      "text": "That is a completely valid fear. It's scary to think about what could have happened during that gap."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:03",
+      "text": "I don't know how I'm supposed to trust that the rest of this is being done right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:09",
+      "text": "I understand why your trust is shaken. We have to earn that back."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:13",
+      "text": "So when can I go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:29",
+      "text": "I want to give you a clear idea of where we stand. Right now, we are waiting for one more blood test tomorrow morning to see how your levels are responding. If those look good, I'll speak with the attending physician tomorrow afternoon, and we can discuss a discharge date."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "Tomorrow afternoon. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:49",
+      "text": "I'll come back at 2:00 PM tomorrow to give you that specific update. In the meantime, the most important thing you can do is let us know immediately if you feel any new shortness of breath or chest pain."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:04:01",
+      "text": "I'll be checking in on you throughout the evening. Do you have any other questions for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:06",
+      "text": "Not right now. I just need to call my sister."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:07",
+      "end_time": "00:04:13",
+      "text": "Please take all the time you need. I'll step out and let you make that call."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and uses pacing that acknowledges the patient's distress without rushing."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, and comprehension was checked once ('do you understand why there was a delay')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I am very sorry') and the resident explicitly took team responsibility ('Our team missed this', 'failure on our part') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions ('overwhelmed', 'frightening', 'valid fear') and referenced the patient's specific concerns regarding her children."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Provided specific next steps with timelines (blood test tomorrow morning, update at 2:00 PM) and a named patient role (report shortness of breath), but did not address prevention of future errors."
+    }
+  }
+}

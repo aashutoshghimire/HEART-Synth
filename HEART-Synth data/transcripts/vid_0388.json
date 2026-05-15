@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0388",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Hi Mr. Park. I'm Dr. Miller, the resident on the surgical team. I wanted to come by and check on you and talk about why you're back with us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:17",
+      "text": "Oh, hi. Yeah. I just... the nurse told me something happened with my discharge?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:28",
+      "text": "Right. So, there was a bit of a situation with the timing of when you left the hospital yesterday. Things didn't go quite right with the scheduling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:41",
+      "text": "I don't really know. I just felt the wound starting to leak and then it got really red, so I came back to the ER. Was I not supposed to leave yet?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:51",
+      "text": "Look, I can tell you're feeling a bit overwhelmed right now. It's a lot to deal with, especially being here on your own."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:00",
+      "text": "I just... I didn't know if I did something wrong. Like, maybe I didn't take care of it right at home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:16",
+      "text": "No, you did everything we told you to do. It's just that the process was a bit rushed on our end. I am sorry for any confusion that caused. We were incredibly busy yesterday and things just got mixed up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:20",
+      "text": "Oh. Okay. So, did I leave too early?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:21",
+      "end_time": "00:01:27",
+      "text": "There were some issues with the protocol timing. We had some confusion regarding the window for discharge."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:32",
+      "text": "I'm kind of confused. Did the doctors make a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:39",
+      "text": "It was more of a system overlap. The paperwork and the timing didn't align perfectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:45",
+      "text": "But why is my wound doing this then? Is it because of the timing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:54",
+      "text": "It's possible that the timing contributed to how the wound is looking now. We're going to get it cleaned up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:02:07",
+      "text": "I just... I'm a bit scared. I don't really know who to call. My parents are in another state and I don't know if I should be worried about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:14",
+      "text": "I can see that you're anxious about this. It's scary when things don't go as planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:24",
+      "text": "Yeah. I just want to know what happened. Was I supposed to stay another six hours? The nurse mentioned something about six hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:30",
+      "text": "We had some irregularities in the discharge timeline. It wasn't the ideal window."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "So it was a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:43",
+      "text": "I'm sorry that it felt confusing. Like I said, the ward was slammed yesterday and the coordination just wasn't there."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:48",
+      "text": "I guess. I just don't want it to get infected."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "We're on top of it now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:59",
+      "text": "Do I have to stay overnight again? Or can I go home once this is cleaned?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:06",
+      "text": "I'm not entirely sure yet. We'll have to see how the wound looks after the cleaning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "When will I know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:19",
+      "text": "Just stay tuned. Someone will probably let you know later on or maybe we'll send an update to your portal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:25",
+      "text": "I don't really check the portal that much. Can you tell me now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:33",
+      "text": "I really have to get to my other patients right now, so I can't give you a definitive answer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "Oh. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "We'll just keep an eye on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:50",
+      "text": "But what about the mistake? Do I need to tell my insurance or... I don't even know how this works."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:55",
+      "text": "Don't worry about that. We'll handle the administrative side of things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:04:00",
+      "text": "I just feel like I'm not really sure what's going on."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:05",
+      "text": "It's a bit of a muddle, but we're fixing it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "I'll have the team check on you soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:22",
+      "text": "Let's just wrap this up for now. I'll check back in later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I really have to get to my other patients', 'Let's just wrap this up for now')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident never explicitly names the error, instead using platitudes like 'things didn't go quite right' and 'system overlap'."
+    },
+    "A": {
+      "score": 0,
+      "justification": "Responsibility is deflected to the system and the busy ward ('the ward was slammed', 'system overlap', 'coordination just wasn't there')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions twice ('overwhelmed', 'anxious') and engages with the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders ('stay tuned', 'we'll have to see') and refuses to give a definitive answer."
+    }
+  }
+}

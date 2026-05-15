@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0206",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:13",
+      "text": "Ms. Williams, thank you for coming in. I need to talk to you about your imaging results from last year. I've found that we made a mistake in how we handled your follow-up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:14",
+      "end_time": "00:00:17",
+      "text": "What do you mean? I thought everything was fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "There was an incidental finding on your scan, something that wasn't the main reason for the test but needed to be checked again in three months. It was written in a sub-section of the report, but that part wasn't forwarded to the primary team, so we never scheduled your next appointment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:38",
+      "text": "Wait. You're telling me you missed something? For how long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:51",
+      "text": "It has been several months since that follow-up should have happened. I am very sorry. This was our failure and I take full responsibility for the fact that this was overlooked."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:03",
+      "text": "This is unbelievable! I have two kids at home. I can barely get away from my jobs to come here, and you're telling me you just forgot about me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:09",
+      "text": "I know this is incredibly frustrating and it's completely unacceptable that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:17",
+      "text": "Frustrating? I am terrified! Does this mean I have something serious? Is that why you're telling me this now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:33",
+      "text": "I can see that you're scared, and it's completely valid to feel that way given the situation. Right now, we don't have a diagnosis, but the fact that we missed the window for that three-month check is why we need to act immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:44",
+      "text": "How can you just say sorry? Sorry doesn't fix the time I lost! Who even looked at my charts? Was it you? Who messed this up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:57",
+      "text": "Yes, it was my responsibility and the team's responsibility to ensure that every part of that report was acted upon. I failed to do that. There is no excuse for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:10",
+      "text": "I can't even believe this. I'm sitting here wondering if I'm going to be able to take care of my children and you're just telling me about a clerical error!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:23",
+      "text": "I realize how overwhelming this is, especially with the pressure of working two jobs and caring for your kids. It's a heavy burden to carry on top of this news."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:30",
+      "text": "You don't even know what it's like! I don't have time for \"incidental findings\" and missed appointments!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:41",
+      "text": "I understand that your time is limited and the stakes are high for your family. I want to make sure we fix this right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:46",
+      "text": "And what does that even mean? What are you going to do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:03:02",
+      "text": "I have already coordinated with the radiology department. I have a priority slot held for you this Friday at 9:00 AM for a repeat scan. I will personally call you on Friday afternoon by 4:00 PM to give you the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Friday? I have to work. I can't just leave."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:22",
+      "text": "I will provide a medical note for your employers to ensure your absence is excused. Also, I've scheduled a follow-up consultation for next Tuesday at 10:00 AM so we can sit down and discuss the results in detail."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:27",
+      "text": "Why should I trust you to do it right this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:43",
+      "text": "I know trust is broken right now. To make sure this never happens again, I've already flagged your file with a \"critical follow-up\" alert and I have briefed our nursing coordinator to double-verify all imaging summaries for our patients moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:48",
+      "text": "This is just a nightmare. I just wanted to get better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:55",
+      "text": "It is a nightmare, and I am truly sorry that we added this stress to your life."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:04:00",
+      "text": "I need to go call my sister. I can't even think straight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:13",
+      "text": "I understand. I have to go check on another patient now, so let's wrap this up quickly. I'll give you the appointment slips and the phone number for my direct line."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:19",
+      "text": "You're in a hurry now? After telling me you missed my scans for months?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:20",
+      "end_time": "00:04:25",
+      "text": "I just want to make sure you have the paperwork before I leave."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:26",
+      "end_time": "00:04:29",
+      "text": "This is just great. Just wonderful."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:30",
+      "end_time": "00:04:37",
+      "text": "I will be waiting for your call if you have more questions after you speak with your sister."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "I'll be calling. You better actually answer the phone."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "I will. You have my direct number right here."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('let's wrap this up quickly', 'I have to go check on another patient now')."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly and lay language was used, but there were no checks for patient comprehension."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, took full responsibility without deflection, and maintained accountability throughout the patient's pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('scared', 'overwhelming') and referenced the patient's specific life stressors (two jobs, children)."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided specific next steps with timelines (Friday 9am, Friday 4pm, Tuesday 10am), addressed the patient's role/needs (medical note), and explained prevention measures (critical follow-up alert)."
+    }
+  }
+}

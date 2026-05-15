@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0253",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hi Ms. Tremblay. I wanted to come in and talk to you about your recovery and something that happened with your monitoring overnight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:14",
+      "text": "I'm feeling a bit lightheaded. Is that normal for this stage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "That's actually what I need to discuss. We made a mistake. The orders for your post-op vital signs weren't followed at the frequency we required. Your blood pressure dropped, and because the checks weren't done, we didn't catch that drop for two hours. I am sorry. I was the lead on your care and I take full responsibility for this failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "Two hours? Why would that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:43",
+      "text": "It was a breakdown in our monitoring protocol. Your hemodynamic stability should have been tracked every fifteen minutes, but that didn't happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:48",
+      "text": "So my pressure was low for two hours and nobody noticed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "Yes, that is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:03",
+      "text": "I'm trying to understand if that means there's permanent damage. I have a deployment window in six months. I can't have a compromise in my cardiovascular function."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:12",
+      "text": "It's frustrating to feel like your timeline is at risk. I can tell you're focused on getting back to duty."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:18",
+      "text": "I am. I just need the facts. Did this cause organ failure or\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:29",
+      "text": "I have to go check on a few other patients in a moment, so let's just focus on the immediate state. Right now, your labs are stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:34",
+      "text": "You're cutting me off. I asked if there was permanent damage."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:42",
+      "text": "I'm saying the current labs are okay. But looking at the overall picture, we've corrected the pressure now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:52",
+      "text": "You haven't actually answered the question. If the protocol failed once, how do I know the rest of the recovery is being handled correctly?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:05",
+      "text": "I completely understand why you'd feel that way. It\u2019s a breach of trust. I apologize again, and I am not making any excuses for it. It should not have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:12",
+      "text": "Trust is one thing. Physiological impact is another. Were there any other markers that were missed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:19",
+      "text": "The vitals were the primary issue here. We're just keeping a close eye on you now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:27",
+      "text": "I need a detailed breakdown of the window where the monitoring lapsed. I want to see the actual logs."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:32",
+      "text": "We can look into how to get those for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:41",
+      "text": "Probably sometime this week. I'll see what the nursing lead says."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:49",
+      "text": "This is too vague. I need a specific plan to ensure this doesn't happen again before I'm discharged."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "We've noted the error in the chart."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:59",
+      "text": "That doesn't help me. What is the actual plan for the next forty-eight hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:09",
+      "text": "We'll just keep monitoring you. Let's wrap this up for now so I can get to my other rounds. I'll stop by later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:15",
+      "text": "You're leaving without telling me how you're going to fix the monitoring gap."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:21",
+      "text": "Just stay tuned for an update from the team. I'll be back around."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to go check on a few other patients', 'let's wrap this up for now') and interrupts the patient's question about permanent damage."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but there were no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language ('I am sorry', 'I apologize'), took full personal responsibility, and maintained that accountability despite patient pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident named specific emotions ('frustrating', 'breach of trust') and referenced the patient's specific concern regarding their deployment window."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague responses ('probably sometime this week', 'stay tuned') and failed to provide a concrete plan for prevention."
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "video_id": "vid_0300",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:03",
+      "text": "Good morning, Mrs. Al-Rashid. How are you feeling today?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:04",
+      "end_time": "00:00:12",
+      "text": "I am feeling very worried, doctor. I have not slept. I keep thinking about the diagnosis you told me yesterday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:20",
+      "text": "I can see that you are very distressed. It is completely understandable to feel shaken by news like that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:21",
+      "end_time": "00:00:31",
+      "text": "My daughters are already planning for my care. I do not know how to tell my husband. Is it true that I have this condition?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:44",
+      "text": "Actually, that is why I am here. I have to tell you that there has been some confusion with the paperwork and things didn't go quite right with the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:48",
+      "text": "What does that mean? I do not understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:01:01",
+      "text": "Well, there was an issue with the scheduling system and some mix-ups occurred. I am very sorry that this happened and my team and I take full responsibility for the mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:08",
+      "text": "A mistake? You told me I was very sick. Are you saying I am not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:19",
+      "text": "We had some trouble with how the files were handled. But the important thing is that the information you were given yesterday was not accurate for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:26",
+      "text": "I don't follow. Did you give me someone else's medicine? Or was the test wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:34",
+      "text": "It was just a clerical issue in the system. We realized there was a discrepancy in the records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:41",
+      "text": "But why? How can a doctor make such a mistake with a name? I am terrified."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:56",
+      "text": "I know you're feeling scared right now, and I really want to help you through this. But I actually have to go check on another patient in a moment, so let's wrap this up quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:03",
+      "text": "You cannot just leave. Please, tell me exactly what happened. Did you mistake me for someone else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:10",
+      "text": "There were some things that didn't align in the system. It was a system error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:20",
+      "text": "But you are the doctor. You are the one who told me I was sick. I have been praying and crying all night."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:26",
+      "text": "I understand that this is a shock. I apologize again for the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:31",
+      "text": "I just want to know if I am healthy or not."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:36",
+      "text": "The results you saw yesterday do not belong to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "So I am fine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "We are looking into the correct data now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:49",
+      "text": "Why was it mixed up? Please, explain it to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:55",
+      "text": "There were some overlapping files. It's a complicated process in the computer system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:03:02",
+      "text": "I feel like I cannot trust anything now. How do I know you won't make another mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "We are doing our best to fix it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "What happens now? When will I know the truth?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "We'll see what the latest reports say."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:18",
+      "text": "Will you come back today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:25",
+      "text": "Just stay tuned for an email from the clinic or a call from the nursing station."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:32",
+      "text": "An email? I want to speak to you. I want to know the plan for my health."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "Someone will get back to you soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:42",
+      "text": "But what if the real results are bad? What is the next step?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "We'll just have to wait and see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:51",
+      "text": "I cannot just wait. I need to tell my family."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:59",
+      "text": "I'm sorry you're upset, but as I said, I really have to move on to my next patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:00",
+      "end_time": "00:04:05",
+      "text": "I do not understand how this is possible. You are the authority here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "It was just a mistake in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:14",
+      "text": "And you are not going to tell me how it happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:18",
+      "text": "We had a few issues with the files."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:19",
+      "end_time": "00:04:23",
+      "text": "So you aren't going to check if my medication is correct?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "We'll look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:28",
+      "end_time": "00:04:31",
+      "text": "When? Today? Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:32",
+      "end_time": "00:04:35",
+      "text": "I'll let the staff know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:36",
+      "end_time": "00:04:39",
+      "text": "Doctor, please. I am very confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:40",
+      "end_time": "00:04:43",
+      "text": "We'll get it sorted out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:44",
+      "end_time": "00:04:47",
+      "text": "Do I need more tests?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:48",
+      "end_time": "00:04:51",
+      "text": "We will let you know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:52",
+      "end_time": "00:04:56",
+      "text": "I feel so dizzy. I don't know what to believe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "I've apologized for the confusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:01",
+      "end_time": "00:05:05",
+      "text": "It is more than confusion. You told me I had a disease."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:06",
+      "end_time": "00:05:09",
+      "text": "Things didn't go as planned yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:10",
+      "end_time": "00:05:13",
+      "text": "This is not a helpful explanation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:14",
+      "end_time": "00:05:17",
+      "text": "I really have to go now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:18",
+      "end_time": "00:05:21",
+      "text": "I will wait for the email then?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:22",
+      "end_time": "00:05:25",
+      "text": "Yes, just keep an eye on that."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up quickly', 'really have to move on', 'really have to go now')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses platitudes and vague hedging ('confusion with the paperwork', 'things didn't go quite right', 'clerical issue') without explicitly naming the error of giving the wrong patient's results."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While the resident says 'I am sorry', responsibility is consistently deflected to 'the system', 'the computer system', and 'overlapping files'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names 'distressed' and 'scared' early on, but later relies on generic validation ('I understand that this is a shock') and ignores emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders ('we'll see', 'stay tuned', 'we'll get it sorted out') with no specific timelines or prevention plan."
+    }
+  }
+}

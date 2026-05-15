@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0079",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:13",
+      "text": "Hi Mr. Park. Thanks for meeting with me again. I know we talked about this yesterday, but I wanted to follow up on those questions you had about the timing of your tests."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:14",
+      "end_time": "00:00:17",
+      "text": "Yeah. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "I have the timeline from the electronic records here. To be very clear about what happened, the machine flagged your ECG as abnormal at 10:00 AM, but I didn't review that result until 2:00 PM. That means there was a four-hour delay in us recognizing the cardiac event."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:38",
+      "text": "Oh. I thought maybe the machine just takes a while to process?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:53",
+      "text": "No, the machine did its part quickly. The failure was on my end. I didn't check the results in the system when I should have. Does that make sense, or did I explain that poorly?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:02",
+      "text": "No, I get it. It just... I don't know. I'm not really used to this. Usually, my mom handles the doctor stuff."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:11",
+      "text": "I can imagine it feels pretty overwhelming to be dealing with all of this on your own for the first time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:17",
+      "text": "It is. I just keep wondering if those four hours... if it changed anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:33",
+      "text": "That is a completely valid fear to have. I want to be honest with you that while the delay was a serious error, the specialists believe that because we caught it when we did, your current treatment plan is still the correct one and the long-term outlook hasn't changed. But I am truly sorry. I was responsible for reviewing those results, and I failed to do that in a timely manner."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:38",
+      "text": "It's okay. I mean, you're probably just really busy here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:49",
+      "text": "I appreciate you saying that, but being busy isn't an excuse for a delay like this. You trusted us with your care and I let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:56",
+      "text": "I just didn't know if I was supposed to ask for the results or something."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:05",
+      "text": "No, Mr. Park. It is entirely our job to monitor those results and tell you. You didn't do anything wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "I guess. I'm just kind of nervous about what happens next."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:21",
+      "text": "I can see that you're feeling anxious about the road ahead. Let's talk about exactly how we're going to move forward so you know what to expect."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:40",
+      "text": "First, I've scheduled a follow-up with the cardiologist for tomorrow at 10:00 AM. They are going to do a secondary review of your heart function to ensure we didn't miss any subtle changes during those four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "Do I need to do anything for that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:03:00",
+      "text": "Just bring your current medication list. I'll print a copy for you now so you don't have to dig through your bags. Second, I have submitted a formal incident report to our quality board. This means a team of people who don't work on this floor will investigate why the alert didn't reach me sooner."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "Why do they need to do that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:19",
+      "text": "Because I don't want this to happen to another patient. We're looking at whether we can change the alert system so the doctor gets a notification on their phone instead of just a flag in the computer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "That sounds like a good idea."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:39",
+      "text": "I'm also going to give you my direct pager number. If you feel any new chest pain or if you just feel like something isn't right and you aren't getting an answer from the nursing staff, you can use this to page me directly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "I don't want to bother you if you're busy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:59",
+      "text": "Please do. In this situation, you are the most important person in the room. Your role now is to be our eyes and ears. If you feel any shortness of breath or a racing heart, I want you to tell us immediately. Does that feel manageable for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "Yeah. I think so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:19",
+      "text": "I know this is a lot to take in, especially while you're still recovering. I'm going to step out for a moment to get that medication list printed, and then I'll come back. While I'm gone, is there any other question, even a small one, that's been on your mind?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:20",
+      "end_time": "00:04:23",
+      "text": "Not right now. I think I'm okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "Alright. I'll be back in two minutes."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a steady pace, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error (four-hour delay in reviewing ECG) is named in the second turn, lay language is used, and comprehension is checked twice ('Does that make sense', 'Does that feel manageable')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am truly sorry'), takes full personal responsibility, and explicitly rejects the patient's attempt to excuse the error due to being busy."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions twice ('overwhelming', 'anxious') and validates the patient's 'valid fear' regarding the delay."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides a specific follow-up (cardiologist tomorrow at 10 AM), addresses prevention (incident report/alert system change), and defines the patient's role (eyes and ears/reporting symptoms)."
+    }
+  }
+}

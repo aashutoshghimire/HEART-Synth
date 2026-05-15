@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0208",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Okonkwo, thank you for coming in. I need to talk to you about your recent scan. There was a mistake in how we gave you the results last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:17",
+      "text": "I don't understand. You told me the tumor was shrinking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "I did. But I told you that before the radiologist had finished their official review and signed off on the report. This is called a preliminary read. Once the final report was completed, it showed that the disease is actually stable, not reduced. This means the tumor has not shrunk."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:46",
+      "text": "Stable? You said it was smaller. I have already told my children. I told my council members that the treatment was working and that I would be back to my duties soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:00:57",
+      "text": "I am sorry for any confusion this has caused. We were really busy in the clinic that day and the information was passed along too quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:12",
+      "text": "Confusion? This is not confusion. This is my life. My family looks to me for strength and I have given them a hope that was not based on truth. How does this look to my community?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:22",
+      "text": "I understand. But looking at the facts, stable disease is still a positive outcome in this stage of treatment because it isn't growing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:35",
+      "text": "You are not listening. The fact of the tumor is one thing, but the fact that I have looked foolish before my people is another. I feel a great deal of shame."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:47",
+      "text": "Right, but the medical reality is that we are still on the right track with the medication. Does that make sense? Do you understand why the report changed?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:55",
+      "text": "I understand that you were wrong. I understand that you lied to me, even if you didn't mean to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "I didn't lie, I just shared the preliminary data."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:14",
+      "text": "It is the same thing when the result is the opposite. I cannot go home today and tell my wife that I was mistaken. I cannot just tell them the doctor had a change of heart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:26",
+      "text": "We can certainly look at the next steps for your care now. I have to go see another patient in a few minutes, so let's wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:35",
+      "text": "You are rushing me? After you have told me my progress was a mistake, you are rushing me out of the room?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:43",
+      "text": "I just want to make sure we have a plan. We will probably do another scan in three months."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:49",
+      "text": "Three months of what? Of pretending? Of wondering if you'll change your mind again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:03:00",
+      "text": "I'm sorry you feel that way. The plan is simply to continue the current dose and we'll check the imaging again in the next cycle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:07",
+      "text": "And who will be checking it this time? Will you be glancing at it and guessing again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:15",
+      "text": "We will follow the standard protocol. The radiologist will sign the report and then I will call you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:22",
+      "text": "My reputation is built on my word. Now my word is questioned because of your haste."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:33",
+      "text": "I hear you. But again, the clinical outcome is stable, which is acceptable. Let's just stick to the schedule. I really do have to get going."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'have to go see another patient', 'really do have to get going') and shows defensive escalation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn, lay language was used, and comprehension was checked once ('Does that make sense?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology is diluted by an immediate excuse ('We were really busy in the clinic that day')."
+    },
+    "R": {
+      "score": 0,
+      "justification": "The patient's expressed emotions of shame and loss of reputation are consistently met with factual redirection regarding the 'clinical outcome'."
+    },
+    "T": {
+      "score": 1,
+      "justification": "A step with a timeline is provided (scan in three months), but there is no named patient role and no discussion of prevention."
+    }
+  }
+}

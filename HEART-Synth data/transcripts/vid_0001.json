@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0001",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Hassan, thank you for coming in today. I need to share some information with you regarding your recent imaging scans."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:14",
+      "text": "I'm here. I assume it's about the shrinkage you mentioned on the phone?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "That is exactly why we are talking. I have to correct what I told you previously. I told you the tumour had reduced in size, but that was an error. The final report from the radiologist shows that the disease is actually stable, meaning it hasn't shrunk, but it hasn't grown either."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:35",
+      "text": "What? You said it was smaller. You were so sure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:51",
+      "text": "I was, and I was wrong. I gave you the results before the radiologist had officially signed off on the report. I took a preliminary look and told you the wrong information. I am very sorry for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:06",
+      "text": "This is just... typical. Every time I come here, something goes wrong. First the medication mix-up last year, and now this. I actually believed you. I felt like I could breathe for the first time in months."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:14",
+      "text": "Does that make sense so far, or should I go over the difference between stable and reduced again?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:21",
+      "text": "No, I get it. You're saying the cancer is still exactly where it was. It's not moving."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:25",
+      "text": "That is correct. It is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:41",
+      "text": "I can't do this again. I can't keep having my hopes pushed up just to have them ripped away. What if the \"stable\" part is a mistake too? How do I know anything you say is actually true now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:45",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:58",
+      "text": "You don't understand. You don't have a tumour. I'm sitting here wondering if I'm ever going to get better or if I'm just waiting for the next mistake to happen. I'm terrified."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:10",
+      "text": "I hear you. To make sure we are on the same page, the final report is the one we are using now, and that is the verified version."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:24",
+      "text": "I don't care about the report. I care that I spent three days telling my daughter that the treatment was working. Now I have to call her and tell her I was wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I realize this is a devastating shift in expectations."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:35",
+      "text": "It's not a shift. It's a lie. Whether you meant to or not, you lied to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:45",
+      "text": "I take full responsibility for that. I should have waited for the final confirmation before speaking with you. It was my error in judgment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:50",
+      "text": "And now what? Do we just pretend this didn't happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:02",
+      "text": "Not at all. I want to be clear about how we move forward. I am going to schedule a meeting with your oncologist for tomorrow morning at ten."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "I guess."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:17",
+      "text": "I will also send a copy of the final signed report to your personal email by four o'clock today so you can see the words for yourself."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "I don't even want to look at it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:32",
+      "text": "I understand. Just so I'm sure we've covered the main point, do you have any questions about what stable disease means for your current treatment?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:38",
+      "text": "No. It means the drugs aren't doing as much as you thought they were."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:47",
+      "text": "That is a fair summary. I will check in with the oncology team now to prepare for that ten o'clock meeting tomorrow."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to express anger and distress without interrupting and remains regulated throughout the pushback."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, lay language used, and comprehension checked twice ('Does that make sense so far' and 'do you have any questions about what stable disease means')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am very sorry'), resident takes full responsibility ('I take full responsibility for that'), and maintains accountability under pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand', 'I hear you') but does not name specific emotions back to the patient."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Specific next steps and timelines are provided (oncologist meeting tomorrow at 10, email by 4), but there is no named patient role or mention of prevention."
+    }
+  }
+}

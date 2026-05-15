@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0255",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Ms. Tremblay, thank you for coming in today. I asked you here because I need to discuss a mistake that was made with your daughter's medication during her hospital stay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:17",
+      "text": "I figured there was a reason for the follow-up. What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "When we calculated the dose for her medication, we estimated her weight instead of actually weighing her on the scale. Because the estimate was too high, she received a dose that was significantly above the safe limit for a child her size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:37",
+      "text": "How much over the limit?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:44",
+      "text": "The dose she received was nearly double what it should have been based on her actual weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:48",
+      "text": "Is she in danger right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:01:01",
+      "text": "Based on her current labs and her physical exam today, she is stable. But it was a serious error. Does that make sense, or can I clarify how the dosing was calculated?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:06",
+      "text": "I understand. You guessed the weight and gave too much medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:10",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:16",
+      "text": "Why would you guess? She's a child. You have scales in every room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:25",
+      "text": "I am sorry for any confusion this caused. We were really busy in the unit that day and the process broke down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:37",
+      "text": "I don't care how busy you were. I care that my daughter got a double dose of a drug because someone didn't want to push her on a scale."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:45",
+      "text": "I can see that you are frustrated and that this feels like a complete failure of basic protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:54",
+      "text": "It is a failure. I spend my entire career following protocols so people don't die. I expect the same from a hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:02",
+      "text": "You are right to expect that. I failed to ensure the weight was accurate before the medication was administered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "So what happens now? Is there long-term damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:21",
+      "text": "That is what we are monitoring. We have checked her kidney and liver function, and those are currently normal. To be thorough, I want her to come back in three days for a repeat blood draw."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "Three days. Fine. What else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:31",
+      "text": "I'll be monitoring her chart for any delayed reactions over the next week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:37",
+      "text": "And how do I know this won't happen if we have to come back?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:48",
+      "text": "I'm working on a way to make sure this doesn't happen again, but for now, I just want to make sure your daughter is okay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:57",
+      "text": "I'll be here on Thursday for the blood work. Who do I call if she starts acting strange before then?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:05",
+      "text": "You can call the clinic line, but if it's after hours, just call the main pediatric triage number."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "I have that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:16",
+      "text": "I'll make sure the nurse gives you those numbers in writing before you leave today."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident never interrupts, allows the patient to express anger fully, and remains regulated throughout the pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn using lay language, and comprehension was checked once ('Does that make sense...')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While the resident says 'I am sorry', it is diluted by an immediate excuse ('We were really busy in the unit that day')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names a specific emotion ('I can see that you are frustrated') and engages with the patient's frustration regarding protocol."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Plan includes specific next steps (blood draw in 3 days), timelines, the patient's role (returning for blood work), and a mention of prevention."
+    }
+  }
+}

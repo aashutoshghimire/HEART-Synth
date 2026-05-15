@@ -1,0 +1,267 @@
+{
+  "video_id": "vid_0238",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:03",
+      "text": "Hello, Mrs. Al-Rashid. Thank you for meeting with me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:04",
+      "end_time": "00:00:07",
+      "text": "Hello, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:08",
+      "end_time": "00:00:12",
+      "text": "I need to tell you about a mistake with your medicine."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "A mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:25",
+      "text": "Yes. Three days ago, I wrote in your chart to stop the blood pressure pill. But I did not tell the pharmacy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:29",
+      "text": "Oh."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:30",
+      "end_time": "00:00:40",
+      "text": "Because I did not tell them, the pharmacy kept giving you the pill. You took a medicine that you should not have taken for three days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:44",
+      "text": "I... I took it because you said."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:00:51",
+      "text": "Do you understand what I mean? That you took a pill you were supposed to stop?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:55",
+      "text": "Yes. I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:02",
+      "text": "I am sorry for this confusion. We were very busy on that day, and it was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "It is okay, doctor. You are the expert."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:10",
+      "text": "I am sorry. It should not have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:14",
+      "text": "I am just... I am surprised. Is it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:20",
+      "text": "It is not dangerous for you right now, but it was a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:25",
+      "text": "I do not know what to do. I trust you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:30",
+      "text": "I know you trust me, and I feel bad that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:34",
+      "text": "My heart is beating fast. I feel... strange."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:39",
+      "text": "I see. It is a lot to hear at once."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:44",
+      "text": "I just follow the rules. I do not want to cause trouble."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:49",
+      "text": "You are not causing any trouble. This was my mistake, not yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:53",
+      "text": "Will I be okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:02:04",
+      "text": "Yes. But I want to make sure we are safe now. To be sure I explained this well, can you tell me what happened with the medicine?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:11",
+      "text": "You forget to tell the pharmacy. I take the pill for three days too many."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "That is exactly right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:19",
+      "text": "Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:24",
+      "text": "I missed a step in the process. I am very sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:38",
+      "text": "Now, here is what we will do to fix this. First, I have already called the pharmacy. They have stopped that medicine now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:55",
+      "text": "Second, I want you to look at your pills today. If you see any left of that old medicine, please throw them in the trash. Can you do that for me?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "Yes, I can do that today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:12",
+      "text": "Thank you. Third, I am going to check your blood pressure again in one hour to make sure everything is stable. I will come back to your room at two o'clock."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "Two o'clock. Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:31",
+      "text": "To make sure this does not happen again, I am changing how I send notes to the pharmacy. I will now use a digital checklist that alerts me if I forget to send a message."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "That sounds like a good way."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:47",
+      "text": "I will also give you a printed list of your current medicines before you leave the hospital. You can use that list to check with your doctor at home."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:51",
+      "text": "I would like that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:57",
+      "text": "I know this is distressing. Thank you for being so patient with me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "Thank you, doctor."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows patient to finish turns and adjusts pacing to distress, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the first turn using lay language, and comprehension was checked once via teach-back."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Direct apologies are used, but the resident dilutes accountability by citing an excuse ('We were very busy on that day')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident engages emotional bids and names a specific emotion ('distressing') at the end."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps with timelines (2 o'clock), a named patient role (throw pills in trash), and a prevention strategy (digital checklist)."
+    }
+  }
+}

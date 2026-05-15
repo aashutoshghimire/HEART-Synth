@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0130",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Thanks for coming in, Ms. Osei. I wanted to meet with you today to discuss your son's developmental screening process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:18",
+      "text": "I appreciate you making the time. I've been looking at the portal and I'm a bit confused about the status of the referral."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:31",
+      "text": "Right. So, there is an issue with how the screening was handled. Basically, the referral was marked as completed in our electronic health record after the initial appointment was declined."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:41",
+      "text": "Wait, it was marked as completed? I declined one date because of a scheduling conflict, but I never heard back about a second option."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:49",
+      "text": "Yes, that is what happened. The system showed it as done, so no further follow-up attempts were documented."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:01:01",
+      "text": "As a nurse practitioner, I find that incredibly concerning. We have standard protocols for follow-ups to ensure patients don't fall through the cracks. Who authorized closing that file?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:10",
+      "text": "I'm not entirely sure yet. We are still investigating the internal workflow to see why the flag didn't trigger a second call."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:19",
+      "text": "It's not just a workflow issue. It's a failure of a basic safety check. This is a developmental window for my child."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:28",
+      "text": "I understand. But from a technical standpoint, the administrative side of the EHR can be quite cumbersome and things get lost."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:37",
+      "text": "That's a systemic excuse. The professional standard is that the patient receives the care, regardless of how cumbersome the software is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:50",
+      "text": "Look, I have a few more patients to see, so I want to make sure we get to the point here. We know the error happened and we are looking into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:02:01",
+      "text": "I am less interested in the internal investigation and more interested in why my child's screening was ignored. Do you understand the anxiety that causes?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:10",
+      "text": "I understand. Now, as for what we do next, we are going to try to get him back on the schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "Try? Or is there a specific date?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:23",
+      "text": "We'll probably be able to get a new appointment in the next few weeks. I'll have my coordinator look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:32",
+      "text": "That is very vague. I want a confirmed date and a timeline of when the screening will actually take place."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:39",
+      "text": "I can't give you a date right this second. But we will get it sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:47",
+      "text": "This is an unacceptable way to handle a clinical error. I expect a formal apology and a clear plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:58",
+      "text": "Like I said, the system marked it as finished, which is why it didn't pop up on our radar. It was an unfortunate sequence of events."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:03",
+      "text": "You are describing a sequence of events, not taking responsibility."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I'm explaining the facts of how the software works."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:13",
+      "text": "I don't care about the software. I care about the standard of care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:21",
+      "text": "We are going to fix it. I'll probably send you an email once I hear back from the specialists."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "And when will that be?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "Sometime this week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "I'm not leaving here with \"sometime this week.\" I need a commitment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:41",
+      "text": "I can't promise a specific hour, Ms. Osei. I just have to check with the team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:48",
+      "text": "This conversation is not providing any of the professional accountability I expect from this clinic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:53",
+      "text": "I've told you what we know. The referral was closed prematurely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "And you aren't sorry that this happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "It is a frustrating situation for everyone involved."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:06",
+      "text": "It's not frustrating for you; it's a mistake made by your office."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:07",
+      "end_time": "00:04:13",
+      "text": "We are working on it. I really have to get to my next appointment now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:21",
+      "text": "I feel like you are rushing me out of the room the moment I start asking for accountability."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:22",
+      "end_time": "00:04:25",
+      "text": "I'm just trying to be efficient with our time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:26",
+      "end_time": "00:04:30",
+      "text": "Efficiency is not the goal here. Patient safety and transparency are."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:31",
+      "end_time": "00:04:34",
+      "text": "I've explained the error. The plan is to reschedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:35",
+      "end_time": "00:04:40",
+      "text": "Without a date or a concrete timeline, that isn't a plan. It's a gesture."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:41",
+      "end_time": "00:04:44",
+      "text": "I'll have the coordinator reach out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:04:52",
+      "text": "Soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:53",
+      "end_time": "00:04:56",
+      "text": "This has been incredibly disappointing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "I'll be in touch."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have a few more patients to see', 'I really have to get to my next appointment now', 'trying to be efficient') and shows defensive escalation."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly, but there are no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is consistently deflected to the EHR system and 'unfortunate sequence of events'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but otherwise meets emotional bids with factual redirection or dismissiveness."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan consists of vague steps ('try to get him back on the schedule', 'sometime this week') without a concrete timeline or patient role."
+    }
+  }
+}

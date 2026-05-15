@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0373",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Hi Mr. Park, thanks for coming back in to see me. I asked you here because I need to discuss a mistake that was made regarding your imaging from last month."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "Oh. Was there something wrong with the scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "Well, the scan itself was fine, but there was an incidental finding. That means the radiologist saw something that wasn't the main reason for the test\u2014a small cyst on your kidney\u2014that needed a follow-up scan in three months just to be safe. The error is that this was written in a separate part of the report, and our team missed it. We didn't schedule that follow-up for you. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "I guess. Is it like, cancer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:49",
+      "text": "No, based on the report, it looks benign, which means it's not cancerous. But we still need to monitor it. Are you following me on how the communication gap happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:53",
+      "text": "Yeah, I think so. You just missed the note."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:01:04",
+      "text": "Exactly. I am sorry for any confusion this caused. We were really busy that week and the system for flagging these findings isn't always clear."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:19",
+      "text": "I just... I'm a bit shaking. I didn't tell my parents about the scan because I wanted to handle it myself, and now I don't know if I should have. I feel kind of panicked."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:23",
+      "text": "It sounds like you're feeling pretty overwhelmed right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:31",
+      "text": "I just don't know if this is normal. Like, do people usually miss things? Am I in trouble?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:44",
+      "text": "No, you're not in trouble at all. But look, I actually have to go in a few minutes for a procedure, so I want to make sure we get through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:50",
+      "text": "Oh. But I have a few more questions about the cyst. Like, will it\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:01:56",
+      "text": "If we can just quickly move to the next steps, that would be better."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:05",
+      "text": "I just feel like I'm not really sure what my rights are here. I mean, is this a big deal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:16",
+      "text": "It's not a big deal in terms of your health, as it's only been a few weeks. We just need to get the scan done."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:22",
+      "text": "I guess. I just feel really weird about it. I thought everything was handled."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:27",
+      "text": "I understand. Now, regarding the plan, we'll just get this sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:33",
+      "text": "How do we sort it? Do I need to pay for another one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:42",
+      "text": "We'll look into getting a new appointment set up. You'll probably get an email or a call from the office."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "When will that happen? Like, today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:53",
+      "text": "I'm not entirely sure on the timing. Just stay tuned for an email from the scheduling team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:58",
+      "text": "What if I don't get an email? Should I call someone?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:05",
+      "text": "I'm sure it'll come through. Let's wrap this up now so I can get to my patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:14",
+      "text": "I still feel a little dizzy. I don't really know what to tell my parents if I do tell them."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:20",
+      "text": "You can just tell them we're scheduling a follow-up. It's really not a problem."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "Okay. I'll just wait for the email then."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "Great. Thanks for understanding. See you later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I actually have to go in a few minutes', 'quickly move to the next steps', 'wrap this up now') and interrupts the patient's question about the cyst."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in first turn, used lay language, checked comprehension twice ('Does that make sense so far?', 'Are you following me...'), and avoided false reassurance regarding the need for monitoring."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apology used ('I am sorry'), but immediately diluted by excuses regarding being busy and the system not being clear."
+    },
+    "R": {
+      "score": 2,
+      "justification": "While the resident names one emotion ('overwhelmed'), they subsequently use generic validation ('I understand') and meet further emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The plan consists only of placeholders ('look into getting a new appointment', 'stay tuned for an email') with no specific timeline or prevention strategy."
+    }
+  }
+}

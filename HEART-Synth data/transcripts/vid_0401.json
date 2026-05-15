@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0401",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mr. Chen, it is good to see you back in the clinic. How are you feeling today?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "I feel... tired. My stomach still hurts a little."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "I know you had a very scary time in the hospital last week. I want to start by saying I am so incredibly sorry. I made a mistake with your medicine and I am the one responsible for what happened. I take full ownership of this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "Mistake? I don't... I thought I was just sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:39",
+      "text": "There was some confusion with the dose of the blood thinner. Things didn't go quite right with the order."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:40",
+      "end_time": "00:00:46",
+      "text": "Why did I have to go back to the emergency room? The nurses said blood."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:01:00",
+      "text": "It was a bit of an issue with the amount of medicine. I am deeply sorry for the pain and the fear this caused you. I feel terrible that this happened under my care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:07",
+      "text": "I was so scared. I thought I was dying. The blood was everywhere in the\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:22",
+      "text": "Right, and we need to make sure we fix this now. I have a lot of other patients waiting and I really have to go in a few minutes, so let's look at the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:27",
+      "text": "But the doctors... they didn't tell me why. Why did it happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:37",
+      "text": "Like I said, there was just an issue with the system and the dose. I am truly sorry. I take all the blame."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:41",
+      "text": "I don't understand. Was it the pill?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:50",
+      "text": "It was just a complication with the medication process. But I am taking full responsibility for it. I apologize sincerely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:56",
+      "text": "My daughter says I was bleeding inside. Is that... is that gone now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:07",
+      "text": "I can see you're worried. I understand. Now, for the plan, I want you to come back here on Thursday morning for another blood test."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:11",
+      "text": "Thursday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:20",
+      "text": "Yes, Thursday at 9 AM. You need to fast, which means no food after midnight. That is your job for this week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:25",
+      "text": "I don't know if I can come Thursday. My daughter works."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:40",
+      "text": "We can try to move it, but we must do it this week. If you can't do Thursday, let my secretary know by tomorrow. We will check your levels to make sure the bleeding has stopped."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:47",
+      "text": "I just feel... I feel very confused. Everything happened so fast. I just wanted to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:54",
+      "text": "I know it's a lot. Let's wrap this up quickly so you can get some rest."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:59",
+      "text": "But what happened to the medicine? Who gave me the wrong one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:08",
+      "text": "There was just an error in the dose. Again, I am the one who is responsible. I am so sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "Will it happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:20",
+      "text": "We are making sure it doesn't. Now, just remember the blood test on Thursday. No food before you come."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "Thursday. No food."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "Exactly. We will see you then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have a lot of other patients waiting', 'go in a few minutes', 'wrap this up quickly')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses platitudes and hedging ('confusion with the dose', 'things didn't go quite right', 'issue with the system') without explicitly naming the error."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language and takes full personal responsibility ('I am the one responsible', 'I take all the blame') without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I can see you're worried', 'I understand') but otherwise redirects emotional bids to the plan."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides a specific next step (blood test), timeline (Thursday 9 AM), patient role (fasting), and addresses prevention ('making sure it doesn't' happen again)."
+    }
+  }
+}

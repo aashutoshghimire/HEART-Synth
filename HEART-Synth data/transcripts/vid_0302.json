@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0302",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Good afternoon, Mr. Dubois. I am Dr. Miller. Please, have a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:08",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:24",
+      "text": "I asked to see you because there has been a mistake regarding your diagnostic results. To be precise, there was a mix-up in our scheduling system between you and another patient with a very similar name. Because of this, you were given the wrong lab reports and told you had a chronic kidney condition that you do not actually have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "I am sorry? What are you saying?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:39",
+      "text": "It means that the diagnosis you were given last week is incorrect. You are not sick with that condition. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:40",
+      "end_time": "00:00:49",
+      "text": "I do not understand. Last Tuesday, I was told my kidneys were failing. I have spent four days thinking my life was changing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:01:05",
+      "text": "Yes, as I said, the files were swapped. You received another man's results. Just to be sure we are on the same page, do you understand that the previous diagnosis was a mistake caused by a name mix-up?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:18",
+      "text": "Yes. I understand the words. But I do not understand how this happens. I felt... I felt a great shame. I told my daughter I was ill. I felt so small."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:25",
+      "text": "The system has a glitch when names are similar. It happens occasionally in a large hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:32",
+      "text": "Occasionnally? C'est absurde! My dignity, my peace of mind, you throw it away because of a name?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:37",
+      "text": "The important thing is that your labs are actually normal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:47",
+      "text": "You do not seem to see the problem. I have been terrified. I have been preparing for a death that is not coming."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:56",
+      "text": "I understand. Now, looking at the actual chart, your creatinine levels are perfectly fine, which means your kidney function is normal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:03",
+      "text": "I do not care about the levels! I care that you lied to me for a week!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:09",
+      "text": "Well, the error occurred because the records were misfiled in the electronic portal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:14",
+      "text": "I feel like a fool. A complete idiot. Je me sens humili\u00e9."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:19",
+      "text": "Let's just move forward. I need to make sure we fix this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:24",
+      "text": "You are just speaking of files. I am speaking of my heart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:33",
+      "text": "Right, but the facts are that you are healthy. If we dwell on the emotion, we can't get to the solution."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:37",
+      "text": "There is no apology. Not one word."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:44",
+      "text": "The administrative process for these errors is quite complex, but we are auditing the file now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:50",
+      "text": "You are not even looking at me. You are looking at your tablet."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:59",
+      "text": "I'm just checking the timeline. Look, I really have to get to another clinic in ten minutes, so let's wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:04",
+      "text": "You are rushing me? After you told me I was dying?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:09",
+      "text": "I am simply trying to be efficient with the plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:13",
+      "text": "I cannot believe this. The arrogance."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:29",
+      "text": "Here is what we will do. I am going to print out your actual, correct lab results right now. I will hand them to you in a folder. You should take these home and show them to your daughter so she knows you are healthy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:48",
+      "text": "I will enter a correction note in your permanent medical record by the end of the day today. That way, any other doctor who sees your file will know the previous diagnosis was a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:53",
+      "text": "And how do I know this will not happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:03:58",
+      "text": "The system is being updated. Now, do you have your folder?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:02",
+      "text": "I have it. But I feel nothing but anger."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:09",
+      "text": "I understand. But as I said, I have to go. You have the correct papers now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:14",
+      "text": "This is not how a doctor speaks to a man."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:20",
+      "text": "The medical facts are corrected, Mr. Dubois. That is the priority. Good day."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'have to get to another clinic', 'have to go') and shows defensive escalation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, lay language used, and comprehension checked twice ('Does that make sense so far?', 'do you understand...?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language used and responsibility is deflected to the 'scheduling system' and 'electronic portal'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids are consistently met with factual redirection ('The important thing is...', 'the facts are...')."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Specific steps provided with timelines (print now, correction note by end of day), patient role (take folder home to daughter), and prevention (system being updated)."
+    }
+  }
+}

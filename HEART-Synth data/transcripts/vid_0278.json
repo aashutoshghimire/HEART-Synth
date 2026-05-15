@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0278",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello, Mrs. Al-Rashid. I wanted to come in and speak with you personally about what happened during your infusion earlier today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Hello, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "I know the nurse mentioned some things to you already, but I want to be very clear about this. We made a mistake. Your anti-nausea medication was not included in the chemotherapy order, and that is why you experienced such severe vomiting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:33",
+      "text": "I... I see. I was told there was a problem."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:42",
+      "text": "I am sorry that this happened. It was our responsibility to ensure those medications were ordered, and we failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:52",
+      "text": "It was very frightening. I thought perhaps the chemotherapy was too strong for me, or that I was reacting badly to the medicine itself."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:00",
+      "text": "That sounds like a terrifying experience, especially when you aren't sure why your body is reacting that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:05",
+      "text": "I have always trusted the doctors here. I did not expect this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:18",
+      "text": "This is a very difficult conversation to have, and I know it may feel unsettling to hear a doctor admit to a mistake. Please take all the time you need."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:25",
+      "text": "I just... I don't understand how it can be forgotten. These medicines are so important."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:37",
+      "text": "It is hard to wrap my head around it too, but the order for the pre-meds simply wasn't entered into the system. It was a failure in our process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:41",
+      "text": "And now I feel so weak."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:51",
+      "text": "I can see how exhausted you are after going through that. It's completely understandable that you feel drained after such a violent reaction."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:55",
+      "text": "Will it happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:11",
+      "text": "We are going to make sure it does not. First, I have already manually entered the anti-emetics into your chart for every single upcoming session. I have also flagged your file with a high-priority alert that requires the nurse to double-verify the pre-meds before the infusion starts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:16",
+      "text": "I do not want to be a burden to the nurses."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:31",
+      "text": "You are not a burden. This is our job. I've also scheduled a follow-up call with you tomorrow morning at ten to see how your stomach is settling and to make sure you are hydrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "Tomorrow morning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:51",
+      "text": "Yes, I will call you personally. In the meantime, I want you to tell the nurse immediately if you feel any more nausea tonight, even if it's mild. We have a different medication we can give you right now if you're still feeling sick."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "I think I am just tired now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:00",
+      "text": "That makes sense. It has been a very long and stressful day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "You are very kind to tell me this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:12",
+      "text": "I want to be honest with you. You deserve to know exactly what is happening with your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "I just hope the next time is better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:29",
+      "text": "I am committed to making sure it is. To make sure we are on the same page, do you feel comfortable with the plan for the next visit and the call tomorrow?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "Yes, I think I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:40",
+      "text": "I'll be thinking of you tonight. I'll call you at ten tomorrow. Please try to rest."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and uses a patient, regulated pace throughout the conversation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the first turn, lay language used, and comprehension checked at the end ('do you feel comfortable with the plan...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am sorry'), responsibility explicitly taken ('our responsibility... we failed'), and no deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions named back ('terrifying experience', 'exhausted', 'stressful day') and engages with the patient's emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Includes specific next steps with timelines (call tomorrow at 10), patient role (tell nurse immediately if nausea occurs), and prevention (manual entry and high-priority alert)."
+    }
+  }
+}

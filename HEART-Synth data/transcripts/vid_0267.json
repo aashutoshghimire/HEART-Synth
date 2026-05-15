@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0267",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mrs. Al-Rashid, I wanted to stop in and talk to you about your chemotherapy session from this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "Oh, hello doctor. Is everything okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:23",
+      "text": "I have some things I need to discuss with you. First, I want to say that I am sorry. Our team made a mistake with your dose today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:24",
+      "end_time": "00:00:28",
+      "text": "A mistake? I do not understand. Was the medicine wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:38",
+      "text": "There was some confusion with how the dose was calculated. The amount you received wasn't exactly what we intended for your current weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:45",
+      "text": "I... I don't understand. I thought you were the experts. Did I receive too much?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:55",
+      "text": "Things didn't go quite right with the calculation process. I apologize for this. Now, the most important thing is that we are monitoring you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:01",
+      "text": "I feel very dizzy. This is very frightening. I trusted that you knew\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:08",
+      "text": "Right, let's look at your vitals quickly. We need to make sure your blood pressure is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:14",
+      "text": "But you have not told me what happened. Why was there a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:23",
+      "text": "It was a systemic issue with how the weight was recorded in the chart. I am sorry that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:31",
+      "text": "I have lost so much weight because of the sickness. Did you not see that I am thinner?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:36",
+      "text": "I understand. But looking at the monitor, your heart rate is fine."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:44",
+      "text": "I feel a great deal of shame that this has happened to me. I just wanted to get well."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:55",
+      "text": "I understand. Now, as for the next steps, we are going to keep you on a continuous IV drip of fluids for the next twenty-four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "Will this make me more sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:12",
+      "text": "The fluids will help your kidneys clear the extra medicine from your system. You just need to stay in the bed and let the nurses check your urine output every two hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "Do I need more medicine to fix this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:22",
+      "text": "No, just the fluids. I'll have the nurse come in and start that now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:29",
+      "text": "I cannot believe this. I feel so shaken. My family will be so worried when they\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:39",
+      "text": "Look, I actually have to go check on another patient who is crashing in room four, so we have to wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "You are leaving? But I am still so confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:49",
+      "text": "The plan is the fluids. The nurse will be here in ten minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "I do not know what to think."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:59",
+      "text": "I've told you I'm sorry. Just follow the nurse's instructions with the IV."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "Is it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "We are monitoring you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "I feel very small in this hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "I understand. I really have to run now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "Yes, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "We will check on you again this evening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "Good. Just stay in bed."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'have to run now') and interrupts the patient's emotional distress to check vitals."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses platitudes ('things didn't go quite right', 'some confusion') and never explicitly names the error (e.g., 'overdose') despite patient asking."
+    },
+    "A": {
+      "score": 1,
+      "justification": "While the resident says 'I am sorry', responsibility is deflected to a 'systemic issue with how the weight was recorded in the chart'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but fails to name specific emotions or engage with the patient's emotional bids."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides a specific next step (IV fluids), a timeline (next twenty-four hours), and a patient role (stay in bed/let nurses check urine)."
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0351",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hi Mr. Park, thanks for coming back in to see me. I asked to meet because I found a mistake in your discharge paperwork from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "I listed a follow-up appointment for you at the Westside Clinic, but that clinic does not take your insurance provider. I gave you the wrong referral. I am very sorry, and I take full responsibility for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "Wait, what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:44",
+      "text": "I messed up the insurance check before writing the instructions. Does that make sense, or should I clarify how the referral process works?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:59",
+      "text": "No, it makes sense. But I already spent two hours on the phone with them this morning trying to figure out why my card wasn't working. They told me I couldn't even book the appointment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:03",
+      "text": "I understand that's frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:19",
+      "text": "Frustrating? I'm nineteen! I don't even know how this stuff works! I thought I was doing everything right and then I get told I can't see the doctor I'm supposed to see. Who is going to pay for this if I just went there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:35",
+      "text": "You won't be charged for a clinic you can't access. I really apologize for the stress this caused. Just to be sure we are on the same page, do you understand that the Westside Clinic is not an option for your care?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:44",
+      "text": "Yes, I get it! I get that I can't go there! Why did this happen? Were you just not paying attention?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:52",
+      "text": "I was not thorough enough in checking your insurance coverage against the clinic's list. That is my fault."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:02:07",
+      "text": "This is unbelievable. I'm trying to handle this on my own and now I have to start over. I don't even know where else to go. I feel like I'm just being pushed around by the system."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:12",
+      "text": "It sounds like you feel overwhelmed and unsupported right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:27",
+      "text": "I am overwhelmed! I'm terrified that if I don't get this follow-up, whatever is wrong with me is just going to get worse and I'm just sitting here with a piece of paper that is useless!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:33",
+      "text": "I hear that you're scared about your health getting worse because of this delay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:40",
+      "text": "Exactly! So what now? Do I just wait another week? Do I call ten more places?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:48",
+      "text": "I'm going to help you find a new clinic today. I'll start by calling the internal coordination team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:03:00",
+      "text": "That's it? You're just going to call someone? I spent my whole morning on the phone and now I'm sitting here in another appointment. I should be in class."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:06",
+      "text": "I know your time is valuable, but we need to get this right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:16",
+      "text": "I just don't understand how a doctor can just write a name on a paper without checking if it actually works. It's so careless."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "You're right, it was careless. I apologize again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:27",
+      "text": "I don't even know if I trust you guys to get the next one right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:36",
+      "text": "I understand why you'd feel that way. I'm going to make sure the next referral is verified by two different staff members."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:41",
+      "text": "Fine. So when am I actually going to have an appointment?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:53",
+      "text": "I can't give you a date this second, but I'll call the coordinator now and I will email you a confirmed address and time by 5:00 PM today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "And if you don't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:04",
+      "text": "I will. If you don't see an email by 5:00, please call my direct line."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:05",
+      "end_time": "00:04:08",
+      "text": "I don't even have your direct line."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:12",
+      "text": "I'll write it down for you right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:13",
+      "end_time": "00:04:18",
+      "text": "This is just a mess. I can't believe I have to deal with this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:26",
+      "text": "I know it's a lot. Look, I have to go check on another patient now, so let's wrap up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:27",
+      "end_time": "00:04:32",
+      "text": "Wait, you're just leaving? I still don't have the name of the new place."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:33",
+      "end_time": "00:04:43",
+      "text": "Like I said, I'm going to find the place first so I don't make the same mistake twice. I'll get that email to you by five."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:44",
+      "end_time": "00:04:47",
+      "text": "This is just great."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:48",
+      "end_time": "00:04:52",
+      "text": "I'm sorry for the trouble. I'll get on this immediately."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('let's wrap up') to terminate the conversation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was explicitly named in the first turn, lay language was used, and comprehension was checked twice ('Does that make sense', 'do you understand')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language and took full personal responsibility ('I take full responsibility', 'That is my fault') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions back to the patient twice ('overwhelmed and unsupported', 'scared about your health getting worse')."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided a specific next step with a timeline (email by 5:00 PM), a patient role (call direct line if no email), and a prevention strategy (verified by two staff members)."
+    }
+  }
+}

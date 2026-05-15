@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0362",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Ms. Anderson. I want to talk to you about the procedure to fix the cut on your arm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "Yes. I am waiting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:18",
+      "text": "While I was sewing the skin back together, I did not give you enough numbing medicine."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:19",
+      "end_time": "00:00:22",
+      "text": "I felt it. It was very painful."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:30",
+      "text": "Yes. I did not check to see if you felt pain while I was working. This was a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:45",
+      "text": "I focused on the sewing and I forgot to ask you if you felt the needle. Do you understand what I mean by numbing medicine?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:49",
+      "text": "Yes. The medicine to make the area sleep."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:01:00",
+      "text": "Exactly. It is called a local anaesthetic. It is meant to stop the pain. Because I did not use enough, you felt the procedure. Is that clear?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:06",
+      "text": "Yes. It is clear. But it was very bad. I told you it hurt."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:11",
+      "text": "I see. The skin is closed now and it looks good."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:18",
+      "text": "I am not talking about the skin. I am talking about the pain. I was very scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:22",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:28",
+      "text": "I work in a hospital. I know that you must check the patient."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:33",
+      "text": "The medical record will show that the repair is finished."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:42",
+      "text": "I am not asking about the record. I am asking why you did not care that I was in pain."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:47",
+      "text": "The goal was to close the wound quickly to prevent infection."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:54",
+      "text": "That does not explain the pain. I feel this is a very serious failure in care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "The wound is now healed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "I am disappointed. I expected a higher standard here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "Do you think this is normal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "It is not the goal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:21",
+      "text": "I want to know how this will be fixed so it does not happen to someone else."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:26",
+      "text": "We will write a report about this incident in our computer system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Who will see the report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "The department head will see it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:39",
+      "text": "And what about me? Will I be charged for this mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "That is a question for the billing office."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "I think I should speak with your supervisor today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:56",
+      "text": "You can do that. I can give you the phone number for the patient advocate. You can call them tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "I would prefer to speak to someone now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:08",
+      "text": "The supervisor is not in the building right now. You can call the advocate tomorrow between nine and five."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "I will do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "Is there anything else about the wound you want to know?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "No. I just wanted an explanation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "You are not sorry that I suffered?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "The procedure is complete and the site is clean."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "You are avoiding my question."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "I am focusing on the clinical outcome."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "This is very cold."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:56",
+      "text": "The plan is for you to come back in seven days. I will remove the stitches then. You need to keep the bandage dry until that time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:01",
+      "text": "I will see if I want to come back to you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "That is your choice."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "I will call the advocate tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "Yes. Please do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "Goodbye."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:18",
+      "end_time": "00:04:21",
+      "text": "Goodbye."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident shows defensive escalation and factual redirection under pushback, ignoring the patient's emotional distress to focus on clinical outcomes."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the second turn, used lay language ('numbing medicine'), and checked comprehension twice ('Do you understand...?', 'Is that clear?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') was used throughout the transcript."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids ('I was very scared', 'You are not sorry') were consistently met with factual redirection regarding the wound and clinical outcome."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Specific next steps provided (return in 7 days, keep bandage dry), timelines given, patient role defined, and prevention addressed via the incident report."
+    }
+  }
+}

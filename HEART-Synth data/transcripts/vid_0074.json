@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0074",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Thank you both for coming in to talk with me. I asked for this meeting because there has been a serious error with the medication your son received this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "When we were calculating the dose for the medication, we estimated his weight instead of actually weighing him on the scale. Because the estimate was too high, your son was given a dose that was significantly above the safe limit for a child his size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "Is he okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:48",
+      "text": "He is stable right now, but we are monitoring him very closely. Just so I'm sure I've explained this clearly, do you understand why the dose was too high?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "You guessed his weight instead of measuring it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:00:56",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:00",
+      "text": "Why would you do that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:08",
+      "text": "The process for verifying the weight wasn't followed. It is a failure in how the dose was prepared."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:15",
+      "text": "My son is very small. He is so small. I can't believe you just guessed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:22",
+      "text": "I can hear how frightening and upsetting this is for you, especially knowing how fragile he is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:31",
+      "text": "I just... I don't want any trouble. We don't have... we don't have papers. Will this be reported to someone?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:46",
+      "text": "I want you to know that your status has absolutely no impact on the care we provide or how we handle this. My only focus right now is your son's safety and making sure you feel supported."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:50",
+      "text": "I'm just worried he is going to get worse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:02:00",
+      "text": "It is completely understandable to feel that anxiety when you've been told a mistake was made. We are watching him for any side effects."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:04",
+      "text": "Does he have to stay here now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:09",
+      "text": "We need him to stay for observation for the next twenty-four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:13",
+      "text": "Twenty-four hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:23",
+      "text": "Yes. Now, I have to get back to the floor to check his vitals, but we can talk more about the monitoring plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "You're leaving already?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:36",
+      "text": "I just need to do a quick check. But while I'm gone, do you have any other questions about the dose itself?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "I don't know. I'm just... I'm shaking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:45",
+      "text": "I can see you're shaking. This is an overwhelming thing to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "If he gets sick, who is responsible?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:56",
+      "text": "The medical team failed to follow the safety protocol. The weight should have been measured."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "You aren't saying you're sorry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:08",
+      "text": "The situation is being reviewed by the department head to make sure this doesn't happen to another child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:13",
+      "text": "I don't care about other children. I care about my son."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:19",
+      "text": "I understand that your son is the only thing that matters right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "Is he going to be okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:31",
+      "text": "I can't give a guarantee, but we are doing everything possible to manage the effects of the medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "What happens tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:46",
+      "text": "We will likely do some blood work tomorrow morning to check his kidney function. I'll let you know the exact time once the lab confirms."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "And then he can come home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:57",
+      "text": "Possibly. If the blood work is normal and he remains stable, we can discuss discharge."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "I feel like I can't trust you people."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:09",
+      "text": "It makes sense that you feel that way. When a mistake like this happens, that trust is broken."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:14",
+      "text": "I just want to go in the room with him."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:23",
+      "text": "You can certainly do that. I'll just go check his chart one last time and then I'll walk you back in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "You keep saying you'll be right back."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:36",
+      "text": "I know. I'm sorry for the rush, I just want to be certain about the latest vitals before we step back in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:37",
+      "end_time": "00:04:41",
+      "text": "Will you tell the nurses what happened or do I have to?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:48",
+      "text": "I have already updated the nursing staff. They are aware of the error and the monitoring plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:49",
+      "end_time": "00:04:52",
+      "text": "I'm still scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:53",
+      "end_time": "00:04:58",
+      "text": "Being scared is a very natural response to this. We are staying vigilant."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:59",
+      "end_time": "00:05:02",
+      "text": "Who is in charge here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:03",
+      "end_time": "00:05:12",
+      "text": "Dr. Miller is the attending physician. I can arrange for you to speak with her if that would help you feel more secure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:13",
+      "end_time": "00:05:16",
+      "text": "Yes. I want to talk to her."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:17",
+      "end_time": "00:05:24",
+      "text": "I'll make that happen. I'll check on your son now, and then we will get Dr. Miller in here."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language multiple times ('I have to get back to the floor', 'I just need to do a quick check', 'I'm sorry for the rush')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in the first turn, lay language is used, and comprehension is checked once ('do you understand why the dose was too high?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language for the error, and the patient explicitly points out 'You aren't saying you're sorry'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frightening', 'upsetting', 'anxiety', 'overwhelming', 'scared') and references the patient's specific concerns about the child's fragility."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Specific next steps are provided (24-hour observation, blood work tomorrow), but there is no named role for the patient in the plan."
+    }
+  }
+}

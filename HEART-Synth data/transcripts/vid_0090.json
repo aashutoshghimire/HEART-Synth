@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0090",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Good morning, Mr. Okafor. I wanted to come by and speak with you about the chest X-ray we did yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "Good morning. I was actually wondering about that. I haven't heard the results yet. Was everything alright?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "I'm afraid there was a mistake. The portable X-ray was performed with you positioned incorrectly, which meant the image we got was of insufficient diagnostic quality. It wasn't a clear picture, but the report mistakenly labeled it as normal without realizing the image was poor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:35",
+      "text": "Wait, so you're saying the image wasn't actually usable?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:48",
+      "text": "That is correct. The angle of the plate didn't capture the area we needed to see, so the result we relied on was inaccurate. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:01:00",
+      "text": "It does, but I'm confused. If the quality was that bad, how did the doctor reading it just say it was normal? That seems like a pretty big oversight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:09",
+      "text": "I agree. It was a failure in our process. I apologize for this error; our team is responsible for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:20",
+      "text": "I'm just... I've been lying here thinking everything was fine based on that report. Now I'm wondering what else might have been missed. It's a bit unsettling."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:21",
+      "end_time": "00:01:28",
+      "text": "I understand. But look, the important thing is that we've identified it now and we can fix it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:33",
+      "text": "I suppose, but it makes me feel like I can't trust the\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:49",
+      "text": "I have to go through the other patients' charts quickly, so I want to make sure we get to the solution here. To make sure I've explained the technical part clearly, do you understand why the first image didn't work?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:02:01",
+      "text": "Yes, you said the positioning was wrong. But I'm more concerned about the fact that I was told I was fine when you didn't actually know if I was."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:09",
+      "text": "I hear you. But like I said, I understand. Now, we just need to get a new image."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:17",
+      "text": "Is there any risk that the delay in getting a correct image has changed my treatment or the outcome?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "We don't believe so, but we need to verify it. I'm going to order a repeat X-ray."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:34",
+      "text": "When exactly is that happening? And who is ensuring that the positioning is correct this time? I don't want to go through this again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "We'll get someone down here soon. Probably sometime today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:49",
+      "text": "Soon isn't a time. Is it within the hour? And will the attending physician be reviewing the quality of the image before the report is signed off?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:03:00",
+      "text": "It should be this afternoon. Let's just wrap this up so we can get the technician in here. I'll put the order in the system now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:06",
+      "text": "I feel like you're rushing me. I'm asking legitimate questions about my care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:15",
+      "text": "I'm just trying to be efficient for your sake. We'll just get the new scan and then we'll see where we stand."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('go through the other patients' charts quickly', 'wrap this up', 'trying to be efficient') and interrupts the patient's expression of distrust."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, used lay language, checked comprehension twice ('Does that make sense so far?', 'do you understand why...'), and avoided false reassurance."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Directly apologized ('I apologize for this error'), explicitly took team responsibility, and did not deflect when the patient questioned the oversight."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident used only generic validation ('I understand', 'I hear you') and consistently redirected emotional bids back to the factual plan."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Resident provided a vague next step (repeat X-ray) with a vague timeline ('soon', 'this afternoon') and no patient role or prevention strategy."
+    }
+  }
+}

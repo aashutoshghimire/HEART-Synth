@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0320",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Okonkwo, thank you for coming in to speak with me. I wanted to talk to you about your son's medication from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:20",
+      "text": "I hope everything is alright. The other doctor told me that the dose was standard for his age and there was nothing to worry about."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "Well, I have to be honest, there was a mistake. We didn't actually weigh your son on the scale before we gave the medication. The dose was based on an estimate of his weight, and because of that, he received a dose that was significantly above the paediatric threshold."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:42",
+      "text": "Above the threshold? What does that even mean? You told me it was standard."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:58",
+      "text": "It means the amount of drug was too high for his actual body weight. I am sorry for any confusion caused by the previous conversation, but we were really busy in the unit yesterday and some steps were missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:14",
+      "text": "I don't care how busy you were. This is my son. I am a leader in my community, I have people looking to me, and now I find out my child was given a dangerous amount of medicine because you didn't use a scale?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:20",
+      "text": "I can tell you're feeling very distressed and perhaps a bit betrayed right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:31",
+      "text": "Betrayed is a small word for it. My wife is terrified. If word gets out that I couldn't even ensure my own son's safety in this hospital\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:40",
+      "text": "I understand, but let's look at the clinical side. We are monitoring his serum levels and his vitals are currently stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:51",
+      "text": "I am not talking about vitals, I am talking about my family's dignity and the safety of my boy. Why would anyone estimate a weight?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:04",
+      "text": "It happens sometimes when things are moving quickly. Look, I actually have to go check on another patient in a few minutes, so I want to make sure we get through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:14",
+      "text": "You have to go? I am telling you my life is being upended by a mistake here and you are checking your watch?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:19",
+      "text": "I'm just trying to be efficient. As I said, he is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:26",
+      "text": "Stable is not the same as safe. What happens now? Who is taking responsibility for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:32",
+      "text": "The team is handling it. We are keeping a close eye on him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "That is not a plan. That is a sentiment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:45",
+      "text": "We will probably do some more blood tests later this week to make sure the drug has cleared his system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "Later this week? Which day? Which tests?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:54",
+      "text": "Just general labs. We'll let you know if anything changes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:03:02",
+      "text": "You are not answering me. I need to know exactly what the risk is for his long-term health."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:07",
+      "text": "I'm sorry you're upset, but as I said, he's fine right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:18",
+      "text": "You keep saying he is fine, but you started by saying he was given a dose above the safe limit. Those two things do not fit together."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:24",
+      "text": "It just means it was higher than the recommended guideline. We're managing it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:33",
+      "text": "I want to speak to the chief of medicine. I cannot trust the word of someone who estimates a child's weight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:41",
+      "text": "I can see you're very angry. I'll see if I can get someone else to come by eventually."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "Eventually? This is my son's life."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:52",
+      "text": "I really do have to get to my other patient now. I'll leave you with the nurse."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I actually have to go', 'trying to be efficient', 'really do have to get to my other patient') and shows defensive escalation."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly, but the resident fails to check for comprehension and provides false reassurance by stating the child is 'fine' despite the overdose."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The resident apologizes, but immediately dilutes it with an excuse ('we were really busy in the unit yesterday')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "While the resident names emotions ('distressed', 'betrayed', 'angry'), they consistently meet the patient's emotional bids with factual redirection to vitals and stability."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides a vague step ('some more blood tests later this week') without a specific day, a named patient role, or a prevention plan."
+    }
+  }
+}

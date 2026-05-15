@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0354",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Good afternoon, Mr. Okafor. Thank you for meeting with me. I asked to come in and speak with you because I have some information about your medications that I need to share."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:24",
+      "text": "I assume this is about the blood pressure medication? I noticed the chart said we were stopping it, but I'm still getting the doses from the pharmacy cart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:40",
+      "text": "You are exactly right. I am very sorry, but there was a mistake. We decided to stop that medication in your chart, but we failed to notify the pharmacy. Because of that, you have continued taking a drug you should have stopped three days ago."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:55",
+      "text": "I see. I did wonder why the nurse was still bringing it in. Now, why does that matter? If it's just a few days of a drug I was already on, is that actually a problem?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:11",
+      "text": "It is a mistake that shouldn't have happened. While this specific medication has a longer half-life, meaning it stays in your system for a while, taking it when we intended to stop can interfere with the new regimen we're starting. It's not the ideal way to manage your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:23",
+      "text": "When you say interfere, what specifically are we talking about? Does this put me at risk for a specific complication, or are we just talking about suboptimal dosing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:39",
+      "text": "In your case, the main concern is that the combination of the old drug and the new one could potentially drop your blood pressure lower than we want. Now, I want to be honest with you, we are still looking into exactly how the communication broke down between the ward and the pharmacy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "So you don't actually know how this happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:59",
+      "text": "Not the full sequence of events yet. We know the order was written in the notes, but the electronic trigger didn't reach the pharmacist. We are investigating if that was a software glitch or a manual entry error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:15",
+      "text": "As a teacher, I always told my students that the details are where the truth lies. If you can't tell me why it happened, how do I know it won't happen with the next five medications on my list?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:27",
+      "text": "That is a completely fair question. It sounds like you're feeling a bit uneasy about the reliability of the process here, and I understand why that would be worrying."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:33",
+      "text": "Uneasy is a mild word for it. I'm trusting you with my life."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:49",
+      "text": "I realize that. It is a significant breach of trust when we tell you one thing and then provide another. I am the resident responsible for your care on this ward, and I take full responsibility for the fact that this wasn't caught sooner."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:57",
+      "text": "I appreciate you saying that. Most doctors just blame the computer. So, where do we go from here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:13",
+      "text": "First, we have stopped the medication immediately. The pharmacy has been updated. I want you to keep a log of any dizziness or lightheadedness you feel over the next forty-eight hours. That is the part I need your help with."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:22",
+      "text": "I can do that. Do I need a blood test or something to see if the levels are too high?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:38",
+      "text": "That isn't necessary for this specific drug, but I am going to have the attending physician review your chart this evening to double-check every single one of your current meds. I will come back and give you a final confirmation of that list tomorrow morning by 10 AM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "Tomorrow at ten. Alright."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:56",
+      "text": "And as for the investigation, I will personally update you on Friday afternoon once we have the report from the pharmacy manager about why the notification failed. Does that timeline work for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:03",
+      "text": "It does. I just want to make sure we're actually on the same page now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:09",
+      "text": "I understand. I'll see you tomorrow morning to go over the verified list."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows patient to finish all turns, remains regulated under pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, but comprehension was not checked (no 'does that make sense' or similar)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am very sorry'), resident takes full personal responsibility, and maintains accountability despite the patient's skepticism."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('uneasy', 'worrying') and engages with the patient's shared identity as a teacher and his breach of trust."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (attending review, pharmacy report), clear timelines (tomorrow 10 AM, Friday afternoon), a patient role (log dizziness), and prevention (double-checking all meds)."
+    }
+  }
+}

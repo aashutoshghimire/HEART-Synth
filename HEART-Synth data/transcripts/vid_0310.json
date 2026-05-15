@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0310",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "It is good to see you again, Mr. Park. How have things been since you left the hospital?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:15",
+      "text": "Oh, okay. I mean, I'm still getting used to everything. It's a bit overwhelming doing this on my own."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "I can imagine it feels like a lot to handle by yourself. Before we get into today's check-up, there is something I need to discuss with you. I found a mistake in your chart regarding your developmental screening referral."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:35",
+      "text": "A mistake? What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:51",
+      "text": "When you were in the hospital, a referral was put in for a specialist screening. You had one appointment that you couldn't make, and then the person handling the paperwork marked that referral as completed in our system. Because it was marked as finished, no one followed up with you to reschedule it, and it looks like it never actually happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:03",
+      "text": "I did miss that one call, but I thought someone would call back. I just figured it wasn't a big deal since I'm already out of the hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:15",
+      "text": "It is a big deal, and I apologize. This was a failure on our part to track your care properly, and I am very sorry that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:21",
+      "text": "Oh. I don't know. Is that bad? Like, did I miss something important?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:33",
+      "text": "It is an important part of your long-term care plan, but we caught it now. Does that make sense, or should I clarify how the referral system works?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:40",
+      "text": "I think I get it. You just... clicked the wrong button and forgot about me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:53",
+      "text": "In a way, yes. The system showed it was done when it wasn't, and we didn't double-check. I can tell you're feeling a bit unsettled right now, and that's completely fair."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:02",
+      "text": "I just don't want to get in trouble or mess up my recovery. I'm not really sure how this works."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:08",
+      "text": "You haven't done anything wrong here, Mr. Park. This is entirely on us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:12",
+      "text": "Okay. So what do we do now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:26",
+      "text": "I have already called the specialist's office this morning. I've requested an expedited appointment for you. I want you to look for a phone call from the screening clinic by this Friday afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Friday. Okay. Do I need to call them?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "No, they will call you first. But if you haven't heard from them by Friday at 5:00 PM, I want you to call my office directly and ask for me. That way, I can personally make sure it's handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "I can do that. I'll write that down."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:03",
+      "text": "That sounds like a good plan. I'm sorry again that we dropped the ball on this. Do you have any other questions about the screening or how we're fixing this?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:11",
+      "text": "No, I think that's it. I just wanted to make sure I wasn't the one who messed up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:19",
+      "text": "You definitely weren't. We'll get this sorted out. Now, let's move on to the rest of your follow-up."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns, avoids interruptions, and maintains a steady pace without rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the second turn, lay language is used, comprehension is checked twice ('Does that make sense', 'Do you have any other questions'), and no false reassurance is given."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies are used ('I apologize', 'I am very sorry'), responsibility is explicitly taken ('failure on our part', 'entirely on us'), and accountability is maintained when the patient suggests they 'clicked the wrong button'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names one specific emotion ('feeling a bit unsettled') and engages the patient's emotional bid regarding the fear of getting in trouble."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides a specific next step (expedited appointment) with a timeline (Friday 5:00 PM) and a clear patient role (call the office if not contacted), but does not address systemic prevention."
+    }
+  }
+}

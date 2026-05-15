@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0259",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Mr. Rivera, thank you for coming in today. And thank you to your brother for joining us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:10",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:18",
+      "text": "I wanted to talk with you both because I have something difficult to share regarding your treatment schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:19",
+      "end_time": "00:00:22",
+      "text": "Is something wrong with the tests?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:37",
+      "text": "No, the tests are fine. But there was a mistake with when you received your last dose of immunotherapy. I am very sorry that this happened. My team and I are responsible for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:41",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:54",
+      "text": "Well, we had a bit of an issue with the calendar. There was some confusion with the dates, and the dose was given on the wrong day of the cycle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:00:58",
+      "text": "The wrong day? Like, a few hours off?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:07",
+      "text": "Not exactly. It was a different day than it should have been. Things didn't quite go right with the scheduling entry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:11",
+      "text": "Does that mean the medicine didn't work?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:18",
+      "text": "It is possible that giving it on the wrong day could reduce how effective the treatment is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:24",
+      "text": "I don't really understand. If it's in my body, why does the day matter?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:31",
+      "text": "The timing is just a bit off. We had a glitch in the system with the entry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:47",
+      "text": "I just... I can't afford for this to fail. I can't even go to a different clinic if things go bad here. I don't have papers, so I'm worried that if I complain or if this is reported, it will cause problems for me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:55",
+      "text": "I can see that you're feeling very anxious about your status and how this might impact your safety."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:01",
+      "text": "I just want to get better. I don't want to be a problem."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:12",
+      "text": "You are not a problem. This is a heavy thing to process, and I want to sit with this for a moment. Please take your time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "What happens now? Do I have to start over?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:32",
+      "text": "We have a very clear path forward to fix this. First, I have already contacted the oncology pharmacist to recalculate your next dose. We are going to shift your entire cycle by four days to get you back on the correct rhythm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "And that will fix it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:52",
+      "text": "It is the best way to ensure the drug maintains the right concentration in your blood. I will send a corrected schedule to your email by 5:00 PM today. I also want you to print that out and bring it with you to every appointment so we can double-check the date together before the needle even touches your arm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:12",
+      "text": "Additionally, I am implementing a new double-verification step in our clinic. Starting tomorrow, two different nurses must sign off on the calendar date before any immunotherapy is administered. This will prevent this specific error from happening to you or anyone else again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:19",
+      "text": "Will this show up in a report? Because of what I told you about my status?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:35",
+      "text": "The medical record will reflect the corrected date, but this is a clinical correction. It is not a legal or immigration report. My priority is your health. I will personally oversee your next three infusions to ensure everything is exact."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "I appreciate that. I was really scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:50",
+      "text": "I know this is a lot to take in. I'm going to stay here with you for a few more minutes if you have more questions."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and explicitly offers to sit with the patient's distress without rushing."
+    },
+    "E": {
+      "score": 0,
+      "justification": "While the resident mentions a 'mistake', they rely on platitudes and hedging such as 'things didn't quite go right' and 'a glitch in the system' rather than explicitly naming the specific error, and they never check for comprehension."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Resident uses direct apology language ('I am very sorry') and explicitly states 'My team and I are responsible for this error' without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('anxious', 'heavy thing to process') and references the patient's specific concerns regarding their immigration status."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific next steps (recalculating dose, shifting cycle), a timeline (email by 5:00 PM), a patient role (print and bring schedule), and a systemic prevention plan (double-verification step)."
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "video_id": "vid_0126",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:14",
+      "text": "Ms. Patel, thank you for coming in today. I have Dr. Miller here with me as well. I asked you to come in because I need to discuss a mistake we made regarding your son's developmental screening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:15",
+      "end_time": "00:00:18",
+      "text": "A mistake. What kind of mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:32",
+      "text": "When the first appointment for the screening was declined, the referral was marked as completed in our system. This means the file was closed without us attempting to reschedule or follow up with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:41",
+      "text": "I remember that appointment. I couldn't make it because of my work schedule. I assumed the office would just call me back."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:54",
+      "text": "You are exactly right. That is what should have happened. Instead, we stopped the process entirely. Does that make sense so far, or can I clarify how the system failed here?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:01",
+      "text": "It makes sense. It sounds like you just checked a box and forgot about my child."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:12",
+      "text": "I can see why it feels that way. It feels like your son was just a task to be checked off a list rather than a priority."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:26",
+      "text": "It is exactly that. This is why I don't trust this place. I've spent years dealing with \"system errors\" that actually just mean the person in charge didn't care enough to double-check the paperwork."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:42",
+      "text": "That is a heavy thing to carry into a doctor's office, and I realize that my mistake today only reinforces that feeling. I am sorry for any confusion this caused. We were quite overwhelmed with the volume of patients last month, and this slipped through."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:55",
+      "text": "I don't care how busy you were. I sign those forms because I'm told they are essential for his development. You told me it was essential, then you ignored it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:11",
+      "text": "I hear you. It is incredibly frustrating to be told something is a priority, only to find out the people providing the care didn't treat it as one. I can see you're feeling guarded right now, and honestly, you have every right to be."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:24",
+      "text": "I'm not just guarded. I'm wondering what else is missing from his chart. If you can't manage a simple referral, what else is being \"marked as complete\" without actually happening?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:40",
+      "text": "That is a fair and very valid question. This is a failure in our process. I want to take a moment just to sit with that, because I know this isn't just about one appointment\u2014it's about the trust you put in us to keep your son safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "So, what now? How do we fix this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:49",
+      "text": "We need to get the screening done as soon as possible."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:58",
+      "text": "Which means I have to spend another three hours on the phone trying to find a slot that works for me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "We will take care of the scheduling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "That's a bit vague. When? Who is doing it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "I'll get it sorted. I'll look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:26",
+      "text": "I've heard \"I'll look into it\" before. In my experience, that's where the one-way conversation ends. I want a date. I want to know exactly how this is being handled so I don't have to be the one auditing your files."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:31",
+      "text": "I understand you want a concrete answer. I will work on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "That still doesn't tell me when."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "We will get you an email."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "An email from whom? And when will it arrive?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "I'll have the staff send a message."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:56",
+      "text": "This is exactly what I mean. You're sorry that you messed up, but your solution is just as disorganized as the error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:06",
+      "text": "I realize I'm not giving you the specifics you need. I am just trying to make sure we get it right this time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "By being vague?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:14",
+      "text": "I will make sure the referral is sent."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:15",
+      "end_time": "00:04:18",
+      "text": "And the timeline?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:23",
+      "text": "We'll see how quickly the specialist can get back to us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:24",
+      "end_time": "00:04:31",
+      "text": "I cannot believe this. You've managed to turn an apology into another reason for me to leave this practice."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to speak fully without interruption and remains regulated despite significant pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the first turn, lay language is used, and comprehension is checked ('Does that make sense so far...')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology is offered, but it is immediately diluted by an excuse regarding being 'overwhelmed with the volume of patients'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('feels like your son was just a task', 'feeling guarded') and references the patient's shared history of distrust."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague promises ('I'll get it sorted', 'we'll see') without timelines or a concrete plan."
+    }
+  }
+}

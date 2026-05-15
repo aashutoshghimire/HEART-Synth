@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0011",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Okafor, thank you for coming back into the room. I wanted to sit down with you for a few minutes and talk about your daughter's medication from this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:20",
+      "text": "Of course. Is everything alright? She seemed a bit more drowsy than usual when I checked on her."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:35",
+      "text": "I can see that you're concerned, and it's completely understandable that you'd notice that change in her. This is a very difficult conversation to have, and I want to be open with you about what happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:39",
+      "text": "I appreciate that. What is it exactly?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:55",
+      "text": "There was a mistake in how we calculated the dose of the medication. The dose was based on an estimated weight rather than a measured weight, which resulted in her receiving an amount that is above the safe paediatric threshold."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:03",
+      "text": "I'm sorry, I'm not sure I follow. What do you mean by a threshold? And why was it estimated?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:19",
+      "text": "Basically, the amount of drug she received was too high for her actual size. In the rush of the morning, the weight used for the calculation wasn't from the scale, but was an approximation of what we thought she weighed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:26",
+      "text": "She's a small child. How much of a difference does an approximation make? Which medication was it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:40",
+      "text": "It was the antibiotic. Because the dosages for children are so precise, even a few kilograms of difference in the estimate can lead to a significantly higher dose than what is clinically indicated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:49",
+      "text": "That is deeply concerning. This is a basic safety protocol, isn't it? To weigh the patient? Who is responsible for this error?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:01",
+      "text": "It is a fundamental part of our process. The team was managing several high-acuity patients at once, and the protocol for weighing her before the first dose wasn't followed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:16",
+      "text": "I understand the ward is busy, but that doesn't change the fact that my daughter has been given too much medicine. I feel incredibly anxious right now. I trusted the staff to follow the rules."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:29",
+      "text": "I can hear the anxiety in your voice, and it's a heavy feeling to realize that the trust you placed in us was compromised. It's a frightening realization for any parent."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:38",
+      "text": "It is frightening. So, what is the actual risk? What does an overdose of this specific antibiotic do to a child's organs?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:49",
+      "text": "We are monitoring her vitals closely. The primary concern at this level of dose is potential kidney stress, although we are seeing stable readings right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:58",
+      "text": "Stable for now. But you haven't told me if this was your mistake or a nurse's mistake. I want a clear answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:03",
+      "text": "The error happened within the clinical team's workflow during the morning rush."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:08",
+      "text": "You're avoiding the question. Who signed off on the dose?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:15",
+      "text": "The dosing was processed through the system based on the estimated weight provided in the chart."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:25",
+      "text": "I'm a retired teacher, doctor. I know how to spot an evasion. You haven't actually told me who is accountable. Was it you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:30",
+      "text": "It was a failure in the team's adherence to the safety checklist."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:41",
+      "text": "I find it very strange that you can explain the pharmacology of the error but you cannot give me a simple apology or take ownership of it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:47",
+      "text": "I recognize that this is a distressing situation for you and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:59",
+      "text": "I am not just distressed, I am questioning the competence of this ward. What are we doing to fix this? What is the plan for the next twelve hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "We are keeping her under observation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:16",
+      "text": "That is not a plan. That is a status. What specific tests are being run? When will the results be back? Who is the supervising consultant who knows about this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:17",
+      "end_time": "00:04:24",
+      "text": "We'll be keeping an eye on her urine output and we'll probably run some blood tests if things change."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:34",
+      "text": "If things change? I want a schedule. I want to know exactly when the next blood draw is and who is reviewing the results."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:35",
+      "end_time": "00:04:38",
+      "text": "I'll make sure the team keeps you updated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:39",
+      "end_time": "00:04:49",
+      "text": "That's far too vague. I want a written plan. I want to know how you are going to ensure this doesn't happen to another child tonight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:54",
+      "text": "We will look into how the workflow can be improved."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:55",
+      "end_time": "00:05:01",
+      "text": "I'm not talking about a general workflow. I'm talking about my daughter. Give me a timeline."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:02",
+      "end_time": "00:05:07",
+      "text": "I'll check with the senior staff and we'll see what the next steps are."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite repeated pushback and accusations of evasion."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never used direct apology language and consistently deflected responsibility to the 'workflow', 'system', and 'team's adherence' when asked who was accountable."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident specifically named 'concerned', 'anxiety', and 'frightening' while referencing the patient's loss of trust."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague statements ('keeping an eye', 'probably run some blood tests', 'we'll see') without timelines or a concrete plan."
+    }
+  }
+}

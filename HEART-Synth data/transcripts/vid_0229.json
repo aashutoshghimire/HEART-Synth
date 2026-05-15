@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0229",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Ms. Nakamura, thank you for meeting with me. I need to discuss something that happened during your scan today. We made a medical error. We gave you a contrast agent, which is the dye used for imaging, even though your blood tests showed your creatinine levels were too high. Creatinine is a marker of how well your kidneys are working, and because yours was elevated, you were at a high risk for contrast-induced nephropathy, which is basically a sudden injury to the kidneys caused by the dye."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:28",
+      "text": "Wait, what? I was reading about the contrast on my phone before the scan and I thought the nurse said it was fine. Are you saying my kidneys are damaged?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:43",
+      "text": "I can't say for certain if there is permanent damage yet, but the risk is there because the protocol to protect your kidneys before the dye was not followed. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:59",
+      "text": "I don't understand. If the labs were already in the chart, why did the machine just let you do it? This is my first time in a hospital and I keep seeing these numbers on my portal. I'm really scared. What is actually happening to me right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:14",
+      "text": "I can see that you are feeling scared and overwhelmed by all this. I'm sorry for any confusion this has caused. We were really busy in the radiology suite today and the alert was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:29",
+      "text": "Being busy doesn't change the fact that you put something in my blood that shouldn't be there. I'm a graduate student, I can look up the statistics on nephropathy. Is this going to affect my long-term health?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:39",
+      "text": "It's possible, but we are monitoring you. I know it's frightening to feel like you've lost control over what's happening to your body."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:54",
+      "text": "I just wanted the scan so I could go home. Now I'm sitting here wondering if I've developed a chronic condition because someone didn't check a lab value. How does this even happen in a modern hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:01",
+      "text": "It was a failure in our checking process. I apologize that we didn't follow the safety steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:17",
+      "text": "I feel like I'm just a number to you people. I've been trying to track everything on my phone just to make sure I'm safe, and it turns out the people actually doing the medicine are the ones I should have been worried about."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:23",
+      "text": "I realize this is a lot to take in and it feels unfair."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:28",
+      "text": "So what now? What are you doing to fix it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:35",
+      "text": "We are keeping an eye on your urine output and we will check your labs again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:42",
+      "text": "When? Specifically when? And what is the target number for the creatinine to show I'm okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:49",
+      "text": "We'll see how the next few hours go and we'll probably get another blood draw sometime tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:59",
+      "text": "Tomorrow? That's it? No hydration? No specific medication to flush the dye? My research says aggressive fluids are the standard of care for this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "We're managing your fluids."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:16",
+      "text": "That's not a plan. That's a general statement. I want to know exactly what the protocol is for the next twenty-four hours. Who is the attending physician responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:27",
+      "text": "I'm the one handling your care right now. I have to go check on another patient, so we'll just see how the labs look in the morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:34",
+      "text": "You're leaving? You just told me I had a kidney injury and now you're rushing out?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:40",
+      "text": "I just need to step away for a moment. We'll keep you updated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "I'm not finished asking my questions."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:50",
+      "text": "I'll stop by later. We'll just stay tuned for the next set of results."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to go', 'I just need to step away') and terminates the encounter while the patient is still asking questions."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the first turn, lay language used throughout, and comprehension checked ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apologies are offered, but the resident dilutes accountability by citing that they 'were really busy' as a reason for the error."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions twice ('scared and overwhelmed', 'frightening to feel like you've lost control') and references the patient's feelings of unfairness."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague statements ('we'll see', 'stay tuned', 'probably... sometime tomorrow') without a concrete protocol or patient role."
+    }
+  }
+}

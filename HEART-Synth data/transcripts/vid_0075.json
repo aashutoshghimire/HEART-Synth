@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0075",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hi Ms. Williams, I wanted to come in and talk to you about the reaction you had to the medication earlier."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:17",
+      "text": "I'm still shaking. I can't believe my skin is doing this. I felt like I couldn't even breathe for a second there."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:26",
+      "text": "I know that was very scary. Here is what happened. You were given a medication that you are actually allergic to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:33",
+      "text": "Wait, what? How? I told you guys when I came in. It's in my chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:47",
+      "text": "It was in the chart, but it was overlooked during the prescribing process. I'm sorry for any confusion this caused. We've been incredibly busy on the floor today and it just got missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:01:03",
+      "text": "Confusion? This isn't confusion, this is my body reacting to something that shouldn't have been given to me. I have two kids at home. Who is watching them right now? I can't be stuck here because of a mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:12",
+      "text": "I understand. But the important thing is that the reaction is moderate and we have the symptoms under control now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:28",
+      "text": "I don't care if it's under control, I'm terrified. If I'm not home, they don't have dinner, they don't have a bath. I can't afford to miss more work than I already have. Does this mean I have to stay longer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:35",
+      "text": "From a clinical perspective, the pharmacological trigger has been removed. The systemic response is stabilizing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:41",
+      "text": "I don't know what that means. Am I okay? Am I going home today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:47",
+      "text": "You're stable. I just need to make sure the inflammatory markers don't spike again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:59",
+      "text": "This is just so unfair. I do everything right, I tell you my allergies, and then this happens. I feel like I can't even trust what's happening in here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:15",
+      "text": "You don't understand. You don't have people relying on you every single second of the day. If I'm incapacitated, my kids are the ones who pay for it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "The medication has been discontinued now, so that part is settled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:27",
+      "text": "But what happens next? Do I need more tests? When do I get to leave?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:34",
+      "text": "We'll keep an eye on you for a bit. We'll see how the next few hours go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:39",
+      "text": "That's not an answer. Do I have a discharge time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:46",
+      "text": "I can't give you a specific time right now. Just stay tuned for an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:57",
+      "text": "I need to know. I have to call my sister to see if she can stay with the kids. I can't just leave them in limbo."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:02",
+      "text": "We'll definitely let you know as soon as we have more information."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:07",
+      "text": "Why did this happen? Did you just not look at my file?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:14",
+      "text": "The system is complex and sometimes things are missed when the ward is this chaotic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:21",
+      "text": "I'm not talking about the system. I'm talking about the person who wrote the order."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:27",
+      "text": "Like I said, I'm sorry for the confusion. But we've already stopped the drug."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:37",
+      "text": "I just feel like I'm not being heard. I'm sitting here covered in a rash because someone didn't read a piece of paper."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:46",
+      "text": "I've got a few other patients to check on, so I have to go, but the nurses will be in shortly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "You're leaving? Now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:55",
+      "text": "I'll check back in later. The nurses will handle the monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "I still don't know if I'm going home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "We'll see. Just hang tight."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language ('I've got a few other patients to check on, so I have to go') and shows defensive escalation by dismissing the patient's concerns."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly, but the resident uses medical jargon ('pharmacological trigger', 'systemic response', 'inflammatory markers') and never checks for comprehension."
+    },
+    "A": {
+      "score": 0,
+      "justification": "While the resident says 'I'm sorry', responsibility is deflected to the 'prescribing process', the 'busy floor', and 'the system'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident uses generic validation ('I understand') but fails to name specific emotions or engage with the patient's distress regarding her children."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders ('we'll see', 'stay tuned', 'we'll keep an eye on you') without timelines or a prevention plan."
+    }
+  }
+}

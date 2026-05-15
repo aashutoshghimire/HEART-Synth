@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0237",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Hello Mr. Okafor, thank you for meeting me again. I wanted to follow up on those specific questions you had about why the nausea occurred during your last infusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "I appreciate you coming back. I've had a few days to think about it, but I'm still struggling with the logic of it. We discussed the pre-meds in my initial consult, and I specifically remember we talked about how aggressive the anti-emetics needed to be for this regimen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:28",
+      "end_time": "00:00:43",
+      "text": "That's correct. To be very clear about what happened, the anti-nausea medication\u2014the ondansetron\u2014was simply not added to the electronic order for your chemotherapy pre-medication. Because it wasn't in the order, the nurses didn't administer it before the infusion started. Essentially, you received the chemo without the necessary protection against vomiting. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:56",
+      "text": "It makes sense in that I understand the sequence. But I don't understand the gap. How does a medication we both agreed on just not make it onto the final order?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:12",
+      "text": "It was a failure in the ordering process. I entered the chemo drugs but I missed the click for the pre-medication bundle. I'm sorry for any confusion this caused, but we were just incredibly busy in the clinic that morning and it slipped through."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:27",
+      "text": "I can imagine the clinic is busy, but it feels like a very basic step. I spent two hours vomiting in that chair. It was humiliating and frankly, it felt like a total failure of care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:35",
+      "text": "I can see that you feel let down by us, and it sounds like that experience was quite distressing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:50",
+      "text": "Distressing is one word for it. I\u2019m more concerned about whether this is how things are handled here. If a simple pre-med is missed, what else is being missed? The dosage of the actual chemo?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:01:54",
+      "text": "No, I can assure you the chemotherapy dose was\u2014"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:02:05",
+      "text": "I\u2019m not asking for assurance, I\u2019m asking about the system. Was there a double-check? Who is supposed to verify the order before the needle goes in?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:21",
+      "text": "Look, I have to go in a few minutes for another patient, so let's wrap this up quickly. The nurses check the order against the protocol, but since the order was \"clean\" in the system, they assumed it was correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:27",
+      "text": "You're rushing me now? I'm trying to understand if I'm safe in this clinic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:40",
+      "text": "I'm just trying to be efficient with our time. To answer your question, we've reviewed the incident. I've already updated your chart with a hard-stop alert for your next visit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:45",
+      "text": "A hard-stop alert. What does that actually mean for me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:03:01",
+      "text": "It means the computer will literally block the nurse from starting the infusion unless the anti-emetics are checked off as administered. So, for your next appointment on Tuesday, you will see the nurse give you those medications about thirty minutes before the infusion begins. I want you to double-check with the nurse yourself before the chemo starts; just ask her, \"Have the pre-meds been given?\" that way we have two sets of eyes on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:07",
+      "text": "I shouldn't have to be the quality control officer for my own oncology treatment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:12",
+      "text": "I understand. It's not an ideal position for you to be in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:20",
+      "text": "Did anyone else at the hospital actually review this, or is it just you and I talking about it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:34",
+      "text": "The attending physician was notified and we discussed the error in our morning huddle. We're using this as a case study for the other residents to ensure they don't make the same mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:47",
+      "text": "It's a bit cold to be a \"case study\" for me, but I suppose it's better than it happening to someone else. What happens if the nausea returns despite the meds?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:04:00",
+      "text": "If that happens, we have a rescue protocol. You'll be given a secondary medication immediately. But the plan for Tuesday is the hard-stop alert and your verbal confirmation with the nurse."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:07",
+      "text": "Fine. I'll do the check. I just hope the \"busy\" excuse doesn't apply next week."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:15",
+      "text": "I'll make sure it doesn't. I really have to get to my next appointment now. I'll see you Tuesday."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up quickly', 'trying to be efficient with our time', 'really have to get to my next appointment now')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the second turn, lay language used throughout, and comprehension checked ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apology is used, but it is immediately diluted by an excuse ('I'm sorry... but we were just incredibly busy')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('feel let down', 'distressing') and engages with the patient's experience."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (hard-stop alert), a timeline (Tuesday), a named patient role (verbal confirmation), and prevention (case study/alert)."
+    }
+  }
+}

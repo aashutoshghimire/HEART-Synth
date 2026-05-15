@@ -1,0 +1,219 @@
+{
+  "video_id": "vid_0167",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Mr. Lindqvist, thank you for seeing me. I need to discuss something that happened during your procedure yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:14",
+      "text": "I can tell by the look on your face this isn't a check-up. What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "There was a failure in our pre-operative protocol. The team skipped the final blood type verification step before your transfusion. Because of that, you received a blood type that was compatible, but not the ideal match for your specific type."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:39",
+      "text": "Wait. You skipped the cross-match? You're telling me you just bypassed the verification process and pumped someone else's blood into me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:48",
+      "text": "Yes, that is what happened. I am very sorry. The responsibility for this mistake lies with our surgical team and me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:01:01",
+      "text": "I was a paramedic for fifteen years. I know exactly how this works. You don't just skip a verification step unless you're being negligent. Was it a rush? Who was the lead?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:05",
+      "text": "I understand you're angry. This shouldn't have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:17",
+      "text": "Angry? I'm beyond angry. I'm lying here wondering if I'm going to have a hemolytic reaction because you decided the checklist was optional. Why wasn't the screen checked?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:28",
+      "text": "We failed to perform the bedside check of the patient's ID against the blood bag. We relied on the lab's preliminary labeling without that final verification."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:39",
+      "text": "That is a fundamental breach of safety. In my day, you'd be stripped of your certs for that. How do I know I'm actually safe right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:50",
+      "text": "You are currently stable. The blood used was compatible, so you aren't in immediate danger of a reaction, but it wasn't the precise match we strive for."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:02:01",
+      "text": "Compatible isn't the same as a match. You're using clinical shorthand to make me feel better. Tell me the actual risks of the non-ideal type."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:11",
+      "text": "It can increase the risk of an immune response, though we are monitoring your vitals and labs closely to catch any signs of that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:21",
+      "text": "Great. So now I'm a chemistry project. Who is going to be held accountable for this? Because a sorry doesn't fix a protocol failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:28",
+      "text": "I know this is frustrating and scary. We are taking full responsibility for the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:41",
+      "text": "I don't want to hear a script. I want to know why the system failed and how you're going to make sure the next person doesn't get the wrong blood."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:49",
+      "text": "I hear that you want a real answer on accountability. We are reviewing the incident with the department head."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:58",
+      "text": "What does that mean for me today? What are you doing right now to ensure I'm not crashing in an hour?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "We'll be keeping an eye on your blood work."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:10",
+      "text": "That's it? Keeping an eye on it? Give me a specific monitoring schedule. Every four hours? Every six?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "We'll just check the labs as they come in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:23",
+      "text": "That is an unacceptable answer. I want a specific plan for my monitoring and I want a copy of the incident report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:29",
+      "text": "I can't give you the report right now, but we'll be monitoring you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:38",
+      "text": "You're dodging the question. Give me a timeline. When is the next blood draw? What exactly are you looking for?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:43",
+      "text": "The nursing staff will be in periodically to check your vitals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:57",
+      "text": "Periodically is not a plan. I'm a former clinician; don't give me vague directions. I want to know the exact frequency of checks and who the attending is that is overseeing this correction."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "I'll have to check on the schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:13",
+      "text": "This is unbelievable. You come in here, tell me you messed up a critical safety step, apologize, and then you have no clue how you're actually managing the aftermath."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "I apologize for not having the specific timing ready."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:18",
+      "end_time": "00:04:28",
+      "text": "I don't want apologies. I want a protocol. Are you going to get me a written plan or do I have to call the patient advocate?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "I'll see if I can find the attending."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:46",
+      "text": "Get the attending. Now. And bring a printout of the monitoring schedule. I am not staying in this bed wondering if I'm reacting to a mistake because you're \"keeping an eye' on me."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite the patient's escalating anger and pushback."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly in the first turn, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language and explicitly took responsibility for the team and themselves, maintaining this under pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named specific emotions ('angry', 'frustrating', 'scary') and engaged with the patient's distress."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only vague steps ('keeping an eye on blood work', 'check the labs as they come in') with no specific timelines or patient role."
+    }
+  }
+}

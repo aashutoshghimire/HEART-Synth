@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0170",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Williams, thank you for meeting with me. I need to discuss your care and a serious mistake that was made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "Is everything okay? I just want to know when I can go home to my kids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "I am so sorry. The team and I failed you. Your CT scan showed a blood clot in your lung, a pulmonary embolism, but it wasn't included in the first report from the radiologist. Because of that, we didn't start your treatment for eighteen hours. I take full responsibility for this delay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:37",
+      "text": "What? You're telling me I had a clot and you just left it there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:53",
+      "text": "Yes, that is exactly what happened. The clot was visible on the images, but the preliminary report missed it. We didn't catch it until the attending radiologist reviewed the study later. Does that make sense, or can I explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:03",
+      "text": "It makes sense. It makes sense that you messed up. My chest still hurts. Is that because it sat there for eighteen hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:15",
+      "text": "It is very likely. The delay in starting the blood thinners allowed the clot to cause more damage to your lung tissue than if we had acted immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:31",
+      "text": "I can't believe this. I'm twenty-nine. I have two little ones at home and I work two jobs. I can't afford to be sick. What does this mean for me? Am I going to be like this forever?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:36",
+      "text": "I understand. Right now, the focus is on stabilizing you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:51",
+      "text": "You don't get it. My kids are staying with my sister. They're asking when Mommy is coming home and I don't even know if I'll be able to breathe right when I get there. I'm terrified that\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:03",
+      "text": "I have to be honest about the prognosis, so let's look at the imaging. Because of the delay, you have some permanent scarring in that part of the lung."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:08",
+      "text": "Permanent? You're saying I'm permanently damaged because someone didn't read a report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:18",
+      "text": "I am deeply sorry. I apologize for the harm this has caused you and your family. There is no excuse for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:29",
+      "text": "I don't care about an apology right now. I need to know if I'm going to be disabled. Will I be able to keep my jobs?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:38",
+      "text": "I can't give you a definitive answer on that today, but we are monitoring your oxygen levels. I understand this is overwhelming."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:52",
+      "text": "It's more than overwhelming. I'm shaking. I can't even imagine telling my kids that their mom might not be able to run around with them because a doctor forgot to check a scan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:03",
+      "text": "I know this is a lot to take in, but I really need to wrap this up quickly because I have a patient in the ICU."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:11",
+      "text": "You're rushing me? I just found out my lungs are scarred because of your mistake and you're rushing me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:27",
+      "text": "I apologize, I just mean that we have a schedule to keep. But regarding your health, the plan is that we will keep you on the medication for six months. I've scheduled a follow-up with the pulmonologist for this coming Thursday at ten a.m. Your role is to track any shortness of breath in a log so we can adjust the dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "Thursday. Okay. And what happens if I can't breathe?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:42",
+      "text": "If you feel a spike in shortness of breath, you call the floor nurse immediately. We'll do another scan in two weeks to check the clot size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "Why should I trust anyone here now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:53",
+      "text": "I know it's hard. But we are following the protocol now to ensure you are safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:04:02",
+      "text": "I just keep thinking about my kids. I can't be the one who's sick. I'm the one who takes care of everything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:07",
+      "text": "I understand. Now, let's go over the medication schedule one more time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:12",
+      "text": "Do you even care that my life is basically changed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:20",
+      "text": "I am sorry. I truly am. But as I said, the next step is the appointment on Thursday."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language ('wrap this up quickly', 'schedule to keep') and interrupts the patient's emotional expression regarding her children."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (delayed treatment of pulmonary embolism) is named in the first turn, lay language is used, and comprehension is checked once ('Does that make sense...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language, takes full responsibility ('I take full responsibility', 'The team and I failed you'), and maintains this without deflection."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident relies on generic validation ('I understand', 'I know this is a lot to take in') without naming specific emotions or engaging deeply with the patient's emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific next steps (medication for six months, pulmonologist appointment Thursday at 10am, scan in two weeks), a named patient role (tracking shortness of breath in a log), and prevention (following protocol)."
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "video_id": "vid_0268",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Osei, thank you for meeting with me. I need to discuss the timeline of your care from yesterday and be honest about a mistake that happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:21",
+      "text": "I've been waiting for this. I know how the triage process works, and I know that my symptoms weren't handled according to the standard of care."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:37",
+      "text": "You are correct. When you arrived, the triage nurse categorized you as low-acuity, meaning your symptoms weren't flagged as an emergency. Because of that, the imaging and the neurology consult were delayed. This delay meant that by the time we identified the stroke, the thrombolysis window\u2014the timeframe where we can give the clot-busting medication\u2014had already closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:51",
+      "text": "The window. I know exactly what that window is. I'm a nurse practitioner, for god's sake. I sat in that waiting room for three hours watching people who arrived after me go back first."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:00",
+      "text": "I am very sorry. Our team failed to recognize the urgency of your presentation, and we are responsible for that delay."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:15",
+      "text": "This isn't just a mistake. This is a systemic failure. I might have full mobility in my arm right now, but what about the long-term? What has this delay actually cost me in terms of my prognosis?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:20",
+      "text": "It is incredibly frightening to think about the permanency of these things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:34",
+      "text": "Frightening? It's devastating. I could be looking at a permanent deficit because someone didn't follow a basic stroke screen. I can't even wrap my head around how this happens in a tertiary center."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:40",
+      "text": "I can see you're really upset, and I know this is an overwhelming realization."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:49",
+      "text": "I'm not just upset. I'm terrified. I have a practice to run. I have a life. If I can't function, everything changes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:59",
+      "text": "I understand that's a lot to process. But, I should mention that we need to move toward the next steps for your recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:07",
+      "text": "Wait, you're just moving on? I just told you I'm scared and you're jumping to the next step?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:23",
+      "text": "I just mean we have a clear path forward. First, I have already scheduled a follow-up with the Chief of Neurology for tomorrow at 10 AM to review your specific imaging and determine the exact extent of the infarct. Second, we are starting you on a high-intensity rehabilitation protocol starting tomorrow morning at 8 AM. You'll be working with a physical therapist twice a day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:28",
+      "text": "And what about the \"why\"? Who is being held accountable?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:44",
+      "text": "I have already filed a formal incident report. The department head is conducting a root-cause analysis to determine why the triage screen failed in your case so we can implement a mandatory double-check system for any patient presenting with focal neurological deficits. This will prevent this from happening to someone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "I hope so. I really hope so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:04",
+      "text": "I will be your main point of contact. I'll check in with you every morning at 9 AM to review your therapy progress and answer any questions. I'll also provide you with a written copy of the incident report number for your own records by this evening. Do you feel those steps address the immediate concerns?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:11",
+      "text": "It's a start. I just can't believe I'm the one in the bed this time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:16",
+      "text": "I know. We'll take it one step at a time."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language ('we need to move toward the next steps') while the patient is expressing fear."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly and early, but there are no comprehension checks performed throughout the transcript."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am very sorry') and explicitly states the team is responsible without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('frightening', 'upset', 'overwhelming') and engages with the patient's distress."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides specific next steps with timelines and addresses prevention, but does not name a specific role for the patient in the plan."
+    }
+  }
+}

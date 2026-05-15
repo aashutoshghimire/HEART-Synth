@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0081",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Park, I need to talk with you about your care over the last twenty-four hours. I have some difficult news regarding a mistake that was made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "Oh. Is it about the tests?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "Yes. There was an error in how your ECG was handled. The machine flagged an abnormal result right away, but I did not review that result for four hours. Because I didn't see it, we didn't start the necessary treatment for your heart event immediately. Do you follow what I'm saying so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:36",
+      "text": "I... I don't really know. You mean you just didn't look at it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:44",
+      "text": "That is correct. I missed the alert, and that caused a delay in your diagnosis. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:54",
+      "text": "I guess. I just thought everything was being handled. I've never really been in a hospital by myself before. I'm kind of shaking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:06",
+      "text": "I am sorry. I am the one responsible for this mistake. It was my job to check those results, and I failed to do that in a timely manner."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:10",
+      "text": "Is it my fault? Did I do something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:16",
+      "text": "No, you did absolutely nothing wrong. This was entirely a failure on my part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:24",
+      "text": "So what does that mean for me now? Like, for my health? Am I going to be okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:40",
+      "text": "Because of the delay, there is permanent damage to your heart muscle. This means your heart doesn't pump as efficiently as it should. You will likely have a reduced capacity for exercise and a higher risk of heart failure in the future."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:49",
+      "text": "Wait, permanent? I'm nineteen. I can't have heart failure. I have a scholarship for sports. Does this mean I can't play?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:57",
+      "text": "I understand this is a lot to take in, but we need to focus on the medical steps now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:05",
+      "text": "But you don't understand, my whole life is basically my sport. My parents are going to be so\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:15",
+      "text": "We really need to go over the management plan quickly because I have to go check on another patient in a few minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:22",
+      "text": "I don't think I can just move on to a plan right now. I'm actually really scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:38",
+      "text": "I understand. But looking forward, here is exactly what happens next. First, you are staying in this bed for another forty-eight hours for continuous monitoring. Tomorrow morning at 8:00 AM, the cardiology specialist will visit you to calibrate your new medication dosage. Your role is to track any shortness of breath in this logbook I'm giving you and alert the nurse immediately if you feel a flutter in your chest."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "Will the medicine fix the damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:58",
+      "text": "It won't reverse the damage already done, but it will prevent it from getting worse. Regarding how we stop this from happening again, our department is implementing a new mandatory alert system that pings the attending physician's phone and a backup resident simultaneously if an ECG is flagged. I have already filed a formal incident report to ensure the system is audited."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:06",
+      "text": "I don't know what to tell my parents. I don't even know if I should call a lawyer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:22",
+      "text": "That is certainly your right to do. As for the immediate next steps, the specialist will be here tomorrow, and I will personally bring you a written summary of today's conversation by 5:00 PM today so you have it for your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:27",
+      "text": "I just can't believe this happened. I feel like I can't breathe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:40",
+      "text": "We have the monitors on you to track that. Let's wrap this up so you can rest before the specialist arrives. Do you have any other questions about the medications?"
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('need to focus on the medical steps now', 'go over the management plan quickly because I have to go', 'Let's wrap this up')."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in turn 2, used lay language, checked comprehension twice ('Do you follow...', 'Does that make sense?'), and provided no false reassurance."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am sorry'), resident explicitly took personal responsibility ('I am the one responsible'), and maintained this under pushback."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but does not name specific emotions or engage with the patient's distress regarding their sports scholarship."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provided specific steps with timelines (48 hours, 8:00 AM tomorrow, 5:00 PM today), defined the patient's role (tracking shortness of breath in logbook), and addressed prevention (new alert system)."
+    }
+  }
+}

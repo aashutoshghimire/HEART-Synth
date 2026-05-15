@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0042",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Osei, thank you for coming in. I have some very difficult news to share with you regarding your daughter's treatment today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:14",
+      "text": "I've noticed she's not responding the way she usually does. What is happening?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "I made a serious mistake. When calculating the dose for her medication, I estimated her weight instead of using the scale to get an accurate measurement. Because of that, I gave her a dose that was significantly above the safe limit for a child her size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "You estimated?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:45",
+      "text": "Yes. I did not weigh her, and the dose I administered was too high. I am deeply sorry. I take full responsibility for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:56",
+      "text": "I'm a nurse practitioner, so I'm familiar with the protocols. We don't estimate weights for pediatric dosing. That is a fundamental breach of safety standards."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:04",
+      "text": "You are absolutely right. It is a breach of the standard of care, and it is my fault."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:11",
+      "text": "So what does this actually mean for her? I can see she's struggling to breathe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:27",
+      "text": "The overdose has caused acute kidney injury. Because the dose was so high, the damage is significant. It's likely that she will have chronic kidney disease moving forward, which means she will require long-term management and potentially dialysis in the future."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:33",
+      "text": "Chronic? You're telling me a dosing error has fundamentally changed her prognosis for life?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:41",
+      "text": "I am. This is a severe complication, and it is the direct result of my failure to weigh her."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:48",
+      "text": "I feel like I'm shaking. I can't even process the fact that this was a preventable mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "This is a devastating moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "I keep thinking about how I trusted this department."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:11",
+      "text": "I'm not just talking about trust. I'm talking about the fact that my daughter's life is now permanently altered because someone didn't pick up a scale."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:17",
+      "text": "The facts of the situation are that I failed to follow the safety protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:29",
+      "text": "Will she ever be able to run or play like other kids, or is she going to be tied to a machine for the rest of her childhood?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:40",
+      "text": "We cannot guarantee a full recovery of kidney function. While we are doing everything to stabilize her, the likelihood is that she will have permanent impairment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "This is an absolute failure of professional standards."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "It is. I failed her, and I failed you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "What is the plan right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:08",
+      "text": "Right now, we have started a continuous infusion of fluids to help flush the medication from her system, and we have a pediatric nephrologist on the way to see her within the hour. I have also contacted the Chief of Pediatrics to ensure an independent review of her care starting immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "And after the nephrologist?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:28",
+      "text": "Tomorrow morning at 8:00 AM, the nephrologist will meet with you and me to map out the long-term dialysis and management schedule. I want you to be involved in every decision about her care moving forward. We will also be filing a formal incident report with the board today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "I want to see that report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:41",
+      "text": "You should. I will provide you with a copy of the internal incident number so you can track the investigation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:47",
+      "text": "I can't imagine how you're going to look at yourself in the mirror."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:59",
+      "text": "I know there are no words that can fix what I have done. I am here to answer every question you have, for as long as you need."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "I need to see her."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "Of course. Let's go back to her room together."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated under significant pushback, and allows the patient to express distress without rushing."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, took full personal responsibility, and maintained that accountability throughout the patient's anger."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident used generic validation ('I understand', 'This is a devastating moment') but did not name specific emotions back to the patient."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided specific steps (nephrologist, Chief of Pediatrics), timelines (within the hour, 8:00 AM tomorrow), a role for the patient (involved in every decision), and addressed prevention (incident report/review)."
+    }
+  }
+}

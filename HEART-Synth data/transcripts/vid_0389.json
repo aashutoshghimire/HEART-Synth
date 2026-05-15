@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0389",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:03",
+      "text": "Good morning, Mrs. Al-Rashid. How are you feeling today?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:04",
+      "end_time": "00:00:10",
+      "text": "I feel... a bit dizzy. My head is spinning. I was told I was recovering well."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:11",
+      "end_time": "00:00:22",
+      "text": "I know it's very unsettling to feel that way when you expect to be getting stronger. I can see you're frightened by how your body is reacting right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:28",
+      "text": "Yes, I am. Is it normal? Did something go wrong in the surgery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:41",
+      "text": "The surgery itself went well, but there was some confusion with the monitoring after you came back to the ward. Things didn't go quite right with how we checked your vitals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "Confusion? I do not understand. What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:52",
+      "text": "Well, there was an issue with the timing of the blood pressure checks. Some things were missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:00:58",
+      "text": "Missed? But you are the doctors. I trusted that you were watching me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:14",
+      "text": "I can hear how devastating it is to feel that trust was shaken. It is truly heartbreaking to feel vulnerable in a hospital bed and then find out the care wasn't what it should have been. I really feel for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:23",
+      "text": "I just want to know why I felt so sick. Why did I wake up feeling like I was fainting?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:34",
+      "text": "There was a period where the numbers weren't captured as often as they should have been. It was a systemic failure in the ward's workflow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "But\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:49",
+      "text": "I have to move a bit quickly here because I have another patient who is being prepped for discharge, so let's just focus on the now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:55",
+      "text": "You are rushing. I am trying to ask you if I am in danger."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:08",
+      "text": "I can tell you're feeling anxious and overwhelmed by the uncertainty. It's completely valid to feel this way when you're trying to make sense of a scary gap in your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:12",
+      "text": "Who did this? Who forgot me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:21",
+      "text": "It's just that the system for alerts sometimes lags, and the frequency of checks can be disrupted when the unit is full."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:27",
+      "text": "I do not understand the system. I am asking if a mistake was made."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:36",
+      "text": "We had a bit of an issue with the timing. I'm sure we can get things back on track now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:42",
+      "text": "I feel like I am not being told the truth. Is my heart okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:58",
+      "text": "I can see the distress in your eyes and it pains me to see you this worried. I want you to know that I truly care about your wellbeing and I am staying by your side through this emotional turmoil."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "Please, just tell me exactly what happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:12",
+      "text": "As I said, there were some gaps in the monitoring. Let's wrap this up for a moment so I can check your IV."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "You are avoiding my question. I am a patient, I should know."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:30",
+      "text": "I know it feels like you're being left in the dark, and that feeling of helplessness is the worst part of being a patient. I am so sorry you're feeling that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:39",
+      "text": "You are saying you are sorry I feel this way, but you are not saying you are sorry for the mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:44",
+      "text": "It is just very difficult when the hospital is short-staffed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:50",
+      "text": "That is not my concern. I am the one who felt the fainting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:04:01",
+      "text": "I can tell you're feeling unheard and frustrated. It's so hard when you feel like the people in charge are not giving you a straight answer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "Then give me the answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "There was an issue with the blood pressure checks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "How long? For how long was it wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:21",
+      "text": "I really have to go now, I'm late for the other room. But we'll keep an eye on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:22",
+      "end_time": "00:04:26",
+      "text": "Wait. What happens now? How do I know it won't happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:27",
+      "end_time": "00:04:33",
+      "text": "We will probably look into the charts and maybe there will be a note in your file."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:34",
+      "end_time": "00:04:38",
+      "text": "A note? I want to know the plan to keep me safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:39",
+      "end_time": "00:04:44",
+      "text": "I'll tell the nurses to be more careful. We'll see how the afternoon goes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "That is not a plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:04:56",
+      "text": "I know it's scary and you feel unprotected right now. I can see that weight on your shoulders."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:57",
+      "end_time": "00:05:01",
+      "text": "I just want to go home. I don't feel safe here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:02",
+      "end_time": "00:05:05",
+      "text": "I understand that you're feeling betrayed by the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:06",
+      "end_time": "00:05:10",
+      "text": "Did I have a stroke? Is that why I felt that way?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:11",
+      "end_time": "00:05:17",
+      "text": "Like I mentioned, there was just some confusion with the monitoring. We'll check back later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('move a bit quickly', 'wrap this up', 'I really have to go now, I'm late')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses only platitudes and hedging ('confusion with the monitoring', 'things didn't go quite right', 'issue with the timing') without explicitly naming the error."
+    },
+    "A": {
+      "score": 0,
+      "justification": "Responsibility is deflected to 'systemic failure', 'the system for alerts', and being 'short-staffed' with no direct apology for the error."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident repeatedly names specific emotions ('frightened', 'devastating', 'anxious', 'overwhelmed', 'helplessness', 'betrayed') and engages emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders and vague statements ('we'll keep an eye on you', 'maybe there will be a note', 'we'll see how the afternoon goes')."
+    }
+  }
+}

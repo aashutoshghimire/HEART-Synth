@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0172",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Mr. Rivera, thank you for coming back to the room to talk with me. I have some news about your medication that is quite serious, and I want to be very direct with you. We made a mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:19",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:35",
+      "text": "Three days ago, I wrote in your chart that you should stop taking the blood thinner, but I didn't notify the pharmacy. Because of that, you kept receiving and taking a medication that you should have stopped. I am very sorry. I take full responsibility for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:44",
+      "text": "I did feel a bit dizzy. But maybe that is just the illness. I have been sick for a while."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:00:57",
+      "text": "I understand why you might think that, but the dizziness is likely happening because you have too much of that medication in your system. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:04",
+      "text": "I guess. I just do not want to cause any trouble. I am not here to complain."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:17",
+      "text": "You are not causing any trouble, Mr. Rivera. It is my job to make sure your medicine is correct, and I failed to do that. I am truly sorry for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:25",
+      "text": "It is okay. I know the hospital is busy. Maybe my body is just reacting to the infection."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:41",
+      "text": "It is possible the infection is playing a part, but the fact remains that you took a drug for three extra days that you shouldn't have. I don't want to brush that off as part of your illness because it was a mistake on my part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:54",
+      "text": "I just don't want this to be a big deal. I don't have... I don't have a certain kind of paperwork. I don't want my records to show I am a problem."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:10",
+      "text": "I want to be very clear about this. This mistake has nothing to do with your status or your paperwork. It was my error, and it will be documented as my error. You are not a problem, and your care here is our priority regardless of anything else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "You really think it was the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:23",
+      "text": "Yes. Based on the dosage you received, that is the most likely cause. Is there any part of that which feels confusing?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:30",
+      "text": "No. I just thought it was just the way things go when you are sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:43",
+      "text": "This is a heavy thing to process. I can see you are being very patient with me, and I know it's uncomfortable to hear that we messed up your treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "I just want to get better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:03:03",
+      "text": "That is the most important thing. We have a plan to fix this now. First, I have already called the pharmacy and the medication has been removed from your room. Second, I am ordering a blood test right now to see exactly how much of the drug is still in your system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "When will that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:22",
+      "text": "The nurse will be in here within the hour to draw your blood. Then, I will come back this afternoon, around 3:00, to give you the results and tell you how we will manage the recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "And what about the future?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:42",
+      "text": "I am going to meet with my supervisor to change how we notify the pharmacy so this doesn't happen to another patient. While we wait for the test, I need you to tell me immediately if you notice any new bruising or if the dizziness gets worse. Can you do that for me?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "Yes. I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:55",
+      "text": "Thank you. I will be back at 3:00. If you think of any other questions before then, please hit the call button."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a regulated pace during the patient's anxiety about paperwork, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the first turn, lay language used throughout, and comprehension checked twice ('Does that make sense so far?' and 'Is there any part of that which feels confusing?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used multiple times, resident takes full personal responsibility, and maintains accountability even when the patient tries to excuse the error."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('uncomfortable', 'heavy thing to process') and engages the patient's specific concerns regarding their status and paperwork."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (blood test, pharmacy call), timelines (within the hour, 3:00), patient role (report bruising/dizziness), and prevention (meeting with supervisor)."
+    }
+  }
+}

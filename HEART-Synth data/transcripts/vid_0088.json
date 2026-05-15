@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0088",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Mbeki, thank you for coming in. I have asked my senior colleague to join us while we discuss your son's medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:13",
+      "text": "Is everything okay? He seems a bit more lethargic than usual today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "There has been a mistake with the antibiotic we prescribed for him. The liquid medicine itself was the correct strength, but the oral syringe we gave you to measure the dose was calibrated for a different concentration. Because of that, your son has been receiving double the intended dose for the last three days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:34",
+      "text": "Double? You're telling me he's had twice what he needed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:45",
+      "text": "That is correct. He has received double the dose for three days. Does that make sense, or would you like me to explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:53",
+      "text": "I follow what you're saying, but why on earth would that happen? I did exactly what the syringe said."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:01:00",
+      "text": "The syringe provided didn't match the bottle's concentration. It was a failure in the dispensing process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:09",
+      "text": "My son is small. To give him double the medicine for three days... is he going to be alright? Is this poisonous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:24",
+      "text": "We have reviewed the dosage, and while it was double the intended amount, it is below the toxic threshold for this specific drug. We believe he will be fine, but we need to monitor him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:37",
+      "text": "I can't believe this. I've already missed two days of work to bring him in. I can't afford to be away from my business any longer than I already have."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:41",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:55",
+      "text": "I don't think you do. I'm the only one running my shop. If I'm not there, I'm losing money. Now I have to spend more time here because of a mistake you made."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:01",
+      "text": "The most important thing now is to ensure he returns to the correct dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:07",
+      "text": "I'm just... I'm very worried. He's so lethargic. Is that because of the overdose?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:20",
+      "text": "Lethargy can be a side effect of the medication, but it can also be a symptom of the infection he is fighting. We need to rule out any other complications."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "This is just unacceptable. Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:31",
+      "text": "There were several steps in the pharmacy and clinic workflow where this should have been caught."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:37",
+      "text": "I'm not asking about the workflow. I'm asking who messed up my son's medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "It was a system failure during the dispensing process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:48",
+      "text": "You're avoiding the question. Did you not check the syringe before handing it to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:54",
+      "text": "The process for matching syringes to concentrations was not followed correctly in this instance."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:03:00",
+      "text": "My son is the one paying the price for a process not being followed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "We need to move forward with a monitoring plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "I just want to know if he is safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:22",
+      "text": "As I mentioned, the dose is below the toxic level. To be certain, I want you to bring him back tomorrow morning at 8:00 AM for a blood test to check his kidney function."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "Tomorrow? I told you, I can't miss more work."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:42",
+      "text": "I understand the timing is difficult, but the blood test is necessary for his safety. You can bring him in, and then I will provide a formal medical note for your employer or your records to cover the absence."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "Fine. What else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:04:02",
+      "text": "You will stop using the current syringe immediately. I have a new, correctly calibrated syringe here for you to use starting with the next dose. I want you to call me directly at this number if he develops a rash or if the lethargy gets worse tonight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "And what happens if the test comes back bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:07",
+      "end_time": "00:04:19",
+      "text": "If the results show any irregularity, we will admit him for a brief period of observation and hydration. But based on the drug profile, we expect the results to be normal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:20",
+      "end_time": "00:04:24",
+      "text": "I can't believe I have to keep coming back because of this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:25",
+      "end_time": "00:04:29",
+      "text": "I will see you tomorrow at 8:00 AM for that blood draw."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and remains regulated under pushback, though pacing is somewhat brisk toward the end."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the first turn using lay language, and comprehension was checked once ('Does that make sense...')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language used and responsibility was consistently deflected to 'system failure' and 'dispensing process'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') but does not name specific emotions or engage deeply with the patient's distress."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Plan includes specific steps (blood test, new syringe), timelines (tomorrow 8:00 AM), patient role (bring son, call if rash develops), and prevention (correctly calibrated syringe)."
+    }
+  }
+}

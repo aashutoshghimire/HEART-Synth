@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0028",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Ms. Anderson, thank you for coming back in to see me today. I asked for this meeting because I need to discuss an error that occurred during your daughter's visit last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:22",
+      "text": "I appreciate you making time. I was actually wondering about the appointment. Lily has been a bit more fussy than usual since the shots."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:38",
+      "text": "I am very sorry to tell you that we gave Lily the wrong dose of one of her vaccines. We used a dose meant for a child in a higher weight category. I take full responsibility for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:45",
+      "text": "I'm sorry, I don't quite follow. You're saying she got too much of the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:54",
+      "text": "Yes, that's correct. The vaccine was drawn up for an older, heavier child instead of for Lily's specific weight band."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:07",
+      "text": "Is that why she's been fussy? Look, children react to vaccines. It's a normal part of the process, isn't it? Maybe it's just the progression of how she handles these things."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:19",
+      "text": "It is possible she would have been fussy anyway, but we cannot attribute this to a normal reaction when we know a dosing error occurred. I am truly sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:28",
+      "text": "I work in hospital administration, so I'm familiar with how these things are documented. Is this a common occurrence in this clinic?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:36",
+      "text": "It shouldn't happen. I failed to verify the weight band before the administration, and that is entirely on me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:49",
+      "text": "Well, if she is fine now, then perhaps we are overthinking this. These vaccines are designed to be safe. I think her current state is just her natural response to the injection."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:59",
+      "text": "I understand why you'd want to see it that way, but the dose was significantly higher than what is indicated for her weight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:07",
+      "text": "I'm just not sure I see why we are calling this a medical error if the outcome seems mild."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:19",
+      "text": "I hear that you're feeling this might be an overreaction to a minor issue. But my priority is being honest about the fact that the protocol wasn't followed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:23",
+      "text": "Right. So, where does this leave us?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:34",
+      "text": "I have a plan to monitor her. I want you to bring her back in for a weight check and a general physical exam this Friday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "Friday? I have a very tight schedule this week."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:54",
+      "text": "I know your time is valuable. Let me check the schedule and see if we can find a slot that works better for you, but I really believe we need to see her within the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:03:00",
+      "text": "I suppose I can make a Friday morning appointment work if it's necessary."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:11",
+      "text": "Thank you. I will also be contacting the vaccine manufacturer to report the over-dosage and get their specific guidance on any delayed reactions to watch for."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "And what happens if she develops a late reaction?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:25",
+      "text": "If you notice any new rashes or unusual lethargy, you should call my direct line immediately. I'll give you that number before you leave."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "That would be helpful."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:44",
+      "text": "I also want you to know that I've already filed an incident report. We are reviewing our drawing process to make sure we have a double-check system for weight bands so this doesn't happen to another family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:51",
+      "text": "It's good that you're documenting it. I'll expect the paperwork for my own records as well."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:58",
+      "text": "Absolutely. I will provide you with a full written summary of the error and the follow-up plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:05",
+      "text": "I still feel like she's probably just reacting to the shot, but I appreciate the apology."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:14",
+      "text": "I understand. We will keep a close eye on her regardless. I'll go ahead and get that phone number for you now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, remains regulated during pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, but comprehension was not checked (e.g., 'Does that make sense?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used, responsibility explicitly taken ('entirely on me'), and accountability maintained despite the patient's attempts to minimize the error."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names a specific emotion ('feeling this might be an overreaction') and engages with the patient's perspective."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (weight check, manufacturer contact), a timeline (Friday), a patient role (bring her back/call direct line), and prevention (double-check system)."
+    }
+  }
+}

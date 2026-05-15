@@ -1,0 +1,333 @@
+{
+  "video_id": "vid_0026",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello, Mr. Dubois. I wanted to come by and speak with you now that you are feeling a bit more stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "I feel... I feel very strange. My skin is still itching. Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:25",
+      "text": "I know this is a very difficult moment for us to have. I want to be here with you while we talk through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:33",
+      "text": "I told the nurse. I told the person at the admissions desk. I said I cannot take that medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:42",
+      "text": "There were some issues with how the orders were handled. Things didn't go quite right with the process this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:48",
+      "text": "What does that mean? Issues? I nearly stopped breathing. C'est inadmissible. It is unacceptable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:59",
+      "text": "I am sorry for any confusion that occurred during your care. We were really busy on the ward today, and it seems there was a mix-up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:11",
+      "text": "I do not care if you are busy. I am a man of my word, and I gave you my medical history. I expected that my word was enough."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:15",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:22",
+      "text": "You do not understand. To be ignored in my own bed... it is an insult."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:23",
+      "end_time": "00:01:32",
+      "text": "I can see that you are upset. But the important thing is that the reaction has subsided and your vitals are normal now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:38",
+      "text": "I want to know exactly what happened. Did you not read my chart?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:45",
+      "text": "There was a discrepancy in the communication of the pharmacy orders. It was a system failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:46",
+      "end_time": "00:01:52",
+      "text": "You are talking about systems. I am talking about my body. Who gave me the drug?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:00",
+      "text": "We had a bit of a situation with the medication list. It was an unfortunate sequence of events."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:06",
+      "text": "Je ne comprends pas. You are not answering me. Did you make a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:15",
+      "text": "I'm sorry that this was such a frightening experience. We are just focusing on making sure you stay stable now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:25",
+      "text": "I am not interested in your focus. I am interested in the truth. I felt the air leave my lungs. I felt small."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:36",
+      "text": "No, you are just saying words. I want to know why my allergy was ignored."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "It was a complication in the workflow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:46",
+      "text": "A workflow. I am a patient, not a piece of paper in a workflow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:53",
+      "text": "It is just that sometimes the electronic records and the verbal orders don't align perfectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:59",
+      "text": "So you are saying the computer is wrong? Or the doctor is wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "There was some confusion in the prescribing process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:08",
+      "text": "This is very frustrating. I feel like I am being lied to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:16",
+      "text": "I am not lying to you, Mr. Dubois. I am just explaining that things happened that shouldn't have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:27",
+      "text": "Then tell me what you will do so this does not happen again. I cannot leave here if I am afraid of the next pill."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "We will be very careful moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:36",
+      "text": "Very careful is not a plan. What is the plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "I will make sure the team is aware."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "When? Now? Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "We'll keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:57",
+      "text": "That is not an answer. I want a written guarantee. I want to know who is responsible for my safety."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "We are all working together to ensure your recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:07",
+      "text": "You are avoiding me. I can see it in your eyes. You are hiding."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:13",
+      "text": "I am trying to be honest about the fact that the process failed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:14",
+      "end_time": "00:04:18",
+      "text": "The process did not give me the medicine. A person did."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:22",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:27",
+      "text": "You keep saying that. But you do not feel it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:31",
+      "text": "I am sorry you feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:32",
+      "end_time": "00:04:40",
+      "text": "I do not feel that way. I know that way. It is the way of a man who has been dismissed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:41",
+      "end_time": "00:04:45",
+      "text": "We are just going to move forward with your treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:49",
+      "text": "And the allergy? Is it noted now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:53",
+      "text": "We'll look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:54",
+      "end_time": "00:04:57",
+      "text": "Look into it? It is in my chart!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:58",
+      "end_time": "00:05:01",
+      "text": "I will make sure we check everything again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:02",
+      "end_time": "00:05:06",
+      "text": "I want to speak to the chief of this ward."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:07",
+      "end_time": "00:05:11",
+      "text": "I can see if they are available at some point."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:12",
+      "end_time": "00:05:15",
+      "text": "Now. I want to speak with them now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:16",
+      "end_time": "00:05:19",
+      "text": "I'll see what I can do."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident shows defensive escalation and rushing language, attempting to shut down the conversation with 'We are just going to move forward with your treatment.'"
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident never explicitly names the error, relying entirely on platitudes like 'things didn't go quite right' and 'confusion in the prescribing process'."
+    },
+    "A": {
+      "score": 0,
+      "justification": "Responsibility is consistently deflected to 'the process', 'system failure', and 'workflow' rather than taking personal or team accountability."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident uses generic validation ('I understand', 'I can see that you are upset') without naming specific emotions or engaging the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders such as 'We'll keep an eye on things' and 'I'll see what I can do' with no concrete plan or timeline."
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0013",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mrs. Hernandez, it is good to see you again. How have things been since you left the hospital?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:14",
+      "text": "I am still tired. My arm, it does not feel right. My daughter, she is worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "I can see that you are still struggling with that weakness, and I can tell it has been a very frightening few weeks for both of you. I really want you to know that I have been thinking about your case every day since you were discharged."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:38",
+      "text": "We wanted the medicine. The doctor said the medicine helps the brain. But we did not get it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:51",
+      "text": "I am so sorry that we failed to give you that medication. Our team made a mistake in how we handled your arrival, and I take full responsibility for that failure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:56",
+      "text": "Why? We told them. We told them the face was drooping."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:12",
+      "text": "I know, and it is heartbreaking that you did the right thing by coming in quickly and we didn't respond correctly. It must feel so unfair to have done everything right and still be left with these symptoms."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:21",
+      "text": "I feel... like I am a burden now. My daughter has to help me dress. I was always the one helping."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:36",
+      "text": "Hearing you say that really hits me. It is an incredible loss to go from being the caregiver to needing that care yourself. I can only imagine how frustrating and discouraging it is to lose that independence."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:41",
+      "text": "Was the hospital too full? Maybe they had a big accident?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:50",
+      "text": "There were some things that didn't go quite right with the process. We had an issue with how the timing was handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:54",
+      "text": "What does that mean? Did the medicine go bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "There was just some confusion with the triage."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:06",
+      "text": "My daughter says the time is important. She says we were there for hours. Why did it take hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:16",
+      "text": "I have to get to my next appointment in a few minutes, but let me tell you what we are going to do now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:22",
+      "text": "But I do not understand why the one we needed was not given."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:38",
+      "text": "Let's wrap up the history and focus on the move forward. First, I have already scheduled a neurology consultation for this Thursday at 10:00 AM. They are going to do a more detailed map of the brain to see exactly where the blockage was."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "Thursday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:58",
+      "text": "Yes, Thursday. I will have my coordinator call you tomorrow morning to confirm the room number. Second, I want you to start home physical therapy tomorrow. I have already sent the referral to the agency. A therapist named Sarah will come to your house at 2:00 PM tomorrow to start with your arm. Your job is just to keep a daily log of how many times you can lift your water glass, and you can show that to me at our next visit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:03",
+      "text": "I don't know if I can do it. I am sad."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:19",
+      "text": "I know you are grieving for the way things were, and that sadness is completely valid. We are going to walk through this together. Also, I have started a formal review with our triage nursing lead to change how stroke alerts are flagged so that no other family has to go through what you did."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "You will change it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:37",
+      "text": "I am making sure it happens. We are implementing a new double-check system for anyone with facial drooping, starting this Monday. I want to make sure we prevent this from ever happening again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:43",
+      "text": "I still don't understand the mistake. My daughter wants to know the words."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:49",
+      "text": "Like I said, there was just some confusion in the system during the intake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "But we waited."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:04:09",
+      "text": "I understand that was a long wait. Now, as I mentioned, I really do have to go. But please, remember that Sarah will be there tomorrow at two. Do you think you can have your daughter write down those glass-lifting attempts in a notebook for me?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "Yes. We will do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "Thank you. I will see you in two weeks."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language multiple times ('I have to get to my next appointment', 'Let's wrap up', 'I really do have to go')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses platitudes ('things didn't go quite right', 'confusion with the triage') and refuses to explain the specific mistake despite repeated patient requests."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am so sorry'), takes full responsibility ('I take full responsibility for that failure'), and maintains this without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frightening', 'unfair', 'frustrating and discouraging', 'grieving') and references the patient's specific loss of independence."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific next steps with timelines (Neurology Thursday 10am, PT tomorrow 2pm), a named patient role (daily log of glass-lifting), and a prevention plan (double-check system starting Monday)."
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0345",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Dubois, thank you for meeting with me. I know this has been a very long and stressful day for you and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:14",
+      "text": "It has been an exhausting day. My daughter is very anxious."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:29",
+      "text": "I can see that. I want to start by saying I am very sorry. There was a mistake in how we monitored your grandchild's heart rate today, and I am taking full responsibility for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:38",
+      "text": "A mistake? What are you talking about? The other doctor told me everything was stable. He said the baby was fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:51",
+      "text": "I know you were told that, and that makes this even more difficult. The truth is that the heart rate tracing showed some drops, called decelerations, and it was categorised incorrectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:55",
+      "text": "Cat\u00e9goris\u00e9? What does that even mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:07",
+      "text": "It means we labeled the heart rate pattern as normal when it was actually showing signs of distress. We didn't catch the severity of it for two hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:15",
+      "text": "Two hours? You are telling me that for two hours you didn't know the baby was in danger?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:23",
+      "text": "Yes. It was an error in judgment during the review of the monitor. I apologize deeply for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:37",
+      "text": "I felt so relieved when the first doctor spoke to me. Now you tell me he was wrong. Or perhaps you are the one who is wrong. This is... c'est inadmissible. This is unacceptable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:41",
+      "text": "It is. It is completely unacceptable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:48",
+      "text": "I trusted your team. My daughter trusted you. And you just... you just missed it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:55",
+      "text": "I did. I let this happen. I am not going to make any excuses for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:03",
+      "text": "I don't want your apologies. I want to know why the first doctor lied to me. Did he lie?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:14",
+      "text": "He didn't lie intentionally, but he gave you information based on an incorrect reading. He believed the situation was stable because that is how it was recorded."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "So you are all just guessing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:25",
+      "text": "No, we have the data, but the interpretation of that data was wrong for those two hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:35",
+      "text": "I feel like a fool for believing the first report. I felt... I felt a certain peace, and now you take it away."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:48",
+      "text": "I can only imagine how jarring it is to have the floor pulled out from under you like that. It's a terrible feeling to be given a false sense of security."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:56",
+      "text": "My daughter is in the other room. How do I tell her that you people failed her son?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:06",
+      "text": "I will be the one to tell her. I will explain exactly what happened so you don't have to carry that burden alone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "What happens now? Is the baby safe?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:26",
+      "text": "Right now, the baby is stable, but we are changing the management plan immediately. First, I have ordered a continuous fetal scalp electrode monitor, which provides a much more accurate reading than the external one we were using. That is being placed right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:30",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:42",
+      "text": "Every single tracing will now be double-signed by both myself and the attending consultant every thirty minutes. No one person will be the sole judge of the heart rate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "And if it happens again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:04:02",
+      "text": "We have also alerted the nursing lead to prioritize this room for immediate intervention if any further decelerations appear. You and your daughter have a role here too. If you notice any change in the baby's movement or if you feel something is wrong, I want you to press the call button immediately. We will treat any concern you have as a priority."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:08",
+      "text": "I just want to know that this will not happen to someone else."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:09",
+      "end_time": "00:04:23",
+      "text": "I am documenting this as a formal clinical incident today. We are holding a morbidity and mortality meeting on Tuesday to review exactly why this miscategorization happened so we can change the protocol for the whole ward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "Tuesday. That is a long time from now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:34",
+      "text": "It is. But the immediate safety steps\u2014the scalp electrode and the double-signing\u2014are happening this second."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:35",
+      "end_time": "00:04:38",
+      "text": "I am still very angry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:39",
+      "end_time": "00:04:46",
+      "text": "I understand. You have every right to be. I will stay here with you as long as you need."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to express anger and frustration without interrupting and remains regulated under significant pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but the resident never performed a comprehension check to ensure the patient understood."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language, takes full personal responsibility ('I let this happen'), and maintains accountability despite the patient's anger."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('jarring', 'false sense of security') and engages with the patient's emotional bids regarding his daughter."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps (scalp electrode, double-signing), timelines (every 30 mins, Tuesday), a patient role (press call button), and prevention (M&M meeting)."
+    }
+  }
+}

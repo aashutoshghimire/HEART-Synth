@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0120",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Mr. Rivera, thank you for meeting with me. I need to discuss the fetal heart rate monitoring from earlier today. We had a clinical error. A tracing that showed decelerations, which are drops in the baby's heart rate, was categorized incorrectly as normal. This meant the severity wasn't recognized for two hours until a second doctor reviewed the strip and identified the issue. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:20",
+      "text": "I... I don't understand. You mean the baby was in trouble?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:35",
+      "text": "Yes. The decelerations indicated the baby wasn't getting as much oxygen as we wanted, and that wasn't caught immediately because the chart was marked incorrectly. Do you understand what I mean by the heart rate dropping?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:40",
+      "text": "No. I don't. Is the baby okay? Is my child dying?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:45",
+      "text": "The baby is stable now, but we missed a window of time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:01:01",
+      "text": "I can't... I can't believe this. My wife is in there and I'm out here and you're telling me you just missed it? I don't have papers, I don't have anything, I just wanted this to be safe. I'm so scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:13",
+      "text": "I know it's a lot to take in, but it's important that we look at the data. The second clinician corrected the category, and that's how we caught it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:23",
+      "text": "But for two hours... two hours my baby was... oh god, I can't stop shaking. What happens now? Will the baby have brain damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:29",
+      "text": "We are monitoring the vitals closely. It's a stressful situation, I get that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:36",
+      "text": "I just wanted everything to go right. I didn't want to cause any trouble, I just\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:47",
+      "text": "Actually, let's move forward. I have to go see another patient in a few minutes, so I want to make sure we wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:57",
+      "text": "You're leaving? But I need to know if my child is going to be disabled because of this mistake. Please, just tell me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:03",
+      "text": "It is too early to say for certain. We are just watching the monitors."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:11",
+      "text": "Why did this happen? Was it because of who I am? Because we aren't... because of my status?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:18",
+      "text": "The system for categorizing these tracings can be complex, and mistakes happen in a busy unit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "You aren't saying you're sorry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:30",
+      "text": "I am telling you exactly what happened with the medical record. We had a failure in the categorization process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "My baby. My baby was suffering for two hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:42",
+      "text": "I understand it's upsetting. But as I said, the second doctor found the error and we corrected it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:48",
+      "text": "What are we doing to fix it now? What is the actual plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:55",
+      "text": "We'll just keep an eye on things. We will see how the next few hours go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "That's it? Just wait and see?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:08",
+      "text": "We'll stay tuned to the monitors and let you know if anything changes. I really do have to go now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:13",
+      "text": "I don't feel like I know what's happening. I'm terrified."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:18",
+      "text": "We'll check in later. Just stay in the waiting area."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'have to go see another patient', 'really do have to go now') and interrupts the patient's emotional distress to redirect to data."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in first turn, used lay language ('drops in the baby's heart rate'), checked comprehension twice, and avoided false reassurance regarding brain damage."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language used and responsibility was deflected to the 'system' and 'categorization process'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids and fears are consistently met with factual redirection or generic validation ('I understand it's upsetting') without naming specific emotions."
+    },
+    "T": {
+      "score": 0,
+      "justification": "No concrete plan provided; resident only uses placeholders like 'keep an eye on things' and 'stay tuned to the monitors'."
+    }
+  }
+}

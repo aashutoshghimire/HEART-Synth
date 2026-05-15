@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0100",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hello, Mr. Okonkwo. I wanted to come in and talk to you about how you're feeling and what happened with the reaction you had to the medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:19",
+      "text": "I am feeling better now, thank you. But I am still wondering why my skin turned that way. It was very frightening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:32",
+      "text": "I've looked into it. There was a medication error. I prescribed the drug without checking your allergy list, and the pharmacy dispensed it. We gave you something you are allergic to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:40",
+      "text": "Allergic? But I have told this hospital many times. I have a card in my wallet for this reason."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:51",
+      "text": "I know. I'm sorry for any confusion this caused. We were really busy on the ward last night and it seems the check was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:07",
+      "text": "Confusion? This was not confusion. This was a mistake. I am a man of standing in my community. If people knew I was here because of a mistake, it would be embarrassing. My family... they see me as the one who handles everything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:14",
+      "text": "I can tell that you're feeling very distressed and worried about how this reflects on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:23",
+      "text": "It is not just about the rash. It is the thought that I am not safe here. Who is watching me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:32",
+      "text": "It was an oversight in the electronic health record interaction. The contraindication wasn't flagged in the immediate view during the order entry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:37",
+      "text": "I do not know what a contraindication is. Please speak plainly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:44",
+      "text": "It means the drug and the allergy don't mix. It should have stopped the order."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "So you didn't see the allergy?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "It was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:02:00",
+      "text": "I feel very shaken. I cannot imagine what would have happened if I had been alone in the room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:11",
+      "text": "I understand that it is scary. But listen, I actually have to go check on another patient right now, so let's just try to move forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:17",
+      "text": "You are leaving? Now? I have not finished telling you how I feel."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:21",
+      "text": "I just mean we can continue this later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:30",
+      "text": "This is how you treat a man who almost had a severe reaction because of your mistake? You are rushing away?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:39",
+      "text": "I'm sorry, I just have a very tight schedule today. I just wanted to make sure you knew what happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:45",
+      "text": "And what happens now? How do I know this won't happen again tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "We will keep an eye on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:54",
+      "text": "That is not a plan. What specifically is being done?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:03:01",
+      "text": "Well, we'll see how the rest of the day goes and I'll probably check your chart again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:08",
+      "text": "I want to know who is responsible for ensuring my safety for the rest of my stay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:14",
+      "text": "We'll just stay tuned for now. I'm sure the team will be more careful."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:19",
+      "text": "This is very disappointing. I thought we had a good relationship."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:26",
+      "text": "We do, but I really have to get to that other room. We can talk more later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I actually have to go', 'tight schedule', 'have to get to that other room') and dismisses the patient's emotional bids."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and early, but the resident used medical jargon ('contraindication') and never performed a comprehension check."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The resident apologizes, but immediately dilutes it with an excuse regarding being 'really busy on the ward last night'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('distressed and worried') and acknowledges the patient's fear, though later dismisses the patient's needs."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague assurances ('keep an eye on it', 'stay tuned', 'probably check your chart') with no concrete plan."
+    }
+  }
+}

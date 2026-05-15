@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0192",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:13",
+      "text": "Ms. Anderson, thank you for coming back in today. I have some information regarding why your symptoms have returned, and I need to be very honest with you about a mistake that was made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:14",
+      "end_time": "00:00:20",
+      "text": "I appreciate you seeing me. I was quite concerned when the fever came back last night."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:32",
+      "text": "I am deeply sorry, but I prescribed your antibiotic course for only seven days instead of the fourteen days required for this specific infection. This was my error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:37",
+      "text": "Wait. You mean I didn't take enough of the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:53",
+      "text": "Yes, that is exactly what happened. I gave you the right drug and the right dose, but the duration was cut in half. Because the treatment was incomplete, the bacteria weren't fully cleared, which is why you are feeling sick again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:00:59",
+      "text": "I... I don't understand. How does that happen? This is a basic prescription."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:08",
+      "text": "There is no excuse for it. I simply entered the wrong duration into the system. I take full responsibility for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:18",
+      "text": "I just spent two weeks thinking I was recovering. I went back to work. I told my family I was fine. And now this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:32",
+      "text": "I can see how frustrating and disheartening this is. To feel like you had your health back only to have it taken away because of a clerical error on my part is devastating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:43",
+      "text": "It's more than frustrating. I'm scared. Does this mean the infection is stronger now? Is it resistant? What if it doesn't work the second time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:48",
+      "text": "It is completely understandable that you feel frightened about the prognosis now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:02:01",
+      "text": "I'm a hospital administrator, I know how these things go. One mistake leads to another. Who is reviewing this? Who is making sure I actually get the right care now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:15",
+      "text": "I hear your fear, and your concern about the quality of care is valid. I am the one responsible for this, and I am the one who will ensure the correction is made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:22",
+      "text": "I just can't believe this. I trusted you. I actually trusted that we had this under control."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:30",
+      "text": "I know. I've let you down, and I know that trust is hard to rebuild once it's been broken."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:36",
+      "text": "What now? I can't just keep going back and forth to the pharmacy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:52",
+      "text": "We are going to fix this immediately. First, I have already written a new prescription for the remaining seven days of the medication, and I've called the pharmacy to ensure it's ready for you right now. Second, I want you to come back in three days for a quick blood test to make sure the markers are moving in the right direction."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "And if the blood test is bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:12",
+      "text": "If those markers haven't dropped, I will bring in the infectious disease specialist for a formal consultation to see if we need a different class of antibiotic. I will personally call you with those results by 4:00 PM on Thursday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "And how do I know you won't just miscount the days again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:33",
+      "text": "That is a fair question. To prevent this from happening again, I have documented this incident in our departmental error log. This triggers a mandatory review of my prescribing patterns by my attending physician. I am also using a double-check system with the nursing staff for all my discharges for the next month to ensure my durations match the protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "I suppose that's the standard procedure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:44",
+      "text": "It is. But beyond the procedure, I am committed to making sure you are healthy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:49",
+      "text": "I just feel so exhausted. I can't keep doing this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "I know you're exhausted. This shouldn't be happening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:03:59",
+      "text": "I need to know that I'm not just a checkbox in a report."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:08",
+      "text": "You aren't. You are a patient who deserved correct care, and you didn't receive it. I am here to make it right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:12",
+      "text": "I'll go to the pharmacy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:24",
+      "text": "I will be here. If you have any questions when you get home or if the fever spikes again tonight, you have my direct line. Please use it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:28",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "I am truly sorry, Ms. Anderson."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to express frustration and fear without interruption and maintains a regulated pace throughout the encounter."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in the second turn using lay language, but there are no explicit checks for patient comprehension (e.g., 'Does that make sense?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am deeply sorry'), takes full personal responsibility, and maintains accountability despite the patient's pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrating', 'disheartening', 'frightened') and references the patient's specific experience of feeling her health was taken away."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps (new prescription, blood test), timelines (three days, 4:00 PM Thursday), patient role (go to pharmacy), and a detailed prevention plan."
+    }
+  }
+}

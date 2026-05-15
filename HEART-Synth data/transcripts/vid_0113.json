@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0113",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hello Mrs. Hernandez, hello Sarah. Please, come in and sit down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:08",
+      "text": "Gracias."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "I wanted to talk to you both about what happened during your chemotherapy session today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:19",
+      "text": "It was very bad."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:35",
+      "text": "I know it was. I want to be very clear about why you felt so sick. You experienced severe vomiting during the infusion, and that was because of a mistake we made. We forgot to add the anti-nausea medication to your pre-medication orders."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:39",
+      "text": "Oh."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:55",
+      "text": "Because that medicine wasn't given, your body didn't have the protection it needed against the side effects of the chemo. I am very sorry that this happened. It was our responsibility to ensure those orders were correct, and we failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:00:59",
+      "text": "I thought it was normal to feel sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:11",
+      "text": "It is common, but not to that extent. This could have been prevented if the medicine was ordered. Does that make sense, or should I explain that part again?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:15",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "I can see you look quite shaken. I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:23",
+      "text": "I was very scared."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:36",
+      "text": "We will make sure the next session is better. Now, regarding the plan, I have already updated your chart so the anti-nausea meds are locked in for every future visit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:37",
+      "end_time": "00:01:40",
+      "text": "Will it happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:56",
+      "text": "No, it won't. To make sure of that, I'm going to personally double-check your orders with the pharmacy tomorrow morning by 10 AM. Sarah, if you notice any change in how your mother is feeling tonight, I want you to call the on-call nurse immediately at this number."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "I will tell her."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:09",
+      "text": "I have to get to another patient now, but I wanted to make sure we spoke. Is there anything else?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:13",
+      "text": "No."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:23",
+      "text": "I'll go ahead and check your vitals one last time before you leave. Sarah, just keep a close eye on the fluid intake tonight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:34",
+      "text": "I'm sorry again for the distress this caused you today. We will see you next Tuesday."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language by stating 'I have to get to another patient now' before concluding the encounter."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once ('Does that make sense...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language and explicitly stated 'It was our responsibility... and we failed to do that.'"
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named a specific emotion ('shaken') and engaged with the patient's bid regarding being 'scared.'"
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided a specific timeline (tomorrow by 10 AM), addressed prevention (locked in orders), and assigned a patient role (Sarah to call the nurse/monitor fluids)."
+    }
+  }
+}

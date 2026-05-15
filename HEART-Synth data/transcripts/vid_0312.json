@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0312",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Patel, thank you for coming back in to see me. I wanted to speak with you about your discharge paperwork from last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:16",
+      "text": "I was wondering why I was called back. I already spent three days in that bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:29",
+      "text": "I completely understand that this is an inconvenience. There was a mistake in your follow-up instructions. I listed a clinic for your post-op care that does not take your insurance."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:39",
+      "text": "I knew something felt off. I tried to call them on Monday and the receptionist basically told me I was out of luck."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:50",
+      "text": "I am so sorry. This was my mistake. I failed to verify the provider network before I wrote those instructions, and that is entirely on me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:01:06",
+      "text": "It is typical. I sign the papers, I trust the system, and then I find out the system is basically telling me to pay three thousand dollars out of pocket or just not get the care I need."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:17",
+      "text": "It sounds like you feel let down by the process again, and that is the last thing you need when you are trying to recover."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:29",
+      "text": "Let down is an understatement. I have had this happen before with a different specialty. You people just assume we will figure it out once we leave the building."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:40",
+      "text": "I can see why you're skeptical of how we're handling this. I want to make sure we fix this immediately. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:45",
+      "text": "Yes, it makes sense. You messed up the insurance check. Now what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:58",
+      "text": "I have already spent the morning calling clinics that are in your specific network. I found two providers who can see you for the required follow-up within the next ten days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "Which ones?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:08",
+      "text": "Dr. Aris and the Westside Surgical Group. Both are fully covered by your plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:16",
+      "text": "I don't know. Are they actually good, or are they just the only ones who take the insurance?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:32",
+      "text": "I can give you their credentials and the reason I chose them. But before we get into that, I have to jump into a rounding session in a few minutes, so I want to make sure we get the logistics sorted quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:41",
+      "text": "Oh, so you're suddenly in a rush? I'm the one who had to drive back across town because of your error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:52",
+      "text": "I know, and I apologize for the timing. I just want to ensure we lock in the appointment before I lose my window to call them."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:59",
+      "text": "This is exactly what I mean. This is just a box to be checked for you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:10",
+      "text": "I realize I am rushing, and I apologize for that. I genuinely want to ensure you have a confirmed appointment before you leave this office today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:15",
+      "text": "I'm not signing anything until I've seen the actual provider list."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:22",
+      "text": "That is fair. I have the list right here. Let's look at the Westside Group first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "Why that one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:34",
+      "text": "They specialize in the specific procedure you had, and they have a four-star rating within your insurance portal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:40",
+      "text": "I'll have to look them up. I don't take the portal's word for it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:56",
+      "text": "I encourage you to do that. To make sure we are on the same page, the plan is that I will call Westside Group right now, set up the appointment for this Thursday at 10 AM, and then email you the confirmation and the address."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "Thursday works."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:15",
+      "text": "Great. I will handle the scheduling and the verification with the insurance company myself. Your only role is to check your email for that confirmation and let me know if the time doesn't work for your schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:16",
+      "end_time": "00:04:20",
+      "text": "And if they still tell me they don't take my insurance?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:32",
+      "text": "If that happens, I will personally call the second provider on the list and stay on the line until the appointment is confirmed. I will not leave this unresolved."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:36",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:37",
+      "end_time": "00:04:47",
+      "text": "I really am sorry that I put you in this position. I'm going to go make that call now so you can get out of here."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language multiple times, specifically mentioning the need to 'jump into a rounding session' and 'get the logistics sorted quickly'."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is explicitly named in the second turn, lay language is used, and comprehension is checked twice ('Does that make sense so far?' and 'To make sure we are on the same page')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am so sorry', 'I apologize') and takes full personal responsibility ('that is entirely on me') even under patient pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('feel let down', 'skeptical') and references the patient's shared experience of being let down by the process."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provides specific next steps with a timeline (Thursday at 10 AM), defines the patient's role (check email/confirm time), and addresses prevention by promising to personally verify insurance."
+    }
+  }
+}

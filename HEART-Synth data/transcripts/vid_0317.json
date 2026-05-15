@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0317",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Chen, thank you for coming in. I need to talk to you about your biopsy results from last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Is it bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:25",
+      "text": "I am very sorry, but we made a serious mistake. Your biopsy sample was mislabelled in the pathology lab. The cancer diagnosis we gave you actually belongs to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:30",
+      "text": "What? I do not understand. You said I have cancer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:43",
+      "text": "I know this is confusing. The lab mixed up the bottles. We told you that you had a malignant tumor, but that was the wrong report. You were given someone else's results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:47",
+      "text": "So I am not sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:02",
+      "text": "We are still waiting for the correct test on your actual tissue. But the first report was wrong. I am deeply sorry that our team failed you in this way. We are responsible for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:08",
+      "text": "I have been crying for three days. I told my son I might die."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:18",
+      "text": "I can see you are feeling overwhelmed and hurt. It is completely understandable to feel that way after being told such a thing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:23",
+      "text": "But you said it was cancer. Now you say no?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:31",
+      "text": "It was a mistake in the lab. The labels were switched. Does that make sense to you so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:36",
+      "text": "I think so. But what about me? Am I okay now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:43",
+      "text": "We have to wait for the new pathology report to be sure about your health."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "Will I be okay? Will I live?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:52",
+      "text": "I cannot answer that until we see the new results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:58",
+      "text": "I just want to know if I am dying. My heart feels fast."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:03",
+      "text": "Let's focus on the facts right now. We are reprocessing the tissue."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:08",
+      "text": "I cannot sleep. I keep thinking about the surgery you mentioned."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:13",
+      "text": "We won't be doing that surgery until we have the correct report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:18",
+      "text": "When will I know? I need to tell my family."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:27",
+      "text": "I have to check on another patient quickly, so let's wrap this up. I'm sure the results will come soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "Soon? What is soon? Monday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "We'll see. Just stay tuned for an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:40",
+      "text": "I do not use email. How will you tell me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "Someone will probably reach out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:50",
+      "text": "I am scared. I do not know what is happening to my body."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:57",
+      "text": "I understand you are scared, but we are doing our best to fix the lab error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:03",
+      "text": "But you told me I had a tumor. Is there still a tumor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "That is what the new test is for."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:12",
+      "text": "I feel like I am in a dream. This is not possible."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "It is a very rare mistake, but it happened here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:24",
+      "text": "What do I tell my son? He is already booking a doctor in my home country."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "Just tell him we are waiting for more information."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "Why did this happen? Who did this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:40",
+      "text": "It was a failure in the lab's labelling process. I apologize again for the distress this has caused."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:45",
+      "text": "I cannot go home like this. I need to know today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:49",
+      "text": "I really have to go now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "But I have questions. About my lungs."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:03:58",
+      "text": "We will figure it out. Just wait for us to contact you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:02",
+      "text": "When? Give me a day."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "I'm not sure. We'll see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "This is not right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:16",
+      "text": "I know it's a lot to take in. Goodbye for now, Mr. Chen."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'really have to go now') and terminates the encounter while the patient is still in distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the second turn, lay language used throughout, comprehension checked ('Does that make sense to you so far?'), and no false reassurance given regarding the outcome."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I am very sorry', 'I apologize'), team responsibility explicitly claimed ('We are responsible for this error'), and accountability maintained throughout."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('overwhelmed and hurt', 'scared') and engages with the patient's emotional bids, though later shifts to factual redirection."
+    },
+    "T": {
+      "score": 0,
+      "justification": "No concrete plan or timeline provided; resident uses placeholders like 'we'll see', 'stay tuned', and 'someone will probably reach out'."
+    }
+  }
+}

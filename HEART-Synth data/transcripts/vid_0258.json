@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0258",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Hello Mr. Rivera, I am Dr. Miller. I am one of the residents on the surgical team. I wanted to come by and talk to you about how the procedure went today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "Hello."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:30",
+      "text": "So, overall, the surgery was successful, but there was a complication during the laparoscopic part. While we were working, a small surgical clip was placed on the wrong structure instead of the intended one."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "A clip? In the wrong place?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:50",
+      "text": "Yes. Once we realized the clip was misplaced, we had to perform an additional procedure right there in the operating room to remove it and make sure everything was corrected. It did make the surgery take longer than we planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:01:05",
+      "text": "I do not know. I just... I was very worried about coming here. I do not have papers. Does this mistake mean you will report me or that I cannot get the care I need now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:21",
+      "text": "I understand. But we need to focus on the medical side of things first. I want to be clear that I am sorry. The surgical team and I are responsible for this error. It should not have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:36",
+      "text": "It is just that I cannot afford to be here longer than I have to. If this is a big problem, I cannot be in a position where I am at risk. I feel very nervous about..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:48",
+      "text": "Look, we really need to move through this because I have to go check on another patient in a few minutes. But as I said, we fixed it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "But why did it happen? Were you not looking?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:06",
+      "text": "It is just a part of the complexity of laparoscopic surgery. We use these clips to seal vessels, and in this case, it just landed on the wrong tissue. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:13",
+      "text": "I guess. But I feel like I cannot even ask these questions. I just feel... small here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:20",
+      "text": "I understand. But the important thing is that we caught it before you left the room."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:28",
+      "text": "I am just worried about what happens tomorrow. Will I have more pain? Will they find something else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:39",
+      "text": "You might have a bit more soreness than usual because of the extra time we spent in there. But we are going to monitor you closely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:48",
+      "text": "I really do not want to stay another day. If I stay, the cost goes up, and my situation is..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:04",
+      "text": "Let me stop you there for a second. The logistics are handled by the billing office. Right now, the plan is for the attending surgeon to come by tomorrow morning at 8:00 AM to do a final check on your incision. Your role is just to keep the area clean and let the nurses know if you have a fever."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "And if I have a problem tonight?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:14",
+      "text": "Then you just press the call button. The nurses are briefed on the situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:22",
+      "text": "I just... I do not think I trust this. I feel like I am just a number here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:28",
+      "text": "I understand. But we have a clear plan for your discharge tomorrow afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "Tomorrow afternoon? I was told maybe tonight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:47",
+      "text": "No, because of the extra procedure, we need to observe you for twenty-four hours. Now, I really have to wrap this up so I can get to my other patient. Do you have any other medical questions?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:51",
+      "text": "I do not even know what else to ask."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:58",
+      "text": "Okay. I will let the nurses know you are awake. We will see you in the morning."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('need to move through this', 'have to go check on another patient', 'really have to wrap this up') and interrupts the patient's concerns about cost and status."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and the resident checked for comprehension once ('Does that make sense?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language ('I am sorry'), explicitly took responsibility ('The surgical team and I are responsible'), and maintained this without deflection."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') multiple times but never names specific emotions or engages with the patient's fears regarding their immigration status."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides specific next steps (attending visit tomorrow at 8:00 AM, discharge tomorrow afternoon), a named patient role (keep area clean, notify nurses of fever), and a prevention/monitoring step (observe for 24 hours)."
+    }
+  }
+}

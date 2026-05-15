@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0266",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Okonkwo, thank you for coming in to see me. I have some information regarding your last chemotherapy infusion that we need to discuss."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:16",
+      "text": "I hope everything is as it should be. I felt quite poorly after the last session."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "That is actually why I wanted to speak with you. There was a mistake in how the dose was calculated. We used your body weight from three months ago instead of your current weight. Because you have lost a significant amount of weight recently, you received a higher dose of the medication than you should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "A higher dose? What does that mean for me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:45",
+      "text": "It means you received more chemotherapy than the protocol requires for your current size. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:01:01",
+      "text": "It makes sense, but why would this happen? I am a man of standing in my community. If people find out the hospital is careless with me, it reflects on everything. My family expects me to be strong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:09",
+      "text": "I can hear that you are feeling distressed about how this affects your reputation and your family's perception."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:17",
+      "text": "It is not just perception. It is my life. I have spent years building a name of reliability and\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:26",
+      "text": "I have to be quick because I have a clinic starting, but we need to move to what happens next."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:33",
+      "text": "I am speaking about my dignity and you are telling me you are in a rush?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:42",
+      "text": "I just want to make sure we get the plan right. The most important thing now is monitoring your blood counts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:48",
+      "text": "I want to know who is responsible for this. Who did this to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:56",
+      "text": "The calculation process in the oncology unit failed. The weight used was an outdated figure from the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:07",
+      "text": "You are talking about systems. I am talking about a person who looked at a screen and didn't see that I have wasted away. I feel betrayed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:12",
+      "text": "I understand that is frustrating, but let's look at the clinical steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "I am not frustrated. I am wounded."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:32",
+      "text": "Again, we need to wrap this up so I can get to my other patients, but I can tell you exactly how we will handle this. First, I have already scheduled a full blood count for tomorrow morning at 8:00 AM to check your white cells. Second, I have consulted with the lead oncologist, and we have adjusted your next cycle's dose downward by ten percent to compensate for the overage. Third, you will be monitored by the nursing staff every four hours for the next two days for any signs of toxicity."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "And what happens if I get sicker?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:52",
+      "text": "If you notice any new fever or mouth sores, you are to call the 24-hour triage line immediately at this number I am giving you. I have also initiated a formal incident report which means the pharmacy must now double-verify every single weight-based dose for every patient in this ward, including yourself, to ensure this never happens again. I will call you personally on Thursday afternoon to review those blood results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:59",
+      "text": "It is a very detailed plan. But you have not once told me you are sorry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:04",
+      "text": "The protocols for the future are what will prevent this from recurring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:13",
+      "text": "My family will ask why I am suddenly having extra blood tests. I will have to tell them there was a failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:19",
+      "text": "Just follow the schedule I've laid out and we will manage the side effects."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to be quick', 'we need to wrap this up') and interrupts the patient's emotional expression."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and a comprehension check was performed ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to the 'calculation process' and 'the system'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "While one emotion was named early on, the resident consistently met subsequent emotional bids with factual redirection and rushing."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific steps (blood count, dose adjustment, monitoring), timelines (tomorrow 8am, every 4 hours, Thursday), the patient's role (call triage line), and prevention (double-verify pharmacy process)."
+    }
+  }
+}

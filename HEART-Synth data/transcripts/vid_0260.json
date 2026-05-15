@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0260",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Ms. Nakamura, thank you for making time to talk with me. I want to have a conversation with you about your recovery and some things that happened during your monitoring yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:27",
+      "text": "I know this is a very difficult and heavy moment to be in. I want to be completely honest with you about a failure in our care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:47",
+      "text": "After your procedure, the orders required your vital signs to be checked every fifteen minutes because of the risk of hypotension. That is when your blood pressure drops too low. Unfortunately, those checks were not done at the frequency we prescribed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:52",
+      "text": "I was wondering why the nurse didn't come back for a while."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:01",
+      "text": "Your blood pressure remained low for two hours without us detecting it. This was a breakdown in our monitoring process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:02",
+      "end_time": "00:01:06",
+      "text": "Did that cause the kidney issue the other doctor mentioned?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:15",
+      "text": "It is highly likely that the period of low perfusion contributed to the acute kidney injury you are experiencing now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:24",
+      "text": "I realize you are probably processing a lot of information right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:31",
+      "text": "I'm just reading about hypotension on my phone. It says it can lead to organ failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:42",
+      "text": "That is correct. I can see you're looking into the clinical details, and it makes sense that you'd want to understand the mechanics of this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:48",
+      "text": "I just thought the monitoring was a standard part of the high-risk protocol."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "It is. And it didn't happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "Right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:01",
+      "text": "Because the monitoring was missed, we didn't catch the drop in time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:21",
+      "text": "To address this, I have already coordinated with the nephrology team. We have started you on intravenous fluids starting at ten in the morning today to support your kidney function. We will be monitoring your urine output every single hour for the next twenty-four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "Will my kidneys go back to normal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:41",
+      "text": "We are aiming for a full recovery, but it depends on how you respond to the fluids over the next two days. I will personally review your labs every morning at eight and I will come to your room by nine to give you the results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:03:01",
+      "text": "I also want you to be part of this. If you feel dizzy or notice your heart racing, I want you to use the call button immediately, even if it's only been a few minutes since the last check."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:21",
+      "text": "We are also filing an incident report to the hospital safety board today. This means the nursing administration will review the staffing levels and the alert system on the monitors to figure out why the prompt didn't trigger for the staff. I will give you the incident report number by tomorrow afternoon so you have it for your records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "I didn't think I'd need a report number."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:31",
+      "text": "It's an important part of making sure this doesn't happen to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "I guess."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "It's a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "I'm just tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:48",
+      "text": "I understand. This has been an exhausting experience for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:04:08",
+      "text": "To make sure we are on the same page, the fluids are running now, I'll be here tomorrow at nine with labs, and you'll alert me if you feel dizzy. Does that sound like the right plan to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:12",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:22",
+      "text": "I will be back in about an hour to check your fluid levels. Do you have any other questions for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:26",
+      "text": "No."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:27",
+      "end_time": "00:04:30",
+      "text": "Alright. I'll leave you to rest for a bit."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts the patient, and uses no rushing language throughout the encounter."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once at the end of the conversation."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language such as 'I'm sorry' or 'I apologize' was used at any point in the transcript."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('difficult and heavy moment', 'exhausting experience') and engages the patient's bid regarding the clinical details on her phone."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps with timelines (labs at 8am, visit at 9am), defines the patient's role (use call button if dizzy), and addresses prevention (incident report/safety board)."
+    }
+  }
+}

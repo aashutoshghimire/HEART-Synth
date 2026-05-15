@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0369",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Hassan, thank you for coming back in. I wanted to sit down and talk with you about why you're back in the emergency department and what happened with your discharge yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:23",
+      "text": "I can imagine why I'm here. My wound is leaking and I can't walk straight. I just want to know why I was kicked out so early."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:24",
+      "end_time": "00:00:36",
+      "text": "I've looked at your chart and the protocol. The surgical guidelines stated you needed to stay for a specific window of observation, but you were discharged six hours before that window closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:42",
+      "text": "Six hours. So I was just a number on a checklist that someone missed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:50",
+      "text": "It was a failure in the discharge timing process. The medical team didn't adhere to the post-op timeline."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:01:03",
+      "text": "You know, this isn't the first time. Every time I come to this hospital, something \"fails.\" I'm tired of being the one who pays for these failures with my own body."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:14",
+      "text": "I can hear how exhausted you are with this. It sounds like you're feeling completely worn out by having to deal with these kinds of mistakes repeatedly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:23",
+      "text": "I am. I'm more than worn out. I'm cynical. I expected this. Why should I believe anything you say now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:30",
+      "text": "I understand why you'd feel that way. It's frustrating to feel like you can't trust the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:39",
+      "text": "Did anyone actually look at me before I left, or did they just see a bed that needed to be cleared?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:46",
+      "text": "The clinical review happened, but the timing of the release was incorrect. The protocol was bypassed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:54",
+      "text": "Bypassed. That's a very clean word for it. Who did it? Who decided I was good to go?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "The discharge order was processed prematurely by the team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:04",
+      "text": "You're not telling me who did it. You're telling me it \"was processed.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:08",
+      "text": "It was a team error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:19",
+      "text": "That doesn't help me. My leg is throbbing and I had to drive back here in pain. Do you even care that I'm back here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:25",
+      "text": "I do. It is not acceptable that you are back in this bed today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:32",
+      "text": "So what now? Do I just sit here and wait for another \"process\" to fail?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:44",
+      "text": "Right now, the immediate priority is the wound. I've already paged the attending surgeon. He is coming to see you within the next thirty minutes to assess the closure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:03",
+      "text": "Once he assesses you, we are going to keep you for another twenty-four hours of observation to make sure the complication is stable. I will personally check your vitals and the dressing every four hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I'll believe that when I see it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:21",
+      "text": "I understand. While we wait for the surgeon, I want you to keep your leg elevated exactly as it is now, and please press the call button immediately if you feel any new numbness."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:26",
+      "text": "I know how to be a patient. I've had plenty of practice."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:34",
+      "text": "I know you have. I'll be back in a few minutes to check on you before the surgeon arrives."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated despite significant pushback, and allows the patient to express frustration without rushing."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly in the second turn, but there were no comprehension checks performed throughout the transcript."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language such as 'I'm sorry' or 'I apologize' was used, and responsibility was framed passively as a 'team error' or 'failure in the process'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('exhausted', 'worn out', 'frustrating') and engaged with the patient's emotional bids regarding trust and cynicism."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provided specific steps (surgeon visit, 24-hour observation), timelines (30 minutes, every 4 hours), a patient role (elevate leg, press call button), and a prevention measure (personal vitals checks)."
+    }
+  }
+}

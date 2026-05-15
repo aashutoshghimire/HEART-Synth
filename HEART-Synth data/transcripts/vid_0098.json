@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0098",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Lindqvist, thank you for coming back in today. I\u2019ve reviewed your new labs and the recurrence of your symptoms, and I need to be honest with you about why this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:26",
+      "text": "I can tell you already. The fever is back and the inflammation is exactly where it was three weeks ago. I told the nurse on the phone that the course didn't feel right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:41",
+      "text": "You were right. I made a mistake with your prescription. I prescribed the correct antibiotic and the correct dose, but I only gave you a seven-day supply when you actually needed fourteen. It was my error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:55",
+      "text": "You\u2019re joking. Seven days? For this specific infection? I spent ten years as a paramedic, I know the protocol for this. You didn't just miss a dose, you cut the treatment duration in half."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:07",
+      "text": "I am incredibly sorry. I take full responsibility for this. I failed to double-check the duration against the guidelines for your specific diagnosis, and that is entirely on me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:23",
+      "text": "Sorry doesn't fix the fact that I've spent the last three days shaking in bed again. I trusted you because we've worked together for a year. Now I'm back at square one because you couldn't count to fourteen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:32",
+      "text": "I understand you're angry. It is completely unacceptable that you are suffering through these symptoms again because of my oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:43",
+      "text": "Unacceptable is an understatement. This is clinical negligence. How does a doctor just forget the duration of a standard course? Were you just rushing through my chart?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:53",
+      "text": "There is no excuse for it. I simply missed it, and I am deeply sorry for the pain and frustration this has caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:01",
+      "text": "So what now? Do I just take another seven days and hope you don't mess up the math again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:17",
+      "text": "Let's look at the plan. I've already coordinated with the pharmacy to have a full fourteen-day course of the same medication ready for you now. You'll pick it up today. I want you to start the first dose immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:27",
+      "text": "And if it doesn't take this time? Since the bacteria might have had a chance to build resistance because of the short course?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:43",
+      "text": "That is a valid concern. Because of the interruption, we aren't just going to guess. I've ordered a repeat culture of the site today to ensure the pathogen is still susceptible to this specific agent. I'll have those results by Thursday morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:49",
+      "text": "I'm not just going to \"wait and see\" if I feel better this time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:03:05",
+      "text": "I understand. To make sure we get this right, I want you to call my direct line every forty-eight hours for the first week. You tell me exactly how your temperature is and if the redness is receding. If there is any plateau in your progress, I will see you in person immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:10",
+      "text": "I\u2019ll do that, but I\u2019m still not happy about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:21",
+      "text": "I know. I can't take back the mistake, but I will make sure we monitor this every step of the way until you're fully recovered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "Fine. Thursday for the cultures."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:32",
+      "text": "Yes, Thursday. And I will personally call you the moment those results hit my desk."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "You better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:46",
+      "text": "I will. I'm going to go grab the printout of the new prescription and the lab order for you now. I'll be right back."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident never interrupts the patient, remains regulated despite significant pushback, and avoids all rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but the resident failed to perform any comprehension checks."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language, took full personal responsibility, and maintained accountability throughout the patient's anger."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions ('angry', 'frustration') and engaged with the patient's specific concerns regarding resistance and trust."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (new prescription, repeat culture), timelines (Thursday), patient role (call every 48 hours), and prevention (monitoring until recovery)."
+    }
+  }
+}

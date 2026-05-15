@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0256",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:13",
+      "text": "Mr. Mbeki, thank you for taking the time to speak with me. I have my senior colleague here with me as well. I need to discuss something that happened during your surgery today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:14",
+      "end_time": "00:00:19",
+      "text": "I just want to know when I can get out of this bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:32",
+      "text": "I understand you're anxious to get home. However, there was a mistake during the procedure. One of the surgical clips was placed on the wrong structure instead of the target vessel."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "The wrong structure? What does that mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "Basically, the clip went where it wasn't supposed to. To make sure it was fixed and that there were no complications, we had to perform an additional step in the operation to remove it and place it correctly. Does that make sense, or can I explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:00:56",
+      "text": "So you messed up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:05",
+      "text": "Yes, that is correct. I am very sorry that this happened. It was an error on our part during the surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:18",
+      "text": "I can handle the pain, but I can't handle more time in here. My business is running itself right now and I can't afford to be away for another week."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:27",
+      "text": "It sounds like the financial pressure and the time away from your business is the most stressful part of this for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:31",
+      "text": "Exactly. Is this going to keep me here longer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:41",
+      "text": "Because of the extra procedure, you will need to stay one additional night for observation to make sure your recovery is on track."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:46",
+      "text": "I can't just stay another night. I have payroll on Friday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:02:02",
+      "text": "I hear that this is a huge problem for your business. I want to be clear about how we are managing this moving forward. First, I will check your vitals every four hours tonight to ensure there are no delayed complications. Second, I've already coordinated with the physical therapy team so you can get a mobility assessment tomorrow at 8:00 AM. If that goes well, you will be discharged by noon tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "And you're sure it's fixed now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:21",
+      "text": "It is. We confirmed the correct placement before we closed the incision. Just to make sure I've been clear, can you tell me what your understanding is of what happened and the plan for tomorrow?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:30",
+      "text": "You put a clip in the wrong spot, you had to fix it, and now I'm stuck here until tomorrow noon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "That is exactly right. I also want you to know that I am filing a formal incident report today. This allows the surgical board to review the footage from the laparoscopic camera so we can change our protocol and prevent this from happening to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:51",
+      "text": "I just don't see how a clip goes in the wrong place."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:56",
+      "text": "I know it's frustrating and concerning. We should have been more precise."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "I hope it doesn't affect the healing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:16",
+      "text": "It shouldn't. Your wound is clean and the internal correction was successful. I'll be back in two hours to check your dressing. If you have any questions about the billing for that extra time, please let me know now and I will call the hospital administrator immediately to discuss waiving those costs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "That would be a start."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:29",
+      "text": "I'll make that call right now. I have to go check on another patient quickly, but I'll be back shortly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows patient to finish turns and adjusts to distress, though the final exit is slightly hurried ('go check on another patient quickly')."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in second turn, used lay language, checked comprehension twice ('Does that make sense', 'can you tell me what your understanding is'), and avoided false reassurance."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am very sorry'), explicitly took responsibility ('error on our part'), and maintained accountability under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Named specific emotions twice ('anxious', 'stressful') and referenced the patient's specific business/financial concerns."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Provided specific next steps with timelines (vitals every 4 hours, PT at 8 AM, discharge by noon) and addressed prevention, but did not name a specific role for the patient in the plan."
+    }
+  }
+}

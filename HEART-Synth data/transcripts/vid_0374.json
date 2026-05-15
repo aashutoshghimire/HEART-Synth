@@ -1,0 +1,297 @@
+{
+  "video_id": "vid_0374",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Mbeki, thank you for coming in to see me today. I have some information regarding your biopsy results that we need to discuss."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:15",
+      "text": "I've been waiting all week. Just tell me. Is it cancer or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:24",
+      "text": "I am very sorry, but there has been a mistake with your results. The diagnosis of cancer we discussed previously was incorrect."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:33",
+      "text": "What do you mean incorrect? You told me I had a malignancy. You told me I needed to start preparing for treatment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:43",
+      "text": "I know this is shocking. I want to apologize on behalf of our team. We failed you in the process of handling your specimen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:49",
+      "text": "Failed me? How do you fail at a biopsy? Did you lose it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:00:56",
+      "text": "There was some confusion in the pathology lab with the labels. Basically, the samples got mixed up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:01",
+      "text": "Mixed up? Are you telling me you gave me someone else's diagnosis?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:08",
+      "text": "There was an issue with the labeling system, and the report you received belonged to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:24",
+      "text": "This is unbelievable. I have spent the last three days telling my family I'm sick. I've been calculating how much time I can take off from my business. I can't afford to miss work for some \"confusion\" in your lab!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:31",
+      "text": "I can see that you are incredibly angry, and you have every right to be."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:41",
+      "text": "Angry? I'm terrified! I thought I was dying, and now you're telling me it was a clerical error? Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:50",
+      "text": "We are responsible. It was our mistake in the lab, and I am truly sorry for the distress this has caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:59",
+      "text": "So what now? Do I actually have cancer or not? You\u2019re being vague. What exactly happened to my actual piece of tissue?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:05",
+      "text": "We are looking into the records. There was a discrepancy with the vials."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "That doesn't answer my question. Do I have cancer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:14",
+      "text": "I don't have the corrected result in front of me yet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:27",
+      "text": "You called me in here to tell me the first result was wrong, but you can't even tell me if I'm actually sick? This is a joke. This is a complete joke."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "I understand this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:42",
+      "text": "Frustrating? My life has been turned upside down for seventy-two hours! My business is running on a skeleton crew because I thought I had to start chemotherapy!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:47",
+      "text": "I realize how much this impacts your work and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:52",
+      "text": "I want names. I want to know who swapped the labels."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:02:57",
+      "text": "I can't provide individual names, but the department is reviewing the incident."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:02",
+      "text": "I don't care about a review. I want my real results. Now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:08",
+      "text": "I am working to get those. I\u2019ve put in an urgent request to pathology."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:13",
+      "text": "How long is an urgent request? Another week? Another month?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "I expect to have an answer by tomorrow afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:26",
+      "text": "And what happens if the second one is wrong too? How can I trust a single word coming out of this clinic?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:34",
+      "text": "I know the trust is broken right now. We are doing everything to verify the new results personally."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "You're just saying that. You're just saying words."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:44",
+      "text": "I am sorry. I know an apology doesn't fix the time you've lost."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "It doesn't. My business doesn't run on apologies."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:54",
+      "text": "I will call you personally tomorrow by four o'clock with the corrected report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:55",
+      "end_time": "00:04:04",
+      "text": "You'll call me? I shouldn't have to wait for a phone call. I should be getting a written guarantee that this won't happen again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:11",
+      "text": "I will make sure the final report is sent to your portal and printed for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:12",
+      "end_time": "00:04:18",
+      "text": "If this is a mistake, then why did it happen? Why is your lab so incompetent?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:23",
+      "text": "There was a problem with the way the labels were processed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:24",
+      "end_time": "00:04:27",
+      "text": "That's not an explanation. That's a hedge."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:31",
+      "text": "It was a failure in our internal protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:32",
+      "end_time": "00:04:35",
+      "text": "I can't believe this. I actually can't believe this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:36",
+      "end_time": "00:04:39",
+      "text": "I know this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:40",
+      "end_time": "00:04:49",
+      "text": "I need to go back to my shop. I can't sit here and wait for you to figure out which patient I am."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:54",
+      "text": "I understand. I will have the answer for you tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:55",
+      "end_time": "00:05:00",
+      "text": "Tomorrow. Four o'clock. If I don't hear from you, I'm calling my lawyer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:01",
+      "end_time": "00:05:04",
+      "text": "I will call you. I'll make sure of it."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly, but there are no comprehension checks performed throughout the encounter."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies are used, the team is named as responsible, and accountability is maintained despite the patient's anger."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('angry', 'frustrating') and references specific content the patient shared regarding their business and family."
+    },
+    "T": {
+      "score": 1,
+      "justification": "A specific next step and timeline are provided (call by 4pm tomorrow), but there is no named patient role or address of prevention."
+    }
+  }
+}

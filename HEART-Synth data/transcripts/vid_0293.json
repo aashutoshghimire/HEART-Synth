@@ -1,0 +1,309 @@
+{
+  "video_id": "vid_0293",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Ms. Patel, thank you for coming back in to see me today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:11",
+      "text": "Is this about the biopsy results? I've been staring at my phone for three days."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "It is. I need to share some very difficult news with you. There was a serious error in the pathology lab. Your specimen was mislabelled, and the diagnosis of cancer you were given actually belongs to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "Wait. What?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:42",
+      "text": "I am very sorry. We failed to ensure the correct labels were on your samples, and as a result, you were given the wrong information."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:50",
+      "text": "You are telling me that I don't have cancer? Or that you don't know if I have it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:51",
+      "end_time": "00:01:00",
+      "text": "We do not know the status of your specific biopsy right now because the sample was compromised. We need to repeat the procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:13",
+      "text": "This is unbelievable. I have spent seventy-two hours thinking my life was over. I've already started looking at leave policies for my job. How does a label just get swapped?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:19",
+      "text": "It's a heavy thing to process, and I can see how distressing this is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:30",
+      "text": "Distressing? That is an understatement. I knew I shouldn't have come to this clinic. I told myself the paperwork looked sloppy when I signed in."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:34",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:43",
+      "text": "Do you even know who is responsible for this? Was it the person taking the sample or the person in the lab?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:51",
+      "text": "The team and I take full responsibility for this mistake. It was our failure in the chain of custody."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:02:00",
+      "text": "Responsibility doesn't exactly fix the last three days. My head is spinning. I feel like I'm being lied to, or just managed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:06",
+      "text": "I realize how jarring it is to have the ground shift like this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:12",
+      "text": "So what happens now? Do I just trust you to do it again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "We will need to schedule a new biopsy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:23",
+      "text": "When? And how do I know the second one won't end up belonging to someone else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:29",
+      "text": "I will look into the scheduling. We will see what we can do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:33",
+      "text": "That is not a date. I need a date."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:40",
+      "text": "I can't give you a specific day right this second, but we'll get it sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:53",
+      "text": "This is exactly why I read every single line of every form I sign. Because the people actually doing the work aren't paying attention. Who is reviewing this? Is there a supervisor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:08",
+      "text": "Stop saying you understand. You don't know what it's like to be told you have a malignant tumor and then be told it was a clerical error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:13",
+      "text": "I can't imagine the toll those three days took on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:23",
+      "text": "I want a written record of this. I want to know exactly how the mislabelling happened. Not just \"it happened,\" but the step-by-step failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "We can look into providing a summary."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:32",
+      "text": "A summary isn't a record. I want the actual lab log."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I'll have to check if that's possible."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:44",
+      "text": "Why is it not possible? If you can mislabel a human organ, you can certainly print out a log."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "I will see what can be done."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:57",
+      "text": "I'm not leaving until I have a plan. You said we need to repeat the procedure. When? Where? Who is doing it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "We will get you back on the schedule soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:10",
+      "text": "\"Soon\" is not a clinical plan. I am a software engineer; I deal with logic and timelines. Give me a timeline."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:16",
+      "text": "I will check the surgical schedule and we will send you an email."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:17",
+      "end_time": "00:04:20",
+      "text": "And if I don't get the email?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "You'll get the email."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:29",
+      "text": "I don't trust your emails. I don't trust this process."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:30",
+      "end_time": "00:04:33",
+      "text": "I know this is an incredibly difficult moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:34",
+      "end_time": "00:04:37",
+      "text": "It's a disaster."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "I hear you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:42",
+      "end_time": "00:04:46",
+      "text": "Is there anyone else I can talk to? A patient advocate?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:47",
+      "end_time": "00:04:50",
+      "text": "I can find out who that is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:51",
+      "end_time": "00:04:55",
+      "text": "You are the doctor. Why don't you know who the advocate is?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:56",
+      "end_time": "00:04:59",
+      "text": "I will check the directory."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:00",
+      "end_time": "00:05:03",
+      "text": "This is an absolute joke."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:04",
+      "end_time": "00:05:07",
+      "text": "I know."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite significant pushback and hostility."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language and explicitly stated the team takes full responsibility without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named specific emotions ('distressing', 'jarring') and engaged with the patient's distress, though some responses were generic."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders ('get it sorted', 'soon', 'will check') and failed to provide a specific timeline or date."
+    }
+  }
+}

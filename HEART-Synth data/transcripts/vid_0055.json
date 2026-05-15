@@ -1,0 +1,159 @@
+{
+  "video_id": "vid_0055",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello Ms. Tremblay, thank you for coming in today. I wanted to sit down with you to discuss your son's developmental screening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "I've been reviewing the chart and I found a mistake that was made. The referral for the screening was marked as completed in our system, but it actually wasn't. We saw that one appointment was declined, but then the case was closed instead of being rescheduled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:42",
+      "text": "I am sorry for any confusion this caused. We've been extremely shorthanded in the clinic lately, and it seems the follow-up just didn't happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:46",
+      "text": "It doesn't really matter. He's fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:01:02",
+      "text": "I can tell you're feeling a bit dismissive of the issue because you're confident in his progress, but we still need to ensure everything is documented. Does that make sense, or should I clarify how the system error happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "I understand what you said."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:22",
+      "text": "Great. Now, since we missed that window, I want to make sure we fix this immediately. First, I am personally going to call the developmental specialist this afternoon. I will secure an appointment for you by Friday at the latest."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:26",
+      "text": "I can move things around if I have to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:42",
+      "text": "I appreciate that. I'll send you a direct message through the patient portal with the exact date and time by 5:00 PM tomorrow. Once you get that, I need you to confirm the time via the portal so I know it works with your schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:46",
+      "text": "I'll check my messages."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:02:01",
+      "text": "Also, to make sure this doesn't happen to you or anyone else again, I've already spoken with our nursing lead to implement a double-check on all declined referrals. We are adding a manual flag to the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "That sounds reasonable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:12",
+      "text": "Now, I have to go because I have another patient in the room, so let's wrap up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "I have a question about the\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:22",
+      "text": "It's really okay, we have the plan set. I'll get that appointment scheduled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "Right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:33",
+      "text": "Just to be sure, you're okay with the timeline of me messaging you by tomorrow evening?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:37",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:42",
+      "text": "Perfect. I'll get on that call now. Thank you for your time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "Thank you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('let's wrap up') and interrupts the patient's question at [02:13]."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in second turn, lay language used, and comprehension checked twice ('Does that make sense', 'you're okay with the timeline')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apology is used, but it is immediately diluted by an excuse regarding being 'extremely shorthanded in the clinic'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names a specific emotion ('feeling a bit dismissive') in response to the patient's comment."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Includes specific steps (call specialist), timelines (by Friday/tomorrow 5pm), patient role (confirm via portal), and prevention (double-check/manual flag)."
+    }
+  }
+}

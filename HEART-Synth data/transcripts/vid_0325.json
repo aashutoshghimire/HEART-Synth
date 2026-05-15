@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0325",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Thank you for coming in, Ms. Anderson. I'm glad your daughter could join us too. Please, have a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:16",
+      "text": "Thank you. We appreciate you seeing us. We just want to understand why the surgical plan changed so abruptly this morning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:30",
+      "text": "I want to start by saying I am deeply sorry. We have made a serious mistake in your care, and as the resident on this team, I take full responsibility for the oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "A mistake? What exactly happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:43",
+      "text": "There was some confusion with the imaging. Things didn't go quite right with how the files were handled in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:44",
+      "end_time": "00:00:48",
+      "text": "I don't follow. Confusion how? Was the MRI read incorrectly?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:56",
+      "text": "There was an issue with the accession numbers. It was a system failure where things got mixed up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:07",
+      "text": "I work in administration at the University Hospital. I know how accession numbers work. Are you telling me you looked at the wrong patient's scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:18",
+      "text": "I can see how frustrating this is for you. It is completely understandable that you feel blindsided by this, especially given your own professional background in healthcare."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:33",
+      "text": "It is more than frustrating. I was told I was heading for a specific procedure based on a specific set of images. Now I'm told the approach is different. Was my surgery delayed because you\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:44",
+      "text": "I have to get to rounds in a few minutes so let's try to move through this. The point is that we have the correct images now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:56",
+      "text": "I don't care about your rounds. I want a clear explanation of how this happens in a modern hospital. Did you operate on me based on someone else's scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:12",
+      "text": "No, thank you for asking that, it's an important question. No surgery has happened yet. But I realize it is terrifying to think that your clinical decisions were based on the wrong data. I am so sorry. I failed you and your trust in us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:19",
+      "text": "My daughter is asking if this is common. Is this a frequent occurrence in this department?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:27",
+      "text": "It shouldn't be. This is a failure on my part and the team's. There is no excuse for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:34",
+      "text": "You still haven't actually told me what the \"issue\" was. You keep saying \"things didn't go right.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:39",
+      "text": "It was just a mix-up with the files in the digital archive."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:49",
+      "text": "That is not an explanation. Was it a clerical error? A software glitch? Did you not verify the patient name on the image?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:03:04",
+      "text": "I know this feels incredibly unsettling and it's a breach of the safety we promised you. I can hear the anger and the disappointment in your voice and you have every right to feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:15",
+      "text": "I'm not just angry, I'm concerned about the competence of the team. If you can't manage a file, how can I trust you with a scalpel?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:24",
+      "text": "I hear you. That is a devastatingly fair point. I have let you down and I am accountable for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:33",
+      "text": "I want to see the logs. I want to know exactly how many people viewed the wrong scan before this was caught."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:40",
+      "text": "Let's just wrap up the specifics for now. The most important thing is the current plan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:46",
+      "text": "No, the most important thing is the truth. You are dodging the actual facts."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:53",
+      "text": "Again, I am so sorry. It was an administrative error regarding the storage of the studies."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:04:00",
+      "text": "You are still being vague. \"Administrative error\" could mean anything. Did two patients have the same ID?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "There was a problem with the accessioning process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:05",
+      "end_time": "00:04:11",
+      "text": "This is unacceptable. I am going to request a full incident report from the risk management office."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:12",
+      "end_time": "00:04:27",
+      "text": "I completely support you in doing that. I will be the one filing the internal report, and I will ensure you have a copy of the findings. I truly apologize for the distress this has caused you and your family."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:28",
+      "end_time": "00:04:31",
+      "text": "So what happens now? Do we start over?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:32",
+      "end_time": "00:04:47",
+      "text": "Here is the path forward. First, I am calling the attending surgeon right now to personally re-verify every single measurement on your actual MRI. That will happen within the hour. Second, we are scheduling a new consultation for tomorrow morning at 9:00 AM with the Chief of Radiology to review the images with you personally so you can see the correct ones yourself. Your role will be to review the new surgical plan with us at that meeting and tell us if you are comfortable proceeding."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:48",
+      "end_time": "00:04:51",
+      "text": "And the surgery date?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:52",
+      "end_time": "00:05:04",
+      "text": "We are pushing the surgery back by forty-eight hours to ensure every detail is triple-checked. I will personally call you at 6:00 PM tonight to confirm the final pre-op checklist."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('I have to get to rounds in a few minutes so let's try to move through this' and 'Let's just wrap up the specifics for now')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident relies on vague platitudes ('things didn't go quite right', 'some confusion', 'administrative error') and never explicitly names the error despite repeated patient prompts."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language, takes full responsibility ('I take full responsibility', 'I failed you'), and maintains accountability under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrating', 'terrifying', 'anger', 'disappointment') and references the patient's professional background."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides specific steps with timelines (within the hour, tomorrow at 9 AM, 6 PM tonight), defines the patient's role (reviewing the plan), and addresses prevention (triple-checking/re-verifying)."
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0107",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Chen, thank you for coming back in today. I need to talk to you about the lab results we discussed on Tuesday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "I no sleep. I think about the sickness."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:22",
+      "text": "There was a mistake with the scheduling system. The results I gave you were actually for another patient with a similar name."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:26",
+      "text": "What?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:33",
+      "text": "You do not have the condition I told you about. You are healthy in that regard."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:39",
+      "text": "I... I don't understand. You say I am sick. Now you say no?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:44",
+      "text": "The data was switched in the computer. You received the wrong report."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:51",
+      "text": "But I feel... I was so scared. My daughter, she cry. We think I die soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:00:57",
+      "text": "It is a common occurrence when names are similar in the electronic records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:02",
+      "text": "I cannot believe this. I have been praying. I was terrified."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:07",
+      "text": "It is actually good news that you don't have the disease."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:12",
+      "text": "I am shaking. Why this happen? How you do this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:19",
+      "text": "The system has many files. It happens sometimes when patients have the same last name."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:24",
+      "text": "My heart is beating so fast. I feel sick now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:29",
+      "text": "I understand. But the medical facts are that you are fine."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:36",
+      "text": "You told me I was very sick. I spent three days thinking my life is over."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:41",
+      "text": "We just need to focus on the correct results now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:47",
+      "text": "I can't just... I feel like I cannot breathe. I am so frightened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:52",
+      "text": "This is actually a positive outcome because you are healthy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "Is it true? I am really okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "Yes, the other person has the condition, not you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:05",
+      "text": "I don't know what to do. I am so confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "Now that we have cleared that up, we can move forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "I just want to go home. I can't think."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:21",
+      "text": "I can help you with that. We need to make sure your actual records are updated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:36",
+      "text": "I am going to print out your real lab results right now. I will give them to you in a folder so you can show your daughter."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "And the other man?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:48",
+      "text": "We are handling that separately. Your main task now is just to take these papers home and relax."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "Are you sure? No mistake again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:03",
+      "text": "I will double-check the birth date and the name on the printout before I hand it to you. I will do that in the next two minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I cannot believe this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:13",
+      "text": "Please wait here for just a moment while I go to the printer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "I feel like I am in a dream."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "I'll be right back with the correct paperwork."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language to move past the patient's distress ('Now that we have cleared that up, we can move forward')."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named explicitly and in lay language, but there are no comprehension checks performed throughout the transcript."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is deflected to the 'scheduling system' and 'electronic records'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "The resident uses one generic validation ('I understand') but otherwise consistently meets the patient's emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides a specific next step (printing results) with a timeline (two minutes) and a patient role (take papers home and show daughter)."
+    }
+  }
+}

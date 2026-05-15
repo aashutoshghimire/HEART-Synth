@@ -1,0 +1,261 @@
+{
+  "video_id": "vid_0350",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hello Mr. Mbeki, thank you for coming back in to see me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:12",
+      "text": "I really can't stay long. I have to get back to the shop, I'm already behind on the inventory."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:21",
+      "text": "I understand. I wanted to talk to you about your wife's delivery and some information that didn't get communicated correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:26",
+      "text": "What do you mean? The other doctor told me everything was fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:42",
+      "text": "There was a mistake. Your wife tested positive for Group B strep during her pregnancy. That's a common bacteria, and the standard is to give antibiotics during labor to prevent the baby from getting an infection. However, that positive result was in the record but the labor team didn't see it, so she didn't get the medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:48",
+      "text": "Wait, she didn't get the medicine? Why are you telling me this now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:55",
+      "text": "I'm sorry for any confusion here. We were just incredibly busy on the floor that night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:02",
+      "text": "Busy is not an excuse. My daughter is in the NICU. Is that why she's in there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:07",
+      "text": "It's a possible contributing factor. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:16",
+      "text": "I don't care if it makes sense. I care if my child is sick because you people forgot a piece of paper."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:23",
+      "text": "I understand that's frustrating. But we are monitoring the baby's white blood cell count right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:32",
+      "text": "Frustrating? My business is losing money every hour I sit in this waiting room and my kid is in an incubator."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:43",
+      "text": "I have to go check on another patient in a few minutes, so let's wrap this up. I just want you to know we're doing our best."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:48",
+      "text": "You're rushing me now? After you tell me you messed up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "I'm just trying to be efficient with the time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:58",
+      "text": "I want to know exactly what happens next. Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:08",
+      "text": "The system for flagging these results failed us. We'll probably look into the charts and see how to fix it for the future."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:13",
+      "text": "That doesn't tell me when I can take my daughter home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:20",
+      "text": "We will keep an eye on her. Just stay tuned for an update from the nursing staff."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:25",
+      "text": "That's not a plan. Is she going to be okay or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:32",
+      "text": "I'm sure it will be fine. We'll just see how the next few labs look."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:38",
+      "text": "I can't keep coming back here every day. I have a business to run."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "I hear you. I really do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "You don't hear me. You're barely looking at me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:54",
+      "text": "I'm just trying to get through the facts. The baby is stable, though we have to be cautious."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:59",
+      "text": "If she's stable, why is she still in the NICU?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:06",
+      "text": "Because of the risk of sepsis from the strep. We are giving her antibiotics now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Why wasn't this explained to me yesterday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "We were still gathering the timeline of events."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:18",
+      "text": "This is unbelievable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:23",
+      "text": "Look, I really do need to get to my other patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "And my daughter is still in a plastic box."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:32",
+      "text": "We'll keep her monitored. I'll let the nurse know you're concerned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I'm not concerned. I'm angry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "You keep saying that. You aren't saying anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "I've explained the error. The antibiotics were missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "And now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "We'll just see how the next few hours go."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('let's wrap this up', 'trying to be efficient', 'need to get to my other patient')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (missed GBS antibiotics) was named explicitly in the second turn using lay language and comprehension was checked once ('Does that make sense so far?'), but false reassurance was given ('I'm sure it will be fine')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology ('I'm sorry for any confusion') is diluted by an immediate excuse ('We were just incredibly busy') and responsibility is later deflected to 'the system'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident relies on generic validation ('I understand', 'I hear you') and frequently meets emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 0,
+      "justification": "No concrete plan or timeline provided; resident uses placeholders like 'stay tuned', 'we'll keep an eye on her', and 'see how the next few hours go'."
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "video_id": "vid_0216",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Mr. Dubois, Mrs. Dubois, thank you for sitting down with me. I need to discuss something that happened during your scan this morning. There was a medical error. We gave you the contrast dye despite your blood tests showing that your kidney function was too low to safely handle it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:19",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:35",
+      "text": "Normally, when the creatinine level in the blood is as high as yours, we have to follow a special protocol to protect the kidneys before giving the dye. That protocol was not followed, and the dye was administered anyway. Does that make sense, or can I explain that differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:44",
+      "text": "I do not understand. You told me the scan was fine. Now you tell me you have damaged my kidneys?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:01:00",
+      "text": "It is possible that the dye has caused an injury to your kidneys, which we call contrast nephropathy. To make sure I'm being clear, are you asking if the damage is permanent or if it has happened already?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:04",
+      "text": "Both! Why would this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:13",
+      "text": "It happened because the check for kidney function was missed before the injection. This was a failure in the process of care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:22",
+      "text": "C'est inadmissible! I come here and I trust you, and you treat me like a number! I am not a number!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:23",
+      "end_time": "00:01:28",
+      "text": "It sounds like you feel completely disregarded, and that your dignity hasn't been respected."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:39",
+      "text": "I am a grown man. I have lived my life with pride. To be told you were a mistake, a clerical error... it is insulting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:49",
+      "text": "I can see how deeply wounding this is for you. To feel that your care was handled carelessly is an incredibly painful experience."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:54",
+      "text": "And now? What happens to my kidneys? Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:02",
+      "text": "The team failed to follow the safety protocol. It was an oversight in the administration of the contrast."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:07",
+      "text": "You are not saying it. Say it. Who did this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:14",
+      "text": "The protocol was not performed. The dye was given when it should not have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:20",
+      "text": "You are speaking in circles. I want to know if you are sorry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "We are working to monitor your levels now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:31",
+      "text": "I do not care about the monitoring! I am asking if you are sorry for this mistake!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:36",
+      "text": "The system for flagging kidney function didn't trigger the alert."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "I am talking to you, not the system!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "I understand this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:49",
+      "text": "Frustrating? My health is at risk because someone was lazy!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:03:02",
+      "text": "I hear how angry you are, and you have every right to be. It is frightening to think your health was put at risk because a safety step was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "I cannot believe this. I feel... I feel cheated."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:18",
+      "text": "Being cheated of the care you expected and deserved is a terrible feeling. I am here with you now, and we are going to focus entirely on your recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:25",
+      "text": "What is the plan then? Because I do not trust you to just \"monitor\" me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:41",
+      "text": "I have a very specific plan to manage this. First, I have already started you on an intravenous saline drip. This will help flush the dye out of your system and protect the kidneys. This is running right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "For how long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:04:01",
+      "text": "We will keep the fluids running for the next twenty-four hours. Second, we are going to draw your blood every twelve hours\u2014starting at 6 PM tonight\u2014to check your creatinine levels and see exactly how your kidneys are responding."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "And if the numbers stay high?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:16",
+      "text": "If the levels do not improve by tomorrow morning, I will bring in the nephrologist, our kidney specialist, for a formal consultation at 9 AM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:17",
+      "end_time": "00:04:21",
+      "text": "What do I have to do? I am just lying here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:22",
+      "end_time": "00:04:37",
+      "text": "Your role is to let us know immediately if you notice any decrease in how much you are urinating or if you feel any new swelling in your ankles. That is the most important signal you can give us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "I will watch. I have no choice."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:57",
+      "text": "I know it feels that way. Regarding how this happened, I am documenting this as a sentinel event. This means the hospital leadership will review the chart to figure out why the alert failed so that this cannot happen to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:58",
+      "end_time": "00:05:01",
+      "text": "That does not fix my kidneys."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:02",
+      "end_time": "00:05:17",
+      "text": "No, it doesn't. But it is the step we take to ensure this error is not repeated. I will be back in one hour to check your drip and speak with you again. Does that timeline work for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:18",
+      "end_time": "00:05:21",
+      "text": "I suppose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:22",
+      "end_time": "00:05:25",
+      "text": "I will see you shortly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient, remains regulated despite significant pushback, and allows the patient to express anger and frustration without rushing."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error is named in the first turn, lay language is used throughout, and comprehension is checked twice ('Does that make sense', 'are you asking if...')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language ('I'm sorry' or 'I apologize') and deflects responsibility to 'the process of care' and 'the system' when asked directly."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('disregarded', 'wounding', 'angry', 'cheated') and engages directly with the patient's emotional bids."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes specific steps (saline drip, blood draws), clear timelines (24 hours, 6 PM, 9 AM), a named patient role (monitoring urine/swelling), and a prevention step (sentinel event documentation)."
+    }
+  }
+}

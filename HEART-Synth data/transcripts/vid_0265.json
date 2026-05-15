@@ -1,0 +1,219 @@
+{
+  "video_id": "vid_0265",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Anderson, thank you for coming back to see me. I wanted to talk to you about your delivery and some things that happened with your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:15",
+      "text": "Of course. I have a few minutes before my meeting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "Right. So, we reviewed the charts from your prenatal visits and the delivery records. It looks like there was a failure in the communication chain. You were GBS positive, meaning you had Group B streptococcus in your records, but that information wasn't relayed to the labour and delivery team. Because of that, the prophylactic antibiotics weren't administered during the birth."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:35",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:45",
+      "text": "I'm sorry that this confusion happened. We were very busy on the unit that night and it seems the handoff just didn't happen correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:49",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:00:55",
+      "text": "It's a bit of a systemic breakdown in how the data is transferred."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:00:59",
+      "text": "Is the baby okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:06",
+      "text": "The baby is currently being monitored and is stable, but we need to be vigilant."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:10",
+      "text": "That's a relief."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:14",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:19",
+      "text": "Was it a mistake by the nurse or the doctor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:25",
+      "text": "It's really just a failure in the documentation flow across the different departments."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:34",
+      "text": "I just want to make sure we are on the same page."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "I think I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:49",
+      "text": "I actually have to get to a rounding group in a few minutes, so I want to make sure we cover the next steps quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:53",
+      "text": "That is fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:02:05",
+      "text": "We have started the baby on a course of antibiotics now as a precaution. We will keep the baby in the neonatal unit for another forty-eight hours for observation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "And what do I need to do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:25",
+      "text": "You just need to keep alerting the nursing staff if you notice any changes in the baby's temperature or feeding patterns. I will personally check the labs tomorrow morning at eight and I'll come by your room at ten to give you the update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:33",
+      "text": "You're welcome."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:37",
+      "text": "Will this be noted in the permanent record?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "Yes, the incident is being documented in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "I appreciate the honesty."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "Will there be a follow-up appointment specifically for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:58",
+      "text": "The pediatrician will handle that during the standard discharge visit on Thursday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "Alright."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "I'll let you get back to your day then."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Thank you, doctor."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language, stating they have to get to a rounding group and want to cover next steps 'quickly'."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error (failure to give GBS antibiotics) named in the second turn, lay language used, and comprehension checked twice ('make sure we are on the same page', 'I think I understand')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "While the resident says 'I'm sorry', they deflect responsibility to the 'communication chain', 'systemic breakdown', and 'documentation flow' when asked who made the mistake."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand') twice without naming specific emotions or engaging deeply with the patient's emotional state."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Plan includes specific steps (antibiotics, 48h observation), timelines (tomorrow at 8am/10am, Thursday discharge), patient role (alerting staff to temp/feeding), and prevention (incident documented in system)."
+    }
+  }
+}

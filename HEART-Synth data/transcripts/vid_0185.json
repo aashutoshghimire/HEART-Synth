@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0185",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Okonkwo, thank you for meeting with me. I need to discuss something that happened during your imaging procedure this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "I am listening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "We made a mistake. You were given a contrast dye for your scan, but we didn't check your kidney function levels first. Your creatinine levels were high in your chart, which means your kidneys are at a higher risk for a reaction to that dye. We should have followed a pre-treatment protocol to protect your kidneys, but we failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:47",
+      "text": "I want to be very clear: I am deeply sorry. This was my responsibility as the doctor on the case, and I failed to verify your labs before the injection. I take full accountability for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:59",
+      "text": "I am a man of standing in my community. My family relies on my health. If something happens to me because of a mistake, it is... it is difficult."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:07",
+      "text": "I can hear that you are feeling distressed about how this might impact your role and your family's stability."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:14",
+      "text": "It is not just the health. The shame of being fragile because of a mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:20",
+      "text": "I understand that the idea of this vulnerability is very upsetting for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:24",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:40",
+      "text": "I have to get a few more things done before my next round, so I want to make sure we go through the plan quickly. First, we are starting an intravenous saline hydration protocol right now to flush the dye out of your system. I have already ordered a new creatinine blood test for tomorrow morning at 6:00 AM to see if there is any change in your kidney function."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:44",
+      "text": "And if the test is bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:02:00",
+      "text": "Then we will consult the nephrology specialist immediately. Your role in this is to please let the nursing staff know if you notice any decrease in how much you are urinating. I will personally review your labs tomorrow morning and come back to this room by 10:00 AM to give you the results. To make sure this doesn't happen again, I have already filed an incident report and we are implementing a mandatory checklist for all contrast studies in our ward starting today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:04",
+      "text": "I appreciate the plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:12",
+      "text": "I know this is a lot to take in. Are you feeling okay with the steps we are taking?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:16",
+      "text": "I suppose so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "It's a very heavy thing to deal with."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "It is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:29",
+      "text": "I really am sorry, Mr. Okonkwo. I let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:33",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:41",
+      "text": "I actually have to go now, as my other patients are waiting. I will be back tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "Very well."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "Is there anything else you need right this second?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "No."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "Alright. I'll see you then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('go through the plan quickly', 'I actually have to go now') multiple times."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the first turn using lay language, and comprehension was checked once ('Are you feeling okay with the steps we are taking?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am deeply sorry'), resident explicitly took full accountability ('This was my responsibility'), and no deflection occurred."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions back to the patient twice ('distressed', 'upsetting') and referenced the patient's specific concerns regarding family and vulnerability."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (saline, blood test) with timelines (6:00 AM, 10:00 AM), a named patient role (reporting urination), and prevention (incident report and checklist)."
+    }
+  }
+}

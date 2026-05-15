@@ -1,0 +1,261 @@
+{
+  "video_id": "vid_0153",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Mr. Okonkwo, thank you for seeing me. I need to discuss something important regarding your medications."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:13",
+      "text": "I hope everything is alright. I was just thinking about when I can head home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "I have some bad news. There was a mistake with your medication. Three days ago, I wrote in your chart that you should stop taking your blood pressure medication, but I failed to notify the pharmacy. Because of that, you have continued to take the drug for three more days when you should have stopped."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:35",
+      "text": "I have been taking it every morning. You are saying I shouldn't have?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:41",
+      "text": "That is correct. You should have stopped three days ago. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "Yes. It makes sense. Why did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:58",
+      "text": "It was my mistake. I didn't complete the final step of the process to alert the pharmacy. I am very sorry for this error. I take full responsibility for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:14",
+      "text": "I see. I am not as concerned about the pills as I am about what this means. I am a leader in my community. People look to me. If it comes out that I was... that I was mismanaged or that there was a failure in my care, it reflects poorly on the stability of my household."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:18",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:32",
+      "text": "It is a matter of dignity. My family expects me to be the one who manages things, not the one who is a victim of a mistake. I feel quite shaken by this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:39",
+      "text": "We need to make sure your levels are stable now. Let's look at the chart."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:46",
+      "text": "Are you listening to me? I am telling you that my reputation is at stake here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:53",
+      "text": "I hear you. Now, regarding the medication, the most important thing is that we stop it immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:01:59",
+      "text": "I just wonder if this will be in my permanent record. Will people know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:04",
+      "text": "I understand. Since we've identified it, we can move forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:13",
+      "text": "It is just very distressing. To think that for three days I was taking something that the doctor knew was wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:18",
+      "text": "I am truly sorry that this happened. It was my fault."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:24",
+      "text": "I suppose an apology is a start. But what now? Am I in danger?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:31",
+      "text": "You are not in immediate danger. Do you have any questions about how the mistake happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:39",
+      "text": "No, you explained that. You forgot to tell the pharmacy. I just want to know how we fix this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "We will just keep an eye on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:51",
+      "text": "Keep an eye on it? What does that mean exactly? Do I need a test? A new pill?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:55",
+      "text": "We will monitor you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:03:06",
+      "text": "That is not a plan. I cannot go home and tell my wife that we are just monitoring it. I need to know the steps."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "I will check in with you later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "Later when? Today? Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:21",
+      "text": "Sometime soon. I just need to make sure the pharmacy has the current list now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:29",
+      "text": "I feel as though I am being rushed. Is there something more important than my health happening right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:34",
+      "text": "I just have a few other patients to attend to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:39",
+      "text": "I see. My dignity is not a priority in your schedule."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:44",
+      "text": "Again, I apologize for the mistake. I am responsible for the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:52",
+      "text": "The apology is for the mistake, but the way you are speaking to me now is another matter entirely."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:56",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:01",
+      "text": "So, what is the actual plan for my health today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "We'll see how the morning goes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "That is not an answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:10",
+      "end_time": "00:04:15",
+      "text": "I will let the team know to keep an eye on your blood pressure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:16",
+      "end_time": "00:04:19",
+      "text": "And then?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:20",
+      "end_time": "00:04:23",
+      "text": "We will just wait and see."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language ('I just have a few other patients to attend to') and repeatedly dismisses the patient's emotional pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once ('Does that make sense?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language, took full personal responsibility, and maintained this accountability throughout the encounter."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident relied on generic validation ('I understand', 'I hear you') and consistently redirected the patient's emotional bids back to factual/clinical matters."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provided only placeholders and vague statements ('keep an eye on it', 'we'll see how the morning goes', 'wait and see') with no concrete steps or timelines."
+    }
+  }
+}

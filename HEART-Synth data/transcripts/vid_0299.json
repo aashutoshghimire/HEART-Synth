@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0299",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Osei, thank you for meeting with me. I wanted to talk to you about your portable X-ray from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "I've been waiting for the final results."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:20",
+      "text": "Right. I've been looking over the case and, well, things didn't go quite right with the imaging process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:21",
+      "end_time": "00:00:24",
+      "text": "I'm sorry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:35",
+      "text": "There was just a bit of a discrepancy in how the study was handled. It's an issue we see occasionally when things get busy on the floor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:39",
+      "text": "I don't follow. Was the image diagnostic or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:53",
+      "text": "We had some confusion regarding the quality. I want to tell you that I am truly sorry for this. Our team failed to meet the standard of care here, and that is on us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:02",
+      "text": "As a nurse practitioner, I know that if a film is sub-optimal, the protocol is to repeat it immediately. Was it repeated?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:17",
+      "text": "I can see how that would be frustrating for you, especially given your own professional background and your expectation for a precise standard of practice. It must feel unsettling to realize the process wasn't followed correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:26",
+      "text": "It's not about my feelings. It's about whether the report I was given saying everything was normal was actually accurate."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:38",
+      "text": "I completely hear your concern about the accuracy of that report and the validity of the results you were told. We just had some issues with the positioning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:42",
+      "text": "So the X-ray was positioned incorrectly?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:50",
+      "text": "There were some technical difficulties during the acquisition. I apologize again, we really dropped the ball on this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:56",
+      "text": "If the image was of insufficient quality, why was it reported as normal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:04",
+      "text": "It was just a bit of a systemic breakdown in the communication chain. But again, I am so sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:10",
+      "text": "I just want to know if I have a condition that was missed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:21",
+      "text": "I can tell you're worried about a missed diagnosis, and that's a completely valid fear to have right now. I want to support you through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:26",
+      "text": "I'm not particularly emotional. I'm asking for a clinical explanation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:39",
+      "text": "I understand. I just really want you to know that we care about your wellbeing. I have to go in a few minutes for rounds, so let's wrap this up quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "I still don't actually know what happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:50",
+      "text": "It was just an issue with the portable unit's output and the way it was captured."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "That still isn't an explanation of the error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:02:59",
+      "text": "I'm sorry it's not clearer. Look, we'll just get it sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "How are we sorting it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "We'll probably just do another one."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:16",
+      "text": "Sometime today or tomorrow, maybe. I'll check with the techs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "And who is reviewing the previous incorrect report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "I'll keep an eye on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:31",
+      "text": "I expect a formal note in my chart explaining why the first result was invalidated."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:36",
+      "text": "I'll see what I can do. I really have to run now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "This has been very imprecise."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "I know, and I'm sorry. We'll get it fixed."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up quickly', 'have to run now') and shows impatience under pushback."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses only platitudes and vague hedging ('things didn't go quite right', 'some confusion', 'systemic breakdown') without ever explicitly naming the error."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Direct apology language is used multiple times, the team is named as responsible ('that is on us', 'we dropped the ball'), and accountability is maintained despite pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('frustrating', 'unsettling', 'worried') and references the patient's professional background."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan is vague ('probably just do another one') with an imprecise timeline ('today or tomorrow, maybe') and no patient role or prevention strategy."
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "video_id": "vid_0137",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hello Ms. Tremblay. I wanted to come back in and talk to you about why you ended up coming back to the emergency department last night."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "I'm listening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "When you were discharged yesterday, you were sent home six hours earlier than the post-operative protocol actually requires. That means you didn't have the full observation time we needed to make sure the wound was stable. Because of that, the complications that happened overnight occurred."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:41",
+      "text": "I want to make sure that's clear. Does that make sense, why the timing was a problem?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "Yes. It makes sense."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:54",
+      "text": "Right. So, the discharge happened because the paperwork was processed too quickly and the timing on the order was misread."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:00:58",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:02",
+      "text": "I understand this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:06",
+      "text": "I'm more concerned about the wound."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:15",
+      "text": "We have already started the irrigation. We are going to keep you for another twenty-four hours to monitor the site."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "That's fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:23",
+      "text": "I know it's a setback for your schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:27",
+      "text": "It is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:32",
+      "text": "It's just a bit of a complication with the timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:36",
+      "text": "I just want to be back on duty."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:42",
+      "text": "We'll get you there. We just need to make sure this is closed properly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:46",
+      "text": "Do I need more surgery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:51",
+      "text": "No, we're managing it with the current dressing and the antibiotics."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:55",
+      "text": "How long is the recovery now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:02",
+      "text": "It might add a few days to the initial timeline, but it shouldn't change the long-term outcome."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "Understood."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "We'll check the wound again this evening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "And then?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:20",
+      "text": "We'll see how the inflammation looks. Probably we will discharge you tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "Tomorrow morning. Got it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I'll have the nurse bring you some fresh water."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "Do you have any other questions about the timing?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "No."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "Alright. We'll keep a close eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "Sounds good."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "I'll go check your charts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "See you later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a steady pace, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the first turn, lay language used, comprehension checked twice ('Does that make sense', 'any other questions'), and no false reassurance given."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry', 'I apologize') is used, and responsibility is deflected to the paperwork and the order."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand this is frustrating') but does not name specific emotions back to the patient or engage deeply with emotional bids."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Specific steps and timelines are provided (irrigation, 24-hour stay, discharge tomorrow), but there is no named patient role or mention of prevention."
+    }
+  }
+}

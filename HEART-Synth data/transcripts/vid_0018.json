@@ -1,0 +1,345 @@
+{
+  "video_id": "vid_0018",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Mr. Thompson, thank you for coming in today. I asked you to come in because I need to discuss something that happened with your referral for the developmental screening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:17",
+      "text": "Screening? I thought we did that. Or was that for the heart thing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:30",
+      "text": "No, this was for the cognitive and developmental check. I\u2019ve reviewed your chart, and there was a mistake. The referral was marked as completed in our system, but it actually wasn't."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "What do you mean completed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:48",
+      "text": "It means the computer showed the task as finished, but the appointment never happened. Because of that, no one followed up with you. I am sorry. This is the fault of our team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "Wait. So you just ignored me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:00:59",
+      "text": "We didn't ignore you intentionally, but the system showed it was done, so we didn't check again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:06",
+      "text": "I told you months ago I couldn't make that first date! I called! I remember calling!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:13",
+      "text": "You did call, and you declined that appointment. But instead of rescheduling, the file was closed out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:22",
+      "text": "This is ridiculous! I\u2019m eighty-one years old! I can't just keep coming back here for nothing! Why is nobody doing their job?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:23",
+      "end_time": "00:01:28",
+      "text": "I can see you're very angry. This is a difficult and frustrating situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:35",
+      "text": "Frustrating? It's negligent! You've wasted my time and my health! Who did this? Who is responsible?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:42",
+      "text": "I am taking responsibility for it. The team failed to ensure the screening was actually performed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:48",
+      "text": "So what now? Do I just sit here and wait for another mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "I understand that you're upset."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:02:03",
+      "text": "You don't understand! You're just sitting there saying you're sorry! I don't care about a sorry! I want to know why my records are wrong!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:12",
+      "text": "It was a clerical error in the electronic health record. The box was checked as completed when it should have remained open."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:13",
+      "end_time": "00:02:24",
+      "text": "I don't care about boxes! I care about my brain! I can't remember where I put my keys half the time and you're telling me you lost my paperwork!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "You keep saying that! You aren't listening!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:37",
+      "text": "I am listening, Mr. Thompson. I know this is unacceptable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:47",
+      "text": "It is more than unacceptable! It's a disgrace! I trust you people with my life and you can't even check a box correctly?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "It is a failure in our process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:58",
+      "text": "So what happens tomorrow? Or next year? Do I just hope you remember I exist?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "I'm going to fix this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "How? Give me a real answer!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "We will get it scheduled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "When? Give me a day!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:18",
+      "text": "We will look into the availability."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "That is not an answer!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:27",
+      "text": "I will call the department and we will find a time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:35",
+      "text": "And who is going to make sure it actually happens this time? You? Or some other computer box?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "I will personally track the referral."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:46",
+      "text": "You say that now. Then you'll forget. You're probably as disorganized as the rest of them."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "I apologize for the distress this has caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:56",
+      "text": "Distress! I'm shaking! I'm sitting here shaking because I can't believe the incompetence!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "I know this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "Is that all you have to say?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:08",
+      "text": "I am sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:15",
+      "text": "I want to speak to your supervisor. I want someone higher up to know about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:16",
+      "end_time": "00:04:20",
+      "text": "I can arrange for you to speak with the attending physician."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:21",
+      "end_time": "00:04:25",
+      "text": "Good. Because you aren't telling me anything I can actually use."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:26",
+      "end_time": "00:04:29",
+      "text": "I will make sure the attending is aware."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:30",
+      "end_time": "00:04:33",
+      "text": "When will they call me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:34",
+      "end_time": "00:04:37",
+      "text": "Soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "\"Soon\" isn't a time!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "We'll get it sorted out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:52",
+      "text": "I don't believe you. I just don't believe a word coming out of your mouth right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:53",
+      "end_time": "00:04:56",
+      "text": "I understand that trust has been broken."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "Understatement of the century!"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:01",
+      "end_time": "00:05:04",
+      "text": "I will make sure the appointment is made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:05",
+      "end_time": "00:05:08",
+      "text": "Just get it done. I'm tired of talking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:09",
+      "end_time": "00:05:12",
+      "text": "I'll get on it right away."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly and in lay language, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, explicitly took responsibility for the team, and maintained accountability despite the patient's anger."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident used generic validation ('I understand') repeatedly, and while they named 'angry' once, they failed to engage with the patient's specific emotional bids regarding their health and memory."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provided a vague plan to schedule the appointment and track it, but provided no specific timelines or patient role."
+    }
+  }
+}

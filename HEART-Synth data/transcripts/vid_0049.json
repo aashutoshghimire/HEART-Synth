@@ -1,0 +1,207 @@
+{
+  "video_id": "vid_0049",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello, Mr. Thompson. I wanted to come by and talk to you about your developmental screening referral from a few months ago."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:17",
+      "text": "Oh, hello. My screening? I thought we talked about this. I think I told the lady I couldn't make that one date."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:32",
+      "text": "Right, you did decline that first appointment. The thing is, there was a mistake in how it was handled. The referral was marked as completed in our electronic system even though the appointment never actually happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:40",
+      "text": "Completed? But I didn't go. Did I go? I can't remember if I actually went to that office."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:50",
+      "text": "No, you didn't go. But because the computer said it was done, we didn't try to schedule it again. It was basically closed out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:00:56",
+      "text": "Now I'm confused. Why would the computer say I went if I didn't?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:09",
+      "text": "It was a clerical error. I'm sorry for any confusion this caused, but we were really busy in the clinic that month and things got mixed up in the records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:20",
+      "text": "I just feel a bit... I don't know. I thought you all were keeping track. I\u2019m not very good with these dates anymore. I rely on you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:21",
+      "end_time": "00:01:27",
+      "text": "I can see that you're feeling disappointed that we didn't stay on top of this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:36",
+      "text": "Yes, disappointed. I just wanted to get it sorted. Do I need to do something now? Does this mean I'm sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:49",
+      "text": "No, no, you're not sick. This is just a screening process. But listen, I have to go check on another patient in a few minutes so let's wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:55",
+      "text": "Oh. You're in a rush. I just wanted to understand why it happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:03",
+      "text": "Like I said, the system just showed it as done. It's a common thing when the office is overwhelmed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:10",
+      "text": "I still don't quite get it. If it was a mistake, who is going to fix it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:15",
+      "text": "Well, we'll just have to get it back on the calendar."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:19",
+      "text": "When? Will someone call me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:30",
+      "text": "We'll probably put in a new request. You should probably just keep an eye out for a phone call sometime in the next few weeks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:35",
+      "text": "A few weeks? Which phone? My house phone or the cell?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "Just your usual phone. We'll get it sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:44",
+      "text": "I feel like I'm forgetting something now. Did I miss other things?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:54",
+      "text": "No, we're just talking about this one screening. We really need to get moving to the next room, so I'll leave you to it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:03:01",
+      "text": "Wait, but you didn't say if I have to call them or if they call me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:06",
+      "text": "Just wait for the call. We'll handle it on our end."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:11",
+      "text": "I'm just a bit worried. It feels like things are slipping through."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:16",
+      "text": "I understand that it's frustrating. But we've got it now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:22",
+      "text": "I hope so. I don't like feeling like I'm not being looked after."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:27",
+      "text": "It'll be fine. I'll have the staff look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:33",
+      "text": "Are you sure? Because last time I thought it was done, it wasn't."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:39",
+      "text": "Yes, it'll be handled. I really have to run. I'll see you next time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "Alright. Goodbye then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'get moving to the next room', 'really have to run')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly, but there are no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology is offered, but it is immediately diluted by excuses regarding the clinic being 'really busy' and 'overwhelmed'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('disappointed', 'frustrating') and engages with the patient's emotional bids."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan is vague ('put in a new request') with a loose timeline ('next few weeks') and no mention of prevention."
+    }
+  }
+}

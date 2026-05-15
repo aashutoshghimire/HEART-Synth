@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0140",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Mr. Chen, I want to talk with you about what happened when you first arrived at the hospital."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "I... feel heavy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "I know you do. I need to tell you that we made a mistake in how we sorted you when you came in. We labeled your condition as low-priority, which means we didn't get you to the scanner fast enough. Because of that delay, the window to give you the clot-busting medication closed. We missed the chance to give you that treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "Medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:47",
+      "text": "Yes. The medicine that breaks the blockage in the brain. Because we waited too long to do the scan, we cannot give it to you now. I am very sorry. This was our error, and I take full responsibility for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:51",
+      "text": "Why?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:00",
+      "text": "We didn't recognize the urgency of your symptoms quickly enough. It was our fault. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:04",
+      "text": "I... don't know."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:20",
+      "text": "It is okay if it's confusing. Let me try to say it differently. When you came in, we didn't move fast enough. We missed the time limit for the best medicine. Do you understand why we can't give the medicine now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:24",
+      "text": "Too late."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:32",
+      "text": "Yes. It is too late for that specific medicine. I am so sorry that we let this happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:36",
+      "text": "My hand... still no move."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:44",
+      "text": "I see that. It is frustrating and scary when your body doesn't do what you want it to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "I want go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:56",
+      "text": "I can see you're feeling overwhelmed. I want to make sure we get you the best care now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "Why did you wait?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:11",
+      "text": "We failed to prioritize your care correctly. There is no excuse for that. We owe you a better standard of care than what you received yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "My wife... she cry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:24",
+      "text": "It's very hard for her to see you like this. I can't imagine how difficult this is for both of you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I feel... small."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:33",
+      "text": "It's okay to feel that way. I'm here with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:37",
+      "text": "Now what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:53",
+      "text": "Let's talk about exactly what happens next. First, I have already called the rehabilitation team. They are coming to see you today at 2:00 PM to start a plan for your physical therapy. Second, we are moving you to a specialized stroke unit this afternoon. That is where the nurses have the most training for your specific needs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "I stay here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:10",
+      "text": "Yes, for a few more days. Your job right now is to tell us when you feel any new numbness or if your speech feels harder. That helps us monitor you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "How... no happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:30",
+      "text": "That is a very important question. I have already filed a formal incident report. Our department is meeting tomorrow morning to change how we triage patients coming in with stroke symptoms so that this mistake does not happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "I... okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:41",
+      "text": "I know this isn't the news you wanted. I'm going to stay here for a moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:56",
+      "text": "Actually, I have to check on another patient quickly, but I will be back in ten minutes to answer any other questions you think of."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:00",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "I'll see you in a few minutes, Mr. Chen."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows patient to finish and adjusts pacing, but uses rushing language at the end ('check on another patient quickly')."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in first turn, used lay language, checked comprehension twice ('Does that make sense so far?', 'Do you understand...?'), and provided no false reassurance."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used, took full responsibility ('This was our error', 'It was our fault'), and maintained accountability under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Named specific emotions ('frustrating and scary', 'overwhelmed') and engaged with emotional bids regarding the patient's wife and feeling 'small'."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provided specific steps with timelines (rehab at 2:00 PM, move this afternoon), defined the patient's role (monitoring numbness/speech), and addressed prevention (incident report and triage meeting)."
+    }
+  }
+}

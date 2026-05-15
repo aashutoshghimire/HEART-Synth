@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0161",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Mr. Chen, thank you for coming in to see me today. I have something important to talk to you about. This is a difficult conversation to have, and I want to make sure we have plenty of time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:19",
+      "text": "Is something wrong with the scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:30",
+      "text": "Yes. I have to tell you that we made a mistake with your imaging results from a few months ago. I am very sorry for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "A mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:50",
+      "text": "When the doctor looked at the pictures of your body, they saw a small spot that needed another look in three months. But that note was put in a part of the report that we did not see. Because of that, we didn't call you back, and the follow-up didn't happen. It is our fault that this was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:00:54",
+      "text": "I don't... why?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:09",
+      "text": "It was a failure in how we read the report. We didn't look in the right section. I am the one responsible for your care, and I should have caught it. I am truly sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:13",
+      "text": "Was it... a bad spot?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:20",
+      "text": "I can see you look worried. It is scary to hear that something was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:24",
+      "text": "I just waited. I thought everything was okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:31",
+      "text": "It is very frustrating to find out you were waiting for a result that we already had."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:35",
+      "text": "Now what happens?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:48",
+      "text": "Here is exactly what we are going to do to fix this. First, I have already scheduled a new scan for you. It is for this Thursday at ten in the morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "Thursday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:06",
+      "text": "Yes, this Thursday. I will personally call you on Friday afternoon to tell you the results. You won't have to wait for a letter or a portal message. I will speak with you directly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "And the spot? Is it gone?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:24",
+      "text": "I can't say if it is gone until we see the new picture. I don't want to give you a guess that might be wrong. But we are going to find out quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "What if it is bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:44",
+      "text": "That is a heavy thing to worry about. If the spot is still there, we will bring in a specialist and we will meet again on Monday to map out every step of the treatment together. You will not be doing this alone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "I don't like the hospitals."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:04",
+      "text": "I know you've felt overwhelmed coming here. To make sure this never happens again, I have changed how we track these reports in our system. We now have a second person who double-checks every single section of the imaging report before we close a file."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "You check it twice now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:13",
+      "text": "Yes, twice. So no more notes are hidden in the wrong place."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "Thursday at ten."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:26",
+      "text": "That is correct. Do you have a way to get to the imaging center, or should I help you arrange a ride?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:30",
+      "text": "My son can bring me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:41",
+      "text": "That sounds like a good plan. Just to make sure I explained everything clearly, can you tell me what we missed and what is happening this Thursday?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:42",
+      "end_time": "00:03:46",
+      "text": "You missed the note. The spot. Thursday is the new picture."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:59",
+      "text": "Exactly. I am sorry again that this happened, Mr. Chen. I know this is a lot to take in right now. We can just sit here for a moment if you need."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "I just feel... silly. Waiting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:14",
+      "text": "You are not silly. You trusted us to tell you if something was wrong, and we let you down. That is on us, not you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:15",
+      "end_time": "00:04:18",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:28",
+      "text": "I will give you a piece of paper now with the time and the address for Thursday. I'll write it in large letters."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:33",
+      "end_time": "00:04:41",
+      "text": "I will see you on Thursday, and I will call you Friday. Do you have any other questions for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "No. Just the ride."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:46",
+      "end_time": "00:04:49",
+      "text": "Okay. I'll see you then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows patient to finish all turns, uses no rushing language, and offers to sit in silence with the patient."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in second turn, used lay language ('small spot'), checked comprehension via teach-back, and avoided false reassurance regarding the spot."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used multiple times, explicitly taking personal and team responsibility ('It is our fault', 'I should have caught it') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Named specific emotions ('worried', 'scary', 'frustrating') and engaged with the patient's feelings of being 'silly' and 'overwhelmed'."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provided specific steps (scan Thursday 10am, call Friday), defined patient role (ride with son), and detailed the system change to prevent recurrence."
+    }
+  }
+}

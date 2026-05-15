@@ -1,0 +1,159 @@
+{
+  "video_id": "vid_0010",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mrs. Hernandez, it is good to see you and your daughter again. How are you feeling today?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "I am okay. Just tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:27",
+      "text": "I understand. I want to talk with you about something that happened during your delivery. After reviewing the charts, I found that we made a mistake. Your records showed you were positive for Group B streptococcus, which is a common bacteria, but that information wasn't passed to the delivery team. Because of that, we didn't give you the antibiotics you should have received during labor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:31",
+      "text": "What? What is that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:32",
+      "end_time": "00:00:47",
+      "text": "I'm sorry, let me explain. Group B strep is a bacteria that some women have. Usually, it is harmless to the mother, but it can be passed to the baby during birth. We give antibiotics during labor to prevent the baby from getting an infection. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:51",
+      "text": "I don't know. Is the baby okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:07",
+      "text": "That is exactly why we are monitoring everything so closely. I want to be very clear: I am deeply sorry. This was our failure. We did not communicate your status correctly, and we failed to provide the standard of care you deserved. I take full responsibility for this oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:12",
+      "text": "Why did this happen? You told me everything was fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:22",
+      "text": "There is no excuse for it. We missed a critical piece of information in your chart. I know this is upsetting to hear."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:29",
+      "text": "I am just... I am very worried. I don't know if my baby is sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:33",
+      "text": "I can see that you're worried."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:40",
+      "text": "We just wanted everything to be perfect. Now I feel like I can't trust it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:54",
+      "text": "I hear that you're feeling anxious. Now, looking at the plan, we are going to have the pediatrician do a full evaluation of the baby today to ensure there are no signs of infection."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "When will we know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:11",
+      "text": "The pediatrician will be in here in about twenty minutes. He will check the baby's breathing and temperature. If there are any concerns, he will start a course of antibiotics right away."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:15",
+      "text": "Is that all?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:28",
+      "text": "Well, we also need to make sure this doesn't happen again. I have already filed a formal incident report so the hospital can change how these alerts are flagged in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "I just want my baby to be healthy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:47",
+      "text": "I know. Look, I have a few more patients to see, so let's quickly focus on the next steps. The doctor is coming in shortly. Do you have any other questions for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:51",
+      "text": "I don't know. I'm just confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:06",
+      "text": "It's a lot to take in. Just remember, the pediatrician is coming in twenty minutes. Your daughter can help you write down any questions you think of before he arrives. Does that sound like a good plan?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Yes. I think so."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at [00:02:33] stating, 'I have a few more patients to see, so let's quickly focus on the next steps.'"
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error is named in the second turn, lay language is used to explain GBS, comprehension is checked twice ('Does that make sense so far?' and 'Does that sound like a good plan?'), and no false reassurance is given."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am deeply sorry'), explicitly takes full responsibility ('This was our failure'), and maintains accountability when the patient asks why it happened."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions twice ('I can see that you're worried' and 'I hear that you're feeling anxious') and engages with the patient's concerns."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides a specific next step with a timeline ('pediatrician... in about twenty minutes'), a named patient role ('Your daughter can help you write down any questions'), and addresses prevention via the incident report."
+    }
+  }
+}

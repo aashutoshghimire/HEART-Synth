@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0105",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Osei, thank you for coming in. I wanted to sit down with you and discuss your immunotherapy schedule from this past week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "I assumed we were just doing a routine check."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "We are, but first, I have to tell you that we made a mistake with the timing of your last dose. It was administered on the wrong day of your treatment cycle because of a calendar entry error on my part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:40",
+      "text": "I am very sorry that this happened. I take full responsibility for the scheduling error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:51",
+      "text": "As a nurse practitioner, I know how calendar slips happen, but in an oncology setting, the cycle timing is the whole point of the protocol."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:07",
+      "text": "You're absolutely right. It is an unacceptable lapse in the professional standards we set for your care. I can only imagine how unsettling it is to hear that the precision of your treatment was compromised, especially when you're trusting us with something this critical."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:11",
+      "text": "It is disappointing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:23",
+      "text": "It is. I can see you're processing this quietly, but I want you to know that I recognize the gravity of this error and the frustration it causes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:24",
+      "end_time": "00:01:28",
+      "text": "I just want to know if the dose was wasted."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:44",
+      "text": "That's the core of the issue. Because the dose was given too early in the cycle, there is a risk that the immunotherapy won't be as effective as it should be. This is what we call a deviation from the clinical protocol, which means the drug might not have the optimal window of time to work."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "So the timing was off by how many days?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "It was shifted by three days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "And the efficacy is potentially reduced."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:00",
+      "text": "Yes, that is the primary concern."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:07",
+      "text": "I have a few minutes before my next appointment, so we should probably get to the solution."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:23",
+      "text": "Right, I want to move quickly to the plan. I've already consulted with the attending oncologist. We are going to shift your next two doses to recalibrate your cycle. This will essentially reset the clock to ensure the drug has the correct interval to work."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:27",
+      "text": "Will that require extra blood work?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:43",
+      "text": "Yes, we'll need to do a CBC and a metabolic panel this Friday to make sure your levels are stable before we restart the adjusted schedule. I need you to come in at 8:00 AM on Friday for those labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:58",
+      "text": "I'll also be sending you a printed copy of the revised calendar today so you have a hard copy to cross-reference with us during your visits."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "That would be helpful."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:11",
+      "text": "I'm also implementing a double-check system with the charge nurse for all my future entries to make sure this doesn't happen again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "That's the standard of care I expected."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:27",
+      "text": "I completely agree. I am truly sorry that I didn't meet that standard this time. Is there any part of the timing shift that I can clarify for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "No, it seems straightforward."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:36",
+      "text": "Okay. I'll have the nurse bring in those lab orders now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language ('I want to move quickly to the plan') after the patient mentions their time constraint."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn and lay language was used, but comprehension was only checked once at the end."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, took full personal responsibility, and maintained accountability throughout the interaction."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('unsettling', 'frustration') and referenced the patient's specific concerns regarding precision and trust."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan included specific next steps (recalibrating doses, labs), a timeline (Friday at 8:00 AM), the patient's role (coming in for labs), and a prevention strategy (double-check system)."
+    }
+  }
+}

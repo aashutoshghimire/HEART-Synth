@@ -1,0 +1,303 @@
+{
+  "video_id": "vid_0344",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Dubois, thank you for meeting with me. I need to discuss something with you regarding the delivery of your granddaughter yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:14",
+      "text": "I am just glad the baby is here. She is very small, yes?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "She is, and she is doing well, but there was a medical error. Your daughter tested positive for Group B Strep during her pregnancy. This is a common bacterium that can be passed to the baby. Because that was in her record, we should have given her prophylactic antibiotics during labor to protect the baby. We did not do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:47",
+      "text": "It means we missed a critical step. The information was in the chart, but the delivery team was not notified, so the medicine was not given. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:58",
+      "text": "I do not understand why you tell me this now. The other doctor, he said everything was perfect. He said the birth was a success."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:14",
+      "text": "I know that is contradictory to what you were told. He was speaking about the delivery process itself, but he didn't have the full picture of this specific omission. Does that clarify why there is a difference in the stories?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:18",
+      "text": "It is very confusing. Is the baby sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:29",
+      "text": "We are monitoring her very closely for any signs of infection. Right now, she is stable, but the risk is higher because of the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:40",
+      "text": "I cannot believe this. My daughter... she trusted you. I trusted this hospital. C'est inadmissible. It is simply not acceptable to forget something written in the book."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:49",
+      "text": "It is devastating to feel that trust has been broken, especially when you are trying to celebrate a new grandchild."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:59",
+      "text": "We are not celebrating. Now I am sitting here wondering if the child is in danger because someone forgot to read a page."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:09",
+      "text": "I can hear how angry and worried you are. It feels like the joy of the birth has been replaced by this anxiety."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:16",
+      "text": "Yes. Exactly. I feel a great weight in my chest. Why did this happen? Who forgot?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:27",
+      "text": "The system for alerting the labor team failed. The documentation was there, but the communication break happened between the prenatal record and the active delivery team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:35",
+      "text": "And you are just telling me it was a system failure? You are not saying you are sorry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:42",
+      "text": "I am here to make sure you have the facts and that we are monitoring the baby."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:55",
+      "text": "I am asking for an apology. Is that too much to ask? In my country, when a professional makes a mistake, they acknowledge it. They do not talk about systems."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:04",
+      "text": "I understand that is important to you. I am the resident on the case and I am explaining the clinical situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:09",
+      "text": "You are not answering me. You are avoiding the word."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:14",
+      "text": "I am focusing on the medical management of your granddaughter."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:20",
+      "text": "You have no shame. No shame at all. You speak like a machine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:29",
+      "text": "I can see that my way of explaining this is making you feel dismissed. I truly care about the baby's wellbeing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "Caring is not the same as taking responsibility."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "We are doing everything we can now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:42",
+      "text": "And what happens next? What is the actual plan for this child?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "We will keep a close eye on her."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:53",
+      "text": "Keep a close eye? What does that mean? For how long? What are you looking for?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:04:00",
+      "text": "We will just watch her and see how she does over the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "That is not a plan. That is a hope."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:08",
+      "text": "The nursing staff will be checking her vitals frequently."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:13",
+      "text": "And then what? Do we wait for her to get a fever?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:19",
+      "text": "We will stay tuned to her progress. If something changes, we will act."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:20",
+      "end_time": "00:04:24",
+      "text": "I want to talk to someone higher than a resident."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:25",
+      "end_time": "00:04:28",
+      "text": "I can see you are very upset."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:29",
+      "end_time": "00:04:38",
+      "text": "I am not upset, I am offended. There is a difference. I feel my family has been treated with a lack of dignity."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:39",
+      "end_time": "00:04:45",
+      "text": "I hear that you feel the level of care did not match the respect your family deserves."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:49",
+      "text": "It did not. It did not at all."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:54",
+      "text": "I will keep updating you as the baby's status changes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:55",
+      "end_time": "00:05:03",
+      "text": "I don't want updates on the status. I want to know how you will stop this from happening to another family."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:04",
+      "end_time": "00:05:07",
+      "text": "We will review the charts internally."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:08",
+      "end_time": "00:05:11",
+      "text": "Internally. Another word for hiding it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:12",
+      "end_time": "00:05:17",
+      "text": "I am just trying to be transparent about the facts of the case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:18",
+      "end_time": "00:05:22",
+      "text": "You are transparent about the error, but opaque about the fault."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:23",
+      "end_time": "00:05:26",
+      "text": "I will go and check on the baby now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:27",
+      "end_time": "00:05:30",
+      "text": "Go. Go and see if she is okay."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated under significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly in the first turn, lay language is used, comprehension is checked ('Does that make sense so far?', 'Does that clarify...'), and no false reassurance is given."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used, and responsibility is deflected to 'the system' and 'communication break' despite the patient explicitly asking for an apology."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('devastating', 'angry and worried', 'dismissed', 'offended') and references the patient's specific content regarding the joy of birth and family dignity."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague statements ('keep a close eye', 'stay tuned', 'review the charts internally') without timelines or a specific patient role."
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0262",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Ms. Williams, I wanted to come in and talk to you about what happened with the medication earlier. We made a mistake. Your chart clearly listed an allergy to Cefazolin, but that was overlooked when the order was written, and you were given a dose of that drug."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:21",
+      "text": "Wait, what? I told the nurse three times I was allergic to that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:36",
+      "text": "I know you did, and the information was in your records, but the check wasn't performed before the drug was administered. This caused the rash and the breathing difficulty you experienced. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:47",
+      "text": "I can't believe this. I actually felt like I was dying. I just kept thinking about my kids, who is going to watch my kids if I\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:00:58",
+      "text": "It\u2019s important to understand that the drug is out of your system now, and the reaction was moderate, not severe. Do you understand how the oversight happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:09",
+      "text": "I don't care how it happened, I just keep thinking about my daughter. She's only four. If I had stopped breathing, she wouldn't even have\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:10",
+      "end_time": "00:01:22",
+      "text": "Like I said, you are stable now. I'm sorry for any confusion this caused in the process. We were really busy on the floor this morning and things get fast-paced."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:38",
+      "text": "Confusion? This wasn't confusion, this was a mistake! I'm terrified. I can't even stand up straight right now and I have to go back to work in two days or I lose my second job. I can't lose that job."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:44",
+      "text": "I understand. But looking at the facts, your vitals are back to normal."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:55",
+      "text": "Do you even get it? I'm sitting here shaking and you're just talking about vitals. I feel like I can't trust anyone in this building."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:00",
+      "text": "I understand. But we need to move forward with the discharge process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:09",
+      "text": "I just feel so overwhelmed. I don't know how I'm supposed to recover from this when I'm this stressed about my children."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:16",
+      "text": "Look, I have to go check on another patient right now, so let's wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:26",
+      "text": "Wrap this up? You just told me you gave me a drug that could have killed me and now you're rushing out the door?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:31",
+      "text": "I'm just saying that the medical side of things is handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:37",
+      "text": "What happens now? How do I know this won't happen again before I leave?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "We'll just keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:46",
+      "text": "That is not an answer. Who is checking my meds now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:53",
+      "text": "The staff will see to it. Just stay tuned for an update from the nursing station."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:03:01",
+      "text": "I want to speak to the attending physician. I can't believe this is how this is being handled."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:08",
+      "text": "I really don't have time for a long discussion right now. We'll see how things go."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'don't have time', 'go check on another patient') and shows defensive escalation."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn, lay language was used, and comprehension was checked once ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology is diluted by an excuse regarding the floor being 'really busy' and 'fast-paced'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids regarding her children and fear are consistently met with factual redirection to vitals and stability."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders such as 'we'll just keep an eye on things' and 'stay tuned for an update'."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0071",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Rivera, thank you for letting me come in. I have a few things to discuss with you regarding your recovery from the procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "Is everything okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:24",
+      "text": "I want to be honest with you about something that happened yesterday. We made a mistake in how we monitored your vitals after the surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "A mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:44",
+      "text": "Yes. After a high-risk procedure like yours, we are supposed to check your blood pressure and heart rate every fifteen minutes for the first few hours. We didn't do that at the frequency we prescribed. Because of that, your blood pressure dropped, and we didn't notice it for about two hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:51",
+      "text": "Oh. I felt... I felt dizzy. I tried to tell the nurse, but she was busy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:00",
+      "text": "I am very sorry. This was our responsibility, and we failed to follow the safety protocol. I apologize deeply for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:10",
+      "text": "Does this mean I am in more danger now? I don't have... I don't have papers. Will this make things harder for me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:26",
+      "text": "I can see that you're worried about your status and how that might affect your care. I want to be clear that this mistake was ours, and your immigration status has absolutely no bearing on the quality of care you should receive or the way we handle this error. You are our patient, and we are responsible for your safety regardless of anything else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:30",
+      "text": "I just didn't want to cause trouble."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:31",
+      "end_time": "00:01:43",
+      "text": "You are not causing trouble by expecting the care we promised. Does the part about the blood pressure and the monitoring make sense to you, or can I explain it differently?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:49",
+      "text": "I think I understand. You didn't check me enough, and my pressure went low."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:05",
+      "text": "That is correct. Now, because we caught it eventually and stabilized you, I don't believe there is permanent damage, but we need to be extra vigilant now. Here is the plan moving forward. I am personally going to review your charts every four hours. Also, the nursing staff will now be checking your vitals every thirty minutes for the next twelve hours to ensure you are stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "Every thirty minutes?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:25",
+      "text": "Yes. Now, I also want you to be an active part of this. If you feel that dizziness again, or if you feel lightheaded, please press your call button immediately. Don't worry about bothering us. If you feel something, tell us right away."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "Okay. I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:44",
+      "text": "I also need to let you know that I'm filing a formal incident report. This is how we track errors so the hospital can change the workflow and make sure this doesn't happen to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "I didn't think you would tell me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:56",
+      "text": "It is the right thing to do. You deserve to know exactly what happened in your own care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:16",
+      "text": "You're welcome. Look, I actually have to run to a critical patient in the next room right now, but I'll be back in an hour to check on you again. Do you have any other questions before I step out for a moment?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "No. I think that's all."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "Okay. I'll see you very soon."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('I actually have to run to a critical patient in the next room right now')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once ('Does the part about the blood pressure... make sense to you')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language ('I am very sorry', 'I apologize deeply') and explicitly took responsibility ('This was our responsibility, and we failed')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named a specific emotion ('I can see that you're worried') and engaged the patient's bid regarding their immigration status."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided specific steps with timelines (vitals every 30 mins for 12 hours, chart review every 4 hours), defined the patient's role (press call button if dizzy), and addressed prevention (filing an incident report to change workflow)."
+    }
+  }
+}

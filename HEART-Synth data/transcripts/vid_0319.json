@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0319",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Okonkwo, thank you for meeting with me. I wanted to speak with you privately about your admission and what happened with your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:17",
+      "text": "I appreciate that. I have been wondering why the doctors keep looking at me with such heavy expressions."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "I wish I had better news to share. There was a mistake in how you were triaged when you first arrived at the hospital. You were categorized as low-acuity, which means the staff thought your condition wasn't urgent. Because of that, there was a delay in getting you the brain imaging you needed. By the time we saw the scans, the window of time to give you the clot-busting medication, the thrombolysis, had already closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:38",
+      "text": "Closed? You mean I missed the chance for the medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:39",
+      "end_time": "00:00:47",
+      "text": "Yes, that is correct. We missed the opportunity to give you that specific treatment because we didn't act fast enough."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:01:03",
+      "text": "I see. I am a man of a certain standing in my community. People look to me for strength. If I cannot walk properly or speak clearly because this hospital waited too long, what does that say? What do I tell my children?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:16",
+      "text": "I can see how distressing this is. It sounds like you are worried not just about your own recovery, but about how this affects your role as a leader and a father."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:24",
+      "text": "Exactly. My reputation is built on being capable. To be sidelined by a clerical error is a bitter pill."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:37",
+      "text": "It is. And I want to be very clear: this was our fault. I am sincerely sorry that we failed to recognize the urgency of your symptoms. We let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:43",
+      "text": "I appreciate the apology. It doesn't change the clock, but it is honest."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:55",
+      "text": "I know it doesn't change the outcome. I want to make sure I've explained this clearly. Do you have any questions about why the medication couldn't be given now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:02",
+      "text": "I think I understand. The window closed, and now it's too late for that specific drug."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:12",
+      "text": "So now what? Am I just to wait and see if the damage stays?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:28",
+      "text": "This is a very difficult moment to navigate, and it's okay to feel frustrated or uncertain. We are moving into a recovery phase now. First, I have scheduled a consultation with the neurology specialist for tomorrow morning at ten. They will determine if there are alternative medications to help with the swelling. Second, we are starting your physical therapy today at 2 PM; I've already spoken to the lead therapist. Your role in this is to push yourself in those sessions as much as you safely can."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:33",
+      "text": "And the mistake? Does this just disappear into a file?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:49",
+      "text": "No, it doesn't. I have already filed an incident report, and our department is holding a review meeting this Friday. We are specifically analyzing why the triage nurse didn't flag your symptoms as a stroke alert. The goal is to change the checklist so that no other patient experiences this delay. I will personally send you a brief note by next Monday letting you know the outcome of that review."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:58",
+      "text": "That would be helpful. I would like to know that someone else won't have to tell their family they missed a window."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:04",
+      "text": "I completely agree. We owe you and every other patient that level of vigilance."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:09",
+      "text": "I suppose I should prepare my wife for the therapy schedule then."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:20",
+      "text": "That sounds like a good next step. Would you like me to join you when she arrives to explain the plan to her as well?"
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a regulated pace during the patient's distress, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (triage mistake/delay) is named in the first resident turn, lay language is used throughout, and comprehension is checked twice ('make sure I've explained this clearly' and 'Do you have any questions')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am sincerely sorry'), explicitly takes responsibility ('this was our fault', 'We let you down'), and maintains this without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions twice ('distressing', 'frustrated or uncertain') and references the patient's specific role as a leader and father."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps with timelines (Neurology tomorrow at 10, PT today at 2), defines the patient's role (push yourself in sessions), and addresses prevention (incident report and checklist change)."
+    }
+  }
+}

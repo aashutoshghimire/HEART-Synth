@@ -1,0 +1,141 @@
+{
+  "video_id": "vid_0386",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:14",
+      "text": "Ms. Patel, I'm Dr. Chen, one of the residents on the team that's been taking care of you. I wanted to come by and talk with you about something that happened during your scan yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:15",
+      "end_time": "00:00:18",
+      "text": "Okay, what's going on?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:34",
+      "text": "So, before your CT scan, you had a blood test that showed your kidney function was lower than normal. Your creatinine was elevated, and that information was in your chart. The contrast dye we use for the CT scan can sometimes cause problems for people with kidney issues. We should have given you medication to protect your kidneys before we did the scan, and we didn't do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:39",
+      "text": "So what's the problem then? My scan came back fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:55",
+      "text": "The scan itself went well, yes. But the contrast dye can sometimes cause what we call contrast nephropathy, which is kidney injury from the dye. We know that your kidneys were already not functioning normally, and we exposed them to the dye without the protective treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:08",
+      "text": "I've been feeling nauseous since yesterday. I just assumed it was from the pain medications they gave me. Is this from that? How do you even know it was the dye?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:24",
+      "text": "That's a good question. It's hard to say with certainty, but given your kidney function was already lower before the scan and we didn't give you the protective medication, it's likely related. We'll need to monitor your kidney function with more blood tests over the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:37",
+      "text": "Well, I've had kidney issues before, back when I was in college. This could just be my kidneys acting up again. It might not have anything to do with the dye."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:53",
+      "text": "I hear what you're saying. I want to be honest with you about what happened though. We made an error in not giving you that protective treatment. Your kidney function was documented, and we should have followed our protocol. I apologize for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:01:57",
+      "text": "It's fine. These things happen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:13",
+      "text": "It's actually not fine. I know you've been through a lot with medical care in the past, and I don't want to minimize what occurred. We need to keep a close eye on your kidney function now. I'll have the team check your labs again tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "Fine. Is there anything else I need to do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:28",
+      "text": "We'll continue to watch it. The team is aware of what happened, and we'll stay on top of it. Does that sound okay to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:34",
+      "text": "I mean, I guess. I just want to go home at this point."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:45",
+      "text": "I understand. Just so I'm clear \u2014 can you tell me in your own words what we just discussed about what happened with your scan?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:56",
+      "text": "That I got some dye and my kidneys might be mad at me because you guys didn't give me the stuff you're supposed to give first."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:05",
+      "text": "Exactly. We'll be monitoring that closely. I'm sorry again for what happened. Is there anything else you're wondering about right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "No, I think I'm good."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:14",
+      "text": "Okay. We'll check in on you in the morning. Take care."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, remains regulated during pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once via a teach-back question."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language ('I apologize', 'I'm sorry'), took clear responsibility ('We made an error'), and maintained accountability when the patient tried to dismiss it."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident uses generic validation ('I understand', 'I hear what you're saying') but does not name specific emotions."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Resident provides a specific next step with a timeline (labs tomorrow morning), but does not define a patient role or address prevention."
+    }
+  }
+}

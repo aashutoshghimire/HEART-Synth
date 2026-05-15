@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0059",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:14",
+      "text": "Ms. Anderson, thank you for meeting with me. I've asked your daughter to join us as well. I need to discuss a mistake that was made regarding the fetal heart rate monitoring during your labor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:15",
+      "end_time": "00:00:24",
+      "text": "I appreciate you coming in. We've been wondering why there was such a sudden change in the urgency of the delivery plan yesterday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:40",
+      "text": "To be very specific, the heart rate tracing showed decelerations, which means the baby's heart rate was dropping. This was reviewed and categorized as normal when it should have been categorized as concerning. This error meant the severity of the situation wasn't recognized for two hours until a second clinician reviewed the strip. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:48",
+      "text": "It does. So you're saying the baby was in distress for two hours and it was simply missed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:53",
+      "text": "Yes, that is correct. The interpretation of the tracing was wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:08",
+      "text": "I am honestly struggling to comprehend how a professional could misread a tracing for two hours. My daughter and I are incredibly shaken. We spent those two hours thinking everything was fine while the baby was actually\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:17",
+      "text": "I understand this is upsetting. It's important that we look at the logs to see how the charting was handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:33",
+      "text": "I don't care about the logs right now. I care that my child was at risk because of a failure in basic monitoring. As someone who manages a hospital, I know that these protocols exist specifically to prevent this. I feel completely betrayed by the care we received here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:41",
+      "text": "I can see you're frustrated. But we have to be clear that the clinical pathway was eventually corrected."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:52",
+      "text": "Corrected? You are bypassing the fact that a mistake happened. Is there an apology coming, or are we just discussing the timeline of the error?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:01",
+      "text": "The system of review is designed to have second eyes on these things, and that is exactly how the discrepancy was caught."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:09",
+      "text": "That is a systemic explanation. I am asking about the accountability for the person who miscategorized the tracing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:16",
+      "text": "The team was managing a very high volume of patients on the ward at that time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:31",
+      "text": "That is not an excuse for a two-hour delay in recognizing fetal distress. What is the plan to ensure this is documented correctly in the medical record? And what is the follow-up for my baby's neurological health?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "We will be monitoring the baby in the nursery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:43",
+      "text": "That's not a plan. I want a specific schedule of neurological screenings and a written report of the incident."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:51",
+      "text": "We will look into the standard protocol for that and someone will probably send an email or a letter."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:52",
+      "end_time": "00:02:56",
+      "text": "That is unacceptable. I want a date and a specific clinician's name."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:06",
+      "text": "I have to get back to the ward now, so let's wrap this up. We will just keep an eye on things for now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:14",
+      "text": "You are rushing out of the room while I am asking for a medical plan for my child."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:21",
+      "text": "We'll just see how the next few hours go and then we can talk again."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language ('let's wrap this up', 'I have to get back to the ward now') and shows defensive escalation under pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first two turns, lay language was used, and a comprehension check was performed once ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to the system and high patient volume."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids were consistently met with factual redirection (e.g., redirecting feelings of betrayal to 'clinical pathways' and 'logs')."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provided only placeholders and vague responses ('someone will probably send an email', 'we'll just see how the next few hours go')."
+    }
+  }
+}

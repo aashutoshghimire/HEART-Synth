@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0377",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Thank you for coming in, Ms. Patel. I asked to meet with you because there has been a medication error with your son's antibiotic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "A what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "The liquid antibiotic we prescribed was the right strength, but the dosing syringe provided was calibrated for a different concentration. This means your son received double the intended dose for the last three days. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:36",
+      "text": "Wait. Double? You gave my child twice the amount of medicine he needed for three days?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "Yes, that is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:48",
+      "text": "Why is this happening? I read the discharge papers. I checked the bottle. How did this get past you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:59",
+      "text": "I am sorry for any confusion this has caused, but we were incredibly busy during the discharge window and the wrong syringe was paired with the medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:07",
+      "text": "I don't care how busy you were. You're telling me my son has been overdosed because you were rushed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:22",
+      "text": "I understand. To be clear on the facts, the medication itself was correct, but the tool used to measure it was the wrong one. Do you have any questions about how the dosing error occurred?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:33",
+      "text": "I have a lot of questions. Is he going to have kidney failure? Is this going to affect his growth? I can't believe I trusted this clinic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:39",
+      "text": "I understand. Right now, we are monitoring his vitals and they look stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:49",
+      "text": "Stable isn't a word I want to hear. I want to know exactly what this drug does to a toddler's system when it's doubled."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:00",
+      "text": "We are still investigating the full details of the pharmacy's dispensing process, so I don't have the final report yet, but we are tracking his blood levels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:04",
+      "text": "You're dodging the question. Is he permanently damaged?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:14",
+      "text": "I understand this is upsetting, but let's focus on the clinical data. We are seeing no immediate adverse reactions in his current labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:22",
+      "text": "You keep saying you understand, but you're just reading me a chart. You aren't even looking at me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:29",
+      "text": "I have to go over the next steps now so we can get a plan in place."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:33",
+      "text": "Now? I'm not done talking about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:39",
+      "text": "We just need to quickly move to the plan for the next forty-eight hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:52",
+      "text": "I'm not signing anything until I see a formal report of how this happened. I've dealt with hospitals before; I know how you people bury these things in \"system errors.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "We will be conducting a root cause analysis."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:05",
+      "text": "We should have some more information in a week or two."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "A week or two. That's very vague."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:15",
+      "text": "I will send you an email once the investigation team provides an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:20",
+      "text": "And in the meantime? What is the plan for my son?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:26",
+      "text": "We will keep him for observation today and run another blood panel tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:30",
+      "text": "What if the results are bad tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:37",
+      "text": "Then we will adjust our approach. I'll check in with you before I leave for the day."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('quickly move to the plan', 'I have to go over the next steps now') and shows defensive escalation by redirecting the patient's distress to 'clinical data'."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn using lay language, and a comprehension check was performed ('Does that make sense so far?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology is diluted by an immediate excuse regarding being 'incredibly busy during the discharge window'."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident relies exclusively on generic validation ('I understand') without naming specific emotions or engaging with the patient's emotional bids."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides specific next steps (observation today, blood panel tomorrow), but there is no named patient role or discussion of prevention."
+    }
+  }
+}

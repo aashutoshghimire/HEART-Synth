@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0367",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Mr. Okonkwo, thank you for meeting with me. I have my colleague here with me, and I need to discuss something important regarding the scan you had this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:22",
+      "text": "I was wondering when you would come back. I can tell by the way you are looking at me that this is not a good update."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:38",
+      "text": "I am afraid it isn't. I made a mistake in your care today. We gave you the contrast dye for your scan, but we did so without first checking your kidney function tests, which showed that your creatinine levels were too high. Because of those levels, you were at risk for a kidney injury, and we should have followed a specific pre-treatment protocol to protect your kidneys before giving the dye."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:42",
+      "text": "A mistake. I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:50",
+      "text": "Does that make sense, or can I explain the part about the kidneys and the dye more clearly?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:00:58",
+      "text": "I understand enough. You gave me something that could hurt my organs because you didn't look at the chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:10",
+      "text": "That is exactly what happened. I am sorry for any confusion this has caused. We were very busy on the unit this morning, and the check was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:11",
+      "end_time": "00:01:26",
+      "text": "I am not confused. I am wondering why this happened to me. I have a position in my community. I have a family that looks up to me. If I become ill because of a mistake in a hospital, it is not just a medical problem. It is a matter of my dignity. How do I explain to my sons that I am now sick because a doctor was too busy to read a piece of paper?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:39",
+      "text": "It sounds like you are feeling a deep sense of worry, not just for your health, but for how this reflects on your standing and the example you set for your children."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:46",
+      "text": "It is a heavy thing to carry. To feel fragile because of someone else's oversight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:57",
+      "text": "I can see how distressing this is for you. To feel that your dignity is being compromised by this error is a terrible position to be in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:02",
+      "text": "So, what now? Am I going to lose my kidney function?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:18",
+      "text": "I want to be honest with you; we cannot guarantee there will be no effect, but we are going to do everything possible to prevent it. First, I have already started an intravenous fluid line to flush your kidneys, which is the gold standard for this situation. Second, I have ordered a blood test for your creatinine to be repeated every twelve hours for the next two days so we can monitor your function in real-time. Third, I am consulting with the nephrologist, the kidney specialist, who will come by to see you at 2:00 PM today. Your role in this is to let us know immediately if you notice any change in how much you are urinating. Does that plan feel clear to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:27",
+      "text": "The plan is clear. But the specialist is just fixing the mistake. Who is fixing the fact that this happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:43",
+      "text": "I am. I have already filed a formal incident report with the hospital board. More importantly, I am working with the nursing lead to change our contrast checklist so that the scan cannot be started unless the creatinine level is signed off by two different people. This will ensure this doesn't happen to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:49",
+      "text": "I hope so. I do not want another man to feel this way."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:03:00",
+      "text": "I truly hope so too. I know I cannot take back the error, but I am committed to making sure we manage your recovery perfectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:09",
+      "text": "You seem to care about the plan. But you said earlier you were too busy. That is what worries me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:22",
+      "text": "You are right to be worried by that. Being busy is no excuse for missing a critical safety step. I apologize that my lack of focus put you at risk."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:23",
+      "end_time": "00:03:26",
+      "text": "I will wait for the specialist."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:27",
+      "end_time": "00:03:35",
+      "text": "Thank you. I will be back in one hour to check your fluid levels and see how you are feeling."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and remains regulated and patient despite the patient's pushback regarding dignity and the 'busy' excuse."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, uses lay language (e.g., 'flush your kidneys'), checks comprehension twice, and avoids false reassurance by stating they cannot guarantee no effect."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Direct apologies used ('I am sorry', 'I apologize'), takes personal responsibility, and maintains accountability even when the patient challenges the 'busy' excuse."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Names specific emotions ('deep sense of worry', 'distressing') and references the patient's specific concerns regarding his dignity and his children."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provides specific steps (IV fluids, blood tests, nephrologist), timelines (every 12 hours, 2:00 PM), a patient role (report urination changes), and a prevention plan (two-person sign-off checklist)."
+    }
+  }
+}

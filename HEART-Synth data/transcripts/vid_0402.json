@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0402",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Ms. Nakamura, I wanted to come back in and talk to you privately about what has happened with your care today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:24",
+      "text": "Is it about the scan? The other doctor told me the delay was just because the machine was full, but I looked up the symptoms of an ischemic stroke on my phone and the timing seems really off."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:40",
+      "text": "I need to be honest with you. What you were told before wasn't the full story, and I want to correct that now. We made a serious mistake in how we handled your arrival. You were triaged as low-acuity, which means we categorized your symptoms as non-urgent. Because of that, we didn't get you to imaging fast enough, and the window to give you the clot-busting medication, the thrombolysis, has now closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:48",
+      "text": "Wait, so you're saying I missed my chance for the medicine because someone put a wrong label on me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:01:04",
+      "text": "Yes, that is exactly what happened. We failed to recognize the urgency of your symptoms immediately, and as a result, we missed the timeframe for that specific treatment. I am deeply sorry. I take full responsibility for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:18",
+      "text": "I can't believe this. I was sitting there for hours. I felt it happening and I kept telling the nurse and they just said to wait. Now you're telling me it's too late?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:29",
+      "text": "It is an incredibly heavy thing to hear that your care wasn't handled correctly, especially when you were the one trying to signal that something was wrong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:41",
+      "text": "I'm a grad student. I'm twenty-three. I'm not supposed to be dealing with permanent brain damage because of a triage error. What does this actually mean for my recovery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:57",
+      "text": "I know that is the most important question right now, and the uncertainty of it is terrifying. I cannot tell you exactly how this will affect your long-term outcome because every stroke is different, but I won't give you false hope or tell you it will be fine. We are now focusing on the next steps to minimize further damage."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:06",
+      "text": "I don't even know who to trust here if the first doctor just lied to me about the machine being full."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:17",
+      "text": "You have every right to feel that way. The inconsistency in what you were told is unacceptable, and it only adds to the stress of this situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:22",
+      "text": "Does this happen often? Is this just how this hospital works?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:37",
+      "text": "It should not happen. This is a failure of our protocol. To make sure I've explained the situation clearly, can you tell me in your own words what your understanding is of why the medication wasn't given?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:48",
+      "text": "You messed up the priority level when I came in. You waited too long to scan my brain. Now the window for the thrombolysis is shut."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "So what now? Just... waiting?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:12",
+      "text": "That's where we need to move forward. First, I am calling the neurology specialist right now to adjust your blood pressure and medication to prevent any secondary clots. Second, we are scheduling an MRI for tomorrow morning at 8:00 AM to get a precise map of the affected area. Third, I want you to keep a log of any new weakness or tingling you feel in your arm, and you should press your call button the second you notice a change."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "And who is making sure this doesn't happen to the next person?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:33",
+      "text": "I am filing a formal incident report this afternoon, which triggers a mandatory root-cause analysis by the quality board. I will personally follow up with you on Wednesday to tell you what changes were made to the triage process because of this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:38",
+      "text": "I'm still shaking. I can't even hold my phone right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:50",
+      "text": "I'm just going to stay here with you for a moment. There is no rush. We can just sit in the silence for a bit if that helps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:56",
+      "text": "I just keep thinking about the hours I spent in that waiting room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:57",
+      "end_time": "00:04:06",
+      "text": "That's a devastating realization to sit with. I am here, and I am not leaving until we have addressed every single question you have."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and explicitly offers to sit in silence with the patient."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, but comprehension was checked only once."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am deeply sorry'), takes full responsibility, and maintains accountability despite patient pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Specific emotions named ('terrifying', 'devastating') and references specific patient content regarding the waiting room and the previous doctor's lie."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Provides specific next steps with timelines (MRI tomorrow at 8 AM), a named patient role (keep a log), and addresses prevention (incident report/root-cause analysis)."
+    }
+  }
+}

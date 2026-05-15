@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0249",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hello, Mr. Rivera. I wanted to come by and talk with you for a few minutes about your son's care and the developmental screening we discussed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "Oh. Hello. Is something wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:23",
+      "text": "I've been reviewing the records and I noticed something that isn't right. I want to be very honest with you about it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:24",
+      "end_time": "00:00:27",
+      "text": "What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:28",
+      "end_time": "00:00:38",
+      "text": "There was an issue with how the referral for the screening was handled in our system. Things didn't go quite right with the scheduling process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:43",
+      "text": "I remember we missed one date. I told the office."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:44",
+      "end_time": "00:00:56",
+      "text": "Yes, I see that you had a conflict with that first appointment. I am so sorry that this happened. Our team is responsible for making sure the follow-up happened, and it didn't."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:00",
+      "text": "So he didn't get the test?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:09",
+      "text": "There was some confusion in the charts. It looks like the referral was marked as finished when it actually wasn't."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:13",
+      "text": "I don't really understand. Why was it marked finished?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:19",
+      "text": "There was a mix-up in the system. We had an issue with the documentation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:24",
+      "text": "Does this mean he is behind? My son... he is already struggling."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:39",
+      "text": "I can hear how worried you are about him. It sounds like you've been feeling the weight of this alone, especially wanting to make sure he gets the help he needs as early as possible."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:52",
+      "text": "I just want him to be okay. I don't want to cause problems here. I... I don't have papers. Does this mean I'm in trouble for missing that first date?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:08",
+      "text": "You are absolutely not in trouble. Your status has nothing to do with this. I can tell you're feeling anxious about how you're perceived here, and I want you to know that you are safe and your son's health is our only priority."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:13",
+      "text": "Thank you. But what now? Did he miss a window?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:25",
+      "text": "I know it feels incredibly frustrating to find out that a mistake was made when you're already trying so hard to do the right thing for your child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "It is frustrating. I thought it was handled."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:35",
+      "text": "It should have been. I am truly sorry that we let this slip."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "So... what do we do?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "I'm going to work on getting him seen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:52",
+      "text": "I will look into it. I'll try to get it sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "Will you call me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:05",
+      "text": "I'll see what the clinic can do and we will probably get an email or a call out to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "I don't always check my email."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:13",
+      "text": "Right. Well, just stay tuned for an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:18",
+      "text": "I just worry he is missing out on things he needs."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:27",
+      "text": "I completely understand that fear. It's an exhausting feeling to worry if your child is getting everything they need to grow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "Yes. Exactly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "I'm glad you shared that with me."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:42",
+      "text": "Can you tell me exactly what the mistake was? You said the system had an issue."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:49",
+      "text": "It was just a documentation error. It didn't go through the way it should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "But who did it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "It was just a general error in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "I still don't get it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:07",
+      "text": "It's just that the box was checked as done, but the appointment never happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:12",
+      "text": "Why would someone check a box if it wasn't done?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:17",
+      "text": "It's a complicated system. Sometimes things get clicked by mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:18",
+      "end_time": "00:04:21",
+      "text": "I just want to know my son is okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:22",
+      "end_time": "00:04:26",
+      "text": "He is going to be okay. We are going to fix this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:27",
+      "end_time": "00:04:31",
+      "text": "How do I know it will be fixed this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:32",
+      "end_time": "00:04:35",
+      "text": "I'm on top of it now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:36",
+      "end_time": "00:04:39",
+      "text": "Is there a date?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:40",
+      "end_time": "00:04:44",
+      "text": "I don't have a date yet. I'll check on it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "I don't want to miss another one."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:04:52",
+      "text": "I understand. We will make sure it happens."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:53",
+      "end_time": "00:04:56",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:57",
+      "end_time": "00:05:02",
+      "text": "You're welcome. I'll head out now and start looking into this for you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns, remains regulated under pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes and vague phrasing ('things didn't go quite right', 'mix-up in the system', 'documentation error') without explicitly naming the error, and never checks for comprehension."
+    },
+    "A": {
+      "score": 2,
+      "justification": "The resident uses direct apology language ('I am so sorry'), explicitly states 'Our team is responsible', and maintains this accountability throughout."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('worried', 'anxious', 'frustrating', 'fear') and references the patient's specific concerns about their son's development and legal status."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders ('I will look into it', 'stay tuned for an update') with no specific timeline, patient role, or prevention plan."
+    }
+  }
+}

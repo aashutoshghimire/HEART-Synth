@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0392",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Lindqvist, thank you for coming back to see me. I need to talk to you about your discharge papers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:14",
+      "text": "I hope this is fast. I spent three hours on the phone this morning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:24",
+      "text": "I am very sorry. I made a mistake with your follow-up care. I gave you a clinic that does not take your insurance."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "You are joking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:35",
+      "text": "I am not. I sent you to a place that you cannot use. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:45",
+      "text": "It makes sense that you failed. I was a paramedic for twelve years. I know how discharge checklists work. This is a basic failure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:53",
+      "text": "It is. I take full responsibility for this. I am truly sorry for the stress this has caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:01",
+      "text": "Stress? I have a condition that needs monitoring now. I can't just wait for you to find a map."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:07",
+      "text": "Do you understand how the insurance mismatch happened, or should I explain it further?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:11",
+      "text": "I understand perfectly. You didn't check the provider network."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:16",
+      "text": "That is correct. I did not check the network. I apologize."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:23",
+      "text": "My wife is furious. I am furious. I trusted the team here to handle the transition."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:24",
+      "end_time": "00:01:27",
+      "text": "I can see that you are angry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:31",
+      "text": "Angry is a very small word for this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:35",
+      "text": "I hear you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:40",
+      "text": "So what now? I have no appointment. I have no doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:44",
+      "text": "I am working on a solution."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "That is not a solution. Which doctor? When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:52",
+      "text": "I am looking into some options right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:01:56",
+      "text": "Give me a name. Give me a time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:01",
+      "text": "I don't have the name of the new clinic yet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:06",
+      "text": "This is unbelievable. I am sitting here and you have nothing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "I am sorry. I am trying to fix it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:17",
+      "text": "You are trying. I am the one without care. Who is actually taking ownership of this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:25",
+      "text": "I am. I am the one who made the error, and I am the one who will fix it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:30",
+      "text": "You keep saying sorry. Sorry doesn't get me into a clinic."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "I know it doesn't."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:40",
+      "text": "I want to know why this happened. Was the system down? Were you rushed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:46",
+      "text": "No. I simply did not verify the insurance. There is no excuse for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:52",
+      "text": "At least you aren't lying about it. But I'm still without a doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:06",
+      "text": "Do you actually understand? I know the clinical path for my recovery. If I miss this window, I'm back in a hospital bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "I hear your concern about the timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:15",
+      "text": "Stop saying you hear me. Tell me what happens next."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "I will send you an email."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "An email? When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "Sometime today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:32",
+      "text": "Today is not a time. Do you mean by noon? By five?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I'm not sure. I have to call around."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:43",
+      "text": "This is a joke. You make a mistake, and then you give me a vague promise."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "I will do my best to find a clinic."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:53",
+      "text": "Your best wasn't good enough on the paperwork, and it isn't good enough now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "I am sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:02",
+      "text": "I want a written guarantee that the next place takes my insurance."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "I will try to get that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "Try? Or will you do it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:14",
+      "text": "I will see what I can do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:15",
+      "end_time": "00:04:19",
+      "text": "I am done with this conversation. I'll be waiting for that email."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:20",
+      "end_time": "00:04:23",
+      "text": "I will send it as soon as I can."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite significant pushback and anger."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named in the second turn, lay language is used, and comprehension is checked twice ('Does that make sense?' and 'Do you understand... or should I explain it further?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language multiple times, takes full personal responsibility, and maintains this accountability throughout the encounter."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names a specific emotion ('I can see that you are angry') and engages with the patient's distress, though relies on generic validation ('I understand', 'I hear you') for other bids."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan is vague ('I will send you an email'), lacks a specific timeline ('Sometime today'), and does not address prevention or the patient's role."
+    }
+  }
+}

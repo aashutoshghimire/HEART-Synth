@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0133",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Lindqvist, thank you for seeing me. I need to discuss something that happened during your surgery and the subsequent recovery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:14",
+      "text": "I\u2019ve been waiting for the update on my labs. Why the long face?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:28",
+      "text": "I have to be honest with you. We made a mistake. The pre-operative blood type verification was skipped, and as a result, you received a compatible, but not type-specific, blood product during your transfusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:37",
+      "text": "Wait. You skipped the cross-match? You\u2019re telling me you just pumped some random compatible unit into me without verifying the type?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:51",
+      "text": "I am. I take full responsibility for this. I was the lead on your care team, and it was my job to ensure that check was completed. I am incredibly sorry that this happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:01:06",
+      "text": "This is basic. This is EMS 101. How does a verification step just get skipped in a surgical setting? Who else was in on this? Was the lab negligent or was it the floor staff?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:17",
+      "text": "It was my failure in the verification process. I am not going to shift the blame to the lab or the nurses. I missed a critical step."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:31",
+      "text": "I can\u2019t believe this. I\u2019m lying here in this bed and you\u2019re telling me you played Russian Roulette with my immune system because you forgot a checkbox? I\u2019m furious. I actually trusted you people."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:35",
+      "text": "I understand that this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:47",
+      "text": "Frustrating? It\u2019s negligence. I know exactly what a transfusion reaction looks like, and if I\u2019d had a hemolytic response because you were sloppy, I wouldn\u2019t be having this conversation."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:54",
+      "text": "I realize this is upsetting, and I want to make sure we address every concern."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:02:04",
+      "text": "I want to know exactly what was infused. Was it O-negative? Was it just an emergency release unit? Why wasn't the protocol followed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:16",
+      "text": "It was an O-negative unit, which is why it was compatible, but we failed to verify your specific type first. I realize that doesn't excuse the breach in protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:29",
+      "text": "You're just saying you're sorry. That doesn't change the fact that you\u2019ve compromised the safety of my care. I want a formal incident report filed and I want to see it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:43",
+      "text": "I completely agree. I have already filed a formal incident report with the risk management department. I will provide you with the reference number by 4:00 PM today so you can request a copy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:50",
+      "text": "And what happens now? Am I just waiting to see if I have a delayed reaction?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:06",
+      "text": "Here is the plan. First, I have scheduled a follow-up blood draw for tomorrow morning at 8:00 AM to monitor for any delayed hemolytic reactions. Second, I am bringing in the Chief of Hematology, Dr. Sarah Vance, to see you at 10:00 AM tomorrow for a second opinion and a full review of your labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "I want it in writing that this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:26",
+      "text": "I will draft a summary of the error and the steps we are taking today. I\u2019ll leave a printed copy in your chart and give you a personal copy before I leave this room. As for preventing this, I am meeting with the surgical lead this afternoon to implement a mandatory double-sign off for all pre-op blood verifications on our ward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:31",
+      "text": "You're talking about the ward, but you're the one who messed up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:44",
+      "text": "I am. And that is why I am the one pushing for the system change. I failed you, and I am committed to making sure this doesn't happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:53",
+      "text": "I'm still not okay with this. I don't know if I can trust you to handle the rest of my discharge."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "I know the trust is broken right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "It\u2019s more than broken. It\u2019s\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:11",
+      "text": "Look, I have to go check on another patient right now, but we can keep talking about this when Dr. Vance arrives tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:12",
+      "end_time": "00:04:18",
+      "text": "You have to go? I'm the one who got the wrong blood and you're rushing off?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:29",
+      "text": "I just need to quickly check a vitals monitor in the next room, but I'll be back in ten minutes to get those papers started for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:30",
+      "end_time": "00:04:33",
+      "text": "This is unbelievable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:34",
+      "end_time": "00:04:37",
+      "text": "I'll be back shortly."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language at the end of the encounter ('I have to go check on another patient right now', 'I just need to quickly check')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and early, but there were no comprehension checks performed to ensure the patient understood the explanation."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language, takes full personal responsibility, and maintains that accountability despite the patient's pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand that this is frustrating', 'I realize this is upsetting') without naming specific emotions or engaging deeply with emotional bids."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides specific next steps with timelines (blood draw tomorrow at 8am, Dr. Vance at 10am) and addresses prevention, but does not define a specific role for the patient in the plan."
+    }
+  }
+}

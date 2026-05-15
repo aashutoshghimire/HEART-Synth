@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0328",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Good afternoon, Ms. Tremblay. I wanted to come in and talk to you about the reaction you had to the medication this morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:16",
+      "text": "I'm still feeling a bit itchy, but I'm fine. I just want to know why it happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:31",
+      "text": "Right. So, looking at your chart, you have a documented allergy to Ceftriaxone. However, the order for that medication was placed and administered without that alert being caught. You were given a drug you are allergic to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:36",
+      "text": "I told the nurse when I checked in. I specifically mentioned it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:44",
+      "text": "It was in the system. It just wasn't seen before the dose was given. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:49",
+      "text": "It makes sense. It means someone didn't read the chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:50",
+      "end_time": "00:00:57",
+      "text": "The pharmacy and the floor staff have a process for this, but the process failed in this instance."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:58",
+      "end_time": "00:01:04",
+      "text": "That's not really a process failure. That's a person failing to look at a screen."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:16",
+      "text": "I have a lot of other patients to check on right now, so I want to be brief. The main thing is that the rash is under control now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:27",
+      "text": "I'm not concerned about the rash. I'm concerned that I can't trust the meds I'm getting here. If you missed this, what else did you miss?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:33",
+      "text": "I understand. But we've stopped the drug, so the immediate danger is gone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:38",
+      "text": "I'm not talking about the danger. I'm talking about the incompetence."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:42",
+      "text": "It's a very busy unit and things happen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:47",
+      "text": "Things don't happen. People make mistakes. Who specifically gave me the drug?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:56",
+      "text": "I don't think that's relevant to your clinical care right now. We just need to focus on the fact that you're stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:02",
+      "text": "I'm stable because the reaction was moderate, not because the care was good."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "We're just going to keep monitoring you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "Monitoring for what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:15",
+      "text": "Just generally. We'll see how you feel over the next few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:25",
+      "text": "That's not a plan. I need to know what the actual step is to make sure this doesn't happen again before I'm discharged."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:30",
+      "text": "We'll probably just put a bigger sticker on the chart or something."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:34",
+      "text": "A sticker?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:39",
+      "text": "You know, a visual alert. Anyway, I really have to go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:44",
+      "text": "You're leaving without telling me if I'm still on the other meds?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:52",
+      "text": "You are. Everything else is fine. Stay tuned for the nurse to come back in with your vitals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:56",
+      "text": "This is completely unacceptable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "I'll check back later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('want to be brief', 'really have to go') and shows defensive escalation under pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and a comprehension check ('Does that make sense?') was performed once."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to the 'process' and the 'busy unit'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Resident provides only generic validation ('I understand') and otherwise meets emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 0,
+      "justification": "No concrete plan was provided, offering only placeholders like 'keep monitoring you' and 'probably just put a bigger sticker'."
+    }
+  }
+}

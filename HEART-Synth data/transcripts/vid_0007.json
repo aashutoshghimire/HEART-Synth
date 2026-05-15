@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0007",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Thanks for coming in, Mr. Hassan. I wanted to talk to you about your son's developmental screening. There was a mistake in how we handled the referral."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "Here we go. What happened now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "Basically, when your family declined that first appointment date, the referral was marked as completed in our electronic system. This meant it looked like the screening had already happened, so no one attempted to schedule a second appointment or follow up with you. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:35",
+      "text": "It makes sense that you guys messed up. It's always something."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:39",
+      "text": "I understand that this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:40",
+      "end_time": "00:00:55",
+      "text": "Frustrating is a bit of an understatement. Every time I bring my kids here, I'm waiting for the other shoe to drop. I'm just tired of being the one who has to double-check everything because you people can't\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:06",
+      "text": "I just want to make sure you understand the technical side of it, because the system indicated it was finished when it wasn't. Is that clear?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:15",
+      "text": "I'm less worried about the software and more worried about the fact that my kid missed a window for screening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:31",
+      "text": "Right. So, here is how we are going to fix this. I have already called the screening clinic today. I have a priority appointment set for this coming Thursday at 10:00 AM. I have also put a flag on your son's chart so that any future referrals require a manual sign-off by me personally before they can be closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:32",
+      "end_time": "00:01:38",
+      "text": "And what happens if I can't make Thursday? Do I just get erased from the system again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:51",
+      "text": "If Thursday doesn't work, you call my direct line\u2014which I'm going to give you right now\u2014and I will move it manually. You won't have to go through the main scheduling line."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:02:06",
+      "text": "I don't even know why I'm surprised. Last year with my own meds, the same thing happened. I'm just exhausted. I feel like I'm the only one actually paying attention to my family's health in this building."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:11",
+      "text": "It sounds like you've had a lot of bad experiences here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:23",
+      "text": "I have. And then I come in here and you tell me the system just marked it as done. It's a joke. Who is actually responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:30",
+      "text": "The way the software is set up, it allows for a \"complete\" toggle that was clicked prematurely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:41",
+      "text": "That's a fancy way of saying someone didn't do their job. Are you going to say you're sorry, or is the system the only one to blame?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "I can see why you're cynical about this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:52",
+      "text": "I'm not cynical, I'm observant. I just want to know that this isn't going to happen again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:08",
+      "text": "To prevent this, I've updated the internal protocol for our residents. We're implementing a double-check list for all developmental referrals. Also, I've scheduled a follow-up call with you for next Friday at noon just to confirm the screening results are back and we've reviewed them. Does that timeline work for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:12",
+      "text": "I guess. Friday at noon is fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:17",
+      "text": "Great. Now, I really have to go, I have another patient waiting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "Of course. I'm just a slot in the calendar."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:34",
+      "text": "Just to be absolutely sure we're on the same page, you have the appointment Thursday at ten, you have my direct number, and I'm calling you next Friday. Anything else?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "No. That's all."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "Okay, thanks for your time."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language at the end of the encounter ('I really have to go, I have another patient waiting')."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in first turn, lay language used, and comprehension checked twice ('Does that make sense so far?' and 'Is that clear?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language used, and responsibility is deflected to the software/system ('the system indicated it was finished', 'the way the software is set up')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names specific emotions ('frustrating', 'cynical') and acknowledges the patient's history of bad experiences."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific dates/times (Thursday 10am, Friday noon), the patient's role (calling direct line), and prevention (double-check list/manual sign-off)."
+    }
+  }
+}

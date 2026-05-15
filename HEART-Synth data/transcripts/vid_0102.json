@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0102",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Tremblay, thank you for meeting with me. I want to talk to you about what happened leading up to your emergency procedure yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:19",
+      "text": "I just want to know why I ended up in the ICU when I was supposed to be recovering from a routine admission."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:32",
+      "text": "I have a direct answer for that. There was a mistake with your medication. You were given a dose of an anticoagulant that was ten times higher than what was intended."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:36",
+      "text": "Ten times? How does that even happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:48",
+      "text": "It was a dosing error during the order entry process. Because the dose was so high, it caused internal bleeding, which is why the team had to intervene urgently."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:52",
+      "text": "So I was poisoned by a typo."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:01:03",
+      "text": "I am sorry for the confusion this caused and for the fact that this happened. We were extremely busy on the floor yesterday and the check failed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:10",
+      "text": "I don't care how busy you were. I'm the one who had to go back into surgery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:14",
+      "text": "I understand that this is a very frustrating situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:21",
+      "text": "Frustrating isn't the word. I have a deployment window. I can't be \"frustrated\" out of my commission."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:25",
+      "text": "It is a difficult thing to deal with."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "Is the bleeding stopped now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:34",
+      "text": "Yes, the surgical intervention was successful and your levels are stabilizing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "What happens if this happens again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:44",
+      "text": "It won't. We have adjusted the protocol for how these specific meds are entered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "That doesn't tell me if I'm fit for duty."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:53",
+      "text": "Right now, the focus is on your recovery from the bleed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:01:58",
+      "text": "I need a timeline. When am I leaving this bed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:14",
+      "text": "I'll have a full update for you by tomorrow morning at 0900. My role now is to monitor your coagulation labs every twelve hours. Your role is to report any new bruising or dizziness to the nurse immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "Fine. 0900 tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "I'll see you then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish their turns and remains regulated under pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but there were no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology was offered, but it was immediately diluted by an excuse regarding being 'extremely busy on the floor.'"
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident used generic validation ('I understand that this is a very frustrating situation', 'It is a difficult thing to deal with') without naming specific emotions beyond the patient's own use of 'frustrated.'"
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provided a specific timeline (tomorrow 0900), a named patient role (report bruising/dizziness), and addressed prevention (adjusted protocol)."
+    }
+  }
+}

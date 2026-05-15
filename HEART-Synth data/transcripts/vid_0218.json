@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0218",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello Mr. Dubois, thank you for coming back in to see me today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:12",
+      "text": "I am glad to be back, though I would have preferred it not to be necessary."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:21",
+      "text": "I completely understand. I asked you to come in because I realized I made a mistake with your discharge instructions."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:25",
+      "text": "A mistake? What are you talking about?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:38",
+      "text": "I gave you a follow-up appointment at a clinic that does not accept your insurance. I failed to check your provider list before booking that visit, and that was my error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:50",
+      "text": "I spent an hour on the phone yesterday morning. I called them and they told me, very bluntly, that they cannot see me. I felt like a fool."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:51",
+      "end_time": "00:01:02",
+      "text": "I am very sorry, Mr. Dubois. I take full responsibility for that. It was my job to ensure your transition home was seamless, and I failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:18",
+      "text": "It is not just the phone call. It is the feeling that I am being pushed out the door. C'est tr\u00e8s blessant. To be told to go somewhere and then be told I am not welcome because of a piece of paper."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:25",
+      "text": "It sounds like it felt dismissive, as if your dignity wasn't considered in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:35",
+      "text": "Exactly. I have worked my whole life to be a man of standing. To be treated as a clerical error is quite degrading."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:43",
+      "text": "I can see how that would feel incredibly wounding. I truly apologize for putting you in that position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:50",
+      "text": "So now I am just waiting. What happens to my care? Do I just find someone else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:02:01",
+      "text": "I want to make sure we fix this immediately. Does that make sense so far, or is there something I should clarify about how this happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:07",
+      "text": "No, the \"how\" is simple. You forgot to check the insurance. I understand that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:20",
+      "text": "Right. Here is exactly how we are going to resolve this. First, I have already contacted three different specialists who are in your insurance network and who specialize in your specific condition."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "And?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:40",
+      "text": "I have narrowed it down to two who have openings this week. I have their names and addresses right here. I want you to look at these two options and tell me which location is more convenient for you to travel to."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:47",
+      "text": "I see. And will they actually see me? Or will I be told the same thing again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:03:03",
+      "text": "I have personally spoken with the office managers at both clinics. They have confirmed your insurance is accepted and they are expecting a referral from me today. I will call the one you choose by four o'clock this afternoon to finalize the time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "That is more acceptable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:08",
+      "end_time": "00:03:23",
+      "text": "I also want to tell you that I've shared this incident with my attending physician and our department head. We are changing the way we verify insurance for all patients during discharge so that no other patient has to experience the frustration and the feeling of being dismissed that you did."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:33",
+      "text": "It is good that you tell your boss. Maybe the next man will not have to call and be told he is not welcome."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:49",
+      "text": "I agree. It was a failure in my process. Once you pick the clinic from this list, I will personally email you the confirmation number and the doctor's direct line by the end of the business day. Does that timeline work for you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "Yes. I will look at the list now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:04:01",
+      "text": "Thank you for your patience with me, Mr. Dubois. I know this was an upsetting start to your recovery."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to express distress without interruption and maintains a calm, regulated pace throughout the encounter."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is explicitly named in the second turn, lay language is used, and comprehension is checked twice ('Does that make sense so far' and 'Does that timeline work for you')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am very sorry', 'I truly apologize') and takes full personal responsibility without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('dismissive', 'wounding') and references the patient's specific feelings of dignity and being a 'clerical error'."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific next steps with timelines (by 4pm, end of business day), a patient role (choosing from the list), and addresses systemic prevention."
+    }
+  }
+}

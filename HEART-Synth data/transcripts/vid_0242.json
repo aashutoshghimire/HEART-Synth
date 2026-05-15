@@ -1,0 +1,309 @@
+{
+  "video_id": "vid_0242",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Park, thank you for coming in to see me today. I wanted to talk to you in person about your immunotherapy treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "Is everything okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:21",
+      "text": "No, it isn't. I have some difficult news to share. We made a mistake with your treatment schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:22",
+      "end_time": "00:00:25",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:26",
+      "end_time": "00:00:35",
+      "text": "Your dose of immunotherapy was given on the wrong day of your cycle. It happened because of a calendar entry error in our system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:41",
+      "text": "I don't really understand. I just came in when you told me to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:54",
+      "text": "I know you did. You followed everything perfectly. The error was entirely on our end. We entered the date wrong into the schedule, so you received the drug too early."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:00",
+      "text": "Is that a big deal? I mean, does a couple of days actually matter?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:13",
+      "text": "It can. These drugs rely on a very specific timing to be most effective. By giving it too early, we may have reduced how well the treatment works to fight the cancer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:17",
+      "text": "Oh."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:18",
+      "end_time": "00:01:24",
+      "text": "I can see you're processing this. I know this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:35",
+      "text": "I just... I'm the only one doing this. My parents are back home. I didn't think I'd have to worry about the doctors getting it wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:46",
+      "text": "It sounds incredibly isolating to be navigating this journey on your own and now have to face this uncertainty. That is a huge weight to carry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:53",
+      "text": "I just want it to work. I'm only nineteen. I'm supposed to be in class right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:02:04",
+      "text": "It's completely unfair that you're dealing with this. I am sorry for any confusion this caused. We were just so busy in the clinic that day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:10",
+      "text": "But does this mean the cancer will come back? Or it won't go away?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:25",
+      "text": "That is the part that is hardest to answer. Because the timing was off, there is a risk that the drug wasn't as potent as it should have been. It could potentially impact your long-term prognosis."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:29",
+      "text": "What does prognosis mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:40",
+      "text": "It means the likely course of your disease. In plain terms, it means the error might make the treatment less successful in the long run."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "So what now? Do I just keep going?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:45",
+      "end_time": "00:02:49",
+      "text": "We are going to keep a very close eye on everything."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:56",
+      "text": "But what's the actual plan? Like, do I get another dose? Do we change the drug?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:57",
+      "end_time": "00:03:01",
+      "text": "We'll probably just keep monitoring your scans for a while."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "When? Next month? Next year?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:12",
+      "text": "I'm not entirely sure on the exact date yet. We'll see how the next few weeks go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:23",
+      "text": "I don't know what to do. Am I supposed to tell my parents? I don't even know if I have a right to... like, complain or something."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:36",
+      "text": "It's okay to feel unsure about your rights here. Please know that your feelings of frustration are completely valid. You've put so much trust in us, and we let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:37",
+      "end_time": "00:03:41",
+      "text": "If the treatment didn't work because of this, can it be fixed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:48",
+      "text": "We can't undo the dose that was given, but we will do everything we can moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "But how? What's the next step?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:57",
+      "text": "We'll just stay tuned for the next set of labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "When will those labs be?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:06",
+      "text": "I'll have to check the schedule and let you know."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:11",
+      "text": "I feel like I'm just waiting for something bad to happen now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:12",
+      "end_time": "00:04:22",
+      "text": "I hear how scary that waiting feels. The uncertainty is often the hardest part of all of this. I am sitting here with you in that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:27",
+      "text": "I just want to know if I'm going to be okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:28",
+      "end_time": "00:04:37",
+      "text": "I wish I could give you a definite yes. I can't do that, but I can promise that we are focused on your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "Do you think I should see another doctor?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:46",
+      "text": "You can certainly do that if it makes you feel more comfortable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:47",
+      "end_time": "00:04:51",
+      "text": "Will you send me something in writing about what happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:52",
+      "end_time": "00:04:55",
+      "text": "I can probably send an email or something."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:56",
+      "end_time": "00:04:59",
+      "text": "Who is actually in charge of fixing this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:00",
+      "end_time": "00:05:04",
+      "text": "The whole team is involved. We'll just keep moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:05",
+      "end_time": "00:05:09",
+      "text": "I just don't understand why a calendar would be the problem."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:10",
+      "end_time": "00:05:14",
+      "text": "It was a simple human error in the data entry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:15",
+      "end_time": "00:05:18",
+      "text": "It doesn't feel simple to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:19",
+      "end_time": "00:05:25",
+      "text": "You're right. It isn't simple. It's a serious error with real implications for your life."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish turns and adjusts pacing to distress, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but there were no comprehension checks (e.g., 'Does that make sense?')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology was offered, but it was diluted by an excuse regarding being 'so busy in the clinic that day'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('isolating', 'scary') and referenced the patient's specific situation (being 19, parents being away)."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders ('stay tuned', 'we'll see', 'I'll have to check') without specific timelines, patient roles, or prevention strategies."
+    }
+  }
+}

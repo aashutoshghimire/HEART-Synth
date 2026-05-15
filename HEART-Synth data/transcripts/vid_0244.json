@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0244",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Mr. Hassan, do you have a few minutes to talk?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:08",
+      "text": "I suppose. What is it now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:17",
+      "text": "I need to talk to you about your recent imaging. Yesterday, I told you that your tumour had shrunk. That was incorrect."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:18",
+      "end_time": "00:00:23",
+      "text": "What do you mean incorrect? You were very clear. You said it was smaller."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:24",
+      "end_time": "00:00:39",
+      "text": "I was, and I was wrong. I shared those results with you before the radiologist had officially signed off on the report. The final, verified report shows that the disease is actually stable. It hasn't shrunk, but it hasn't grown either."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:40",
+      "end_time": "00:00:43",
+      "text": "Stable. Right. So you just guessed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:44",
+      "end_time": "00:00:59",
+      "text": "I relied on a preliminary look at the images instead of waiting for the final confirmation. I'm sorry for any confusion this has caused. We've been incredibly busy on the ward, but that doesn't change the fact that I gave you the wrong information."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:15",
+      "text": "Confusion. That is a funny way to put it. I spent the last twelve hours actually feeling hopeful for the first time in three years. I told my daughter. Now I have to go back and tell her that the doctor can't actually read a scan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:27",
+      "text": "I can hear how devastating that is. To have that flicker of hope and then have it taken away because of a mistake I made... that is incredibly painful."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:41",
+      "text": "You have no idea. This is just my luck, isn't it? First the medication error last year, now this. I can't even trust the basic facts of my own illness in this building."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:52",
+      "text": "It feels like you're constantly fighting against the system instead of just fighting the cancer. It makes total sense that you'd feel cynical about this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:53",
+      "end_time": "00:02:04",
+      "text": "I'm not cynical. I'm exhausted. I'm just tired of being the one who has to double-check everything because the people in the white coats can't get it right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:13",
+      "text": "You have every right to be angry. I have let you down, and I've added to the burden you're already carrying."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:19",
+      "text": "So what now? Is it still \"stable\" or is that just another preliminary guess?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:26",
+      "text": "It is the final, signed report. The tumour is the same size as the previous scan."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:31",
+      "text": "And the treatment? Does this change what we are doing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:36",
+      "text": "We are still going to proceed with the current chemotherapy cycle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "When do we start the next round?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:45",
+      "text": "I'll check the schedule and let you know by tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:50",
+      "text": "Tomorrow. Right. Because you might change your mind about the date too."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:03:01",
+      "text": "I understand why you don't trust me right now. I can't fix the mistake, but I can make sure I am more careful moving forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "You'll be more careful. That's what they always say."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:13",
+      "text": "I know words don't mean much here. I just want to make sure we get the next steps right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:21",
+      "text": "I want a copy of the report. The actual one. Not whatever version you decide to read to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:30",
+      "text": "I will print the final radiologist's report and bring it to your bedside within the hour so you can read it yourself."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "Good. I'll wait for that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "I'll go get that for you now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts, remains regulated under significant patient pushback, and allows the patient to express their frustration fully."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but there were no checks for patient comprehension (e.g., 'Does that make sense?')."
+    },
+    "A": {
+      "score": 2,
+      "justification": "The resident used direct apology language, took full personal responsibility, and maintained accountability despite the patient's cynicism."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('devastating', 'painful', 'angry') and referenced the patient's specific history of previous errors and feelings of exhaustion."
+    },
+    "T": {
+      "score": 2,
+      "justification": "The resident provided specific next steps and timelines (chemo cycle, schedule by tomorrow, report within the hour), but did not name a patient role or address systemic prevention."
+    }
+  }
+}

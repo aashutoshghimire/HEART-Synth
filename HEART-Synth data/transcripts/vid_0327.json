@@ -1,0 +1,327 @@
+{
+  "video_id": "vid_0327",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hello Ms. Patel. It is good to see you awake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:11",
+      "text": "I'm awake. I'm just wondering why I'm still in the recovery area longer than I expected."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:24",
+      "text": "I wanted to come in and talk to you about how the surgery went. There were some things that happened during the procedure that I need to share with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:25",
+      "end_time": "00:00:28",
+      "text": "What do you mean by that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:29",
+      "end_time": "00:00:37",
+      "text": "Well, we had a bit of an issue during the laparoscopic part. Things didn't go quite as planned with the clipping."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:41",
+      "text": "An issue? What kind of issue?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:54",
+      "text": "The process just took a bit longer than we anticipated. We had to do an additional step to make sure everything was exactly where it needed to be before we closed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:00:59",
+      "text": "That sounds vague. What actually happened? Did you hit something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:09",
+      "text": "It was just a complication with the placement. It's actually quite common for things to need a little adjustment during these types of surgeries."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:16",
+      "text": "I don't care if it's common. I want to know exactly what happened inside my body."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:29",
+      "text": "I can see that you're feeling really anxious right now. It's completely understandable that you'd feel on edge when you're waking up from anesthesia and hearing that things didn't go perfectly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:40",
+      "text": "I'm not anxious. I'm suspicious. I've had a very bad experience with a surgical team before and I'm not interested in \"adjustments.\" Tell me the truth."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:41",
+      "end_time": "00:01:56",
+      "text": "I hear how much that past experience still weighs on you. It sounds like it was a really traumatic time, and it makes total sense that you're guarding yourself right now because you don't want to be let down again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:02",
+      "text": "Exactly. So stop using clinical euphemisms and tell me what the error was."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:11",
+      "text": "There was some confusion during the clip placement. But the good news is that it was caught while you were still under."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:16",
+      "text": "Who was confused? You? The surgeon? Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:28",
+      "text": "The system in the OR is designed to catch these things. We have several layers of checks, and that's why it was identified and corrected before we finished."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:34",
+      "text": "You're not answering the question. Did someone put a clip on the wrong thing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:40",
+      "text": "We just had to do a secondary procedure to ensure the site was correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:52",
+      "text": "This is exactly why I read every single line of the consent forms. I signed up for a specific procedure, not a \"secondary procedure\" because someone was confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:08",
+      "text": "I can tell you're feeling frustrated and maybe even a bit betrayed that this happened after you took so much care with the paperwork. It's really draining to feel like you have to be your own advocate just to get the basic facts."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:09",
+      "end_time": "00:03:16",
+      "text": "I do have to be. So, what is the actual status of my recovery now? Is there permanent damage?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:23",
+      "text": "You're going to be fine. The correction was made and there is no lasting harm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "How do you know? Did you do imaging?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:32",
+      "text": "We're confident because of what we saw during the correction."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:38",
+      "text": "That's not a concrete answer. I want a written report of the error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:43",
+      "text": "I can certainly look into how we can get you the documentation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:51",
+      "text": "I'll have to check with the attending first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:55",
+      "text": "And what happens now? Do I need more tests?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:04:00",
+      "text": "We'll just keep an eye on things for a while."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "For how long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:08",
+      "text": "Probably just for the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:20",
+      "text": "That's not a plan. I want a specific list of follow-up appointments and a clear explanation of what the \"issue\" was in writing before I leave this bed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "I understand. I'll see what I can do."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:28",
+      "text": "You're not saying \"I'm sorry.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "I'm glad that we caught it in time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:38",
+      "text": "I didn't ask if you were glad. I asked if you were sorry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:39",
+      "end_time": "00:04:47",
+      "text": "I realize this is a very stressful way to wake up. I really do feel for what you're going through right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:48",
+      "end_time": "00:04:52",
+      "text": "Your empathy doesn't fix the fact that someone messed up my surgery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:53",
+      "end_time": "00:04:56",
+      "text": "I know. It's a lot to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "I want to speak with the Chief of Surgery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:01",
+      "end_time": "00:05:04",
+      "text": "I can mention that to the team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:05",
+      "end_time": "00:05:08",
+      "text": "Don't mention it. Arrange it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:09",
+      "end_time": "00:05:12",
+      "text": "I'll see if they are available."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:13",
+      "end_time": "00:05:16",
+      "text": "When will you know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:17",
+      "end_time": "00:05:20",
+      "text": "Soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:21",
+      "end_time": "00:05:24",
+      "text": "\"Soon\" isn't a time. Give me a time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:25",
+      "end_time": "00:05:31",
+      "text": "I'll try to find out by the time the nurse comes back in for your vitals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:32",
+      "end_time": "00:05:35",
+      "text": "Fine. Get out and find out."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite the patient's increasing aggression and pushback."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident never explicitly names the error, instead using platitudes and hedging phrases like 'a bit of an issue' and 'some confusion during the clip placement'."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to 'the system in the OR'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('anxious', 'frustrated', 'betrayed') and references the patient's shared history of past surgical trauma."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides vague steps ('keep an eye on things', 'check with the attending') without a concrete timeline or defined patient role."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0230",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Hi Mr. Park, thanks for waiting. I wanted to come back and talk to you about your X-ray and why I\u2019ve asked you to have another one done."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:15",
+      "text": "Oh, okay. Is something wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "I have some difficult news to share. We made a mistake with your first X-ray. The portable machine was positioned incorrectly, which meant the image we got was too blurry to actually see your lungs clearly. Despite that, the initial report said it looked normal. It wasn't normal, it was just a poor quality image that we shouldn't have accepted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:40",
+      "text": "Wait, what? The other doctor told me this morning that everything looked fine. He said I was good to go."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:55",
+      "text": "I know. That is exactly why I'm here. You were given incorrect information because the team didn't realize the image was unusable. I am very sorry that this happened and that you were told the wrong thing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:02",
+      "text": "I don't really know what to do. I've never really been in a hospital by myself before."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:09",
+      "text": "It sounds like this is all feeling very overwhelming, especially being here on your own."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:18",
+      "text": "Yeah. I just... I thought I was getting better. Now I'm wondering if I'm actually sick and you guys just missed it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:34",
+      "text": "That is a completely valid fear to have. When we tell you we missed something, it\u2019s natural to worry that we missed the diagnosis too. I want to be clear that the mistake was the technical quality of the picture, not a missed sign of illness, but I understand why that's scary. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:39",
+      "text": "I think so. So you just... didn't take the picture right?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:55",
+      "text": "Exactly. To put it simply, the camera wasn't lined up with your chest properly. It's like taking a photo of someone but the lens is blocked by a sleeve. We can't see the lungs, but because there were no obvious huge problems, it was mistakenly called normal. Do you have any questions about the X-ray itself?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:02:04",
+      "text": "No, I get that. I'm just confused why the other guy said it was fine if it was just a blur."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:05",
+      "end_time": "00:02:15",
+      "text": "That's the part I am most sorry for. We failed to double-check the quality of the image before reporting it to you. That is our fault."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "I guess it's okay. I just want to make sure I'm okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:32",
+      "text": "I can see you're trying to be a good sport about this, but it's okay to be frustrated. You've had to deal with a lot of uncertainty today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:33",
+      "end_time": "00:02:36",
+      "text": "I just want to go back to my dorm."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:37",
+      "end_time": "00:02:45",
+      "text": "I hear you. I know being in a hospital room is the last place a college student wants to be."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:49",
+      "text": "So what happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "We need to get that second image."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "We'll get it soon. We'll figure it out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "Do I have to do anything?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "Not really, just hang tight. We'll check in later."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, avoids interruptions, and maintains a calm pace throughout the interaction."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the first turn, used lay language (camera/sleeve analogy), checked comprehension twice ('Does that make sense', 'any questions'), and avoided false reassurance."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I am very sorry', 'most sorry for'), explicitly took responsibility ('That is our fault'), and maintained accountability under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Named specific emotions ('overwhelming', 'valid fear', 'frustrated') and referenced patient-specific content (being a college student/in a dorm)."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The plan consists only of placeholders ('get it soon', 'figure it out', 'check in later') with no specific timeline or prevention strategy."
+    }
+  }
+}

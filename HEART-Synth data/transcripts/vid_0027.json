@@ -1,0 +1,297 @@
+{
+  "video_id": "vid_0027",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Hello Ms. Patel, I am Dr. Miller. I am one of the residents on the team. I wanted to sit down with you because there has been a mistake with your medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "A mistake? What kind of mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:29",
+      "text": "Three days ago, the decision was made to stop your medication, but the pharmacy was never notified. Because of that, you have continued taking a drug that you should have stopped."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:36",
+      "text": "Wait. I've been taking this for three extra days because someone forgot to send a message?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:47",
+      "text": "This is unbelievable. I specifically asked for the updated list before I left the pharmacy on Tuesday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:00:52",
+      "text": "I can see this is a very difficult and frustrating situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:01",
+      "text": "Frustrating? It's dangerous. Does this mean I've been overdosing? Do I have some kind of toxicity in my system right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:17",
+      "text": "I can explain the pharmacology of the drug. It has a wide therapeutic index, which means that taking it for an extra three days is unlikely to cause permanent organ damage, but it can cause some side effects. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:29",
+      "text": "It makes sense that you're trying to downplay it. I don't care about the index. I care that you people can't follow a basic note in a chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:34",
+      "text": "I hear you. This is an incredibly stressful moment for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:49",
+      "text": "I\u2019ve dealt with this before. This is exactly why I don't trust the process here. You tell me one thing on a form, and then the actual execution is completely different. Who actually messed this up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:01:57",
+      "text": "The discontinuation was written in the medical notes, but the order wasn't pushed through to the pharmacy system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "So who didn't push the button? Was it you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:10",
+      "text": "The system requires a specific sequence of notifications to ensure the pharmacy is alerted. In this instance, that sequence wasn't completed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:17",
+      "text": "Stop talking about sequences. I want a name. I want to know who is responsible for this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:25",
+      "text": "I understand it's upsetting. The medical record reflects the intent to stop the drug, but the communication gap occurred."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:34",
+      "text": "You aren't answering me. Are you saying it's a system error? Because that sounds like you're avoiding saying a human failed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:40",
+      "text": "It is a very heavy feeling when you realize a mistake has happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:50",
+      "text": "I don't need you to tell me how I feel. I need to know what we are doing about this. What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:59",
+      "text": "We need to monitor your vitals. We will keep an eye on your blood pressure and maybe run some labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "When? Today? Tomorrow? Which labs?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "We will likely order some blood tests."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:12",
+      "text": "Which ones? And who is going to tell me the results?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:20",
+      "text": "I'll check with the attending physician on the schedule. We will let you know when the labs are ordered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:30",
+      "text": "That's not a plan. That's a maybe. I want a written list of every single test you are running because of this error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "We can certainly look into getting the orders placed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:40",
+      "text": "I am not leaving this room until I know exactly what the follow-up is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:41",
+      "end_time": "00:03:47",
+      "text": "I can see you are very guarded about this, and that is understandable given the circumstances."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:53",
+      "text": "I'm not guarded, I'm observant. You've explained the error, but you haven't apologized once."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:04:00",
+      "text": "I have acknowledged that this is a difficult moment and that a mistake was made."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "That's not an apology. That's a description."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:08",
+      "text": "This is a very tense situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:13",
+      "text": "Because I've been poisoned for three days by a clerical error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:19",
+      "text": "I can just tell that this is an incredibly frustrating experience for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:20",
+      "end_time": "00:04:29",
+      "text": "My frustration is the only thing in this room that's being accurately diagnosed. I want a written apology and a formal incident report number."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:30",
+      "end_time": "00:04:34",
+      "text": "We have an internal reporting system for these types of events."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:35",
+      "end_time": "00:04:38",
+      "text": "And will I see that report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:39",
+      "end_time": "00:04:45",
+      "text": "The internal reports are generally for quality improvement and are not usually shared with patients."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:46",
+      "end_time": "00:04:50",
+      "text": "Of course they aren't. Keep it all behind the curtain."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:51",
+      "end_time": "00:04:54",
+      "text": "I know this is a lot to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:55",
+      "end_time": "00:05:01",
+      "text": "I've processed it. You failed. Now, tell me exactly what the next hour looks like."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:02",
+      "end_time": "00:05:05",
+      "text": "I'll go talk to the pharmacy and the attending."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:06",
+      "end_time": "00:05:09",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:10",
+      "end_time": "00:05:13",
+      "text": "We will get back to you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "The resident allows the patient to finish their turns and remains regulated despite significant pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn and lay language was used, with one comprehension check ('Does that make sense?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to 'the system' and 'communication gaps' when asked who was responsible."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident named specific emotions ('frustrating', 'stressful', 'guarded') and referenced the patient's specific situation multiple times."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provided vague next steps (monitoring vitals, running labs) but provided no timelines, no patient role, and no prevention plan."
+    }
+  }
+}

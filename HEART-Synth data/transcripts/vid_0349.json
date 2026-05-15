@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0349",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello, Ms. Tremblay. I wanted to come in and talk with you about the reaction you had to the medication earlier today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "The nurse already told me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:28",
+      "text": "I understand. To be clear about what happened, you were given a dose of Ceftriaxone. That drug is a cephalosporin, and your chart explicitly lists an allergy to that class of antibiotics. The medication was ordered and administered despite that alert being in your record."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "Right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:38",
+      "text": "Does that make sense, or can I explain the drug interaction more clearly?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:39",
+      "end_time": "00:00:42",
+      "text": "It makes sense. The system failed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:58",
+      "text": "It is incredibly frustrating to be in a position where you trust the staff with your care and then find out a basic piece of your medical history was ignored. I can imagine that feels like a real breach of trust, especially when you're just trying to get recovered and get back to your unit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:07",
+      "text": "I'm more concerned about how long it takes to get the hives to go down. I have a flight in three days."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:18",
+      "text": "I completely hear that. Your priority is your timeline and getting back to duty. I know how important that window is for your deployment schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:22",
+      "text": "Exactly. So how do we fix this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:23",
+      "end_time": "00:01:38",
+      "text": "We have you on a course of antihistamines and corticosteroids now to resolve the inflammation. I'll be monitoring your vitals every four hours. You'll need to let the nursing staff know immediately if you feel any tightness in your throat or if the itching worsens."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:42",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:57",
+      "text": "I'll check your lungs again at 6:00 PM to make sure your breathing is totally clear. If the rash is gone by tomorrow morning, I'll sign off on the discharge papers so you can get home."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:58",
+      "end_time": "00:02:01",
+      "text": "That's what I need. Who actually signed the order?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:08",
+      "text": "The ordering process involves a few different screens. There was a gap in the verification process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:12",
+      "text": "That's not an answer. Did you sign it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:19",
+      "text": "It was processed through the residency team. The protocol for checking the allergy tab wasn't followed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:23",
+      "text": "This is a pretty simple mistake to make."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:34",
+      "text": "I know. It's a failure of the system. I'm going to have to get moving to the next room now, but I'll be back soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "Wait, you're just leaving?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:45",
+      "text": "I just have to check on a few other patients quickly. We have the plan in place."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:55",
+      "text": "I'm not saying I'm panicked, but I'm not exactly thrilled that I almost had a systemic reaction because someone didn't click a button."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:56",
+      "end_time": "00:03:07",
+      "text": "I can see why you'd feel that way. It's a stressful situation and it's not how things should have gone. I'm really sensing how disappointing this is for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "It's not disappointing. It's incompetent."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "I understand that perspective. It is a serious oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "Are you going to report this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:30",
+      "text": "Yes, an incident report has been filed. It goes to the quality review board to see how we can stop this from happening to other patients."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:35",
+      "end_time": "00:03:42",
+      "text": "I'll be back at 6:00. Just keep an eye on those hives and tell the nurse if they spread."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('I'm going to have to get moving to the next room now', 'I just have to check on a few other patients quickly') while the patient is expressing distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the first turn, used lay language, checked comprehension ('Does that make sense?'), and provided a second check on breathing/rash."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to 'the system' and 'the ordering process'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('breach of trust', 'disappointing') and references the patient's specific concern regarding the deployment schedule."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (antihistamines, vitals every 4 hours, lung check at 6 PM), a patient role (notify staff of throat tightness), and prevention (incident report to quality review board)."
+    }
+  }
+}

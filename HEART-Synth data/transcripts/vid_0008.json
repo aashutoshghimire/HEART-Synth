@@ -1,0 +1,285 @@
+{
+  "video_id": "vid_0008",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Hassan, thank you for meeting with me. I have some important information to share with you regarding your medications."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:14",
+      "text": "I can tell by your face this isn't good news. Just tell me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:30",
+      "text": "I want to be direct with you. There has been a medical error. A medication that was supposed to be stopped three days ago was not discontinued because the pharmacy was never notified. I am very sorry. This was our mistake, and I take full responsibility for it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "Which one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:45",
+      "text": "It was the Gabapentin. It was marked as stopped in your electronic notes, but that instruction didn't make it to the pharmacy, so you continued taking it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:57",
+      "text": "Well, I've been feeling a bit more groggy, but my pain has been flared up anyway. This is just how this illness goes, isn't it? It's a rollercoaster."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:58",
+      "end_time": "00:01:13",
+      "text": "It is a very difficult road, and I know you've dealt with a lot of setbacks. But the grogginess you're feeling is a direct result of the medication staying in your system when it should have been gone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:14",
+      "end_time": "00:01:21",
+      "text": "I don't know. I've had bad reactions before. Maybe my body is just reacting poorly to the flare."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:32",
+      "text": "I can see why you'd think that, given everything you've been through. But in this specific case, the cause was the error we made with the pharmacy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:33",
+      "end_time": "00:01:44",
+      "text": "It's always something. Another mistake, another \"sorry.\" I'm just tired of being the one who has to deal with the fallout of someone forgetting to click a button."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:53",
+      "text": "This is a heavy thing to hear, and it's completely unfair that you're the one bearing the burden of our mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:01:58",
+      "text": "Exactly. So what now? Do I just stop taking it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "Yes, you must stop taking the Gabapentin immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:06",
+      "text": "And then what?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "We will keep an eye on you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:11",
+      "end_time": "00:02:20",
+      "text": "That's it? You're just going to \"keep an eye\" on me? After you've spent three days giving me a drug I didn't need?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "I want to make sure you're safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:33",
+      "text": "Safe. Right. I've heard that one before. What is the actual plan to make sure I don't end up like this again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:34",
+      "end_time": "00:02:37",
+      "text": "I'll make sure the charts are updated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:49",
+      "text": "That's vague. Who is doing what? When am I going to know if this has caused any long-term issue with my kidney function or whatever else this stuff does?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "We'll just monitor the labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "When? Tomorrow? Next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "Whenever the next scheduled draw is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:06",
+      "text": "You're not really giving me much to go on here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:14",
+      "text": "I'm sorry, I just want to make sure we're focused on the immediate stop of the drug first."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:21",
+      "text": "I've stopped it. Now I want to know why this keeps happening in this building."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:31",
+      "text": "I know it's incredibly frustrating to feel like a passenger in your own care. I am truly sorry that we let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:39",
+      "text": "I've had three adverse events in two years. You guys always apologize, but the pharmacy still misses things."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:47",
+      "text": "I realize that an apology doesn't undo the fact that you've been taking a medication you shouldn't have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:54",
+      "text": "It doesn't. It just makes me feel like I have to double-check every single pill I take."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:55",
+      "end_time": "00:04:02",
+      "text": "That is a completely reasonable way to feel. You shouldn't have to be the one auditing your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:09",
+      "text": "So, are you going to tell me exactly what the next step is or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:10",
+      "end_time": "00:04:14",
+      "text": "We'll just see how you feel over the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:15",
+      "end_time": "00:04:18",
+      "text": "That is not a plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:19",
+      "end_time": "00:04:22",
+      "text": "I'll make a note to check back in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:23",
+      "end_time": "00:04:26",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:27",
+      "end_time": "00:04:30",
+      "text": "Soon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:31",
+      "end_time": "00:04:35",
+      "text": "This is exactly what I mean. You're sorry, but you've got nothing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:36",
+      "end_time": "00:04:44",
+      "text": "I hear you. I really do. I am sorry that I don't have a more detailed timeline for you right this second."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "Typical."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:05:00",
+      "text": "I know this is a lot to process. I'm going to stay here with you as long as you need to talk through how you're feeling about this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:01",
+      "end_time": "00:05:04",
+      "text": "I'm feeling like I can't trust you people."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:05",
+      "end_time": "00:05:09",
+      "text": "That is a very honest and very fair reaction given the circumstances."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident remains calm and regulated under significant pushback, never interrupts the patient, and avoids rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, took full responsibility ('our mistake'), and maintained this accountability throughout the patient's anger."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('frustrating', 'heavy', 'unfair') and engaged with the patient's shared history of adverse events."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague responses ('we'll just monitor', 'soon', 'whenever the next scheduled draw is') without specific timelines or a prevention plan."
+    }
+  }
+}

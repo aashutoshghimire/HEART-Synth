@@ -1,0 +1,165 @@
+{
+  "video_id": "vid_0314",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mr. Okonkwo, thank you for coming back in to see me. I asked my colleague, Dr. Sarah, to join us for this conversation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:14",
+      "text": "Is something wrong? I thought the discharge papers were final."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:29",
+      "text": "I am afraid there is a mistake in your discharge instructions. Specifically, the clinic I scheduled for your follow-up does not accept your insurance provider. That means you cannot receive the care you need there."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:34",
+      "text": "I don't understand. You told me this was the right place."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:44",
+      "text": "I was wrong. I personally entered the wrong clinic into the system. I am very sorry, and I take full responsibility for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:45",
+      "end_time": "00:00:59",
+      "text": "This is very distressing. I have a position in my community, Mr. Doctor. I cannot be seen running back and forth to hospitals because of a clerical mistake. My family, they look to me for stability."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:00",
+      "end_time": "00:01:06",
+      "text": "I understand. Does that make sense so far, or should I explain the insurance part again?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:07",
+      "end_time": "00:01:21",
+      "text": "It makes sense. But it is the principle. I was told it was handled. I felt a relief that I could finally focus on my health and my children. Now I feel like I am starting over."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:25",
+      "text": "I understand. Now, regarding the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:34",
+      "text": "I am just worried about how this looks. If I cannot get my appointments right, people might think I am not capable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:50",
+      "text": "I really need to make sure we fix this today. I have already called three other clinics that are in your network. I have a confirmation from the City Health Group that they can see you this Thursday at 10:00 AM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:54",
+      "text": "Thursday? I have a community meeting on Thursday morning."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:03",
+      "text": "I can call them right now to move that to Friday at 9:00 AM if that works better for your schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:07",
+      "text": "Friday would be better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:23",
+      "text": "I will call them immediately after we finish here and send you a revised discharge summary via email and physical copy before you leave the building. I have also flagged this in our internal system to ensure that for any future referrals, the insurance verification step is double-checked by a second staff member so this doesn't happen to you or anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:24",
+      "end_time": "00:02:32",
+      "text": "I appreciate the plan. But I am still quite shaken. I feel as though my time is not being respected."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:42",
+      "text": "Right, so the plan is: I call the clinic for Friday at 9:00, I give you the new paperwork, and you check your email."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:47",
+      "text": "Yes, but did you hear what I said about my family?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:54",
+      "text": "I did, and as I said, I'm sorry. I will get that call made now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "You are moving very quickly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:10",
+      "text": "I just want to get this resolved for you as fast as possible so you can get home. Do you have any other questions about the new clinic?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:15",
+      "text": "No. Just make sure the paperwork is correct this time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:26",
+      "text": "It will be. I am personally verifying the insurance ID against the clinic's provider list before I print it. I'll be back in five minutes."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language ('I really need to make sure we fix this today', 'moving very quickly') and interrupts the patient's emotional expression to pivot back to the plan."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is explicitly named in the second turn, lay language is used, and comprehension is checked ('Does that make sense so far...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am very sorry') and takes full personal responsibility without deflection."
+    },
+    "R": {
+      "score": 1,
+      "justification": "The resident relies on generic validation ('I understand') and repeatedly meets emotional bids with factual redirection to the plan."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides specific steps (calling clinic, revised summary), timelines (Friday at 9:00 AM), the patient's role (checking email), and a prevention strategy (double-checking insurance)."
+    }
+  }
+}

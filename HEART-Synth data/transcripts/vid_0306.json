@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0306",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Hassan, thank you for coming in to speak with me. I asked to meet with you because I need to discuss a medical error that occurred during your partner's delivery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "Another one? What is it this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "Your partner tested positive for Group B streptococcus, which is a common bacteria, during her prenatal visits. This was documented in her chart, but the information was not communicated to the labor and delivery team. Because of this, she did not receive the prophylactic antibiotics during delivery that are required to prevent the baby from catching the infection. I am deeply sorry for this failure. Our team was responsible for this oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:39",
+      "text": "Wait, you're telling me you just forgot? She had tests for a reason. Are you kidding me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:55",
+      "text": "I understand this is shocking. We failed to transfer a critical piece of information from the prenatal record to the delivery team, and that is entirely our fault. Does that explanation make sense, or can I clarify any part of how that happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:10",
+      "text": "It makes sense that you people are incompetent. This is exactly why I don't trust this hospital. I've dealt with your \"mistakes\" for years with my own pain management, and now you're doing it to my child?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:11",
+      "end_time": "00:01:19",
+      "text": "You are feeling disgusted and betrayed, especially given your previous experiences here. It is completely unfair that you are facing this again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:26",
+      "text": "Unfair? It's negligent. Is the baby sick? Tell me right now if my baby is sick."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:42",
+      "text": "The baby is currently being monitored. While the baby hasn't shown symptoms yet, the risk of infection is higher because those antibiotics weren't given. We are running blood cultures now to be sure. Does that answer your immediate concern about where things stand?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:58",
+      "text": "No, it doesn't answer why I should believe a word coming out of your mouth. You say you're sorry, but you just \"forgot\" to look at a chart. How hard is it to read a piece of paper?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:13",
+      "text": "There is no excuse for it. We missed a step in the process that we are required to follow every single time. I take full responsibility for the fact that this happened under my care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:26",
+      "text": "I don't care about your responsibility. I care about my kid. I want to know what happens if the baby is sick. I want a real answer, not a \"we're monitoring\" answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:27",
+      "end_time": "00:02:33",
+      "text": "If the cultures come back positive, we will start a course of intravenous antibiotics immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:39",
+      "text": "Who is doing that? You? The same person who forgot the first round?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:46",
+      "text": "I am the one coordinating the care, but I will be working with the neonatology attending."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:52",
+      "text": "I want a different doctor. I want someone who can actually read a chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:00",
+      "text": "I can certainly facilitate a request for a different attending if that would make you feel more secure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "It would. It definitely would. This is unbelievable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:12",
+      "text": "I can see how exhausted you are with this. It's frustrating to have to fight for basic safety."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:21",
+      "text": "I'm not fighting for safety, I'm fighting because you're failing at your job. What is the plan to fix this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "We'll keep a close eye on the baby."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:30",
+      "text": "That's it? \"Keep an eye on them\"? Give me a real plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "We will wait for the lab results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "And when is that? Tomorrow? Next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:43",
+      "text": "I'm not entirely sure on the exact timing of the lab turnaround."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:53",
+      "text": "Fantastic. Just typical. You mess up the meds, you mess up the communication, and now you don't even know when the tests are done."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "I apologize. I'll check on the timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:04",
+      "text": "You should be apologizing to my partner. She's the one who went through the labor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:11",
+      "text": "I will be speaking with her as well, and I will offer her the same sincere apology."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:12",
+      "end_time": "00:04:16",
+      "text": "Just get out. I can't even look at you right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:17",
+      "end_time": "00:04:23",
+      "text": "I understand. I have to go check on the lab now, but I'll be back."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite significant pushback and hostility."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was explicitly named in the first turn, lay language was used, and comprehension was checked twice ('Does that explanation make sense', 'Does that answer your immediate concern')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies were used, the resident took full responsibility ('entirely our fault', 'I take full responsibility'), and maintained this under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions twice ('disgusted and betrayed', 'exhausted') and referenced the patient's previous experiences."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provided vague next steps (monitoring, blood cultures) but failed to provide timelines or a patient role, and did not address prevention."
+    }
+  }
+}

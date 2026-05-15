@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0044",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Hello Ms. Patel, it is good to see you. I want to talk to you about how the surgery went yesterday and a mistake that happened during the procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:20",
+      "text": "A mistake? The surgeon told me before I went under that everything was routine and there were no risks to worry about."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "I apologize. I am the one responsible for that part of the operation, and I made an error. I placed a small metal clip on the wrong structure. In a laparoscopic surgery, we use these clips to seal off blood vessels or ducts. I put one where it didn't belong."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:42",
+      "text": "You put a clip in the wrong place. Why is that even possible?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:58",
+      "text": "It was a technical error on my part. Once I realized it, I immediately corrected it and removed the clip, but that required me to perform an additional procedure to make sure there was no damage. Does that make sense so far, or can I clarify any of those terms?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:14",
+      "text": "I understand the words you're using, but I don't understand how you \"just\" do that. My last doctor told me the same thing about a \"routine\" test and then I spent three weeks in the ER because they missed a bleed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:27",
+      "text": "I am very sorry for that mistake and for the fact that the information you were given earlier was contradictory. I take full responsibility for the error in the OR."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:43",
+      "text": "This is exactly why I don't trust any of you. You say it's routine, then you're cutting things you aren't supposed to, and then you just tell me after the fact. I feel like I'm just another chart to you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "I can see that you're feeling frustrated."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:54",
+      "text": "Frustrated isn't the word. I feel like I'm being lied to by a system that\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:08",
+      "text": "I have to go in a few minutes to check on another patient, so let's focus on the clinical part. Does that make sense? Did you have any other questions about the clip itself?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:20",
+      "text": "I don't care about the clip. I care about why I was told one thing by the surgeon and another by you. Who is actually in charge here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:36",
+      "text": "As I said, I am the one who performed the clip placement and I am the one who made the mistake. It was my error, not the surgeon's. To make sure we are on the same page, do you understand why the extra procedure was necessary because of that clip?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:48",
+      "text": "Yes, I get it. You messed up and had to fix it. Great. Now what? Am I just supposed to go home and hope nothing falls off inside me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:03:00",
+      "text": "We will keep a close eye on your recovery. One thing we can do is schedule a follow-up ultrasound for next Tuesday to confirm everything is healing correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:01",
+      "end_time": "00:03:04",
+      "text": "Tuesday. And who is doing that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:05",
+      "end_time": "00:03:13",
+      "text": "My team will handle the imaging. You just need to make sure you fast for six hours before that appointment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "What happens if the ultrasound shows another mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "We will review the results together on Wednesday morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:22",
+      "end_time": "00:03:30",
+      "text": "I want this in writing. I want a full report of the error and the correction before I leave this room."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:35",
+      "text": "I can have a summary typed up for you by tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:39",
+      "text": "Tomorrow? I'm leaving today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:48",
+      "text": "I can't get the formal report signed off that quickly, but I'll make sure it's sent to your portal by noon tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "Whatever. I've heard \"tomorrow\" from this hospital before."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:59",
+      "text": "I understand. I'll make sure it happens. We'll see you on Tuesday for the scan."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "Resident uses rushing language ('I have to go in a few minutes') and interrupts the patient's emotional expression of being lied to by the system."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error (wrong clip placement) named in second turn, lay language used, and comprehension checked twice ('Does that make sense so far', 'do you understand why')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I apologize', 'I am very sorry'), takes full personal responsibility, and maintains it despite patient pushback."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names one emotion ('frustrated') but then immediately redirects to clinical facts, and uses generic validation ('I understand') later."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Specific next step (ultrasound) with timeline (Tuesday) and patient role (fast for six hours) is provided."
+    }
+  }
+}

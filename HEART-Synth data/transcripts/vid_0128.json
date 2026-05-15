@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0128",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Okonkwo, thank you for coming back in to see me. I have asked Dr. Miller to join us as a witness to this conversation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:16",
+      "text": "I am here. I was quite surprised to be called back so soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:28",
+      "text": "I asked you to return because I made a mistake with your discharge instructions. I sent you to a follow-up clinic that does not take your insurance provider."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:47",
+      "text": "I want to be very clear that this was my error. I failed to verify the coverage before I gave you those papers, and for that, I am sincerely sorry. I take full responsibility for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:01:03",
+      "text": "It is... disappointing. I had already arranged for my daughter to drive me. I told my community board that my health was being managed. Now I find myself in a position where I cannot even get through the door of the clinic you chose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:17",
+      "text": "I can hear how frustrating this is. It sounds like more than just a scheduling issue; it's a matter of your reputation and the commitments you've made to your family and your board."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:28",
+      "text": "Yes. In my position, one cannot be seen as a man who is disorganized or whose affairs are in chaos. It is a matter of dignity."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:43",
+      "text": "I understand. It is distressing to feel that your standing is compromised because of a mistake I made. Does that explain the situation clearly, or is there any part of the error you'd like me to clarify?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:48",
+      "text": "You have explained the error. You gave me the wrong place."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:02:01",
+      "text": "I appreciate you confirming that. Just to be absolutely certain we are on the same page, do you have any questions about why the insurance is an issue at that specific location?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:07",
+      "text": "No. The issue is not the insurance company. The issue is the error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:14",
+      "text": "I understand. I am truly sorry for the stress this has caused you and your daughter."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:20",
+      "text": "What happens now? I cannot simply wait for the problem to solve itself."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:21",
+      "end_time": "00:02:25",
+      "text": "We will get this sorted. We will look into it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:31",
+      "text": "Look into it? Does that mean I have an appointment tomorrow? Or next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:40",
+      "text": "I can't give you a date right this second. I'll probably send an email or maybe you'll get a call."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:49",
+      "text": "An email. I am fifty-seven years old, doctor, not a child. I need to know where I am going and when."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:56",
+      "text": "Right. Well, we'll see what the other clinics have available. Just stay tuned for an update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "That is not a plan. That is a hope."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:06",
+      "text": "I know it's not ideal. We'll just try to find something that works."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:14",
+      "text": "My daughter is expecting a clear directive. I cannot tell her we are just waiting for an email."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:15",
+      "end_time": "00:03:18",
+      "text": "We will figure it out. I'll check the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "When will you check the system?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:27",
+      "text": "Sometime today. Or tomorrow. I'll just get back to you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish their turns and does not interrupt, though pacing becomes slightly rushed toward the end."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error is named explicitly in the second turn, lay language is used, and comprehension is checked twice ('Does that explain the situation clearly' and 'do you have any questions')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('sincerely sorry'), takes full responsibility, and maintains this accountability throughout the pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrating', 'distressing') and references the patient's specific concerns regarding his reputation and family."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders and vague hopes ('we'll see', 'stay tuned', 'we'll figure it out') without specific timelines or a concrete plan."
+    }
+  }
+}

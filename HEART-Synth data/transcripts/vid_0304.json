@@ -1,0 +1,291 @@
+{
+  "video_id": "vid_0304",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Ms. Williams, do you have a moment for us to talk?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:15",
+      "text": "I do, but I'm just really worried about when I can get home. My kids are with my sister and I can't stay there forever."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:26",
+      "text": "I understand. First, I want to say that I am very sorry. I made a mistake in how I managed your baby's monitoring earlier today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:30",
+      "text": "What do you mean? What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:41",
+      "text": "I looked at the fetal heart rate tracing and I didn't categorize the decelerations correctly. I missed the severity of what was happening on the monitor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:42",
+      "end_time": "00:00:45",
+      "text": "Wait, you missed something? Was the baby okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:58",
+      "text": "A second doctor reviewed the trace two hours later and identified that it should have been flagged as more urgent. I take full responsibility for this. I am so sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:07",
+      "text": "Two hours? You left it for two hours? Oh my god, is the baby alright? Is that why things were so stressful?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:14",
+      "text": "The baby is stable now, but that delay was my fault. I apologize deeply for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:25",
+      "text": "I can't believe this. I'm already terrified about how I'm going to manage two kids and this recovery, and now I find out you just missed something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "I know this is incredibly overwhelming."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:38",
+      "text": "It's not just overwhelming, it's scary. I'm sitting here wondering if my baby is permanently hurt because you weren't looking properly."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:42",
+      "text": "I hear that you're scared."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:55",
+      "text": "I'm more than scared. I'm thinking about my children. If something happened to the baby, my life would be over. Do you even understand how much is on my plate right now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:06",
+      "text": "I can see you're under a lot of pressure. Look, I really need to get to another patient who is crashing, so I have to be quick."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:14",
+      "text": "You have to be quick? I just found out you messed up my baby's care and you're rushing off?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:24",
+      "text": "I am truly sorry for the error and I feel terrible about it. I just have a clinical emergency in the next room."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:31",
+      "text": "This is unbelievable. So what now? Is my baby actually okay or are you just saying that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:35",
+      "text": "The baby is currently stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:36",
+      "end_time": "00:02:40",
+      "text": "That doesn't answer my question. What is the actual plan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:44",
+      "text": "We are going to keep the monitoring running."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:48",
+      "text": "That's it? Just keep monitoring?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:55",
+      "text": "Yes, we'll keep a close eye on the heart rate for the next few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:03:02",
+      "text": "And then what? When can I go home? I told you, I can't stay here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "We'll see how the next few readings go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:12",
+      "text": "I don't understand why this happened. How do you just miss a heart rate?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:13",
+      "end_time": "00:03:18",
+      "text": "There was some confusion with the categorization of the dips in the heart rate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:23",
+      "text": "Confusion? You just said you made a mistake. Now it's confusion?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:28",
+      "text": "I apologize. It was my error. I let the timing slip."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:36",
+      "text": "I feel like I can't even trust you. How am I supposed to trust anyone in this ward now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:40",
+      "text": "I completely understand why you feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:46",
+      "text": "I need to call my sister. I need to tell her what's happening."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "Of course, you should do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:51",
+      "end_time": "00:03:57",
+      "text": "Are there other doctors who are going to check the monitor? Or is it just you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "Another clinician will be reviewing the traces periodically."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:05",
+      "text": "How often?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:09",
+      "text": "Every so often."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "That's not an answer. Every hour? Every ten minutes?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "We'll maintain the standard protocol."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:18",
+      "end_time": "00:04:23",
+      "text": "This is just not enough. I need to know my baby is safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:24",
+      "end_time": "00:04:28",
+      "text": "I've given you the most accurate information I have right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:29",
+      "end_time": "00:04:33",
+      "text": "I'm just so overwhelmed. I don't know what to do."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:34",
+      "end_time": "00:04:37",
+      "text": "I know. I really do have to go now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:38",
+      "end_time": "00:04:41",
+      "text": "Just go then. Just leave."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I have to be quick', 'I really do have to go now') and prioritizes their schedule over the patient's distress."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error was named explicitly and early, but there were no comprehension checks performed throughout the conversation."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Resident used direct apology language and took full personal responsibility ('I take full responsibility', 'my fault') without deflecting."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident named specific emotions ('scared', 'under a lot of pressure') and engaged with the patient's emotional bids."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan was vague ('keep the monitoring running', 'standard protocol') with no specific timelines or patient role defined."
+    }
+  }
+}

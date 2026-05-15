@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0321",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Hi Ms. Williams, thanks for coming in. I wanted to sit down with you and discuss your previous imaging results from a few months ago."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:23",
+      "text": "Oh, okay. Is everything alright? I've been so stressed trying to get the kids settled with the new childcare, I just hope there isn't something else I have to deal with."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:24",
+      "end_time": "00:00:35",
+      "text": "Well, there was an incidental finding on the scan. It was a small nodule that required a follow-up scan after three months, but we didn't get that scheduled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:42",
+      "text": "Wait, what do you mean you didn't get it scheduled? Who was supposed to do that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:43",
+      "end_time": "00:00:58",
+      "text": "The information was in a sub-section of the radiology report and it wasn't forwarded to the primary team. I'm sorry for any confusion this caused, but we were really busy with the transition to the new electronic system that month."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:59",
+      "end_time": "00:01:13",
+      "text": "Confusion? This isn't confusion. You're telling me something was found and nobody told me? I've been worrying about my recovery and if I can even get back to work, and now you're saying there's something else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:14",
+      "end_time": "00:01:22",
+      "text": "I understand. The main thing is that we need to get a new image now to see if there's any change."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:36",
+      "text": "I can't just suddenly take more time off. My boss is already giving me a hard time about my hours. I have two little kids who depend on me. I can't believe this happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:37",
+      "end_time": "00:01:44",
+      "text": "Right, but as I said, it was just a small finding. Let's look at the next steps quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:55",
+      "text": "I don't want to look at steps yet! I want to know why this happened. Was it your fault? Did you just forget about me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:02",
+      "text": "It was a communication gap in the reporting process. Like I said, I'm sorry for the confusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:18",
+      "text": "You keep saying confusion. This is my health. I feel like I'm just a number here. I've been coming to see you for a year, and I thought we had a good relationship. I'm scared, and now I don't even know if I can trust what you're telling me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:28",
+      "text": "We just need to move forward. I have to go see another patient in a few minutes, so we should probably wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:35",
+      "text": "You're leaving? I'm sitting here telling you I'm frightened and you're telling me you have to go?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:42",
+      "text": "I just mean we should decide on the scan. I'll put in the order for the imaging."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:43",
+      "end_time": "00:02:50",
+      "text": "When? When is it happening? And what happens if it's actually something bad? Did you wait too long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:57",
+      "text": "We'll see what the scan shows. Just stay tuned for an email from the scheduling department."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:05",
+      "text": "An email? I don't even check my email during my shifts. Can't you just tell me the date now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:10",
+      "text": "I can't do that yet. The office handles the scheduling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:15",
+      "text": "This is unbelievable. I came here trusting you with my recovery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "I've got to run. They'll contact you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('look at the next steps quickly', 'wrap this up', 'I've got to run') and interrupts the patient's emotional distress."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The error is named (missed follow-up scan), but there are no comprehension checks performed throughout the interaction."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apology language is used, but it is immediately diluted by excuses regarding the electronic system transition and communication gaps."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's expressions of fear and betrayal are consistently met with factual redirection or dismissals to move forward."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan is a vague step (get a new image) with no specific timeline or patient role, and no mention of prevention."
+    }
+  }
+}

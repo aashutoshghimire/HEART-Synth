@@ -1,0 +1,357 @@
+{
+  "video_id": "vid_0104",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Osei, thank you for waiting for me. I wanted to come and speak with you personally about what happened back there in the holding area."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:18",
+      "text": "I appreciate that. I think it is important we talk before we move forward with the actual procedure."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:26",
+      "text": "I completely agree. This is a difficult moment, and I want to make sure we address it fully."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:40",
+      "text": "I am a nurse practitioner, so I am very familiar with the surgical safety checklist. When I saw the mark on my left arm instead of my right, I was quite taken aback."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:53",
+      "text": "It is completely understandable that you would feel that way. Seeing a mark on the wrong side of your body when you are preparing for surgery is jarring and honestly frightening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:00",
+      "text": "It is more than jarring. It is a breach of the basic standards of patient safety."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:01",
+      "end_time": "00:01:07",
+      "text": "You are right. It is a serious failure in the standard of care we strive for."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:11",
+      "text": "So, how did this happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:21",
+      "text": "There was a mistake during the pre-operative marking process. The site was incorrectly identified and the mark was placed on the contralateral limb."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:25",
+      "text": "Contralateral limb. You mean the wrong arm."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:29",
+      "text": "Yes, the wrong arm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:33",
+      "text": "And who specifically was responsible for that mark?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:42",
+      "text": "The markings were done during the intake process by the clinical team. There was a lapse in the verification of the site."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:55",
+      "text": "A lapse. That is a very passive way of describing it. Did the person who marked me not look at the chart? Or did they just not listen to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:00",
+      "text": "The process for verification was not followed as it should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:08",
+      "text": "I am listening to your words, and I notice that no one has actually taken ownership of this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:13",
+      "text": "I can see how that is frustrating. You are looking for accountability."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:14",
+      "end_time": "00:02:24",
+      "text": "I am looking for a professional apology and an admission of error. In any clinic, this would be flagged as a near-miss and reported immediately."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:30",
+      "text": "I hear the expectation you have for professional standards. It is a valid expectation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:39",
+      "text": "Is it? Because you are describing this as a process failure, but a human being put that ink on the wrong arm."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:48",
+      "text": "It is an incredibly stressful situation to be in, especially when you are the one who has to catch the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:54",
+      "text": "I am not talking about my stress. I am talking about the safety protocol."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:55",
+      "end_time": "00:02:59",
+      "text": "I understand that the technical failure is what concerns you most."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:10",
+      "text": "Then tell me, what is being done to ensure that once I go back in there, the right side is actually the one being operated on?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:14",
+      "text": "We are going to do another check."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:15",
+      "end_time": "00:03:18",
+      "text": "How specifically?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:28",
+      "text": "We will have the attending physician re-verify the site against the original pathology report and the consent form before we administer any anesthesia."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "And when will that happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:37",
+      "text": "Very soon. Once the attending is free from their current case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "So I am waiting on a schedule."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:46",
+      "text": "I know this wait is adding to the tension of the situation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:55",
+      "text": "It is not just tension. It is a question of trust. If the marking was wrong, what else was overlooked?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:04:00",
+      "text": "That is a heavy question to carry into a procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "It is a logical one."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:05",
+      "end_time": "00:04:09",
+      "text": "I realize that this has shaken your confidence in the team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:10",
+      "end_time": "00:04:13",
+      "text": "I am wondering if I should even proceed today."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:17",
+      "text": "That is certainly a choice we can discuss."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:18",
+      "end_time": "00:04:24",
+      "text": "I want the excision, but I want it done by someone who follows the protocol."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:25",
+      "end_time": "00:04:31",
+      "text": "I can certainly facilitate a conversation about your options for the remainder of the day."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:32",
+      "end_time": "00:04:36",
+      "text": "Who is documenting this? This needs to be in my record."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:37",
+      "end_time": "00:04:41",
+      "text": "I will make a note that we discussed the site marking error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:42",
+      "end_time": "00:04:46",
+      "text": "I want to know if an incident report has been filed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:47",
+      "end_time": "00:04:51",
+      "text": "That is something that will be handled through the administrative channels."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:52",
+      "end_time": "00:04:56",
+      "text": "You are being very vague. Is there a formal report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "The team handles the internal reporting process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:01",
+      "end_time": "00:05:10",
+      "text": "As a provider, I know that internal reporting is the only way these errors stop happening. I want confirmation that this was logged."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:11",
+      "end_time": "00:05:15",
+      "text": "I hear how important the systemic correction is to you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:16",
+      "end_time": "00:05:19",
+      "text": "It is the only thing that makes this acceptable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:20",
+      "end_time": "00:05:26",
+      "text": "I can see that you are not satisfied with the answers I am giving regarding the reporting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:27",
+      "end_time": "00:05:30",
+      "text": "Because you aren't giving me any."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:31",
+      "end_time": "00:05:35",
+      "text": "I will find out the status of the incident report for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:36",
+      "end_time": "00:05:39",
+      "text": "When will you tell me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:40",
+      "end_time": "00:05:44",
+      "text": "I can let you know before you leave the building today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:45",
+      "end_time": "00:05:49",
+      "text": "I would prefer to know before I go under anesthesia."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:50",
+      "end_time": "00:05:54",
+      "text": "I will do my best to get that answer for you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite significant pushback and frustration."
+    },
+    "E": {
+      "score": 1,
+      "justification": "The resident uses medical jargon ('contralateral limb') and never performs a comprehension check to ensure the patient understands the explanation."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language ('I'm sorry' or 'I apologize') and relies entirely on passive framing ('lapse in verification', 'process for verification was not followed')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('jarring', 'frightening', 'frustrating') and engages with the patient's emotional bids regarding trust and confidence."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides a specific next step (attending re-verification), but there is no named patient role in the plan and the timeline is vague ('very soon')."
+    }
+  }
+}

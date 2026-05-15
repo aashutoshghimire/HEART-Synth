@@ -1,0 +1,183 @@
+{
+  "video_id": "vid_0131",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Mrs. Al-Rashid, thank you for sitting down with me. I wanted to talk to you about the fetal heart rate monitoring from earlier today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "Yes, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:28",
+      "text": "While we were monitoring the baby, there were some decelerations on the tracing. These are drops in the heart rate. The tracing was categorized incorrectly at first, which means the severity of those drops wasn't recognized immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:47",
+      "text": "It was two hours before a second clinician reviewed it and identified that the tracing was actually more concerning than we first thought. I am sorry that this happened. Our team is responsible for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:48",
+      "end_time": "00:00:51",
+      "text": "Is the baby okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:52",
+      "end_time": "00:01:00",
+      "text": "The baby is stable now, but the delay in recognition was a mistake. I know this is a lot to take in."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:04",
+      "text": "I just... I didn't know there was a problem."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:15",
+      "text": "I understand that's upsetting. But we need to look at the current vitals quickly because I have to go check on another patient in a few minutes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "I feel very confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:29",
+      "text": "It is a confusing situation, but the main thing is that the second clinician caught the miscategorization of the fetal heart rate decelerations."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:33",
+      "text": "Was it a big mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:34",
+      "end_time": "00:01:41",
+      "text": "It was a failure in the review process. We didn't act on the heart rate drops for two hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:45",
+      "text": "I don't know what to say."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:54",
+      "text": "I know it is shocking. But as I said, the heart rate tracing was just read incorrectly the first time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "Does this happen often?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:09",
+      "text": "We have protocols to prevent this, but in this instance, the category of the tracing was wrong. I really need to wrap this up now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:13",
+      "text": "I... I will trust you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:18",
+      "text": "Thank you. We just need to make sure the baby stays stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:22",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "We will keep monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Will the doctor come back?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:38",
+      "text": "Someone will be in shortly. We will just keep a close eye on things and see how it goes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "I have to run now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "Thank you, doctor."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('go check on another patient in a few minutes', 'really need to wrap this up now', 'I have to run now')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is named explicitly and lay language is used, but there are no comprehension checks performed."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am sorry') and explicitly states 'Our team is responsible for this error' without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand that's upsetting', 'I know it is shocking') without naming specific emotions or engaging deeply with bids."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan is vague ('We will keep monitoring') with no timeline and no named patient role."
+    }
+  }
+}

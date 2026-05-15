@@ -1,0 +1,237 @@
+{
+  "video_id": "vid_0269",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mr. Hassan. Thank you for coming back in. I want to talk about your son's visit from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:11",
+      "text": "Why? He is home. He is sleeping."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:12",
+      "end_time": "00:00:20",
+      "text": "There was a bit of a mix up with the medicine we gave him. Things didn't go quite right with the dose."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:21",
+      "end_time": "00:00:24",
+      "text": "What mean? Mix up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:25",
+      "end_time": "00:00:32",
+      "text": "Some confusion happened with the amount of vaccine. It was not the exact amount it should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:37",
+      "text": "You give wrong medicine? My son is small. You give big medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:46",
+      "text": "We had an issue with the weight bands in the system. It just wasn't the right amount for his size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:00:50",
+      "text": "I don't understand. Did you make mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:51",
+      "end_time": "00:00:56",
+      "text": "The system has different groups for weight. There was a confusion between those groups."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:03",
+      "text": "This happen again. Always with my family. Always something wrong. I am tired of this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:14",
+      "text": "I can see you are frustrated. But look, I have to go to another appointment in a few minutes, so I want to be quick."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:15",
+      "end_time": "00:01:21",
+      "text": "You are in a rush? My child got wrong medicine and you are in a rush?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:26",
+      "text": "I just want to make sure we get the plan sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:32",
+      "text": "I want know exactly what happen. You say confusion. Who confuse? You? The nurse?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:41",
+      "text": "It was just a general error in the drawing up process. It happens sometimes when the clinic is very busy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:48",
+      "text": "This is not a joke. My son is very young. Is he okay? Is he sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:01:53",
+      "text": "He should be fine. But we need to monitor him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:01:58",
+      "text": "You don't say if it is dangerous. You just say monitor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:03",
+      "text": "It is likely okay. But I can see you are worried."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:10",
+      "text": "I am not worried, I am angry. I tell you before, we have problems here. Now this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:14",
+      "text": "We are just trying to get this fixed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:15",
+      "end_time": "00:02:18",
+      "text": "Fixed how? What you do now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:19",
+      "end_time": "00:02:34",
+      "text": "Right, here is the plan. First, I want you to check his temperature every four hours for the next two days. Write the numbers on this paper. If he gets a fever over 38, you call this specific number on the card immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:35",
+      "end_time": "00:02:38",
+      "text": "What if he is just crying?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:54",
+      "text": "If he is unusually fussy, call that number. Second, I have already scheduled a follow-up appointment for this Friday at 10 AM to check his reaction. Third, I am writing a formal report to the pharmacy board today to change how the vaccines are labeled so this cannot happen to another child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "And the dose? He has too much?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:07",
+      "text": "He received a dose meant for a heavier child. But since we have a clear monitoring plan, we can manage it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "You still not say you are sorry."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "The system is being updated to prevent this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:21",
+      "text": "You do not care. You just want to go to your next patient."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:26",
+      "text": "Let's wrap this up. Do you have the phone number?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:27",
+      "end_time": "00:03:30",
+      "text": "I have number. But I don't trust."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:38",
+      "text": "The plan is very clear. Temperature checks, Friday appointment, and the reporting process. This will keep him safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "I go home now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:43",
+      "end_time": "00:03:47",
+      "text": "Yes, just follow the checklist on the paper. I'll see you Friday."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('want to be quick', 'go to another appointment', 'wrap this up')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses platitudes and hedging ('mix up', 'didn't go quite right', 'some confusion') and does not explicitly name the error until the very end of the encounter."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language is used and responsibility is deflected to 'the system' and 'the drawing up process'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident provides generic validation ('I can see you are frustrated', 'I can see you are worried') but consistently meets emotional bids with factual redirection."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (temp checks, Friday 10 AM appointment), timelines, patient role (writing numbers), and prevention (reporting to pharmacy board)."
+    }
+  }
+}

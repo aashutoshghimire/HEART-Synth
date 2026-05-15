@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0277",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Ms. Nakamura, I wanted to come in and talk with you about how the surgery went today. Dr. Miller is here with me as well."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:18",
+      "text": "I've been reading about the recovery time for this. Is it usually this much bruising around the incisions?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:30",
+      "text": "I can address the bruising, but first, I need to tell you that something went wrong during the procedure. A surgical clip was placed on the wrong structure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:31",
+      "end_time": "00:00:34",
+      "text": "What do you mean? What structure?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:35",
+      "end_time": "00:00:45",
+      "text": "During the laparoscopy, I placed a small metal clip on a piece of tissue that should not have been clipped. It was an error on my part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:58",
+      "text": "Wait, did that happen while I was under? Did it cause internal bleeding? I'm searching for this now, it says clips can cause necrosis if they are in the wrong place."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:11",
+      "text": "I can see you're feeling really anxious right now, and it makes complete sense that you're worried about the long-term effects when you see terms like that on your screen."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:20",
+      "text": "I just... I did all this research so I'd be prepared. I didn't prepare for the doctor making a mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:21",
+      "end_time": "00:01:29",
+      "text": "I am truly sorry for this. I was responsible for the placement of that clip, and I apologize for the error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:35",
+      "text": "So how did you fix it? Why was I under longer than the estimate?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:36",
+      "end_time": "00:01:51",
+      "text": "Because the clip was in the wrong place, I had to perform an additional step to remove it and ensure the area was stable before we could finish. That extra procedure is why the surgery took longer than we planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:57",
+      "text": "Was it a major vessel? You aren't telling me if it was an artery."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:08",
+      "text": "It was a small ligament, not a major artery. But I know that doesn't make the fact that it happened any less frightening for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:17",
+      "text": "I just feel like I can't trust that everything is actually okay. If you missed that, what else did you miss?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:31",
+      "text": "I hear how shaken you are. It's incredibly unsettling to feel like the safety you expected in the OR was compromised. I would feel exactly the same way if I were in your position."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:39",
+      "text": "I need to know if this changes my recovery. Does this mean more scar tissue? Or more pain?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:40",
+      "end_time": "00:02:52",
+      "text": "I have to get to my next patient in a few minutes, so let me just explain that the correction we made means your physical recovery path should stay the same."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:59",
+      "text": "You're leaving? You can't just say it's fine and then leave. I'm still reading about complications here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:04",
+      "text": "I apologize for rushing. You're right. Let's stay focused on your questions."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:08",
+      "text": "So what happens now? Do I need more scans?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:09",
+      "end_time": "00:03:16",
+      "text": "I'm going to schedule a follow-up ultrasound for you next Tuesday to confirm that everything is healing correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "Who is doing the ultrasound?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:27",
+      "text": "Our radiology team will do it, and I will personally review the results with you that afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "And what if it's not okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:47",
+      "text": "If there is any abnormality, we will bring in the chief of surgery for a secondary consultation immediately. I'll make sure you have a direct number to my pager for the weekend so you don't have to go through the main switchboard."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident used rushing language by stating, 'I have to get to my next patient in a few minutes.'"
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but the resident never performed a comprehension check."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language and explicitly took personal responsibility ('It was an error on my part', 'I was responsible') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('anxious', 'shaken') and validated the patient's feelings based on the content shared."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provided a specific next step with a timeline (ultrasound next Tuesday), but did not address prevention or the patient's role."
+    }
+  }
+}

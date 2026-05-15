@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0142",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:07",
+      "text": "Hello Mrs. Fitzgerald, I wanted to come in and talk with you about your CT scan from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:08",
+      "end_time": "00:00:12",
+      "text": "The nurse already told me. She said something was missed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:25",
+      "text": "Right, yes. I can explain what happened. Your CT scan showed a pulmonary embolism, which is a blood clot in your lung. That wasn't mentioned in the first report from radiology."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:36",
+      "text": "A clot? My husband had a clot before he passed, he just... he didn't make it. I can't believe this is happening to me too."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:52",
+      "text": "The clot was there on the images, but the first radiologist didn't see it in the preliminary read. It wasn't caught until the attending radiologist reviewed the study about eighteen hours later. Does that make sense to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:04",
+      "text": "I just feel so alone in this. He was always the one who handled the doctors. I don't know why I'm even here if you people just miss things."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:11",
+      "text": "It is a stressful situation. But the important thing is that we have the correct diagnosis now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:21",
+      "text": "Eighteen hours. I was lying here for eighteen hours with a clot in my lung? I could have died. I\u2019m just so frightened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:26",
+      "text": "I understand. But the treatment we have started now is very effective."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:27",
+      "end_time": "00:01:39",
+      "text": "I can't stop thinking about how he looked at the end. This feels like the same kind of failure. I just want to go home, but I'm scared to be alone."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:48",
+      "text": "Look, we need to focus on the medication. The blood thinner is already working to prevent the clot from getting bigger."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:57",
+      "text": "Why didn't anyone tell me sooner? Why did I have to find out from a nurse passing by the room?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:06",
+      "text": "The system for reporting results sometimes has delays between the preliminary and final reads. It's a common issue in hospital workflows."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:11",
+      "text": "Is that all you have to say? That it's a workflow issue?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:17",
+      "text": "It was an unfortunate sequence of events. But let's look at the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:22",
+      "text": "I don't feel like I can trust anyone here right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:29",
+      "text": "I have to go check on another patient in a moment, so let's just wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:30",
+      "end_time": "00:02:34",
+      "text": "You're leaving? I'm sitting here shaking and you're just leaving?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:35",
+      "end_time": "00:02:43",
+      "text": "I just need to be quick. The plan is that we will keep you on the heparin drip for now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:47",
+      "text": "For how long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:48",
+      "end_time": "00:02:52",
+      "text": "We'll see how your labs look. We'll probably check them tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:53",
+      "end_time": "00:02:57",
+      "text": "What happens if it happens again? What if someone misses another report?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:05",
+      "text": "We are monitoring you closely. You'll just need to tell us if you feel any more shortness of breath."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:09",
+      "text": "I can't even breathe because I'm crying."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:10",
+      "end_time": "00:03:19",
+      "text": "It's best if we stay focused on the medical plan. The nurses will be in and out every few hours to check your vitals."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:27",
+      "text": "I just wish my husband were here. He would know what to ask. He'd know if this was okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:32",
+      "text": "I understand. Anyway, the drip will continue. I'll check back in later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "Wait, did you even say you were sorry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:43",
+      "text": "As I said, the process didn't go as planned. But the medication is the priority now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:47",
+      "text": "It's just so cold. Everything feels so cold."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:53",
+      "text": "I really have to get to my other patient. We'll touch base tomorrow."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('wrap this up', 'need to be quick', 'have to get to my other patient') and dismisses the patient's distress."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error (missed pulmonary embolism) was named explicitly in the first turn, lay language was used, and comprehension was checked once ('Does that make sense to you?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language was used, and responsibility was deflected to 'the system' and 'hospital workflows'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "The patient's emotional bids regarding her husband and fear are consistently met with factual redirection to the medical plan."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident mentions a heparin drip and checking labs tomorrow, but provides no named patient role or specific prevention strategy for future errors."
+    }
+  }
+}

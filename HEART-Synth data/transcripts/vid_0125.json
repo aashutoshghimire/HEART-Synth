@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0125",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Chen, thank you for coming in today. I have asked my supervisor, Dr. Miller, to join us for this conversation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Hello. Why? Is it the test?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:22",
+      "text": "It is. I need to tell you that we made a mistake with your imaging report from last year. I am very sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:26",
+      "text": "Mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:42",
+      "text": "Yes. When the radiologist looked at your scan, they saw a small spot that needed to be checked again in three months. However, that information was put in a part of the report that we missed. Because of that, we didn't schedule your follow-up appointment. I am the one responsible for reviewing those reports, and I missed it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:46",
+      "text": "I... I thought it was okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:00:54",
+      "text": "I know this is a lot to take in. It is very difficult to hear that we missed something."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:00:58",
+      "text": "Is it... cancer?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:59",
+      "end_time": "00:01:07",
+      "text": "I understand you're worried. It might be. We don't know yet. That is why we need to do another scan now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:11",
+      "text": "I waited. I waited for you to call."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:15",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:16",
+      "end_time": "00:01:21",
+      "text": "My wife, she says I should have asked more. Maybe I should have asked."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:35",
+      "text": "Now, the important thing is what we do today. First, I have already ordered a new CT scan for you. It will happen today at 2:00 PM. I have the paperwork right here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:39",
+      "text": "Today?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:55",
+      "text": "Yes, today. After the scan, the results will be ready in forty-eight hours. I will call you personally on Thursday morning to tell you what we see. Then, we will meet again on Friday to decide the next steps together."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "I don't know where to go for the scan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:15",
+      "text": "I will walk you down to the radiology department myself right now. You won't have to find the way alone. To make sure this never happens again, our department is changing how we flag these reports so that no other patient has this experience."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:19",
+      "text": "I am just... confused. Why did it happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:27",
+      "text": "It was a failure in how we read the report. It is my fault for not seeing that sub-section."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "I feel... I feel very small in this hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:36",
+      "text": "We will get the answers we need starting this afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "Thursday you call?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:49",
+      "text": "Yes. Thursday morning. I will call your home phone. You just need to be there to answer. Does that sound okay?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:01",
+      "text": "I know this is an upsetting moment. Let's take a minute before we head down to the imaging center."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows patient to finish turns and adjusts pacing, though there is a slight rush to move to the plan when the patient expresses guilt about not asking more."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named explicitly in the second turn using lay language, but comprehension was only checked once at the end ('Does that sound okay?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am very sorry') and resident explicitly takes personal responsibility ('I am the one responsible', 'It is my fault') without deflection."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand', 'I know this is a lot to take in') but does not name specific emotions back to the patient."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (CT scan), clear timelines (2:00 PM today, Thursday call, Friday meeting), patient role (answer home phone), and a prevention strategy (changing how reports are flagged)."
+    }
+  }
+}

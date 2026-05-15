@@ -1,0 +1,219 @@
+{
+  "video_id": "vid_0380",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Anderson, thank you for meeting with me. I wanted to talk to you about the fetal heart rate monitoring from earlier today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:15",
+      "text": "I've been waiting for this. I noticed the patterns on the monitor myself."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:22",
+      "text": "I understand. Looking back at the charts, there was some confusion with how the tracing was categorized."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:26",
+      "text": "Confusion? Be specific. What does that mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:33",
+      "text": "Well, the readings weren't interpreted in the way they should have been at the time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:37",
+      "text": "You're being vague. Did you misread the decelerations?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:42",
+      "text": "Things didn't go quite right with the initial review of the strips."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:52",
+      "text": "I am a hospital administrator, Doctor. I know exactly how these reviews work. Stop using corporate-speak and tell me if a mistake was made."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:53",
+      "end_time": "00:00:59",
+      "text": "I am very sorry that this happened. The team and I take full responsibility for the oversight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:07",
+      "text": "You're sorry, but you still aren't telling me what actually happened. Was the baby in distress for two hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:12",
+      "text": "I can see you're angry, and you have every right to be."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:28",
+      "text": "I am beyond angry. I am terrified. You are telling me there was an issue, you're apologizing for it, but you are refusing to name the error. Did you categorize a Category II or III tracing as a Category I?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:33",
+      "text": "There were some issues with the interpretation of the fetal heart rate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:42",
+      "text": "This is unbelievable. Are you hiding the clinical facts from me? I want the chart in front of me right now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:46",
+      "text": "I apologize again. It was our mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:54",
+      "text": "Your apology is meaningless if you won't be transparent. Who saw the tracing second? When did they see it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:01:58",
+      "text": "Another clinician reviewed it and we corrected the course."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:07",
+      "text": "You're avoiding the question. I want to know exactly how long the baby was at risk because someone couldn't read a graph."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:11",
+      "text": "I realize this is upsetting for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:12",
+      "end_time": "00:02:21",
+      "text": "Upsetting is not the word. This is negligence. I want a full incident report and I want to know who is being held accountable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "We are documenting everything in the record."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:26",
+      "end_time": "00:02:35",
+      "text": "That's not a plan. What happens now? What is the monitoring protocol for the next twelve hours to ensure this doesn't happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "We'll keep a close eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:49",
+      "text": "That is not a clinical plan. Give me a frequency. Give me a name. Who is the attending in charge of the oversight now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:55",
+      "text": "We'll see how the next few hours go and then we can discuss."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:03:06",
+      "text": "This is completely unacceptable. I am calling my patient advocate and my legal counsel. You have failed to provide a basic explanation of a medical error."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "I am sorry you feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:11",
+      "end_time": "00:03:18",
+      "text": "I don't feel that way, I know that way. You've admitted a mistake but you've hidden the facts."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:19",
+      "end_time": "00:03:23",
+      "text": "I really just wanted to make sure you knew we were sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:30",
+      "text": "I don't care about your feelings. I care about my child. Get your attending in here immediately."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:31",
+      "end_time": "00:03:34",
+      "text": "I'll see if they are available."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "Not if they are available. Now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident allows the patient to finish their turns and remains regulated despite significant pushback, with no interruptions observed."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes like 'things didn't go quite right' and 'some confusion' and never explicitly names the clinical error despite repeated direct requests."
+    },
+    "A": {
+      "score": 2,
+      "justification": "The resident uses direct apology language ('I am very sorry', 'I apologize') and explicitly states the team takes 'full responsibility for the oversight'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names specific emotions ('I can see you're angry', 'I realize this is upsetting'), though engagement with the patient's specific fears is limited."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders such as 'We'll keep a close eye on things' and 'We'll see how the next few hours go' without any concrete plan or timeline."
+    }
+  }
+}

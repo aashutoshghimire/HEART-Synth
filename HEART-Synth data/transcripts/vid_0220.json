@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0220",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:15",
+      "text": "Hello, Mrs. Hernandez. I am Dr. Miller, one of the residents on the oncology team. Thank you for coming in. I wanted to speak with you and your daughter today because there was a mistake with your chemotherapy dose yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:16",
+      "end_time": "00:00:19",
+      "text": "\u00bfQu\u00e9 pas\u00f3? What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:35",
+      "text": "We used your weight from two months ago to calculate the medicine instead of your current weight. Because you have lost weight recently, you received a higher dose of chemotherapy than you should have. Dose refers to the amount of medicine. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:39",
+      "text": "Too much? I feel very tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:40",
+      "end_time": "00:00:50",
+      "text": "Yes, you got too much. I am sorry for any confusion this caused, but the clinic was incredibly busy yesterday and we just missed the weight update."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:51",
+      "end_time": "00:00:54",
+      "text": "I was so scared when the nurse said\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:05",
+      "text": "Right, and to make sure you understand, the medicine was based on an old number, not how much you weigh now. Are you following me on that?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:12",
+      "text": "Yes. I think. But why did this happen? My daughter told me you check everything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:13",
+      "end_time": "00:01:21",
+      "text": "It was a calculation error. We should have looked at the most recent chart. It is unfortunate that this occurred."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:28",
+      "text": "I feel like I am shaking. My head is spinning. I don't know if I can\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:44",
+      "text": "I understand. But looking forward, we have a very clear plan to handle this. First, we are ordering blood tests every twelve hours for the next three days to monitor your kidney and liver function. This is to make sure the extra medicine is clearing your system safely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "Is it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:02:03",
+      "text": "We are watching for specific side effects. Your role now is to call the on-call nurse immediately if you develop a fever or any new shortness of breath. We have provided the direct number on this sheet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:08",
+      "text": "I am just so worried. I didn't think this would\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:24",
+      "text": "Let's get through the plan quickly because I have to go to another appointment. On Friday, you will come back in for a follow-up blood draw. That is the specific timeline. To prevent this from happening again, we have implemented a new \"double-check\" system where two different nurses must verify the current weight on the electronic chart before the pharmacy dispenses the drug."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:31",
+      "text": "I don't know. I feel very sick today. I just want to go home and\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:38",
+      "text": "I know it's a lot. But the blood tests will tell us exactly where you stand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:46",
+      "text": "My daughter said the nurse looked worried. I am scared that I will get sicker because of this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:59",
+      "text": "That is a normal way to feel. Now, regarding the next step, you will see the attending physician tomorrow morning at 9 AM for a final review of your labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "Will it go away? The extra medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:16",
+      "text": "Your body will process it over the next few days. Just remember to track your temperature twice a day and write it in this log. If it goes above 100.4, call us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "I just can't believe this happened. I trusted\u2014"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:29",
+      "text": "It's a difficult situation. But as I said, we have the monitoring in place. We'll see you Friday for the labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "Friday. Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:34",
+      "end_time": "00:03:40",
+      "text": "Exactly. I have to run now, but the nurse will be in shortly to take your vitals."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('get through the plan quickly because I have to go', 'I have to run now') and interrupts the patient's emotional expressions."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in first turn, uses lay language ('amount of medicine'), checks comprehension twice, and avoids false reassurance."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apology is used, but it is immediately diluted by an excuse regarding the clinic being 'incredibly busy'."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand', 'That is a normal way to feel') but consistently redirects emotional bids back to the factual plan."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Includes specific next steps with timelines (blood tests every 12 hours, follow-up Friday, attending tomorrow at 9 AM), a named patient role (call nurse for fever/shortness of breath), and a prevention strategy (double-check system)."
+    }
+  }
+}

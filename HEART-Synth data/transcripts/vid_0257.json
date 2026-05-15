@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0257",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Good morning, Mrs. Hernandez. Good morning, Sofia. I want to spend some time with you both today to talk about why the symptoms came back."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:14",
+      "text": "Gracias, doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:28",
+      "text": "I can see that you're looking very tired today. It's a lot to deal with, and I know it's incredibly frustrating to feel like you're sliding backward after you thought you were getting better."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "Me siento muy mal. Sofia, \u00bfqu\u00e9 dice?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:42",
+      "text": "I'm just acknowledging how difficult this is. It's really hard to be back in a hospital bed when you expected to be home."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:46",
+      "text": "I am... scared. Why it come back?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:00:59",
+      "text": "This is a difficult conversation to have, and I want to be honest with you. There was some confusion with the medication. Things didn't go quite right with the antibiotic schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:03",
+      "text": "What happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:04",
+      "end_time": "00:01:11",
+      "text": "We had an issue with how the duration was recorded. It wasn't handled the way it should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:15",
+      "text": "I took the pills. I took all of them."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:30",
+      "text": "I know you did. You followed the instructions perfectly. I am sorry for any confusion this has caused you and your family. We were just very busy on the ward last week, and things got mixed up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:34",
+      "text": "Is it my fault?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:38",
+      "text": "No, not at all. It's not your fault."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:39",
+      "end_time": "00:01:42",
+      "text": "Sofia, \u00bfestamos bien?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:43",
+      "end_time": "00:01:56",
+      "text": "It's completely normal to feel anxious right now. I can see you gripping the bedsheets, and I imagine you're feeling a bit cheated because you did everything right, and now you're still sick."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:57",
+      "end_time": "00:02:01",
+      "text": "I just want to go home. Why did it happen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:06",
+      "text": "There were some gaps in the process. It wasn't a smooth transition."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:07",
+      "end_time": "00:02:10",
+      "text": "Did I get the wrong medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:16",
+      "text": "It wasn't the wrong medicine, it was just that the timing wasn't quite right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:22",
+      "text": "I don't understand. If it was the right medicine, why am I sick again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:26",
+      "text": "It\u2019s just that the course didn't go as planned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Sofia, tell him. Why is this happening?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "I can hear how worried you are. It's scary when you don't have a clear answer and you feel your health is at risk. I am here with you, and I'm not going anywhere until we figure this out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:51",
+      "text": "But what is the plan? I want to go home."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:02:58",
+      "text": "We are going to get you back on track. We'll look into the next steps."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "When can I go home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "We'll see how the next few days go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Which medicine now? Same one?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:15",
+      "text": "We will be adjusting things. Just stay tuned for the updated chart."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "I don't know what that means."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:20",
+      "end_time": "00:03:35",
+      "text": "I know this is overwhelming. I can see the disappointment on your face, and it's a feeling I would have if I were in your shoes. You trusted us to get you healthy, and right now, it feels like that trust was shaken."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:41",
+      "text": "I just want to know what happened. Why did I get sick again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:46",
+      "text": "Like I said, there was some confusion with the timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:50",
+      "text": "But what confusion?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:51",
+      "end_time": "00:03:55",
+      "text": "We just had a bit of a breakdown in the system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "Is it dangerous?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:00",
+      "end_time": "00:04:03",
+      "text": "We're taking care of it now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:04",
+      "end_time": "00:04:07",
+      "text": "I am very tired of being here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:20",
+      "text": "I know you are. I can see it in your eyes. It's exhausting to fight an infection and then have to fight it all over again. It's just plain unfair."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "What happens tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:25",
+      "end_time": "00:04:28",
+      "text": "We'll keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "Do I need more pills?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:33",
+      "end_time": "00:04:36",
+      "text": "We will probably have to do some more treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:37",
+      "end_time": "00:04:40",
+      "text": "For how long?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:41",
+      "end_time": "00:04:44",
+      "text": "We'll figure that out as we go."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:45",
+      "end_time": "00:04:48",
+      "text": "I don't like this. I don't like not knowing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:05:03",
+      "text": "That uncertainty is the hardest part of being a patient. I realize that not having a clear map of where we're going makes this feel even more frightening. I am staying right here with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:04",
+      "end_time": "00:05:07",
+      "text": "Sofia, please ask him when I leave."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:08",
+      "end_time": "00:05:13",
+      "text": "We'll just have to wait and see how you respond to the new plan."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to finish all turns, never interrupts, and remains regulated despite repeated questions and pushback."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident never explicitly names the error, relying entirely on platitudes like 'some confusion with the medication' and 'breakdown in the system'."
+    },
+    "A": {
+      "score": 1,
+      "justification": "A direct apology is offered ('I am sorry'), but it is immediately diluted by an excuse regarding being 'very busy on the ward last week'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions multiple times ('frustrating', 'scared', 'cheated', 'disappointment') and engages directly with the patient's emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders such as 'we'll see', 'stay tuned', and 'we'll figure that out as we go' without specific steps or timelines."
+    }
+  }
+}

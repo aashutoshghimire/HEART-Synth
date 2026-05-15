@@ -1,0 +1,153 @@
+{
+  "video_id": "vid_0156",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:13",
+      "text": "Ms. Anderson, thank you for coming back in. Mr. Harris, thank you for joining us. I asked to meet with you both because I've realized we made a mistake with your discharge instructions."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:14",
+      "end_time": "00:00:20",
+      "text": "I was wondering why you wanted to see us again. Is this about the follow-up clinic?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:21",
+      "end_time": "00:00:36",
+      "text": "Yes, it is. I personally provided you with a referral to the Eastside Specialty Clinic, but I failed to verify if they accepted your insurance. I've since found out that they do not, which means you cannot actually use that appointment. I am very sorry for this error and for the frustration this causes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:37",
+      "end_time": "00:00:47",
+      "text": "That is quite a problem. I\u2019ve already spent an hour on the phone with my provider trying to figure out why the authorization was denied."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:02",
+      "text": "I can only imagine how aggravating it is to spend your time fixing a mistake that I made. I know you're already dealing with the recovery process, and the last thing you need is a bureaucratic hurdle."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:03",
+      "end_time": "00:01:15",
+      "text": "As a hospital administrator myself, I know how these things happen in the shuffle. But that doesn't make it any less inconvenient for a patient who just wants to get better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:21",
+      "text": "You're absolutely right. It's an unacceptable lapse in my coordination of your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:27",
+      "text": "So where does that leave us? I can't just not have a follow-up."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:28",
+      "end_time": "00:01:43",
+      "text": "I have a specific plan to fix this immediately. First, I have already identified two other specialists who are in-network for your specific plan. I have their direct office lines right here. Second, I am going to call their office managers personally before I leave the clinic today to ensure they have an opening and to advocate for a priority appointment for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:49",
+      "text": "That's a start. When will I know if they've agreed to see me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:50",
+      "end_time": "00:02:05",
+      "text": "I will call you by 5:00 PM today with the confirmed date and time for your new appointment. You won't have to make any more phone calls to insurance companies or clinics. I'll handle the coordination and then email you the confirmed details."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:12",
+      "text": "I appreciate that. But how do I know the next one won't be another dead end?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:13",
+      "end_time": "00:02:28",
+      "text": "I understand why you're skeptical. To make sure this doesn't happen again, I'm implementing a double-verification step for my discharge checklists. I will be cross-referencing the insurance portal specifically for the clinic's current status before any paper hits a patient's hand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "That sounds like a reasonable process improvement."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:44",
+      "text": "I want to make sure I haven't missed anything. Does the plan to have me call you by five with a confirmed, in-network appointment address your main concern?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:49",
+      "text": "Yes, as long as the appointment is actually viable this time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "I will ensure it is."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:58",
+      "end_time": "00:03:09",
+      "text": "I'm going to stop and just let that sink in for a moment. I know this is a lot of back-and-forth for something that should have been seamless."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:10",
+      "end_time": "00:03:13",
+      "text": "It is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:22",
+      "text": "I truly apologize for the stress this put on you and your family. I'll get to work on those calls now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and maintains a regulated pace even when the patient expresses frustration."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is explicitly named in the first turn, lay language is used, and comprehension is checked twice ('Does the plan... address your main concern?' and 'I want to make sure I haven't missed anything')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology language is used ('I am very sorry', 'I truly apologize'), the resident takes full personal responsibility, and maintains accountability under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('aggravating', 'skeptical', 'stress') and references the patient's specific experience with insurance phone calls."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific next steps with a clear timeline ('by 5:00 PM today'), defines the patient's role ('You won't have to make any more phone calls'), and addresses prevention via a double-verification step."
+    }
+  }
+}

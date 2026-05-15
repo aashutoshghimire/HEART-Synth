@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0112",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:06",
+      "text": "Good afternoon, Mr. Okonkwo. Thank you for coming back in to see me so quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:07",
+      "end_time": "00:00:14",
+      "text": "Thank you for seeing me. I am just... I am very troubled. I thought this was behind me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:15",
+      "end_time": "00:00:25",
+      "text": "I know it is. This is a difficult conversation to have, and I want to be very honest with you about why your symptoms have returned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:30",
+      "text": "I had followed the instructions. I took every pill in that bottle."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:46",
+      "text": "You did. And that is where the problem lies. I made a mistake in the prescription. I prescribed the correct medicine and the correct dose, but I only gave you a ten-day supply when you actually needed twenty days to fully clear the infection."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:47",
+      "end_time": "00:00:50",
+      "text": "Ten days? You told me the course was complete."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:51",
+      "end_time": "00:01:05",
+      "text": "It was not. Because the treatment was cut short, the bacteria weren't fully gone, which is why you are feeling sick again. Does that make sense, or can I clarify anything about how the medication works?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:06",
+      "end_time": "00:01:21",
+      "text": "It makes sense. But it makes no sense that this happened. I have people in the community who look to me. My family... they see me struggling again. They will ask why I didn't get well. It looks as though I am failing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:35",
+      "text": "I can hear how much weight this puts on you. It sounds like you're worried about how this recurrence affects the way your family and your community perceive your strength and your leadership."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:36",
+      "end_time": "00:01:39",
+      "text": "Yes. It is a matter of dignity."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:44",
+      "end_time": "00:01:47",
+      "text": "Who did this? Was it a pharmacy error?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:48",
+      "end_time": "00:01:58",
+      "text": "No. The pharmacy filled it exactly as I wrote it. The error was in the writing of the script. It was a failure in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "So you are saying it was a mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:03",
+      "end_time": "00:02:07",
+      "text": "Yes. There was a mistake in the duration of the treatment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:17",
+      "text": "I feel like my time has been wasted. I spent two weeks thinking I was healthy, only to be brought back to the start."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:18",
+      "end_time": "00:02:27",
+      "text": "This is a very frustrating place to be. I recognize that this has caused you a great deal of distress and disrupted your life."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:31",
+      "text": "Is it possible that you are sorry?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:32",
+      "end_time": "00:02:37",
+      "text": "It is a very unfortunate situation. I wish we could have avoided this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:41",
+      "text": "You aren't answering my question."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "I am saying that this is a regrettable outcome."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:46",
+      "end_time": "00:02:50",
+      "text": "Regrettable is a word for a rainy day. This is my health."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "I hear that you are feeling unheard right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:03:01",
+      "text": "I just want to know how we fix this. I cannot be sick for another month."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:06",
+      "text": "We will get you started on a new course of antibiotics immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:11",
+      "text": "And then what? How do I know this one is right?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:18",
+      "text": "I will double-check the guidelines for the full duration. You can pick up the medication today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:22",
+      "text": "When will I feel better this time?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:23",
+      "end_time": "00:03:28",
+      "text": "It should be similar to the first time, assuming we complete the full course."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "And you will make sure the bottle is correct?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I will handle the prescription myself now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and remains regulated under pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and a comprehension check was performed once."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language ('I'm sorry' or 'I apologize') and uses passive/distanced phrasing like 'regrettable outcome' when asked directly."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('worried', 'frustrating', 'unheard') and references the patient's specific concerns regarding community perception and dignity."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The resident provides a specific next step (new course of antibiotics today), but fails to name a specific patient role or a prevention strategy for the future."
+    }
+  }
+}

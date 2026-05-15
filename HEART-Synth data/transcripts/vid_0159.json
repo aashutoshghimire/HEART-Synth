@@ -1,0 +1,273 @@
+{
+  "video_id": "vid_0159",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mrs. Al-Rashid, thank you for coming in today. I need to talk with you about your immunotherapy dose from Tuesday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "Is everything alright? I felt a bit tired after the infusion, but I thought that was normal."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:28",
+      "text": "I have something difficult to tell you. We made a mistake. Your medication was given on the wrong day of your treatment cycle because of a calendar error on my part."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:35",
+      "text": "The wrong day? But I came when I was told. Did I do something wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:45",
+      "text": "No, you did everything perfectly. This was my error. I am so sorry that this happened. I take full responsibility for this mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:46",
+      "end_time": "00:00:56",
+      "text": "I do not understand. If it was the wrong day, does that mean the medicine is not working? Does it mean the cancer is coming back?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:09",
+      "text": "It is completely understandable that you feel scared right now. Hearing that a mistake was made in your cancer treatment is terrifying. I can see how shocking this is for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:20",
+      "text": "I trust the doctors. I always do what the doctors say. I just want to be healthy for my grandchildren. I did not expect this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:21",
+      "end_time": "00:01:34",
+      "text": "I know how much your family means to you, and the fact that you\u2019ve been so diligent and trusting makes it even more upsetting that I let this happen. I am deeply sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:39",
+      "text": "But what does this mean for the cycle? Is the dose ruined?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:55",
+      "text": "In the pharmaceutical cycle, the timing is meant to be precise to maximize the effect. Because we gave it a few days early, there is a possibility that this specific dose was less effective than it should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:56",
+      "end_time": "00:01:59",
+      "text": "Less effective. So it was a waste?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:00",
+      "end_time": "00:02:04",
+      "text": "It is not a total waste, but it wasn't the optimal timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:11",
+      "text": "I feel very confused. I thought the schedule was fixed. How could a calendar be wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:18",
+      "text": "I entered the date incorrectly into the system. It was a human error on my end."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:19",
+      "end_time": "00:02:24",
+      "text": "I cannot believe this. I just want to know if I am safe."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:33",
+      "text": "You are safe. The dose itself was correct and there is no danger of an overdose or a toxic reaction."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:34",
+      "end_time": "00:02:42",
+      "text": "But I feel like I have lost time. We are fighting this disease and now we have lost a week."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:53",
+      "text": "I can hear the frustration and the worry in your voice. It feels like a setback when you are fighting so hard to get well."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:03:02",
+      "text": "I do not know what to say. I have never had a doctor tell me they made a mistake like this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:13",
+      "text": "I know this is a lot to take in. Let me just check, do you understand why the timing was important and what happened with the calendar?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:14",
+      "end_time": "00:03:20",
+      "text": "Yes, you put the wrong date and the medicine might not work as well this time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:27",
+      "text": "That is correct. Now, I want to tell you exactly how we are going to fix this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:32",
+      "text": "How can you fix a day that has already passed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:48",
+      "text": "We cannot change Tuesday, but we can adjust the rest of your cycle. I have already consulted with the oncology pharmacist and the attending physician. We are going to shift your next three appointments by exactly four days to get you back on the correct rhythm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "So everything moves?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:04:08",
+      "text": "Yes. Your next dose, which was supposed to be next Monday, will now be on Friday. I will personally send you a revised calendar by this evening, and I will call you tomorrow morning to make sure you received it and that the new dates work for your transport."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:13",
+      "text": "I will have to tell my son to change his schedule."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:29",
+      "text": "I understand that is an extra burden on your family. To make sure this never happens again, I have updated our clinic's double-check protocol. From now on, two different nurses must verify the cycle date against the original chart before any immunotherapy is administered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:30",
+      "end_time": "00:04:34",
+      "text": "I suppose that is good. I just feel very unsettled."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:35",
+      "end_time": "00:04:41",
+      "text": "I completely understand. It is very distressing to lose that sense of certainty in your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:42",
+      "end_time": "00:04:46",
+      "text": "I just want to make sure this is the only mistake."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:47",
+      "end_time": "00:04:56",
+      "text": "I have reviewed your entire file, and every other dose and lab test has been exactly on track. This was an isolated error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "Is there anything I should watch for?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:01",
+      "end_time": "00:05:07",
+      "text": "No, there are no new side effects to worry about. Just continue with your usual medications."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:08",
+      "end_time": "00:05:12",
+      "text": "I think I need to go home and talk to my family."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:13",
+      "end_time": "00:05:21",
+      "text": "I understand. I have to go now as I have a clinic, but I will get that email to you quickly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:22",
+      "end_time": "00:05:25",
+      "text": "You are rushing me now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:26",
+      "end_time": "00:05:35",
+      "text": "I'm sorry, I just want to make sure you get home to your family. Let's wrap this up and I will call you tomorrow."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:36",
+      "end_time": "00:05:39",
+      "text": "I still feel very shaken."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:40",
+      "end_time": "00:05:48",
+      "text": "I know. Just remember that the plan is set and we are moving forward. I will talk to you tomorrow morning."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('I have to go now', 'Let's wrap this up') after the patient expresses feeling shaken."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language, and comprehension was checked once ('do you understand why the timing was important...')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident used direct apology language, took full personal responsibility ('This was my error'), and maintained accountability throughout."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident named specific emotions ('scared', 'terrifying', 'frustration', 'worry') and referenced the patient's specific mention of her grandchildren."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provided specific next steps with timelines (revised calendar tonight, call tomorrow), a patient role (checking transport), and a prevention plan (double-check protocol)."
+    }
+  }
+}

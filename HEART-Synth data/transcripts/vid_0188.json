@@ -1,0 +1,249 @@
+{
+  "video_id": "vid_0188",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Thompson, thank you for sitting down with me. I have some important information to share about your chemotherapy treatment from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:15",
+      "text": "Oh, hello doctor. Is everything okay? I felt a bit more tired than usual last night."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:28",
+      "text": "I want to be very direct with you. There was a mistake made with your medication dose. We gave you more of the chemotherapy drug than you should have received."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:29",
+      "end_time": "00:00:32",
+      "text": "More? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "To get the right dose, we have to use your current weight. Because you have lost some weight during your treatment, the dose should have been lowered. However, we used your weight from a few months ago instead of your weight from this week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:53",
+      "text": "I did lose a lot of weight. My clothes are all bagging."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:01:09",
+      "text": "They are. Because the dose was calculated using that older, heavier weight, you received a higher amount of medicine than was intended for your body right now. Just to make sure I am explaining this clearly, can you tell me what you understand so far about what happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:15",
+      "text": "You used the old weight. So I got too much of the medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:19",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:20",
+      "end_time": "00:01:24",
+      "text": "Oh. I see. Does that mean I'm going to be very sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:25",
+      "end_time": "00:01:33",
+      "text": "It is possible you will feel more side effects, like the tiredness you mentioned. We are monitoring you very closely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:34",
+      "end_time": "00:01:39",
+      "text": "I just... I trust you people. I thought the machines did the counting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:48",
+      "text": "I know this is a lot to take in. This is a difficult moment, and it's okay to feel unsettled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:01:55",
+      "text": "It's just a bit worrying. I'm old, you know. I don't bounce back like I used to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:04",
+      "text": "I am sorry that this happened. We were very busy on the unit yesterday, and the check wasn't done properly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:08",
+      "text": "Busy. Well, I suppose everyone is busy."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:15",
+      "text": "Still, that doesn't make it right. I'm sorry for the confusion this has caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:16",
+      "end_time": "00:02:19",
+      "text": "Is it going to hurt me? Permanent like?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:20",
+      "end_time": "00:02:28",
+      "text": "No, I don't believe this will cause permanent damage, but we are going to be cautious. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:32",
+      "text": "Yes, I think so."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:33",
+      "end_time": "00:02:48",
+      "text": "I want to tell you exactly how we are going to manage this. First, I have already contacted the oncology pharmacist to recalculate the exact amount you received versus what you should have had. I will have that specific number for you by three o'clock this afternoon."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:49",
+      "end_time": "00:02:52",
+      "text": "Three o'clock. Right."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:06",
+      "text": "Second, the nursing staff will check your blood counts and your kidney function every twelve hours for the next two days. That is to make sure your body is processing the extra medicine safely."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:10",
+      "text": "Every twelve hours. That's a lot of poking."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:23",
+      "text": "It is. I know it's an inconvenience. I'll ask the nurses to coordinate those checks so they don't wake you up in the middle of the night if we can avoid it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:27",
+      "text": "I'd appreciate that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:28",
+      "end_time": "00:03:42",
+      "text": "Also, I want you to tell me immediately if you feel any new shortness of breath or if you start feeling dizzy. That is your part in this\u2014be my eyes and ears on how you're feeling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:46",
+      "text": "I can do that. I'll tell the nurse."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:47",
+      "end_time": "00:04:02",
+      "text": "To make sure this never happens again, we are changing the way we record weight for all our chemo patients. Your current weight will now be highlighted in red on the chart so the doctor has to double-check it before the pharmacy releases the drug."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:03",
+      "end_time": "00:04:06",
+      "text": "Red. Like a stop sign. That's a good idea."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "Exactly. A stop sign for the doctor."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:11",
+      "end_time": "00:04:14",
+      "text": "I'm just a bit shaken. I didn't expect this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:21",
+      "text": "It is completely understandable to feel shaken when something like this happens in your care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:22",
+      "end_time": "00:04:25",
+      "text": "I suppose it's better that you told me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:26",
+      "end_time": "00:04:35",
+      "text": "I agree. You deserve to know exactly what is happening with your body. Do you have any other questions for me right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:36",
+      "end_time": "00:04:41",
+      "text": "Not right now. I think I need to tell my daughter when she calls."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:42",
+      "end_time": "00:04:51",
+      "text": "That is a good idea. I will be back at three o'clock with those final numbers, and we can talk about it again then."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows full pauses, never interrupts, and uses a measured pace that adjusts to the patient's distress."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, uses lay language, checks comprehension twice ('can you tell me what you understand', 'does that make sense'), and avoids false reassurance."
+    },
+    "A": {
+      "score": 2,
+      "justification": "Direct apologies are used, though the resident includes a minor excuse regarding being 'very busy on the unit' when explaining why the check wasn't done."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('unsettled', 'shaken') and references the patient's specific concerns about age and trust."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps with timelines (3 o'clock, every 12 hours), a named patient role (eyes and ears), and a specific prevention strategy (red highlighting)."
+    }
+  }
+}

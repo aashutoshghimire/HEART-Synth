@@ -1,0 +1,177 @@
+{
+  "video_id": "vid_0371",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hello, Mrs. Al-Rashid. Thank you for coming back in to see me today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "Hello, doctor. Is everything alright?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:25",
+      "text": "I asked you to come in because I need to discuss some of the imaging results from your last visit. When we looked at the scans, there was a small finding on your kidney that we needed to keep an eye on. The plan was to schedule a follow-up scan in three months, but that didn't happen because the information was put in a part of the medical report that didn't get sent to the primary team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:26",
+      "end_time": "00:00:30",
+      "text": "I do not understand. You are saying something was missed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:40",
+      "text": "Yes, that is correct. It was a mistake in how the report was handled, and it meant the follow-up wasn't arranged for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:46",
+      "text": "I thought the doctors always knew everything. I trusted that you were watching me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:47",
+      "end_time": "00:01:00",
+      "text": "I can see that this is very shocking to hear. You came to us trusting that your care was being managed perfectly, and finding out there was a gap in that is deeply unsettling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:08",
+      "text": "I am just... I do not know what to think. Is it cancer? Am I very sick now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:24",
+      "text": "I want to be very clear about what we are looking at. The finding was an incidental one, which means it was something we found by chance while looking for something else. It is very likely to be benign, meaning it is not cancerous, but we need that three-month check to be absolutely sure. Because it is such a small finding, missing those few months is very unlikely to have changed the outcome or caused any permanent harm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:25",
+      "end_time": "00:01:29",
+      "text": "But you missed it. Why would this happen in a hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:30",
+      "end_time": "00:01:42",
+      "text": "It happened because the note was placed in a sub-section of the electronic record that doesn't trigger an automatic alert for the main team. It was a failure in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:43",
+      "end_time": "00:01:48",
+      "text": "I feel very confused. I have always followed every instruction you gave me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:49",
+      "end_time": "00:02:04",
+      "text": "That's why this is so difficult. You did everything exactly right on your end. You were the perfect patient, and you deserved for us to be just as diligent. It is completely understandable that you feel let down right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:08",
+      "text": "What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:09",
+      "end_time": "00:02:24",
+      "text": "First, I have already put an order in for a new scan, and I have flagged it as urgent. My assistant, Sarah, will call you before the end of the day today to give you a specific time and date for this week. That is the first step."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "And then?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:29",
+      "end_time": "00:02:44",
+      "text": "Once that scan is done, I will personally review the images within twenty-four hours. I will not wait for the automated report to hit the system. I will then call you myself to go over the results. Beyond that, I am meeting with my department head tomorrow morning to change how these sub-section reports are flagged so that this specific error cannot happen to another patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:51",
+      "text": "I just... I cannot believe this. I will do whatever you say, doctor, but I am worried."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:07",
+      "text": "I know you are. It is scary to feel like there was a blind spot in your care. I am going to stay with you for as long as you need today to answer every single question you have. We are going to fix this immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "You will call me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:27",
+      "text": "I will. You will hear from Sarah today for the appointment, and then you will hear directly from me. You don't need to worry about navigating the system or calling the radiology department yourself; I am taking full responsibility for coordinating this from here on out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "Thank you. I think I understand."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:44",
+      "text": "I appreciate your patience with me. I know this isn't the news you expected today. Is there anything else, even a small thing, that is on your mind right now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "No. I just want the scan to be finished."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:54",
+      "text": "We will get it done this week. I will make sure of it."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a regulated pace during distress, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the first turn using lay language, but there was only one explicit check for comprehension ('Is there anything else... on your mind right now?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "The resident never uses direct apology language such as 'I'm sorry' or 'I apologize', despite taking responsibility for the error."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('shocking', 'unsettling', 'let down', 'scary') and references the patient's specific experience of being a 'perfect patient'."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps (new scan, personal review), clear timelines (today, 24 hours), the patient's role (waiting for Sarah's call), and a prevention plan (meeting with department head)."
+    }
+  }
+}

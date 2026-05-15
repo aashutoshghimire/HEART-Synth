@@ -1,0 +1,297 @@
+{
+  "video_id": "vid_0046",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "text": "Hello Mrs. Al-Rashid. It is good to see you again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:05",
+      "end_time": "00:00:08",
+      "text": "Hello Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:09",
+      "end_time": "00:00:18",
+      "text": "I wanted to come back and talk with you today because I know we left several of your questions unanswered during our last visit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:19",
+      "end_time": "00:00:26",
+      "text": "I have been thinking about it a lot. I cannot quite understand how this happens in a hospital."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:39",
+      "text": "I can see that you are still very shaken by this. It is an incredibly heavy thing to process, and I want us to take as much time as we need today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:40",
+      "end_time": "00:00:48",
+      "text": "I just... I trust the doctors. I always do. To find out there was a mistake... it is very distressing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:56",
+      "text": "I recognize how unsettling it is, especially when you have placed your trust in us to keep you safe."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:57",
+      "end_time": "00:01:01",
+      "text": "So, what exactly happened? You said it was about my weight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:17",
+      "text": "Yes, I want to be very clear about that. The chemotherapy dose was calculated using your weight from three months ago. Because you have lost a significant amount of weight during your treatment, the dose you received was higher than what your current weight required."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:18",
+      "end_time": "00:01:21",
+      "text": "Because I am thinner now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:34",
+      "text": "Exactly. The medication is measured by how much a person weighs. Since we used the old, higher weight, you received too much of the drug. Does that explanation make sense to you?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:39",
+      "text": "Yes, I think I understand. But why was the old weight used?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:40",
+      "end_time": "00:01:50",
+      "text": "It was a failure in our process. The previous weight was still listed in the chart, and it was not updated before the dose was ordered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:55",
+      "text": "And you were the one who gave it to me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:56",
+      "end_time": "00:02:05",
+      "text": "I was. I am so sorry that this happened. We failed to double-check the current weight, and I take full responsibility for that mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:11",
+      "text": "I do not know what to say. I just wanted to get better."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:12",
+      "end_time": "00:02:22",
+      "text": "I can hear how disappointing and frightening this feels. You came here to heal, and instead, you have to deal with the stress of a medical error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:29",
+      "text": "I feel very small in this. I just do the things you tell me to do."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:40",
+      "text": "I know you have been a wonderful patient, following every instruction. Which makes it even more frustrating that we did not do our part correctly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:45",
+      "text": "Will this make me sicker? Will the overdose hurt my organs?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:58",
+      "text": "That is the most important question. We have been monitoring your blood work closely. While the dose was higher than intended, your kidney and liver functions are still within a safe range."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "Are you sure?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:16",
+      "text": "Based on the tests from yesterday, yes. But I want to make sure I have explained the situation clearly. Do you feel you have a good understanding now of why the dose was wrong?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "I think so. It was the wrong weight."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "So, what happens now? How do we fix this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:34",
+      "text": "We are going to keep a very close eye on your blood markers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:35",
+      "end_time": "00:03:38",
+      "text": "When will I know if I am okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:39",
+      "end_time": "00:03:42",
+      "text": "We will just keep checking the labs."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:43",
+      "end_time": "00:03:47",
+      "text": "But what about the next dose? Do I take it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:48",
+      "end_time": "00:03:56",
+      "text": "We will look at the schedule. I think we will just see how you feel over the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:57",
+      "end_time": "00:04:03",
+      "text": "Do I need to do anything? Should I be watching for certain signs at home?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:04",
+      "end_time": "00:04:08",
+      "text": "You can just let us know if you feel different."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:09",
+      "end_time": "00:04:15",
+      "text": "I don't know what \"different\" means, Doctor. Should I be worried about my breathing or my stomach?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:16",
+      "end_time": "00:04:20",
+      "text": "We will figure that out. We'll probably send some updates."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:25",
+      "end_time": "00:04:30",
+      "text": "I'm not entirely sure on the timing yet, but we will keep you posted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:31",
+      "end_time": "00:04:37",
+      "text": "I feel very uneasy. I do not know if I can trust the next bottle of medicine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:38",
+      "end_time": "00:04:51",
+      "text": "I can feel the doubt in your voice. It is completely natural to feel that way after what happened. Your trust was broken, and I know that is not something that is fixed overnight."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:52",
+      "end_time": "00:04:56",
+      "text": "I just want to know that it will not happen again."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:57",
+      "end_time": "00:05:02",
+      "text": "I hear you. That is the most important thing for you right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:03",
+      "end_time": "00:05:07",
+      "text": "Yes. How do I know the next dose is right?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:08",
+      "end_time": "00:05:11",
+      "text": "We will be monitoring you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:12",
+      "end_time": "00:05:15",
+      "text": "That is not a plan, Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:16",
+      "end_time": "00:05:20",
+      "text": "I understand. We'll just take it one step at a time."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a regulated pace during pushback, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error (overdose due to old weight) is named explicitly by the second resident turn, uses lay language, and comprehension is checked twice (01:32 and 03:08)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am so sorry'), takes full personal responsibility ('I take full responsibility'), and maintains this without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('shaken', 'unsettling', 'disappointing and frightening', 'doubt') and references the patient's specific experience of trust."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders and vague responses ('we will figure that out', 'we'll just take it one step at a time') with no timelines, patient role, or prevention plan."
+    }
+  }
+}

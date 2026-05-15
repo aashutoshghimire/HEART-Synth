@@ -1,0 +1,393 @@
+{
+  "video_id": "vid_0135",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hello, Mr. Mbeki. I wanted to come in and talk to you for a few minutes about your chest X-ray from yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:13",
+      "text": "I thought those were clear. The nurse mentioned everything looked fine."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:18",
+      "text": "There was an issue with how the imaging was handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:19",
+      "end_time": "00:00:22",
+      "text": "An issue? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:31",
+      "text": "Well, there was some confusion with the portable machine and the way things were set up. It didn't go quite right."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:37",
+      "text": "I don't understand. Was it a bad image or was the result bad?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:49",
+      "text": "It was just a situation where the image wasn't as clear as it should have been, and the report we got wasn't a complete picture of what was happening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:50",
+      "end_time": "00:00:53",
+      "text": "Are you saying the first one was wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:54",
+      "end_time": "00:00:59",
+      "text": "It was just suboptimal. The system for the portable X-rays is quite complex."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:05",
+      "text": "Suboptimal. Right. So what does that mean for me? Am I getting sicker?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:06",
+      "end_time": "00:01:09",
+      "text": "I can see that this is frustrating to hear."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:10",
+      "end_time": "00:01:21",
+      "text": "I'm more than frustrated. I've already missed three days of work. I have a business to run, and I was told I was clear to go home soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:22",
+      "end_time": "00:01:28",
+      "text": "It is a lot to handle when you have so many responsibilities waiting for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:29",
+      "end_time": "00:01:32",
+      "text": "Exactly. So tell me plainly, did you miss something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:33",
+      "end_time": "00:01:37",
+      "text": "There was some difficulty with the positioning of the plate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:41",
+      "text": "You're not answering me. Did you make a mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:42",
+      "end_time": "00:01:46",
+      "text": "There were some challenges with the equipment and the timing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:47",
+      "end_time": "00:01:51",
+      "text": "This is very vague. Was the doctor wrong? Was the technician wrong?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:52",
+      "end_time": "00:02:00",
+      "text": "It's just a case of the image not being of diagnostic quality, which led to a report that didn't capture everything."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:01",
+      "end_time": "00:02:05",
+      "text": "So you told me I was fine when you actually didn't know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:09",
+      "text": "I know this is a difficult moment to navigate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:16",
+      "text": "I don't need a moment, I need an answer. Is my lung okay or not?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:17",
+      "end_time": "00:02:20",
+      "text": "We need to get a better look at it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "Why now? Why wasn't this caught yesterday?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "These things can happen in a busy ward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:38",
+      "text": "My business doesn't stop being a priority just because your ward is busy. Every hour I'm in this bed is money I'm losing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:44",
+      "text": "I can hear how much pressure you're under with your business right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:53",
+      "text": "I'm under pressure because I'm stuck here because of a mistake. Just say it. Did you mess up the X-ray?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:02:57",
+      "text": "There was an error in the process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:58",
+      "end_time": "00:03:01",
+      "text": "Who is responsible for that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:06",
+      "text": "The coordination between the imaging team and the ward can be tricky."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:07",
+      "end_time": "00:03:13",
+      "text": "I don't care about coordination. I care about my health and my time. What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:17",
+      "text": "We will look into getting another one."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:18",
+      "end_time": "00:03:21",
+      "text": "When? Today? Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:27",
+      "text": "I'll have to check the schedule and see when the technicians are available."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:28",
+      "end_time": "00:03:31",
+      "text": "That's not a time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "I'll try to get it sorted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:41",
+      "text": "If I'm staying another day for a repeat test, who is paying for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:45",
+      "text": "We'll have to see how the billing works out."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:46",
+      "end_time": "00:03:49",
+      "text": "I can't believe this. I was ready to leave."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:50",
+      "end_time": "00:03:53",
+      "text": "This is a very stressful turn of events."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:04:00",
+      "text": "It's infuriating. I feel like I'm being lied to with these fancy words like suboptimal."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:01",
+      "end_time": "00:04:04",
+      "text": "I understand that this is upsetting."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:05",
+      "end_time": "00:04:13",
+      "text": "Do you actually have a plan to get me out of here, or are we just waiting for another mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:14",
+      "end_time": "00:04:21",
+      "text": "Just stay tuned. I'll have someone come by or perhaps an email will be sent regarding the new time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:22",
+      "end_time": "00:04:28",
+      "text": "I don't want an email. I want to know if I can go back to work tomorrow."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:29",
+      "end_time": "00:04:32",
+      "text": "I can't say for sure yet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:33",
+      "end_time": "00:04:36",
+      "text": "This is unbelievable."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:37",
+      "end_time": "00:04:40",
+      "text": "I know it's hard."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:41",
+      "end_time": "00:04:49",
+      "text": "Are you even going to tell me what the actual mistake was, or just keep saying it didn't go right?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:50",
+      "end_time": "00:04:54",
+      "text": "Like I said, the positioning of the X-ray was an issue."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:55",
+      "end_time": "00:05:00",
+      "text": "Which means you didn't actually see the area you were supposed to see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:01",
+      "end_time": "00:05:04",
+      "text": "It was just an imperfect image."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:05",
+      "end_time": "00:05:08",
+      "text": "And you told me it was normal."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:09",
+      "end_time": "00:05:12",
+      "text": "There was some confusion in the reporting process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:13",
+      "end_time": "00:05:16",
+      "text": "So you lied to me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:17",
+      "end_time": "00:05:20",
+      "text": "It's a complicated system."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:21",
+      "end_time": "00:05:28",
+      "text": "It's not complicated. You did it wrong, you told me it was right, and now I'm losing money."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:29",
+      "end_time": "00:05:33",
+      "text": "I can see how a person would feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:05:34",
+      "end_time": "00:05:37",
+      "text": "Then fix it. Now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:05:38",
+      "end_time": "00:05:41",
+      "text": "I will see what I can do."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident never interrupts the patient and remains regulated and calm despite significant pushback and anger."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident uses platitudes and hedging such as 'didn't go quite right' and 'some confusion' without explicitly naming the error until the patient forces the issue, and never checks for comprehension."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language ('I'm sorry' or 'I apologize') is used, and responsibility is deflected to the 'complex system' and 'coordination between teams'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frustrating', 'stressful', 'upsetting') and references the patient's specific concerns regarding his business."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provides only placeholders such as 'stay tuned' and 'I'll have to check the schedule' with no concrete timeline or patient role."
+    }
+  }
+}

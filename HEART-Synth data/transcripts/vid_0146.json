@@ -1,0 +1,207 @@
+{
+  "video_id": "vid_0146",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:05",
+      "text": "Hi Mr. Park, it is good to see you again. Please, have a seat."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:06",
+      "end_time": "00:00:09",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:10",
+      "end_time": "00:00:22",
+      "text": "Before we go over your recovery and the next steps, there is something I need to discuss with you regarding the contrast dye we used during your scan last week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:23",
+      "end_time": "00:00:26",
+      "text": "Oh, okay. Was there something wrong with the scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:27",
+      "end_time": "00:00:42",
+      "text": "The scan itself was fine, but there was a mistake in how we handled your care. We gave you the contrast agent when we should not have. I am very sorry for this. I take full responsibility for this error."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:43",
+      "end_time": "00:00:47",
+      "text": "Wait, what do you mean? Like, it was the wrong medicine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:48",
+      "end_time": "00:01:03",
+      "text": "No, it was the right dye for the test, but based on your blood work, your kidneys were already under a lot of stress. We should have followed a specific safety protocol to protect your kidneys before giving you that dye, and we failed to do that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:04",
+      "end_time": "00:01:08",
+      "text": "I don't really know what that means. What happens now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:21",
+      "text": "I know this is a lot to take in. Basically, because we didn't do the pre-treatment, there is a risk that the dye could have caused further damage to your kidney function."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:22",
+      "end_time": "00:01:28",
+      "text": "I... I didn't even know my kidneys were stressed. Is that why I felt so tired?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:29",
+      "end_time": "00:01:44",
+      "text": "It could be a contributing factor. I can see that you look really overwhelmed right now, and it makes total sense that you'd feel that way, especially since you're managing all of this on your own for the first time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:45",
+      "end_time": "00:01:56",
+      "text": "Yeah. I just... I didn't want to call my parents because I wanted to show them I could do this. Now I don't even know if I'm okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:57",
+      "end_time": "00:02:09",
+      "text": "It sounds like you've been trying really hard to be independent and take this on yourself, and now you're feeling like that's being threatened by something that wasn't your fault."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:13",
+      "text": "I guess. Are my kidneys going to fail?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:24",
+      "text": "I can't give you a definitive answer right this second, but we are monitoring you very closely to make sure we catch any changes immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:25",
+      "end_time": "00:02:30",
+      "text": "So, what did you actually do wrong? Like, did the machine mess up?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:44",
+      "text": "No, the machine was fine. The information was right there in your chart, but the team and I missed it. We didn't check the creatinine levels against the protocol. That was our mistake."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:45",
+      "end_time": "00:02:51",
+      "text": "I don't even know if I should be mad. I just... I trust you guys."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:52",
+      "end_time": "00:03:02",
+      "text": "That trust is exactly why I feel so terrible about this. You trusted us with your health, and we let you down. I am truly sorry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:06",
+      "text": "Is there a way to fix it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:07",
+      "end_time": "00:03:16",
+      "text": "Right now, we need to manage it. I want to get you back for another blood draw this Friday to check those levels again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "Friday. Okay. What else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:33",
+      "text": "I'm going to check your chart again to see if we need to adjust your fluids. I'll probably have you drink more water than usual for the next few days."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:37",
+      "text": "Like, how much?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:38",
+      "end_time": "00:03:44",
+      "text": "I'll have the nurse give you a specific amount of liters per day to hit."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "Do I need to do anything else?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:57",
+      "text": "Just keep track of how much you're urinating and let me know if you see any blood or if the color changes."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "Okay. I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:10",
+      "text": "I'll have my coordinator call you tomorrow just to check in and make sure you have the appointment time for Friday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:11",
+      "end_time": "00:04:14",
+      "text": "Okay. Thank you."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows patient to finish all turns, maintains a steady pace during emotional distress, and uses no rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but there were no comprehension checks (e.g., 'Does that make sense?') throughout the transcript."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am very sorry'), takes full responsibility ('I take full responsibility'), and maintains this without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('overwhelmed', 'feeling like that's being threatened') and references the patient's specific struggle with independence."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Resident provides specific next steps with timelines (blood draw Friday, coordinator call tomorrow) and patient roles (drink water, track urination), but does not address how to prevent the error in the future."
+    }
+  }
+}

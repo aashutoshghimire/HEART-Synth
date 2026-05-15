@@ -1,0 +1,255 @@
+{
+  "video_id": "vid_0323",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Mr. Lindqvist, thank you for coming in. I need to discuss a mistake that was made regarding your MRI scans."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "A mistake? What kind of mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:27",
+      "text": "Basically, two different patients had their MRI studies stored under the same accession number in our system. Because of that, the surgical team reviewed the wrong set of images when they were planning your procedure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:36",
+      "text": "Wait, so you\u2019re telling me the surgeons were looking at someone else\u2019s anatomy while deciding how to operate on me?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "That is correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:41",
+      "end_time": "00:00:56",
+      "text": "This is unbelievable. I spent fifteen years as a paramedic. I know exactly how a radiology mismatch happens, and it's usually because someone is cutting corners. How does a duplicate accession number even happen in a modern hospital?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:57",
+      "end_time": "00:01:07",
+      "text": "I can see why you're feeling so angry. It is incredibly frustrating and frankly frightening to find out the team was working from the wrong data."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:08",
+      "end_time": "00:01:14",
+      "text": "Frightening? It's negligent. Who was the attending that signed off on the plan? Was it you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:15",
+      "end_time": "00:01:25",
+      "text": "I am sorry for the confusion this has caused. We were really busy in the imaging department that day and the system didn't flag the duplicate."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:26",
+      "end_time": "00:01:34",
+      "text": "Don't give me the \"busy\" excuse. You're talking about a systemic failure and a human failure. Did I get the wrong surgery?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:35",
+      "end_time": "00:01:47",
+      "text": "No, the good news is that the error was caught before the surgery took place. We have now verified that we have your correct images and the plan is adjusted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:48",
+      "end_time": "00:01:53",
+      "text": "So you're telling me it's fine now and I should just move on?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:02:08",
+      "text": "I know it\u2019s hard to just move on when your trust in us has been shaken. I can hear how much this has upset you, especially given your background and knowing how these things should actually work."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:09",
+      "end_time": "00:02:15",
+      "text": "It\u2019s not just about being upset. It\u2019s about accountability. Who is taking responsibility for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:20",
+      "text": "I apologize that this happened. It was a failure of our process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:27",
+      "text": "\"Failure of the process.\" That's a very convenient way of saying no one is at fault."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:28",
+      "end_time": "00:02:36",
+      "text": "I realize that sounds like I'm dodging. It's just... we really did have a massive volume of patients that morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:49",
+      "text": "I don't care about the volume. I care about the fact that my medical record was compromised. What happens now? How do I know the next scan isn't someone else's?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:50",
+      "end_time": "00:02:53",
+      "text": "Well, we've already double-checked the files."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:03:02",
+      "text": "That's not a plan. That's a statement. What is the actual protocol moving forward to make sure this doesn't happen again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:03",
+      "end_time": "00:03:07",
+      "text": "We'll probably look into how the accession numbers are assigned."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "\"Probably?\" That's it? No incident report? No formal review?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:18",
+      "text": "I'm sure something will be done. But for now, we just need to focus on the surgery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:19",
+      "end_time": "00:03:28",
+      "text": "I'm not focusing on anything until I know there's a safeguard. Are you the one responsible for the final check of the images?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "I'm the resident on the case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:39",
+      "text": "Then you're the one who should be telling me exactly what the corrective action is."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:49",
+      "text": "Look, I have to go check on another patient in a moment, so maybe we can just agree that the images are correct now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:50",
+      "end_time": "00:03:58",
+      "text": "You are rushing me out of the room after telling me you almost operated on me based on a stranger's MRI."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:59",
+      "end_time": "00:04:05",
+      "text": "I'm not trying to rush you, I just think we've established that the error was caught."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:06",
+      "end_time": "00:04:12",
+      "text": "We established that an error occurred. We have not established how you're going to fix it."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:13",
+      "end_time": "00:04:16",
+      "text": "I'll check with my attending."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:17",
+      "end_time": "00:04:20",
+      "text": "When?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:24",
+      "text": "Sometime this week."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:25",
+      "end_time": "00:04:32",
+      "text": "This is a joke. I want a written record of this error and a meeting with the department head."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:33",
+      "end_time": "00:04:41",
+      "text": "I can't promise a meeting with the head of the department right now, but stay tuned for an email from us."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:42",
+      "end_time": "00:04:45",
+      "text": "An email. That's your solution."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:46",
+      "end_time": "00:04:53",
+      "text": "It's the best I can do at this second. Do you have any other questions about the scan itself?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:54",
+      "end_time": "00:05:00",
+      "text": "I have plenty of questions, but I don't think I'm getting any real answers here."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language ('I have to go check on another patient') and shows defensive escalation under pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and in lay language, but there were no comprehension checks performed."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Direct apologies were used, but they were diluted by excuses regarding being 'really busy' and 'massive volume of patients'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident named specific emotions ('angry', 'frustrating', 'frightening') and referenced the patient's background as a paramedic."
+    },
+    "T": {
+      "score": 0,
+      "justification": "The resident provided only placeholders and vague promises ('probably look into', 'stay tuned for an email', 'sometime this week')."
+    }
+  }
+}

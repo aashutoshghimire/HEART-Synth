@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0005",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Hi Mr. Park. It is good to see you again. I wanted to circle back and give you the answers to those questions you had last time about how the mistake happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "Oh, okay. Thank you for coming back."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:27",
+      "text": "This is a really difficult conversation to have, and I know it feels heavy. I want to make sure we take all the time you need today."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:28",
+      "end_time": "00:00:32",
+      "text": "I appreciate that. I just... I'm still kind of confused."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:33",
+      "end_time": "00:00:48",
+      "text": "I understand. To be clear about what happened, there was a failure in the imaging system where two different patients were assigned the same accession number. Essentially, that is the digital ID code for a scan. Because of that, your MRI was stored in the same file as someone else's. When the surgical team opened the file to plan your procedure, they looked at the other person's images instead of yours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:55",
+      "text": "Wait, so the doctors actually looked at a different person's brain and thought it was mine?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:08",
+      "text": "Yes, that is exactly what happened. The team reviewed the wrong study, and that is why the surgical approach they decided on was not the correct one for your specific anatomy."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:18",
+      "text": "I can't believe that. I mean, I'm just a student, I don't really know how this works. Is this like, a common thing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:34",
+      "text": "It is not common, and it should not have happened. I am very sorry for this error. Our team is responsible for ensuring the right image is matched to the right patient, and we failed to do that in your case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:35",
+      "end_time": "00:01:46",
+      "text": "It just feels scary. I'm here by myself and I don't even know if I should be asking for something or if I'm allowed to complain about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:47",
+      "end_time": "00:01:51",
+      "text": "I understand you're feeling a bit overwhelmed by the whole process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:52",
+      "end_time": "00:01:58",
+      "text": "Yeah. I just don't want to cause trouble, but I'm worried about the surgery now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:59",
+      "end_time": "00:02:05",
+      "text": "It is completely okay to be worried. Let's focus on what we are doing to fix this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:10",
+      "text": "What happens now? Do I have to get another MRI?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:26",
+      "text": "Yes, the first step is to have you come back in tomorrow morning at 8:00 AM for a repeat scan. This will give us a fresh, verified image. I will personally double-check the accession number and the patient name on the screen before the surgeons even look at it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Tomorrow morning? I have a class."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:46",
+      "text": "I know that's an inconvenience. If you can miss that one class, we can get this sorted immediately. Once the new scan is done, the lead surgeon will meet with you tomorrow afternoon around 3:00 PM to explain the updated surgical plan based on the correct images."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:52",
+      "text": "I guess I can tell my professor. Does this mean the surgery is postponed?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:53",
+      "end_time": "00:03:04",
+      "text": "It does. We are pushing it back by one week. This ensures we have the right plan and that everyone on the team has reviewed your actual scans."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:11",
+      "text": "Okay. I think I get it. So a new scan tomorrow, then a meeting with the surgeon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:19",
+      "text": "That is correct. I'll send a summary of this to your patient portal so you have it in writing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:24",
+      "text": "Do you think this will happen again? Like, with the other patient?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:37",
+      "text": "We are currently auditing every single scan from that day to make sure no one else was affected. It's an important part of making sure this doesn't happen to anyone else."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:38",
+      "end_time": "00:03:41",
+      "text": "I just feel like I'm in over my head."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:42",
+      "end_time": "00:03:46",
+      "text": "I hear that. It is a lot to handle on your own."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:47",
+      "end_time": "00:03:52",
+      "text": "Thanks for telling me. I just... I didn't know who to talk to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:53",
+      "end_time": "00:03:59",
+      "text": "I'm glad we could talk today. We will see you tomorrow morning for that scan."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, avoids interruptions, and uses pacing that acknowledges the patient's distress without rushing."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error is explicitly named in the second turn using lay language, and the resident checks comprehension once ('That is correct' confirming the patient's summary)."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident uses direct apology language ('I am very sorry') and explicitly takes responsibility ('Our team is responsible... and we failed')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('overwhelmed', 'worried') and references the patient's specific situation of being alone."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Plan includes specific steps (repeat scan, surgeon meeting) with timelines (tomorrow 8am, tomorrow 3pm, one week delay), the patient's role (missing class/attending scan), and prevention (auditing other scans)."
+    }
+  }
+}

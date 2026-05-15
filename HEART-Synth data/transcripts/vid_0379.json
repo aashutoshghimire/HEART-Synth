@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0379",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:08",
+      "text": "Hi Mr. Park. I wanted to come by and talk to you about the procedure we did on your arm earlier."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:09",
+      "end_time": "00:00:12",
+      "text": "Oh, hi. Is everything okay?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:13",
+      "end_time": "00:00:18",
+      "text": "Well, I need to discuss something that happened during the repair of the laceration."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:19",
+      "end_time": "00:00:22",
+      "text": "Was there a problem with the stitches?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:23",
+      "end_time": "00:00:37",
+      "text": "The stitches are fine, but I made a mistake during the process. I didn't check your pain levels properly while I was working, and as a result, I completed the repair without giving you enough anaesthetic infiltration."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:45",
+      "text": "Oh. I mean, it did hurt. A lot. I just thought maybe it was supposed to be like that?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:46",
+      "end_time": "00:00:55",
+      "text": "It wasn't. You should have been numb. I am very sorry that I didn't ensure you were comfortable, and that is my responsibility."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:08",
+      "text": "I didn't really know what to say at the time. I've never really been in a hospital by myself before. I just figured you guys knew what you were doing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:09",
+      "end_time": "00:01:12",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:25",
+      "text": "It was just... it felt like it was going on forever, and I was just trying to breathe through it. I thought maybe if I complained it would make it take longer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:39",
+      "text": "Right. From a technical side, the infiltration is the liquid we inject to numb the area, and I didn't use enough of it or verify if it had worked before I started stitching."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:40",
+      "end_time": "00:01:43",
+      "text": "So you just forgot?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:44",
+      "end_time": "00:01:49",
+      "text": "I failed to check your response. It was an error in my process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:53",
+      "text": "Does that mean the wound is worse now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:01:59",
+      "text": "No, the repair itself is solid. But I know it was a painful experience."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "Yeah, it was. I'm still kind of shaking actually."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:07",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:13",
+      "text": "I just... I don't really know if this happens often. Like, is this normal?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:19",
+      "text": "No, this is not how we want to provide care. It shouldn't have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:20",
+      "end_time": "00:02:23",
+      "text": "I guess it's okay. I'm just glad it's over."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:24",
+      "end_time": "00:02:36",
+      "text": "I want to make sure we handle the recovery correctly now. I've written an order for a stronger pain medication to help you feel more comfortable for the next twelve hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:37",
+      "end_time": "00:02:40",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:41",
+      "end_time": "00:02:55",
+      "text": "I'll have the nurse bring that to you within the next twenty minutes. I want you to let the nursing staff know immediately if the pain spikes again or if you see any unusual swelling."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:56",
+      "end_time": "00:02:59",
+      "text": "I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:00",
+      "end_time": "00:03:07",
+      "text": "I'll also be back to check the dressing and your pain levels myself tomorrow morning around 8:00 AM."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:11",
+      "text": "Okay, thanks."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:16",
+      "text": "You're welcome. I'll let the nurse know to bring that medication now."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish all turns and adjusts pacing to the patient's distress without interrupting."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly and lay language was used, but the resident never checked for patient comprehension."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language ('I am very sorry') and explicitly took responsibility ('that is my responsibility')."
+    },
+    "R": {
+      "score": 1,
+      "justification": "Resident used generic validation ('I understand') twice but did not name specific emotions back to the patient."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provided specific steps (medication, follow-up visit), timelines (20 minutes, 8:00 AM), a patient role (notify staff of pain/swelling), and addressed prevention by stating this is not how they want to provide care."
+    }
+  }
+}

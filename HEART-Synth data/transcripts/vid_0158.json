@@ -1,0 +1,273 @@
+{
+  "video_id": "vid_0158",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello, Mr. Mbeki. I have some updated information regarding your scans and I want to sit down and talk through it with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:18",
+      "text": "Oh, good. I was hoping we could finalize the discharge date today. I really need to get back to the shop."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:19",
+      "end_time": "00:00:31",
+      "text": "I understand that is a priority. Before we talk about the discharge, I have to tell you that I made a mistake in how I gave you your imaging results yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:35",
+      "text": "A mistake? What do you mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:36",
+      "end_time": "00:00:51",
+      "text": "I told you that the tumour had shrunk. However, the radiologist had not yet signed off on the final report when I spoke to you. Now that the final report is complete, it shows that the disease is actually stable, meaning it hasn't shrunk, but it hasn't grown either."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:52",
+      "end_time": "00:00:55",
+      "text": "Wait. So it didn't get smaller?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:56",
+      "end_time": "00:01:04",
+      "text": "That is correct. It is stable. I should not have shared the preliminary results with you before they were verified."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:11",
+      "text": "I don't understand. Why would you tell me one thing and then change it the next day?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:12",
+      "end_time": "00:01:22",
+      "text": "I was too quick to share the initial findings. I apologize for this. It was my error, and I am sorry for giving you incorrect information."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:23",
+      "end_time": "00:01:31",
+      "text": "I actually called my daughter last night. I told her the treatment was working. I told her we could breathe easier."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:40",
+      "text": "Does that make sense so far, or can I clarify any of the terms I used regarding the stability of the tumour?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:41",
+      "end_time": "00:01:44",
+      "text": "The words make sense. The situation doesn't."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:45",
+      "end_time": "00:01:48",
+      "text": "I know this is a very difficult moment."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:49",
+      "end_time": "00:02:01",
+      "text": "It's a waste of time. I've spent days in this bed thinking I was making progress. Do you know how much money I'm losing every day I'm not running my business?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "I understand."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:14",
+      "text": "You don't understand. My staff depends on me. I can't just stay here if the medicine isn't even shrinking the thing."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:26",
+      "text": "I see. To make sure we are on the same page, you're concerned that the stability of the tumour means your time away from work hasn't been productive."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:27",
+      "end_time": "00:02:30",
+      "text": "Exactly. Now I feel like I've been lied to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:38",
+      "text": "I am truly sorry for the mistake I made in communicating those results. I take full responsibility for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:39",
+      "end_time": "00:02:42",
+      "text": "So what now? Do we change the drugs?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:43",
+      "end_time": "00:02:46",
+      "text": "We'll have to see."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "See what? Is there a meeting? A new scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:51",
+      "end_time": "00:02:54",
+      "text": "The consultants will likely review the case."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:55",
+      "end_time": "00:02:58",
+      "text": "When? Today? Tomorrow?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:59",
+      "end_time": "00:03:02",
+      "text": "I'm not entirely sure of the timing yet."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:03",
+      "end_time": "00:03:11",
+      "text": "That's not helpful. I need a date. I need to know if I'm going home or staying here for another week."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:16",
+      "text": "I can't give you a specific date right this second."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:21",
+      "text": "This is unbelievable. First the wrong news, now no plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:22",
+      "end_time": "00:03:25",
+      "text": "I understand it's frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:26",
+      "end_time": "00:03:29",
+      "text": "Frustrating? I'm talking about my livelihood here."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:30",
+      "end_time": "00:03:33",
+      "text": "Like I said, the disease is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:34",
+      "end_time": "00:03:39",
+      "text": "I don't care about the word stable. I care about when I can leave."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "I will check with the attending physician."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:48",
+      "text": "And then what? You'll come back and tell me another mistake?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:52",
+      "text": "I will do my best to get an answer."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:53",
+      "end_time": "00:03:57",
+      "text": "I want to speak to the head of the department."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "I can probably arrange that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:06",
+      "text": "I want a written copy of this final report. Now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "I can request that for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:11",
+      "end_time": "00:04:15",
+      "text": "Just get it done. I can't keep sitting here in the dark."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:16",
+      "end_time": "00:04:19",
+      "text": "I'll see what I can find out."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish turns and remains regulated under pushback, with no interruptions or rushing language."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in the second turn, lay language used, and comprehension checked twice ('Does that make sense so far', 'To make sure we are on the same page')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apologies used ('I apologize', 'I am sorry'), takes full responsibility, and maintains accountability throughout the patient's anger."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident names a specific emotion ('frustrating') and references the patient's specific concern regarding productivity and work."
+    },
+    "T": {
+      "score": 1,
+      "justification": "Next steps are vague ('check with attending', 'arrange' meeting) with no specific timelines or patient role provided."
+    }
+  }
+}

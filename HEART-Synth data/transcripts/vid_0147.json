@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0147",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Rivera, thank you for coming in today. I asked you to come by because I\u2019ve found a mistake in your son's medical records that I need to discuss with you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:16",
+      "text": "Is everything okay? Is Leo sick?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:17",
+      "end_time": "00:00:32",
+      "text": "Leo is doing well, but there was a failure in how we managed his developmental screening. We missed a referral for him. In our system, the screening was marked as completed after the first appointment was declined, but the team didn't actually follow up to schedule a new one. This means he hasn't had the screening he should have had."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:33",
+      "end_time": "00:00:41",
+      "text": "I... I don't understand. I told you I couldn't make that first date. I thought you were going to call me back."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:53",
+      "text": "You are absolutely right. We should have called you back. I am very sorry that we failed to do that and that this mistake happened under our care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:54",
+      "end_time": "00:01:01",
+      "text": "What does this mean for my son? Is he behind? Is he... is he permanently delayed because of this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:02",
+      "end_time": "00:01:16",
+      "text": "It's too early to say what the impact is, but we can't know for sure until we do the screening. Does that make sense so far, or can I clarify anything about how the error happened?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:17",
+      "end_time": "00:01:25",
+      "text": "I just... I can't believe this. I try so hard to do everything right. I come to every other appointment."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:26",
+      "end_time": "00:01:37",
+      "text": "I can see how frustrating and scary this is. You've been diligent with his care, and you trusted us to do our part, and we let you down."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:53",
+      "text": "I'm just scared. If he has something... if he needs special help... I don't even know if we can afford it. And with my papers, I don't know if I can even get the services he needs. I can't have people looking into us."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:54",
+      "end_time": "00:02:04",
+      "text": "It sounds like you're feeling overwhelmed, not just by the mistake, but by the fear of how this affects your family's security and Leo's future."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:05",
+      "end_time": "00:02:09",
+      "text": "I just want him to be okay. I can't fail him."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:10",
+      "end_time": "00:02:20",
+      "text": "You aren't failing him. You are the one who noticed something felt off and brought him back. We are the ones who missed the mark here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:21",
+      "end_time": "00:02:24",
+      "text": "Is it a big deal? The screening?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:40",
+      "text": "It is important. It helps us catch things like speech or motor delays early so we can get kids the right support. Missing a few months isn't always a disaster, but it is a gap that shouldn't have happened."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:41",
+      "end_time": "00:02:45",
+      "text": "I feel like I can't even be mad. I just feel... small."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:02:56",
+      "text": "I hear you. It's an incredibly heavy feeling to feel like you don't have a voice in a system that's supposed to help your child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:00",
+      "text": "So what happens now? Do we just wait more?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:01",
+      "end_time": "00:03:16",
+      "text": "No, we are going to fix this immediately. First, I have already contacted the developmental clinic. I've flagged Leo as a priority. I want you to call the number I'm writing down now, and if they don't give you an appointment for this coming Friday, I want you to tell me immediately."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "Friday? I have to miss work."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:21",
+      "end_time": "00:03:31",
+      "text": "I understand that's a burden. If Friday doesn't work, tell me, and I will call the clinic director myself to find a time that fits your schedule."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:32",
+      "end_time": "00:03:35",
+      "text": "Will they ask about my status? My papers?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:36",
+      "end_time": "00:03:47",
+      "text": "The clinical team is only concerned with Leo's health. We will make sure the appointment is handled privately. My priority is getting Leo screened and getting you answers."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:48",
+      "end_time": "00:03:51",
+      "text": "Okay. I can try Friday."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:04:06",
+      "text": "I'll also be updating Leo's chart with a \"hard stop\" alert. This means any one of us who opens his file will see a reminder that this screening must be completed, so this can't happen again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:07",
+      "end_time": "00:04:10",
+      "text": "I just hope he's okay."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:11",
+      "end_time": "00:04:26",
+      "text": "I hope so too. As soon as that appointment is over on Friday, I want you to send me a quick message or call the office to let me know it happened. Then, I will personally review the results and we will sit down again to talk about the next steps. Does that plan sound manageable?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:27",
+      "end_time": "00:04:30",
+      "text": "Yes. I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:31",
+      "end_time": "00:04:38",
+      "text": "I am truly sorry again, Mr. Rivera. Thank you for being patient with me while we get this sorted."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "The resident allows the patient to express distress and fears without interruption and uses a regulated, patient pace throughout."
+    },
+    "E": {
+      "score": 3,
+      "justification": "The error (missed referral) is named in the second turn, lay language is used, comprehension is checked twice ('Does that make sense', 'Does that plan sound manageable'), and no false reassurance is given regarding the impact."
+    },
+    "A": {
+      "score": 3,
+      "justification": "The resident uses direct apology language ('I am very sorry') and explicitly takes responsibility ('we failed to do that', 'we let you down') without deflection."
+    },
+    "R": {
+      "score": 3,
+      "justification": "The resident names specific emotions ('frustrating and scary', 'overwhelmed', 'heavy feeling') and references the patient's specific concerns regarding immigration status and family security."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The plan includes a specific timeline (Friday), a named patient role (call the number/message the office), and a prevention strategy (hard stop alert in the chart)."
+    }
+  }
+}

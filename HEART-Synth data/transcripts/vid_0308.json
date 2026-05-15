@@ -1,0 +1,201 @@
+{
+  "video_id": "vid_0308",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:11",
+      "text": "Mr. Okafor, thank you for coming back in to see me today. I wanted to have a conversation with you about what happened during your chemotherapy infusion yesterday."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:12",
+      "end_time": "00:00:21",
+      "text": "I appreciate that. It was certainly a distressing experience. I've had a few rounds before, but I have never felt that level of nausea."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:22",
+      "end_time": "00:00:34",
+      "text": "I am incredibly sorry. I made a mistake in your medication orders and I failed to include the anti-nausea pre-medications that you should have received before we started the infusion."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:35",
+      "end_time": "00:00:40",
+      "text": "I see. So the vomiting was because those specific drugs weren't in my system?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:41",
+      "end_time": "00:00:54",
+      "text": "Yes, exactly. We normally give those drugs to block the signals that cause nausea. Because I missed that step, your body reacted to the chemotherapy without any protection. Does that make sense so far?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:07",
+      "text": "It does. I was wondering why the nurses seemed so surprised when I started getting sick. Now I understand why. Were these the same medications we discussed in the initial consult?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:08",
+      "end_time": "00:01:18",
+      "text": "They were. It was a direct oversight on my part when I was entering the orders into the computer. I take full responsibility for that."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:19",
+      "end_time": "00:01:31",
+      "text": "I'm a retired teacher, so I'm used to people making mistakes. But in a clinical setting, it's a bit more concerning. I felt quite panicked when I couldn't stop vomiting."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:37",
+      "text": "It sounds like that was a very frightening and overwhelming experience for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:52",
+      "text": "It was. I felt like I had lost control of my own body for an hour. I just want to know if this oversight means there's something wrong with the actual chemotherapy dose I received."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:53",
+      "end_time": "00:02:03",
+      "text": "No, the chemotherapy dose was exactly as it should have been. This error was limited specifically to the supportive medications used to manage the side effects."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:04",
+      "end_time": "00:02:10",
+      "text": "Okay. And how do we ensure this doesn't happen again? I have several more rounds to go."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:11",
+      "end_time": "00:02:17",
+      "text": "I am going to review my ordering process. I've also spoken with the nursing lead."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "That's a start. But will there be a checklist? Or a double-verification process before the infusion starts?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:31",
+      "text": "We have systems in place, and I'll be making sure I follow them more strictly."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:32",
+      "end_time": "00:02:37",
+      "text": "That feels a bit vague. Who is actually checking the order against the protocol?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:43",
+      "text": "I'll handle it. I just need to be more careful with the data entry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:44",
+      "end_time": "00:02:48",
+      "text": "I'd prefer a more concrete safeguard than just being more careful."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:53",
+      "text": "I hear you. I'll make sure it's right next time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:54",
+      "end_time": "00:03:03",
+      "text": "When will I get the updated schedule for the next round? And will there be a written confirmation that the pre-meds are locked in?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:07",
+      "text": "I'll send the schedule out eventually."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:08",
+      "end_time": "00:03:13",
+      "text": "Eventually? I need to coordinate my transport and my childcare for my grandkids."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:14",
+      "end_time": "00:03:23",
+      "text": "I'll try to get it to you soon. I actually have to go now, I have a clinic that started five minutes ago."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:24",
+      "end_time": "00:03:28",
+      "text": "Wait, we haven't actually discussed the plan for the next session."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:35",
+      "text": "We'll just do the same thing as the original plan, but with the nausea meds."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:36",
+      "end_time": "00:03:45",
+      "text": "I'm asking for a specific verification step. Who is the person I should ask for when I arrive to ensure the pre-meds are administered?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:46",
+      "end_time": "00:03:53",
+      "text": "Just check with the nurse. Let's wrap this up, I really have to get to my other patient."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "I'm not entirely comfortable with this conclusion."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:02",
+      "text": "It's a simple fix, Mr. Okafor. Everything will be fine next time."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('I actually have to go now', 'Let's wrap this up') and shows defensive escalation under pushback."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn using lay language and a comprehension check was performed ('Does that make sense so far?'), but false reassurance was given at the end."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Resident used direct apology language, explicitly took full responsibility, and maintained that accountability throughout the conversation."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident named a specific emotion ('frightening and overwhelming') and engaged with the patient's emotional bid regarding the loss of control."
+    },
+    "T": {
+      "score": 1,
+      "justification": "The plan is vague ('I'll send the schedule out eventually') with no concrete timeline or specific patient role."
+    }
+  }
+}

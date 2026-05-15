@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0202",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello, Mrs. Fitzgerald. I'm glad we could sit down together. I know it has been a very long and difficult twenty-four hours for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:13",
+      "text": "It has."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:14",
+      "end_time": "00:00:29",
+      "text": "I've asked you here because I need to be honest with you about why you ended up back in the emergency department last night. We made a mistake in your care. You were discharged six hours too early. According to our post-operative protocol, the rules we follow after surgery, you should have stayed in the hospital longer to ensure your wound was stable before going home."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:30",
+      "end_time": "00:00:33",
+      "text": "Oh."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:34",
+      "end_time": "00:00:48",
+      "text": "I want to be very clear that this was our error. We failed to follow that timeline, and as a result, you were sent home before it was safe. I am very sorry for this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:54",
+      "text": "My husband would have known what to do. He always took care of me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:00",
+      "text": "I know you miss him terribly, especially when things feel overwhelming like this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:01",
+      "end_time": "00:01:04",
+      "text": "He did. He did."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:05",
+      "end_time": "00:01:12",
+      "text": "To make sure I've explained this clearly, do you understand why you had to come back to the hospital?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:13",
+      "end_time": "00:01:16",
+      "text": "You let me go too soon."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:27",
+      "text": "That is correct. Because you left earlier than you should have, we didn't catch the early signs of the wound complication. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:31",
+      "text": "Yes. It makes sense."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:41",
+      "text": "I can see that you're just tired. This is a lot to take in, and it's an exhausting way to spend a weekend."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:45",
+      "text": "I'm just tired."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:02:01",
+      "text": "I appreciate you listening. Now, I want to walk you through exactly how we are going to fix this and make sure you are safe. First, you are staying with us for the next forty-eight hours. This isn't optional this time. We need to monitor the wound and give you intravenous antibiotics to clear the infection."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "I see."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:06",
+      "end_time": "00:02:21",
+      "text": "I will be visiting you every four hours to check the dressing myself. Then, before you leave again, I am going to personally coordinate a home-health nurse. They will come to your house on Tuesday and Thursday this week to change your bandages and check your temperature. You won't have to manage the wound alone."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:22",
+      "end_time": "00:02:25",
+      "text": "That sounds alright."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:26",
+      "end_time": "00:02:41",
+      "text": "Regarding your role, I need you to tell me immediately if you feel a chill or if the area feels warm to the touch. If that happens, you press this call button right here. Does that sound like something you can do?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:42",
+      "end_time": "00:02:45",
+      "text": "Yes, I can do that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:46",
+      "end_time": "00:03:01",
+      "text": "I also want you to know that I am filing a formal incident report with our quality department today. We are reviewing our discharge checklist to ensure that no other patient is sent home early by mistake. We have to make sure this doesn't happen again."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "Well, that's good."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:06",
+      "end_time": "00:03:12",
+      "text": "I know that a report doesn't change the fact that you had to go through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "I suppose not."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:28",
+      "text": "I'm going to step out for a moment to get your updated medication list. Would you like me to bring you some water or a blanket before I do?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:32",
+      "text": "No, thank you."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:33",
+      "end_time": "00:03:42",
+      "text": "I'll be back in about ten minutes. If you think of any questions while I'm gone, just jot them down on this pad."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 3,
+      "justification": "Resident allows the patient to finish all turns, maintains a steady pace, and uses no rushing language."
+    },
+    "E": {
+      "score": 3,
+      "justification": "Error named in the second turn, uses lay language, and checks comprehension twice ('do you understand why...', 'Does that make sense?')."
+    },
+    "A": {
+      "score": 3,
+      "justification": "Direct apology used ('I am very sorry for this') and takes full responsibility ('this was our error', 'We failed')."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Names specific emotions ('miss him terribly', 'tired', 'exhausting') and engages the patient's bid regarding her husband."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Includes specific steps with timelines (48 hours, Tuesday/Thursday), defines the patient's role (report chills/warmth), and addresses prevention (incident report/checklist review)."
+    }
+  }
+}

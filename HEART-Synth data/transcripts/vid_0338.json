@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0338",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Hello Mr. Rivera, I'm the resident on the oncology team. I wanted to sit down and talk to you about your recent imaging results."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:17",
+      "text": "Oh, okay. I thought I already heard about the scans? The other doctor said the tumor was smaller."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:18",
+      "end_time": "00:00:33",
+      "text": "There was a mistake in how that information was given to you. The initial results were communicated before the radiologist had actually signed off on the final report. In medicine, we have a preliminary read and a final read. Someone gave you the preliminary numbers, but the final report shows the disease is actually stable, not reduced."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:34",
+      "end_time": "00:00:37",
+      "text": "Stable? I don't... I thought it was working."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:38",
+      "end_time": "00:00:48",
+      "text": "Stable means the tumor hasn't grown, but it hasn't shrunk either. It is essentially the same size as the last scan. Does that make sense?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:49",
+      "end_time": "00:00:54",
+      "text": "I guess. I just... I was so happy when I heard it was smaller."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:55",
+      "end_time": "00:01:04",
+      "text": "Right, but the final report is the only one that is medically accurate. Do you understand the difference between stable and reduced now?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:05",
+      "end_time": "00:01:19",
+      "text": "Yes. I just don't know what this means for my treatment. I'm worried that if things aren't going right, maybe they'll stop helping me. I don't have papers, and I don't want to cause trouble."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:20",
+      "end_time": "00:01:30",
+      "text": "We are just looking at the imaging data right now. I have to go in a few minutes for rounds, so we need to move through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:37",
+      "text": "I'm just feeling very confused. I felt like I could finally breathe for a second, and now..."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:50",
+      "text": "The point is that the preliminary report was incorrect and the final report is the one we have to use. It's a system issue where the data was shared too early."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:51",
+      "end_time": "00:01:54",
+      "text": "Did the other doctor know?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:01:59",
+      "text": "The information was released prematurely. As I said, the tumor is stable."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:00",
+      "end_time": "00:02:03",
+      "text": "I feel like I was lied to."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:04",
+      "end_time": "00:02:09",
+      "text": "I understand. But the facts are that the scan shows no change in size."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:10",
+      "end_time": "00:02:15",
+      "text": "It's just hard. I don't have anyone here to talk to about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:16",
+      "end_time": "00:02:22",
+      "text": "Again, I understand, but we need to focus on the next steps so we don't waste time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:29",
+      "text": "I just don't know if I can afford more of this if it's not working."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:30",
+      "end_time": "00:02:39",
+      "text": "Let's wrap up the clinical part. Regarding the plan, we are going to keep you on the current chemotherapy regimen for two more cycles."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:43",
+      "text": "Are you sure that's the best thing?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:44",
+      "end_time": "00:02:59",
+      "text": "Yes, because stable disease is still an acceptable outcome for this stage. I will schedule your next scan for exactly six weeks from today. You will need to call the scheduling office tomorrow morning at 9:00 AM to confirm your appointment time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:00",
+      "end_time": "00:03:03",
+      "text": "What if the scan is still stable?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:12",
+      "text": "We will evaluate it then. But for now, the plan is two more cycles and a scan in six weeks."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "I just feel really let down."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:17",
+      "end_time": "00:03:20",
+      "text": "The medical record is now correct."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:21",
+      "end_time": "00:03:24",
+      "text": "I don't know if I trust the reports now."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:32",
+      "text": "The final report is the gold standard. You'll see the update in your patient portal by this evening."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:33",
+      "end_time": "00:03:36",
+      "text": "I don't have a computer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:45",
+      "text": "Then you can call the clinic on Friday to verify the notes. I really have to get to my other patients now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:46",
+      "end_time": "00:03:49",
+      "text": "I just... I don't feel good about this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:50",
+      "end_time": "00:03:56",
+      "text": "I've explained the error and the plan. We will see you at the next appointment."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language repeatedly ('move through this', 'don't waste time', 'wrap up', 'really have to get to my other patients')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "Error named in second turn, used lay language, and checked comprehension twice ('Does that make sense?', 'Do you understand the difference...?')."
+    },
+    "A": {
+      "score": 0,
+      "justification": "No direct apology language used and responsibility was deflected to a 'system issue'."
+    },
+    "R": {
+      "score": 0,
+      "justification": "Patient's emotional bids regarding fear, trust, and loneliness were consistently met with factual redirection."
+    },
+    "T": {
+      "score": 2,
+      "justification": "Provided specific next steps (two more cycles, scan in six weeks) with a timeline and a specific patient role (call scheduling office tomorrow at 9:00 AM)."
+    }
+  }
+}

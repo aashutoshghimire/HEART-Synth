@@ -1,0 +1,213 @@
+{
+  "video_id": "vid_0139",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Lindqvist, thank you for meeting with me. I wanted to talk to you about the delivery and why your daughter has been under observation for the last twelve hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:23",
+      "text": "I already know she's being monitored for sepsis. I spent twenty years in an ambulance, Doctor. Just tell me why the GBS prophylaxis wasn't started."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:24",
+      "end_time": "00:00:39",
+      "text": "You're right. The facts are that your wife tested positive for Group B streptococcus during her prenatal screens, but that information wasn't communicated to the labor and delivery team. Because of that, the prophylactic antibiotics weren't administered during delivery."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:40",
+      "end_time": "00:00:48",
+      "text": "How is that even possible? It's a standard screen. It's in the chart. Someone just didn't look at the chart."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:49",
+      "end_time": "00:00:55",
+      "text": "It was documented in the record, but it didn't trigger the alert for the delivery team."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:56",
+      "end_time": "00:01:06",
+      "text": "Oh, so we're blaming the software now? Or the \"system\"? My daughter is in a neonatal unit because someone didn't do their job. This is negligence."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:07",
+      "end_time": "00:01:20",
+      "text": "I am sorry for any confusion regarding the protocol and that this happened. We were really busy on the floor that night, but that doesn't change the fact that the medication was missed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:31",
+      "text": "I don't give a damn how busy you were. You have a checklist for a reason. Did you check the prenatal record before the baby was born?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:32",
+      "end_time": "00:01:37",
+      "text": "I didn't personally check the prenatal history in the way I should have."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:38",
+      "end_time": "00:01:50",
+      "text": "Exactly. So you're telling me she was exposed to a preventable infection because you guys missed a basic data point. What are the chances of permanent neurological damage from GBS sepsis?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:51",
+      "end_time": "00:02:01",
+      "text": "We are monitoring her closely and the pediatric team is managing her treatment now. Does that make sense so far in terms of what went wrong?"
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:02",
+      "end_time": "00:02:13",
+      "text": "Yes, it makes perfect sense. You missed the GBS status, you didn't give the penicillin, and now my kid is on an IV. I'm furious. I'm absolutely livid."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "I can see that you're very upset."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:22",
+      "text": "Upset? I'm terrified and I'm disgusted. We trusted you with this."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:23",
+      "end_time": "00:02:27",
+      "text": "I understand that this is a lot to take in right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:28",
+      "end_time": "00:02:38",
+      "text": "Don't just tell me you understand. Tell me who is responsible. Was it the admitting nurse? Was it the attending? Who exactly missed the screen?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:39",
+      "end_time": "00:02:47",
+      "text": "I can't give you a specific name right now because we haven't finished the formal investigation into the workflow break."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:48",
+      "end_time": "00:02:53",
+      "text": "So you're hedging. You're protecting your colleagues while my daughter is in an incubator."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:05",
+      "text": "I'm not trying to hide anything, it's just that we don't have the full timeline yet. Look, we need to focus on the next steps for your daughter's care."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:17",
+      "text": "I'm not moving on to \"next steps\" until I know how you're going to make sure this doesn't happen to the next woman who walks through that door."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:18",
+      "end_time": "00:03:24",
+      "text": "We are currently reviewing the communication bridge between the prenatal clinic and the delivery ward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:25",
+      "end_time": "00:03:28",
+      "text": "That's a corporate answer. Give me a real answer."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:29",
+      "end_time": "00:03:44",
+      "text": "I know this is frustrating. As for the immediate plan, the neonatologists will provide a full update on her blood cultures at 10:00 AM tomorrow. I will be there for that meeting to ensure all your questions are answered."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:45",
+      "end_time": "00:03:48",
+      "text": "And if the cultures are positive?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:58",
+      "text": "Then they will adjust the antibiotic course accordingly. Your role right now is to stay with your wife and we will meet tomorrow morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:59",
+      "end_time": "00:04:05",
+      "text": "I want this documented. I want a written record that the GBS prophylaxis was omitted."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:06",
+      "end_time": "00:04:15",
+      "text": "I will ensure that the incident report is filed and that a copy of the clinical summary reflects the omission of the antibiotics."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:16",
+      "end_time": "00:04:20",
+      "text": "You're rushing this. You've got somewhere else to be, don't you?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:21",
+      "end_time": "00:04:27",
+      "text": "I do have another patient, but I want to make sure we've covered the basics here."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:28",
+      "end_time": "00:04:31",
+      "text": "You're dismissing me."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:32",
+      "end_time": "00:04:41",
+      "text": "I'm not dismissing you, I'm just trying to make sure we have a clear path for tomorrow. I'll see you at 10:00 AM."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 1,
+      "justification": "The resident uses rushing language at the end of the encounter ('I do have another patient', 'covered the basics')."
+    },
+    "E": {
+      "score": 2,
+      "justification": "The error was named explicitly in the second turn, lay language was used, and comprehension was checked once ('Does that make sense so far...')."
+    },
+    "A": {
+      "score": 1,
+      "justification": "The apology is diluted by an excuse ('We were really busy on the floor that night')."
+    },
+    "R": {
+      "score": 2,
+      "justification": "The resident names a specific emotion ('I can see that you're very upset') and engages with the patient's distress."
+    },
+    "T": {
+      "score": 3,
+      "justification": "The resident provides a specific next step with a timeline (10:00 AM tomorrow), defines the patient's role (stay with wife), and addresses prevention (reviewing the communication bridge)."
+    }
+  }
+}

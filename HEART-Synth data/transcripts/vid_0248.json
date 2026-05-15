@@ -1,0 +1,225 @@
+{
+  "video_id": "vid_0248",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:12",
+      "text": "Mr. Okonkwo, thank you for seeing me. I wanted to come in and talk to you about your scan from yesterday and why there was a delay in starting your medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:13",
+      "end_time": "00:00:19",
+      "text": "The other doctor told me everything was fine with the scan. He said the results were clear."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:20",
+      "end_time": "00:00:35",
+      "text": "I know that is what you were told, and I am truly sorry that we gave you the wrong information. I apologize for the mistake and for the fact that we failed to get your treatment started on time."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:36",
+      "end_time": "00:00:44",
+      "text": "I spent nearly a whole day thinking I was in the clear. Now you are telling me I was wrong."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:00:59",
+      "text": "It must be incredibly jarring to be told one thing and then find out it wasn't the case. I can see how distressing it is to feel like you can't trust the word you're being given."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:00",
+      "end_time": "00:01:15",
+      "text": "It is not just the trust. People know I am here. My family, the people in my community... if it comes out that I was handled poorly, or that I am more sick than I said, it affects how they see me. I have a position to maintain."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:16",
+      "end_time": "00:01:27",
+      "text": "You've spent your life building a reputation as a leader and a pillar for your family, and it sounds like this uncertainty feels like a threat to that dignity."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:28",
+      "end_time": "00:01:38",
+      "text": "Precisely. I do not want my children thinking their father is frail or that the doctors are playing games with his life. What actually happened?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:49",
+      "text": "There were some things that didn't quite go right with the report. There was a bit of a mix-up in how the imaging was read initially."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:54",
+      "text": "A mix-up? What does that mean? Did they miss something?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:55",
+      "end_time": "00:02:02",
+      "text": "We had an issue with the preliminary findings. The final review by the senior doctor eventually corrected it."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:03",
+      "end_time": "00:02:07",
+      "text": "That doesn't tell me what was missed. Was it the blood clot?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:08",
+      "end_time": "00:02:16",
+      "text": "We had some confusion with the reports, and it took about eighteen hours for the final check to be completed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:17",
+      "end_time": "00:02:21",
+      "text": "I am asking you plainly. Was the clot on the first scan?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:22",
+      "end_time": "00:02:30",
+      "text": "The system had a glitch in the reporting process, which is why the information you were given first was incorrect."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:31",
+      "end_time": "00:02:37",
+      "text": "You are not answering my question. You keep talking about systems and glitches. Was the clot there?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:38",
+      "end_time": "00:02:46",
+      "text": "It is just that the initial report didn't capture everything, and we had to wait for the attending to verify the study."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:47",
+      "end_time": "00:02:53",
+      "text": "This is very frustrating. I feel like I am being managed rather than being told the truth."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:54",
+      "end_time": "00:03:04",
+      "text": "I can tell you're feeling dismissed right now, and I hate that you feel that way. I really do care about getting this right for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:05",
+      "end_time": "00:03:10",
+      "text": "Then tell me why I waited eighteen hours for a medicine I needed."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:11",
+      "end_time": "00:03:19",
+      "text": "We had a discrepancy in the paperwork, and as soon as the senior radiologist saw the images, we moved forward."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:23",
+      "text": "So it was there the whole time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:24",
+      "end_time": "00:03:28",
+      "text": "There were some complications in how the data was processed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:29",
+      "end_time": "00:03:36",
+      "text": "I don't care about the data. I care about my health. What happens now? How do we fix this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:37",
+      "end_time": "00:03:43",
+      "text": "We are moving forward with the treatment now. We'll just keep an eye on things."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:51",
+      "text": "That is not a plan. When do I go home? When do I know the clot is gone?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:52",
+      "end_time": "00:03:57",
+      "text": "We'll see how you respond to the medication over the next little while."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "The next little while? Is that tomorrow? Next week?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:02",
+      "end_time": "00:04:07",
+      "text": "I'm not entirely sure of the exact hour, but we'll keep you posted."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:08",
+      "end_time": "00:04:14",
+      "text": "I cannot go back to my community saying I'm just waiting for a while. I need dates."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:15",
+      "end_time": "00:04:26",
+      "text": "I understand this is stressful, but let's just focus on the medicine for now. I actually have to go check on another patient, so let's wrap this up."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:27",
+      "end_time": "00:04:30",
+      "text": "You are leaving? We have not solved anything."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:31",
+      "end_time": "00:04:34",
+      "text": "I'll be back later. Just stay tuned for updates."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident uses rushing language ('let's wrap this up') and abruptly ends the encounter while the patient is still expressing distress."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses only platitudes and hedging ('things didn't quite go right', 'mix-up', 'glitch') and repeatedly refuses to explicitly name the error when asked."
+    },
+    "A": {
+      "score": 0,
+      "justification": "While an initial apology was given, the resident ultimately deflected responsibility to 'the system', 'the reporting process', and 'the data' under pushback."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('jarring', 'distressing', 'dismissed') and references the patient's specific concerns regarding his reputation and dignity."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders ('keep an eye on things', 'stay tuned') and refuses to provide specific timelines or dates."
+    }
+  }
+}

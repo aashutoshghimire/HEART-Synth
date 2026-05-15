@@ -1,0 +1,189 @@
+{
+  "video_id": "vid_0178",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:10",
+      "text": "Mr. Lindqvist, thank you for coming in. I wanted to sit down with you and discuss the events regarding your partner's delivery and the fetal monitoring."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:11",
+      "end_time": "00:00:15",
+      "text": "About time. We've been waiting for an explanation for three hours."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:31",
+      "text": "I know you have. I can see that you're incredibly frustrated, and honestly, it is a heavy thing to sit with. I want to be here with you for as long as it takes to go through this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:32",
+      "end_time": "00:00:44",
+      "text": "I don't need a therapy session. I saw the strips. I was a paramedic for twenty years. I saw the decelerations on that monitor. Why wasn't anything done for two hours?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:45",
+      "end_time": "00:00:54",
+      "text": "There was an issue with how the tracing was managed during that window. Some things didn't go quite right with the review process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:55",
+      "end_time": "00:01:02",
+      "text": "What does that actually mean? Did you miss it? Was it a machine failure? Use the words, Doctor."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:11",
+      "text": "There was some confusion in the categorization of the fetal heart rate. The review wasn't performed as it should have been."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:12",
+      "end_time": "00:01:18",
+      "text": "Categorization? You mean it was a Category II or III and you called it a Category I?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:19",
+      "end_time": "00:01:29",
+      "text": "It's a very stressful environment and we were managing quite a few high-risk cases at once, but I'm sorry for any confusion this has caused you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:30",
+      "end_time": "00:01:38",
+      "text": "Confusion? This isn't \"confusion,\" it's a clinical failure. Two hours of fetal distress because someone couldn't read a graph. That is negligence."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:39",
+      "end_time": "00:01:49",
+      "text": "I can hear how angry you are, and given your background, I imagine it's even more aggravating to see a gap in care like this."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:50",
+      "end_time": "00:01:57",
+      "text": "It's not just aggravating. It's dangerous. Who specifically is responsible for this? Who signed off on that trace?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:58",
+      "end_time": "00:02:07",
+      "text": "We are looking into the systemic timeline. It seems the process for flagging the decelerations didn't trigger the necessary alert for the second clinician."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:08",
+      "end_time": "00:02:14",
+      "text": "Stop talking about \"processes.\" Was it you? Did you miss the dip in the heart rate?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:15",
+      "end_time": "00:02:22",
+      "text": "It was a busy shift for the whole team, and unfortunately, the severity wasn't captured in the initial review."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:23",
+      "end_time": "00:02:30",
+      "text": "So you're not going to actually apologize for the mistake. You're just saying it was a \"busy shift.\""
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:31",
+      "end_time": "00:02:37",
+      "text": "I am sorry that the communication wasn't better and that this has caused you so much distress."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:38",
+      "end_time": "00:02:48",
+      "text": "I don't care about my distress. I care about the baby. What is the actual plan now to make sure this doesn't happen in the next hour?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:49",
+      "end_time": "00:02:56",
+      "text": "The second clinician has now corrected the categorization and we have shifted the monitoring to a continuous one-to-one observation."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:57",
+      "end_time": "00:03:03",
+      "text": "And then what? Do we move to a C-section? What is the actual clinical pathway now?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:04",
+      "end_time": "00:03:19",
+      "text": "We are going to keep the baby on continuous monitoring for the next four hours. If we see another dip of that magnitude, we will move toward an immediate delivery. Your role right now is to stay with your partner and let us know if you notice any change in the baby's movements."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:20",
+      "end_time": "00:03:24",
+      "text": "That's it? We just wait and hope you don't miss it again?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:25",
+      "end_time": "00:03:40",
+      "text": "I understand why it's hard to trust the process right now. I will personally come back in sixty minutes to review the latest strip with you and show you exactly what I'm seeing so we are on the same page."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:41",
+      "end_time": "00:03:44",
+      "text": "You'll actually show me the strip?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:45",
+      "end_time": "00:03:51",
+      "text": "Yes. I'll bring the monitor over and we will look at the baseline and the decelerations together."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:52",
+      "end_time": "00:03:55",
+      "text": "I'll hold you to that."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:56",
+      "end_time": "00:03:59",
+      "text": "I understand. I'll be back in one hour."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 2,
+      "justification": "Resident allows the patient to finish all turns and remains regulated despite significant pushback and accusations of negligence."
+    },
+    "E": {
+      "score": 0,
+      "justification": "Resident uses platitudes and hedging ('things didn't go quite right', 'some confusion') and never explicitly names the error despite the patient's direct requests."
+    },
+    "A": {
+      "score": 1,
+      "justification": "Apologies are offered but diluted by excuses regarding a 'stressful environment' and a 'busy shift'."
+    },
+    "R": {
+      "score": 3,
+      "justification": "Resident names specific emotions ('frustrated', 'angry') and references the patient's specific background as a paramedic."
+    },
+    "T": {
+      "score": 3,
+      "justification": "Resident provides specific steps (continuous monitoring), timelines (four hours, sixty minutes), a patient role (monitor baby's movements), and a prevention plan (reviewing strips together)."
+    }
+  }
+}

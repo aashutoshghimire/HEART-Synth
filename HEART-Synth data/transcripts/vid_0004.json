@@ -1,0 +1,321 @@
+{
+  "video_id": "vid_0004",
+  "transcript": [
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:00",
+      "end_time": "00:00:09",
+      "text": "Ms. Anderson, thank you for coming back to the room. I wanted to sit down with you and have a conversation about Leo's medication."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:10",
+      "end_time": "00:00:15",
+      "text": "Is he alright? I noticed he seemed a bit more lethargic after the dose."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:16",
+      "end_time": "00:00:26",
+      "text": "I can see how that would be worrying. It is a very difficult thing to sit with when you feel something is off with your child."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:27",
+      "end_time": "00:00:30",
+      "text": "I just want to know what happened."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:31",
+      "end_time": "00:00:37",
+      "text": "There were some things that didn't go quite right with how the dose was handled."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:38",
+      "end_time": "00:00:41",
+      "text": "What does that mean?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:00:42",
+      "end_time": "00:00:52",
+      "text": "We had an issue with the process. I'm sorry for any confusion this has caused you, but the ward was incredibly busy when the order was placed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:00:53",
+      "end_time": "00:01:02",
+      "text": "I don't care how busy the ward was. I'm asking specifically what happened to my son's dosage. Did he get the wrong drug?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:03",
+      "end_time": "00:01:08",
+      "text": "It was more of a systemic complication in how the request was managed."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:09",
+      "end_time": "00:01:16",
+      "text": "I work in hospital administration, Doctor. Please don't tell me it was a systemic complication. Was the dose incorrect?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:17",
+      "end_time": "00:01:20",
+      "text": "There was some confusion regarding the calculations."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:21",
+      "end_time": "00:01:26",
+      "text": "This is incredibly vague. I need a clear answer. Was the dose too high?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:27",
+      "end_time": "00:01:30",
+      "text": "I understand this is frustrating."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:31",
+      "end_time": "00:01:37",
+      "text": "Frustrating? My son is sleepy and I don't know why. Did you give him too much?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:38",
+      "end_time": "00:01:41",
+      "text": "We are monitoring him very closely now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:42",
+      "end_time": "00:01:45",
+      "text": "You are avoiding the question. I want the facts."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:01:46",
+      "end_time": "00:01:53",
+      "text": "I know this is a heavy moment. I want to hold space for how you're feeling right now."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:01:54",
+      "end_time": "00:02:00",
+      "text": "I don't need space. I need an explanation. Did you estimate his weight instead of weighing him?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:01",
+      "end_time": "00:02:05",
+      "text": "It's just that things happened very quickly during the admission."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:06",
+      "end_time": "00:02:13",
+      "text": "So the answer is yes. You guessed his weight and gave him a dose based on that guess."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:14",
+      "end_time": "00:02:17",
+      "text": "There was a discrepancy in the records."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:18",
+      "end_time": "00:02:24",
+      "text": "You have not once told me what the error was. You are speaking in circles."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:25",
+      "end_time": "00:02:28",
+      "text": "I am sorry for the stress this is causing."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:29",
+      "end_time": "00:02:35",
+      "text": "You are apologizing for my stress, not for the mistake. Who is responsible for this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:36",
+      "end_time": "00:02:39",
+      "text": "The team was working under a lot of pressure."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:40",
+      "end_time": "00:02:46",
+      "text": "I am not asking about the team's pressure. I am asking who decided to bypass the scale."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:02:47",
+      "end_time": "00:02:50",
+      "text": "It's a complicated process involving several people."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:02:51",
+      "end_time": "00:03:01",
+      "text": "It is not complicated. It is a failure of safety protocol. My son received a dose above the safe threshold because someone didn't use a scale."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:02",
+      "end_time": "00:03:05",
+      "text": "I can tell you are very angry."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:06",
+      "end_time": "00:03:11",
+      "text": "I am beyond angry. I am terrified. What is the plan to fix this?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:12",
+      "end_time": "00:03:15",
+      "text": "We are keeping an eye on him."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:16",
+      "end_time": "00:03:25",
+      "text": "That is not a plan. What are the specific clinical steps to counteract the overdose? What are the markers you are looking for?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:26",
+      "end_time": "00:03:30",
+      "text": "We will see how he responds over the next few hours."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:31",
+      "end_time": "00:03:39",
+      "text": "That is completely unacceptable. I want to see the attending physician and I want a written report of the incident."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:40",
+      "end_time": "00:03:43",
+      "text": "I can certainly look into that for you."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:44",
+      "end_time": "00:03:48",
+      "text": "You will look into it? Or you will do it?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:49",
+      "end_time": "00:03:53",
+      "text": "We'll just see what the attending says when they do their rounds."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:03:54",
+      "end_time": "00:03:57",
+      "text": "When are the rounds?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:03:58",
+      "end_time": "00:04:01",
+      "text": "Usually in the morning."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:02",
+      "end_time": "00:04:07",
+      "text": "I am staying here until I have a clear medical plan on paper."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:08",
+      "end_time": "00:04:11",
+      "text": "I realize this is a lot to process."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:12",
+      "end_time": "00:04:25",
+      "text": "I am processing it just fine. I am processing that my son was put at risk because of a \"systemic complication\" and the resident in charge cannot tell me what the actual error was."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:26",
+      "end_time": "00:04:29",
+      "text": "I'm sorry that you feel that way."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:30",
+      "end_time": "00:04:38",
+      "text": "I don't feel that way. I know that way. Which of the two of us is actually seeing the facts here?"
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:39",
+      "end_time": "00:04:43",
+      "text": "I just want to make sure we are both calm."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:44",
+      "end_time": "00:04:48",
+      "text": "I am calm. I am professional. I am waiting for a plan."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:49",
+      "end_time": "00:04:52",
+      "text": "I'll probably have an update for you later."
+    },
+    {
+      "speaker": "Patient",
+      "start_time": "00:04:53",
+      "end_time": "00:04:56",
+      "text": "Later is not a time."
+    },
+    {
+      "speaker": "Resident",
+      "start_time": "00:04:57",
+      "end_time": "00:05:00",
+      "text": "I'll check back in when I can."
+    }
+  ],
+  "heart_scores": {
+    "H": {
+      "score": 0,
+      "justification": "Resident shows defensive escalation and dismissiveness under pushback, eventually attempting to police the patient's emotional state ('I just want to make sure we are both calm')."
+    },
+    "E": {
+      "score": 0,
+      "justification": "The resident never explicitly names the error, instead using platitudes like 'things didn't go quite right' and 'systemic complication' despite repeated direct questioning."
+    },
+    "A": {
+      "score": 0,
+      "justification": "Responsibility is consistently deflected to 'the process', 'the ward', and 'the team', and apologies are directed at the patient's feelings rather than the error."
+    },
+    "R": {
+      "score": 2,
+      "justification": "Resident uses generic validation ('I understand this is frustrating') and names emotions ('angry') but fails to engage with the patient's specific concerns or emotional bids."
+    },
+    "T": {
+      "score": 0,
+      "justification": "Resident provides only placeholders and vague responses ('we are keeping an eye on him', 'we'll just see', 'update for you later') with no concrete plan or timeline."
+    }
+  }
+}
