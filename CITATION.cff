@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use HEART-Synth, please cite the archived dataset release."
+title: "HEART-Synth: A Synthetic Resident-Patient Dialogue Dataset for Medical Error Disclosure Assessment"
+version: "1.0.0"
+doi: "10.5281/zenodo.20214885"
+date-released: "2026-05-15"
+type: dataset
+authors:
+  - family-names: Ghimire
+    given-names: Ashutosh
+    affiliation: "Department of Computer Science and Engineering, College of Engineering and Computer Science, Wright State University"
+  - family-names: Amsaad
+    given-names: Fathi
+    affiliation: "Department of Computer Science and Engineering, College of Engineering and Computer Science, Wright State University"
+  - family-names: Adkins
+    given-names: Sherry
+    affiliation: "Boonshoft School of Medicine, Wright State University"
+repository-code: "https://github.com/aashutoshghimire/HEART-Synth"
+url: "https://doi.org/10.5281/zenodo.20214885"
+abstract: "HEART-Synth is a synthetic resident-patient dialogue dataset for medical error disclosure assessment, including HEART-domain scores and audit-related documentation for development-stage automated rubric scoring research."
+keywords:
+  - synthetic data
+  - clinical dialogue
+  - medical error disclosure
+  - rubric-based assessment
+  - dataset audit
+  - shortcut learning
