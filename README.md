@@ -1,6 +1,6 @@
 # HEART-Synth
 
-[![DOI](https://zenodo.org/badge/1239800168.svg)](https://doi.org/10.5281/zenodo.20214884)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20214885.svg)](https://doi.org/10.5281/zenodo.20214885)
 
 
 HEART-Synth is a synthetic resident-patient dialogue dataset for development-stage research on medical error disclosure assessment. The dataset contains synthetic multi-turn disclosure conversations with ordinal labels for five HEART domains:
