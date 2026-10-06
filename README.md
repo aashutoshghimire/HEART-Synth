@@ -49,7 +49,11 @@ README.md
 
 ## Citation
 
-If you use HEART-Synth, please cite the archived dataset release:
+This dataset is described in the following related publication:
+
+A. Ghimire, F. Amsaad, and S. Adkins, “HEART-Synth: A Synthetic Resident-Patient Dialogue Dataset for Medical Error Disclosure Assessment,” NAECON 2026 – IEEE National Aerospace and Electronics Conference, Cincinnati, OH, USA, 2026, pp. 396–401, doi: 10.1109/NAECON70028.2026.11674942.
+
+Users who use this dataset in publications or other research outputs are requested to cite the dataset and the associated publication.
 
 Ghimire, A., Amsaad, F., & Adkins, S. (2026). HEART-Synth: A Synthetic Resident-Patient Dialogue Dataset for Medical Error Disclosure Assessment (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20214885
 
